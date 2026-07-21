@@ -280,7 +280,7 @@ image: /assets/images/improving_your_think_da4710_high_stakes_decision_b09c8f_em
 
 ## Introduction
 
-Emergency decisions are different from ordinary high-stakes choices because waiting for perfect information may itself create harm. In a rapidly changing situation, the aim is not to make the theoretically best decision but to make the best feasible decision quickly enough to protect life, reduce risk and preserve future options. Research on crisis decision-making consistently shows that time pressure, [uncertainty]({{ 'uncertainty/' | relative_url }}) and changing conditions interact to strain judgement, making simple, repeatable routines more valuable than complex analytical methods.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10564111/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDecision-Making During High-Risk Events</span><span class="citation-popover-snippet">NIHby C Reale · 2023 · Cited by 95 — Effective decision-making in crisis events is challenging due to time pressure, Recognition-pr...</span></span></span>
+Emergency decisions are different from ordinary high-stakes choices because waiting for perfect information may itself create harm. In a rapidly changing situation, the aim is not to make the theoretically best decision but to make the best feasible decision quickly enough to protect life, reduce risk and preserve future options. Research on crisis decision-making consistently shows that time pressure, [uncertainty]({{ 'uncertainty/' | relative_url }}) and changing conditions interact to strain judgement, making simple, repeatable routines more valuable than complex analytical methods. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10564111/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDecision-Making During High-Risk Events</span><span class="citation-popover-snippet">NIHby C Reale · 2023 · Cited by 95 — Effective decision-making in crisis events is challenging due to time pressure, Recognition-pr...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_high_stakes_decision_b09c8f_emergency_decision_r_3237e1-Illustration-1-dark.svg" | relative_url }}" alt="Emergencies illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_high_stakes_decision_b09c8f_emergency_decision_r_3237e1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_high_stakes_decision_b09c8f_emergency_decision_r_3237e1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,11 +288,11 @@ A practical emergency routine therefore scales decision-making down to a few ess
 
 ## What crisis conditions do to judgement
 
-Time pressure changes both what people notice and how they think. Working memory becomes overloaded, attention narrows towards the most obvious threat, and people become more vulnerable to confirmation bias, fixation on an initial explanation and premature commitment. Under severe stress, decision-makers may also struggle to update their understanding as new information arrives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10564111/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDecision-Making During High-Risk Events</span><span class="citation-popover-snippet">NIHby C Reale · 2023 · Cited by 95 — Effective decision-making in crisis events is challenging due to time pressure, Recognition-pr...</span></span></span>
+Time pressure changes both what people notice and how they think. Working memory becomes overloaded, attention narrows towards the most obvious threat, and people become more vulnerable to confirmation bias, fixation on an initial explanation and premature commitment. Under severe stress, decision-makers may also struggle to update their understanding as new information arrives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10564111/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDecision-Making During High-Risk Events</span><span class="citation-popover-snippet">NIHby C Reale · 2023 · Cited by 95 — Effective decision-making in crisis events is challenging due to time pressure, Recognition-pr...</span></span></span>
 
-These effects do not mean that rapid decisions are inevitably poor. Studies of firefighters, emergency physicians, military personnel and incident commanders show that experienced professionals often make remarkably effective decisions without comparing numerous alternatives. Instead, they recognise familiar patterns, identify a plausible response and mentally test it before acting. This approach, known as [Recognition-Primed]({{ 'pressure-calls/' | relative_url }}) Decision Making (RPD), depends on experience and continuous reassessment rather than intuition alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/235418838_A_Recognition_Primed_Decision_RPD_Model_of_Rapid_Decision_Making" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2White Rose Research Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate A Recognition Primed Decision (RPD) Model of Rapid</span><span class="citation-popover-snippet">A Recognition Primed Decision (RPD) Model of Rapid...January 1, 1993 — The objective of this study was to examine the way de...</span><span class="citation-popover-meta">Published: January 1, 1993</span></span></span>
+These effects do not mean that rapid decisions are inevitably poor. Studies of firefighters, emergency physicians, military personnel and incident commanders show that experienced professionals often make remarkably effective decisions without comparing numerous alternatives. Instead, they recognise familiar patterns, identify a plausible response and mentally test it before acting. This approach, known as [Recognition-Primed]({{ 'pressure-calls/' | relative_url }}) Decision Making (RPD), depends on experience and continuous reassessment rather than intuition alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/235418838_A_Recognition_Primed_Decision_RPD_Model_of_Rapid_Decision_Making" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2White Rose Research Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate A Recognition Primed Decision (RPD) Model of Rapid</span><span class="citation-popover-snippet">A Recognition Primed Decision (RPD) Model of Rapid...January 1, 1993 — The objective of this study was to examine the way de...</span><span class="citation-popover-meta">Published: January 1, 1993</span></span></span>
 
-The important distinction is between **expert recognition** and **unexamined instinct**. Expertise allows rapid pattern recognition because previous experience has created reliable mental models. In unfamiliar situations, however, even experienced people benefit from a structured pause that checks whether their first impression still fits the available evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10564111/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDecision-Making During High-Risk Events</span><span class="citation-popover-snippet">NIHby C Reale · 2023 · Cited by 95 — Effective decision-making in crisis events is challenging due to time pressure, Recognition-pr...</span></span></span>
+The important distinction is between **expert recognition** and **unexamined instinct**. Expertise allows rapid pattern recognition because previous experience has created reliable mental models. In unfamiliar situations, however, even experienced people benefit from a structured pause that checks whether their first impression still fits the available evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10564111/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDecision-Making During High-Risk Events</span><span class="citation-popover-snippet">NIHby C Reale · 2023 · Cited by 95 — Effective decision-making in crisis events is challenging due to time pressure, Recognition-pr...</span></span></span>
 
 ## The 90-second decision pause
 
@@ -315,7 +315,7 @@ Select the action that advances the objective while limiting irreversible conseq
 5. **Set a review trigger.**
 Decide when the situation will be reassessed—for example after five minutes, after new information arrives or after a specific operational milestone.
 
-The pause is deliberately short because emergencies rarely permit complete analysis. Its purpose is to prevent avoidable errors such as pursuing the wrong objective, acting on an untested assumption or overlooking an obvious hazard.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10564111/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDecision-Making During High-Risk Events</span><span class="citation-popover-snippet">NIHby C Reale · 2023 · Cited by 95 — Effective decision-making in crisis events is challenging due to time pressure, Recognition-pr...</span></span></span>
+The pause is deliberately short because emergencies rarely permit complete analysis. Its purpose is to prevent avoidable errors such as pursuing the wrong objective, acting on an untested assumption or overlooking an obvious hazard. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10564111/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDecision-Making During High-Risk Events</span><span class="citation-popover-snippet">NIHby C Reale · 2023 · Cited by 95 — Effective decision-making in crisis events is challenging due to time pressure, Recognition-pr...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wYn2JT44v5E" title="How do you make better decisions under pressure? - Tim Bradshaw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wYn2JT44v5E" target="_blank" rel="noopener noreferrer">How do you make better decisions under pressure? - Tim Bradshaw</a></p><p class="youtube-embed-meta">Channel: Speaking Office</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wYn2JT44v5E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wYn2JT44v5E">Open on YouTube</a></p></div></div></div>
@@ -333,7 +333,7 @@ A reversible step typically:
 
 For example, an emergency manager deciding whether to evacuate an area may first reposition resources, improve communications or prepare transport while confirming the evolving threat, rather than committing immediately to actions that are difficult to reverse. Likewise, in organisational crises, temporarily isolating a failing system is often preferable to making irreversible infrastructure changes before the cause is understood.
 
-This principle does not imply hesitation. Some situations—such as immediate threats to life—require decisive irreversible action. Rather, when several actions are available within the available time, preference should usually be given to the one that preserves flexibility without materially increasing danger.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10564111/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDecision-Making During High-Risk Events</span><span class="citation-popover-snippet">NIHby C Reale · 2023 · Cited by 95 — Effective decision-making in crisis events is challenging due to time pressure, Recognition-pr...</span></span></span>
+This principle does not imply hesitation. Some situations—such as immediate threats to life—require decisive irreversible action. Rather, when several actions are available within the available time, preference should usually be given to the one that preserves flexibility without materially increasing danger. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10564111/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDecision-Making During High-Risk Events</span><span class="citation-popover-snippet">NIHby C Reale · 2023 · Cited by 95 — Effective decision-making in crisis events is challenging due to time pressure, Recognition-pr...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_high_stakes_decision_b09c8f_emergency_decision_r_3237e1-Illustration-2-dark.svg" | relative_url }}" alt="Emergencies illustration 2" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_high_stakes_decision_b09c8f_emergency_decision_r_3237e1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_high_stakes_decision_b09c8f_emergency_decision_r_3237e1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -353,7 +353,7 @@ Instead, they typically:
 
 </div>
 
-This "first workable option" approach is often misunderstood as acting on gut feeling. In reality, the mental simulation stage is crucial. Experts rapidly imagine what will happen next, checking for obvious contradictions, missing resources or dangerous consequences before committing themselves.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/235418838_A_Recognition_Primed_Decision_RPD_Model_of_Rapid_Decision_Making" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2White Rose Research Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate A Recognition Primed Decision (RPD) Model of Rapid</span><span class="citation-popover-snippet">A Recognition Primed Decision (RPD) Model of Rapid...January 1, 1993 — The objective of this study was to examine the way de...</span><span class="citation-popover-meta">Published: January 1, 1993</span></span></span>
+This "first workable option" approach is often misunderstood as acting on gut feeling. In reality, the mental simulation stage is crucial. Experts rapidly imagine what will happen next, checking for obvious contradictions, missing resources or dangerous consequences before committing themselves. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/235418838_A_Recognition_Primed_Decision_RPD_Model_of_Rapid_Decision_Making" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2White Rose Research Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate A Recognition Primed Decision (RPD) Model of Rapid</span><span class="citation-popover-snippet">A Recognition Primed Decision (RPD) Model of Rapid...January 1, 1993 — The objective of this study was to examine the way de...</span><span class="citation-popover-meta">Published: January 1, 1993</span></span></span>
 
 For less experienced decision-makers, explicit routines compensate for the absence of extensive pattern recognition by encouraging deliberate checking before action.
 
@@ -373,7 +373,7 @@ Research on emergency management identifies several contributors to this paralys
 * uncertainty about authority or responsibility;
 * unclear operational priorities;
 * concern about making the wrong irreversible decision;
-* poor communication between agencies or teams.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://crestresearch.ac.uk/comment/power-decision-making-emergencies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: crestresearch.ac.uk">[Crest Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">crestresearch.ac.uk</span><span class="citation-popover-title">time pressure, lack of information) or exogenous</span><span class="citation-popover-snippet">Crest ResearchDecision making during emergencies: what have we...11 Dec 2017 — Uncertainty during emergencies can be endogenous and spec...</span></span></span>
+* poor communication between agencies or teams. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://crestresearch.ac.uk/comment/power-decision-making-emergencies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: crestresearch.ac.uk">[Crest Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">crestresearch.ac.uk</span><span class="citation-popover-title">time pressure, lack of information) or exogenous</span><span class="citation-popover-snippet">Crest ResearchDecision making during emergencies: what have we...11 Dec 2017 — Uncertainty during emergencies can be endogenous and spec...</span></span></span>
 
 </div>
 
@@ -399,7 +399,7 @@ A rapid team check can follow four [prompts]({{ 'prompts/' | relative_url }}):
 
 </div>
 
-Studies of emergency command suggest that maintaining shared situational awareness and clear goals improves coordination, especially when different organisations must work together under uncertainty. Communication failures often become more damaging than technical mistakes because different people begin solving different problems without realising it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://crestresearch.ac.uk/comment/power-decision-making-emergencies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: crestresearch.ac.uk">[Crest Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">crestresearch.ac.uk</span><span class="citation-popover-title">time pressure, lack of information) or exogenous</span><span class="citation-popover-snippet">Crest ResearchDecision making during emergencies: what have we...11 Dec 2017 — Uncertainty during emergencies can be endogenous and spec...</span></span></span>
+Studies of emergency command suggest that maintaining shared situational awareness and clear goals improves coordination, especially when different organisations must work together under uncertainty. Communication failures often become more damaging than technical mistakes because different people begin solving different problems without realising it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://crestresearch.ac.uk/comment/power-decision-making-emergencies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: crestresearch.ac.uk">[Crest Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">crestresearch.ac.uk</span><span class="citation-popover-title">time pressure, lack of information) or exogenous</span><span class="citation-popover-snippet">Crest ResearchDecision making during emergencies: what have we...11 Dec 2017 — Uncertainty during emergencies can be endogenous and spec...</span></span></span>
 
 ## Common pitfalls during time-pressured decisions
 
@@ -423,194 +423,194 @@ The most effective emergency routines do not eliminate these tendencies. Instead
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to How do you pause when time is short?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to How do you pause when time is short?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decisive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aECTEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Decisive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decisive">Decisive</a>
-</h4>
-<p class="fr-book-author">By Chip Heath, Dan Heath</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sources+of+Power+Gary+A.+Klein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sources of Power on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KZ7uDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Sources of Power" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Sources+of+Power+Gary+A.+Klein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sources of Power">Sources of Power</a>
+        </h4>
+        <p class="fr-book-author">By Gary A. Klein</p>
         
-<p class="fr-book-desc">Offers memorable tools for avoiding narrow framing and premature commitment even when choices must be made quickly.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly covers firefighters, commanders, and professionals making rapid decisions in time-pressured real-world settings.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Sources+of+Power+Gary+A.+Klein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Sources+of+Power+by+Gary+A.+Klein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sources of Power on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NWkGhHiOQQEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sources of Power" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Sources+of+Power+by+Gary+A.+Klein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sources of Power">Sources of Power</a>
-</h4>
-<p class="fr-book-author">By Gary A. Klein</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Decisive+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decisive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aECTEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Decisive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Decisive+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decisive">Decisive</a>
+        </h4>
+        <p class="fr-book-author">By Chip Heath, Dan Heath</p>
         
-<p class="fr-book-desc">Directly covers firefighters, commanders, and professionals making rapid decisions in time-pressured real-world settings.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Sources+of+Power+by+Gary+A.+Klein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Offers memorable tools for avoiding narrow framing and premature commitment even when choices must be made quickly.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Decisive+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Checklist Manifesto on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_AP2EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Checklist Manifesto" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Checklist Manifesto">The Checklist Manifesto</a>
-</h4>
-<p class="fr-book-author">By Atul Gawande</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+        </h4>
+        <p class="fr-book-author">By Daniel Kahneman</p>
         
-<p class="fr-book-desc">Explains how brief structured pauses protect expert teams from avoidable mistakes without slowing action unnecessarily.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains fast thinking, cognitive shortcuts, overconfidence, and why pressure can distort what people notice.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-</h4>
-<p class="fr-book-author">By Daniel Kahneman</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Checklist+Manifesto+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Checklist Manifesto on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_AP2EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Checklist Manifesto" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Checklist+Manifesto+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Checklist Manifesto">The Checklist Manifesto</a>
+        </h4>
+        <p class="fr-book-author">By Atul Gawande</p>
         
-<p class="fr-book-desc">Explains fast thinking, cognitive shortcuts, overconfidence, and why pressure can distort what people notice.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains how brief structured pauses protect expert teams from avoidable mistakes without slowing action unnecessarily.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Checklist+Manifesto+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Decisive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Decisive</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Sources+of+Power&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sources of Power</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Checklist+Manifesto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Checklist Manifesto</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sources+of+Power&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sources of Power</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Decisive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Decisive</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=survival+emergency+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="survival emergency kit" data-ebay-reference="emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for EMERGENCY/BUG OUT SURVIVAL KIT MK2"><img src="{{ '/assets/images/marketplace-covers/c922a1ff33538b80bb22.jpg' | relative_url }}" alt="Listing image for EMERGENCY/BUG OUT SURVIVAL KIT MK2" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=survival+emergency+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="survival emergency kit" data-ebay-reference="emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit" target="_blank" rel="sponsored noopener noreferrer">EMERGENCY/BUG OUT SURVIVAL KIT MK2</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=survival+emergency+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="survival emergency kit" data-ebay-reference="emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for survival emergency kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: survival emergency kit</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=survival+emergency+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="survival emergency kit" data-ebay-reference="emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=survival+emergency+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="survival emergency kit" data-ebay-reference="emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for EMERGENCY/BUG OUT SURVIVAL KIT MK2"><img src="{{ '/assets/images/marketplace-covers/c922a1ff33538b80bb22.jpg' | relative_url }}" alt="Listing image for EMERGENCY/BUG OUT SURVIVAL KIT MK2" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=survival+emergency+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="survival emergency kit" data-ebay-reference="emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit" target="_blank" rel="sponsored noopener noreferrer">EMERGENCY/BUG OUT SURVIVAL KIT MK2</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=survival+emergency+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="survival emergency kit" data-ebay-reference="emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for survival emergency kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: survival emergency kit</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=survival+emergency+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="survival emergency kit" data-ebay-reference="emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=survival+emergency+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="survival emergency kit" data-ebay-reference="emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Monterra Survival Kit, First Aid, 214 Pcs, Emergency Gear &amp; Supplies, Camping."><img src="{{ '/assets/images/marketplace-covers/f8cf3a79ea7d0387dac1.jpg' | relative_url }}" alt="Listing image for Monterra Survival Kit, First Aid, 214 Pcs, Emergency Gear &amp; Supplies, Camping." loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=survival+emergency+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="survival emergency kit" data-ebay-reference="emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit" target="_blank" rel="sponsored noopener noreferrer">Monterra Survival Kit, First Aid, 214 Pcs, Emergency Gear &amp; Supplies, Camping.</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=survival+emergency+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="survival emergency kit" data-ebay-reference="emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for survival emergency kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: survival emergency kit</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=survival+emergency+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="survival emergency kit" data-ebay-reference="emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=survival+emergency+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="survival emergency kit" data-ebay-reference="emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Monterra Survival Kit, First Aid, 214 Pcs, Emergency Gear &amp; Supplies, Camping."><img src="{{ '/assets/images/marketplace-covers/f8cf3a79ea7d0387dac1.jpg' | relative_url }}" alt="Listing image for Monterra Survival Kit, First Aid, 214 Pcs, Emergency Gear &amp; Supplies, Camping." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=survival+emergency+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="survival emergency kit" data-ebay-reference="emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit" target="_blank" rel="sponsored noopener noreferrer">Monterra Survival Kit, First Aid, 214 Pcs, Emergency Gear &amp; Supplies, Camping.</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=survival+emergency+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="survival emergency kit" data-ebay-reference="emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for survival emergency kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: survival emergency kit</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=survival+emergency+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="survival emergency kit" data-ebay-reference="emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=survival+emergency+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="survival emergency kit" data-ebay-reference="emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Waterproof First Aid Kit Bag Emergencies survival Travel Home 133 PIECE 2LTR"><img src="{{ '/assets/images/marketplace-covers/13a72d041f5567a6499a.jpg' | relative_url }}" alt="Listing image for Waterproof First Aid Kit Bag Emergencies survival Travel Home 133 PIECE 2LTR" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=survival+emergency+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="survival emergency kit" data-ebay-reference="emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit" target="_blank" rel="sponsored noopener noreferrer">Waterproof First Aid Kit Bag Emergencies survival Travel Home 133 PIECE 2LTR</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=survival+emergency+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="survival emergency kit" data-ebay-reference="emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for survival emergency kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: survival emergency kit</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=survival+emergency+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="survival emergency kit" data-ebay-reference="emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=survival+emergency+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="survival emergency kit" data-ebay-reference="emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Waterproof First Aid Kit Bag Emergencies survival Travel Home 133 PIECE 2LTR"><img src="{{ '/assets/images/marketplace-covers/13a72d041f5567a6499a.jpg' | relative_url }}" alt="Listing image for Waterproof First Aid Kit Bag Emergencies survival Travel Home 133 PIECE 2LTR" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=survival+emergency+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="survival emergency kit" data-ebay-reference="emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit" target="_blank" rel="sponsored noopener noreferrer">Waterproof First Aid Kit Bag Emergencies survival Travel Home 133 PIECE 2LTR</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=survival+emergency+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="survival emergency kit" data-ebay-reference="emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for survival emergency kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: survival emergency kit</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=survival+emergency+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="survival emergency kit" data-ebay-reference="emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=survival+emergency+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="survival emergency kit" data-ebay-reference="emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 9PCS Car Emergency Kit – All-in-One Breakdown Survival Set with Tow Rope, Safety"><img src="{{ '/assets/images/marketplace-covers/efa28d047a10e44d08ee.jpg' | relative_url }}" alt="Listing image for 9PCS Car Emergency Kit – All-in-One Breakdown Survival Set with Tow Rope, Safety" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=survival+emergency+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="survival emergency kit" data-ebay-reference="emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit" target="_blank" rel="sponsored noopener noreferrer">9PCS Car Emergency Kit – All-in-One Breakdown Survival Set with Tow Rope, Safety</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=survival+emergency+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="survival emergency kit" data-ebay-reference="emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for survival emergency kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: survival emergency kit</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=survival+emergency+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="survival emergency kit" data-ebay-reference="emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=survival+emergency+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="survival emergency kit" data-ebay-reference="emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=survival+emergency+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="survival emergency kit" data-ebay-reference="emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 9PCS Car Emergency Kit – All-in-One Breakdown Survival Set with Tow Rope, Safety"><img src="{{ '/assets/images/marketplace-covers/efa28d047a10e44d08ee.jpg' | relative_url }}" alt="Listing image for 9PCS Car Emergency Kit – All-in-One Breakdown Survival Set with Tow Rope, Safety" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=survival+emergency+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="survival emergency kit" data-ebay-reference="emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit" target="_blank" rel="sponsored noopener noreferrer">9PCS Car Emergency Kit – All-in-One Breakdown Survival Set with Tow Rope, Safety</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=survival+emergency+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="survival emergency kit" data-ebay-reference="emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for survival emergency kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: survival emergency kit</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=survival+emergency+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="survival emergency kit" data-ebay-reference="emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=survival+emergency+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="survival emergency kit" data-ebay-reference="emergencies-how-do-you-pause-when-time-is-short-improving-your-think-survival-emergency-kit" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -626,7 +626,7 @@ The most effective emergency routines do not eliminate these tendencies. Instead
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -646,7 +646,7 @@ The most effective emergency routines do not eliminate these tendencies. Instead
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -678,7 +678,7 @@ The most effective emergency routines do not eliminate these tendencies. Instead
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -730,7 +730,7 @@ The most effective emergency routines do not eliminate these tendencies. Instead
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -775,7 +775,7 @@ The most effective emergency routines do not eliminate these tendencies. Instead
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -816,92 +816,92 @@ The most effective emergency routines do not eliminate these tendencies. Instead
 
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCDecision-Making During High-Risk Events  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10564111/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10564111/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby C Reale · 2023 · Cited by 95 — Effective decision-making in crisis events is challenging due to time pressure, Recognition-pr...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10564111/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10564111/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby C Reale · 2023 · Cited by 95 — Effective decision-making in crisis events is challenging due to time pressure, Recognition-pr...</p></details>
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: researchgate.net  
    Title: Research Gate A Recognition Primed Decision (RPD) Model of Rapid  
-   Link:<a href="https://www.researchgate.net/publication/235418838_A_Recognition_Primed_Decision_RPD_Model_of_Rapid_Decision_Making" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/235418838_A_Recognition_Primed_Decision_RPD_Model_of_Rapid_Decision_Making</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>A Recognition Primed Decision (RPD) Model of Rapid...January 1, 1993 — The objective of this study was to examine the way de...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/235418838_A_Recognition_Primed_Decision_RPD_Model_of_Rapid_Decision_Making" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/235418838_A_Recognition_Primed_Decision_RPD_Model_of_Rapid_Decision_Making</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Recognition Primed Decision (RPD) Model of Rapid...January 1, 1993 — The objective of this study was to examine the way de...</p></details>
    Published: January 1, 1993  
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: eprints.whiterose.ac.uk  
    Title: EJDP paper final draft updated on 30th September 2014  
-   Link:<a href="https://eprints.whiterose.ac.uk/id/eprint/88997/3/EJDP%20paper-%20final%20draft-updated%20on%2030th%20September%202014.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/88997/3/EJDP%20paper-%20final%20draft-updated%20on%2030th%20September%202014.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>White Rose Research OnlineUnderstanding decision making during emergenciesby JL Mishra · 2015 · Cited by 33 — Klein proposed Recognition...</p></details>
+   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/88997/3/EJDP%20paper-%20final%20draft-updated%20on%2030th%20September%202014.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/88997/3/EJDP%20paper-%20final%20draft-updated%20on%2030th%20September%202014.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>White Rose Research OnlineUnderstanding decision making during emergenciesby JL Mishra · 2015 · Cited by 33 — Klein proposed Recognition...</p></details>
    Published: September 2014  
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: crestresearch.ac.uk  
    Title: time pressure, lack of information) or exogenous  
-   Link:<a href="https://crestresearch.ac.uk/comment/power-decision-making-emergencies/" target="_blank" rel="noopener noreferrer nofollow">https://crestresearch.ac.uk/comment/power-decision-making-emergencies/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Crest ResearchDecision making during emergencies: what have we...11 Dec 2017 — Uncertainty during emergencies can be endogenous and spec...</p></details>
+   Link: <a href="https://crestresearch.ac.uk/comment/power-decision-making-emergencies/" target="_blank" rel="noopener noreferrer nofollow">https://crestresearch.ac.uk/comment/power-decision-making-emergencies/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Crest ResearchDecision making during emergencies: what have we...11 Dec 2017 — Uncertainty during emergencies can be endogenous and spec...</p></details>
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Medrecognition-primed decision making  
-   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/16879547/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/16879547/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The literature in...by S Bond · 2006 · Cited by 91 — This paper critics the literature on recognition-primed decision making, with parti...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/16879547/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/16879547/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The literature in...by S Bond · 2006 · Cited by 91 — This paper critics the literature on recognition-primed decision making, with parti...</p></details>
 
 ### Additional References
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: thinkinsights.net  
-   Link:<a href="https://thinkinsights.net/leadership/recognition-primed-decision-rpd-model" target="_blank" rel="noopener noreferrer nofollow">https://thinkinsights.net/leadership/recognition-primed-decision-rpd-model</a>  
+   Link: <a href="https://thinkinsights.net/leadership/recognition-primed-decision-rpd-model" target="_blank" rel="noopener noreferrer nofollow">https://thinkinsights.net/leadership/recognition-primed-decision-rpd-model</a>  
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: shadowboxtraining.com  
    Title: a primer on recognition primed decision making rpd  
-   Link:<a href="https://www.shadowboxtraining.com/news/2025/06/17/a-primer-on-recognition-primed-decision-making-rpd/" target="_blank" rel="noopener noreferrer nofollow">https://www.shadowboxtraining.com/news/2025/06/17/a-primer-on-recognition-primed-decision-making-rpd/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>A Primer on Recognition Primed Decision-Making (RPD)17 Jun 2025 — In this article, I&#x27;ll explain what RPD is, how it works, how it compare...</p></details>
+   Link: <a href="https://www.shadowboxtraining.com/news/2025/06/17/a-primer-on-recognition-primed-decision-making-rpd/" target="_blank" rel="noopener noreferrer nofollow">https://www.shadowboxtraining.com/news/2025/06/17/a-primer-on-recognition-primed-decision-making-rpd/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Primer on Recognition Primed Decision-Making (RPD)17 Jun 2025 — In this article, I&#x27;ll explain what RPD is, how it works, how it compare...</p></details>
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: idtips.substack.com  
    Title: the recognition primed decision model  
-   Link:<a href="https://idtips.substack.com/p/the-recognition-primed-decision-model" target="_blank" rel="noopener noreferrer nofollow">https://idtips.substack.com/p/the-recognition-primed-decision-model</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Recognition-Primed Decision Model: How Experts Make...The RPD model is the most prominent framework within a broader field called Natura...</p></details>
+   Link: <a href="https://idtips.substack.com/p/the-recognition-primed-decision-model" target="_blank" rel="noopener noreferrer nofollow">https://idtips.substack.com/p/the-recognition-primed-decision-model</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Recognition-Primed Decision Model: How Experts Make...The RPD model is the most prominent framework within a broader field called Natura...</p></details>
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Recognition primed decision  
-   Link:<a href="https://en.wikipedia.org/wiki/Recognition-primed_decision" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Recognition-primed_decision</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Recognition-primed decisionRecognition-primed decision (RPD) is a model of how people make quick, effective decisions when faced with...</p></details>
+   Link: <a href="https://en.wikipedia.org/wiki/Recognition-primed_decision" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Recognition-primed_decision</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Recognition-primed decisionRecognition-primed decision (RPD) is a model of how people make quick, effective decisions when faced with...</p></details>
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: Recognition-Primed Decision Model  
-   Link:<a href="https://www.youtube.com/watch?v=_BIMU8zPcrM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_BIMU8zPcrM</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>How do you make better decisions under pressure? - Tim Bradshaw...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=_BIMU8zPcrM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_BIMU8zPcrM</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>How do you make better decisions under pressure? - Tim Bradshaw...</p></details>
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: The RPD Model: An Intro to Recognition Primed Decision Making  
-   Link:<a href="https://www.youtube.com/watch?v=6-O5ITf0PzQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6-O5ITf0PzQ</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Recognition-Primed Decision Model - Gary Klein on Fresh perspectives...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=6-O5ITf0PzQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6-O5ITf0PzQ</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Recognition-Primed Decision Model - Gary Klein on Fresh perspectives...</p></details>
 
-12.<a id="endnote-12"></a>
+12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: How do you make better decisions under pressure?  
-   Link:<a href="https://www.youtube.com/watch?v=wYn2JT44v5E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wYn2JT44v5E</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Crisis Management: Mastering the Art of Quick Decision-Making...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=wYn2JT44v5E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wYn2JT44v5E</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Crisis Management: Mastering the Art of Quick Decision-Making...</p></details>
 
-13.<a id="endnote-13"></a>
+13. <a id="endnote-13"></a>
    Source: arxiv.org  
    Title: arXiv Prioritizing emergency evacuations under compounding levels of uncertainty  
-   Link:<a href="https://arxiv.org/abs/2210.08975" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2210.08975</a>  
+   Link: <a href="https://arxiv.org/abs/2210.08975" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2210.08975</a>  
 
-14.<a id="endnote-14"></a>
+14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: How to Make Better Decisions Under Pressure  
-   Link:<a href="https://www.youtube.com/watch?v=NDEheQLLeMg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NDEheQLLeMg</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The RPD Model: An Intro to Recognition Primed Decision Making...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=NDEheQLLeMg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NDEheQLLeMg</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The RPD Model: An Intro to Recognition Primed Decision Making...</p></details>
 
-15.<a id="endnote-15"></a>
+15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: Crisis Management: Mastering the Art of Quick Decision-Making  
-   Link:<a href="https://www.youtube.com/watch?v=-05gqlFDxoY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-05gqlFDxoY</a>  
+   Link: <a href="https://www.youtube.com/watch?v=-05gqlFDxoY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-05gqlFDxoY</a>  

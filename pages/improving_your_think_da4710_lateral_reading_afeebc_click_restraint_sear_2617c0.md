@@ -274,7 +274,7 @@ image: /assets/images/improving_your_think_da4710_lateral_reading_afeebc_click_r
 
 ## Introduction
 
-When checking whether a website or claim is trustworthy, one of the most valuable habits is to delay your first click. This practice, often called **click restraint**, means treating the search results page as a source of information rather than simply a menu of links. Instead of selecting the first familiar-looking result, you pause to compare domains, read snippets, and look for signs that a source has relevant expertise or independent knowledge. Professional fact-checkers consistently use this approach because it helps them reach more accurate conclusions without spending more time reading unreliable pages.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://stacks.stanford.edu/file/druid%3Ayk133ht8603/Wineburg%20McGrew_Lateral%20Reading%20and%20the%20Nature%20of%20Expertise.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacks.stanford.edu">[Stanford Digital Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacks.stanford.edu</span><span class="citation-popover-title">Digital Repository Lateral Reading and the Nature of Expertise</span><span class="citation-popover-snippet">Stanford Digital RepositoryLateral Reading and the Nature of Expertise - Stacks28 Jul 2018 — Click restraint stands in contrast to whimsi...</span></span></span>
+When checking whether a website or claim is trustworthy, one of the most valuable habits is to delay your first click. This practice, often called **click restraint**, means treating the search results page as a source of information rather than simply a menu of links. Instead of selecting the first familiar-looking result, you pause to compare domains, read snippets, and look for signs that a source has relevant expertise or independent knowledge. Professional fact-checkers consistently use this approach because it helps them reach more accurate conclusions without spending more time reading unreliable pages. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stacks.stanford.edu/file/druid%3Ayk133ht8603/Wineburg%20McGrew_Lateral%20Reading%20and%20the%20Nature%20of%20Expertise.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacks.stanford.edu">[Stanford Digital Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacks.stanford.edu</span><span class="citation-popover-title">Digital Repository Lateral Reading and the Nature of Expertise</span><span class="citation-popover-snippet">Stanford Digital RepositoryLateral Reading and the Nature of Expertise - Stacks28 Jul 2018 — Click restraint stands in contrast to whimsi...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_lateral_reading_afeebc_click_restraint_sear_2617c0-Illustration-1-dark.svg" | relative_url }}" alt="Click Restraint illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_lateral_reading_afeebc_click_restraint_sear_2617c0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_lateral_reading_afeebc_click_restraint_sear_2617c0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,9 +282,9 @@ Click restraint is a small behavioural change, but it supports the broader pract
 
 ## Why the first search result is not enough
 
-Search engines rank pages using hundreds of signals, including relevance to the query, popularity, freshness and technical optimisation. A high ranking does **not** guarantee that a page is the most authoritative, neutral or evidence-based source for your purpose. Well-funded organisations, skilled search engine optimisation (SEO), and strong brand recognition can all influence visibility without guaranteeing reliability.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://stacks.stanford.edu/file/druid%3Ayk133ht8603/Wineburg%20McGrew_Lateral%20Reading%20and%20the%20Nature%20of%20Expertise.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacks.stanford.edu">[Stanford Digital Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacks.stanford.edu</span><span class="citation-popover-title">Digital Repository Lateral Reading and the Nature of Expertise</span><span class="citation-popover-snippet">Stanford Digital RepositoryLateral Reading and the Nature of Expertise - Stacks28 Jul 2018 — Click restraint stands in contrast to whimsi...</span></span></span>
+Search engines rank pages using hundreds of signals, including relevance to the query, popularity, freshness and technical optimisation. A high ranking does **not** guarantee that a page is the most authoritative, neutral or evidence-based source for your purpose. Well-funded organisations, skilled search engine optimisation (SEO), and strong brand recognition can all influence visibility without guaranteeing reliability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stacks.stanford.edu/file/druid%3Ayk133ht8603/Wineburg%20McGrew_Lateral%20Reading%20and%20the%20Nature%20of%20Expertise.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacks.stanford.edu">[Stanford Digital Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacks.stanford.edu</span><span class="citation-popover-title">Digital Repository Lateral Reading and the Nature of Expertise</span><span class="citation-popover-snippet">Stanford Digital RepositoryLateral Reading and the Nature of Expertise - Stacks28 Jul 2018 — Click restraint stands in contrast to whimsi...</span></span></span>
 
-Research comparing professional fact-checkers with historians and university students illustrates this difference. Students often clicked one of the first results almost immediately. Fact-checkers, by contrast, paused to examine several results before choosing where to begin. That brief delay often led them towards independent reporting or recognised reference sources instead of advocacy pages or organisations describing themselves.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://stacks.stanford.edu/file/druid%3Ayk133ht8603/Wineburg%20McGrew_Lateral%20Reading%20and%20the%20Nature%20of%20Expertise.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacks.stanford.edu">[Stanford Digital Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacks.stanford.edu</span><span class="citation-popover-title">Digital Repository Lateral Reading and the Nature of Expertise</span><span class="citation-popover-snippet">Stanford Digital RepositoryLateral Reading and the Nature of Expertise - Stacks28 Jul 2018 — Click restraint stands in contrast to whimsi...</span></span></span>
+Research comparing professional fact-checkers with historians and university students illustrates this difference. Students often clicked one of the first results almost immediately. Fact-checkers, by contrast, paused to examine several results before choosing where to begin. That brief delay often led them towards independent reporting or recognised reference sources instead of advocacy pages or organisations describing themselves. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stacks.stanford.edu/file/druid%3Ayk133ht8603/Wineburg%20McGrew_Lateral%20Reading%20and%20the%20Nature%20of%20Expertise.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacks.stanford.edu">[Stanford Digital Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacks.stanford.edu</span><span class="citation-popover-title">Digital Repository Lateral Reading and the Nature of Expertise</span><span class="citation-popover-snippet">Stanford Digital RepositoryLateral Reading and the Nature of Expertise - Stacks28 Jul 2018 — Click restraint stands in contrast to whimsi...</span></span></span>
 
 The point is not to distrust highly ranked pages. Many deserve their position. The point is to avoid assuming that ranking itself is evidence of credibility.
 
@@ -304,7 +304,7 @@ Look for clues such as:
 
 </div>
 
-Professional fact-checkers often spend several seconds reading these elements before opening anything. This simple pause helps prevent being drawn into a persuasive but unverified source.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://stacks.stanford.edu/file/druid%3Ayk133ht8603/Wineburg%20McGrew_Lateral%20Reading%20and%20the%20Nature%20of%20Expertise.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacks.stanford.edu">[Stanford Digital Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacks.stanford.edu</span><span class="citation-popover-title">Digital Repository Lateral Reading and the Nature of Expertise</span><span class="citation-popover-snippet">Stanford Digital RepositoryLateral Reading and the Nature of Expertise - Stacks28 Jul 2018 — Click restraint stands in contrast to whimsi...</span></span></span>
+Professional fact-checkers often spend several seconds reading these elements before opening anything. This simple pause helps prevent being drawn into a persuasive but unverified source. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stacks.stanford.edu/file/druid%3Ayk133ht8603/Wineburg%20McGrew_Lateral%20Reading%20and%20the%20Nature%20of%20Expertise.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacks.stanford.edu">[Stanford Digital Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacks.stanford.edu</span><span class="citation-popover-title">Digital Repository Lateral Reading and the Nature of Expertise</span><span class="citation-popover-snippet">Stanford Digital RepositoryLateral Reading and the Nature of Expertise - Stacks28 Jul 2018 — Click restraint stands in contrast to whimsi...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Xr4FCiWRLcc" title="Evaluating Online Sources for Misinformation &amp; Bias using Lateral Reading|Spring 24 Spotlight Series" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Xr4FCiWRLcc" target="_blank" rel="noopener noreferrer">Evaluating Online Sources for Misinformation &amp; Bias using Lateral Reading|Spring 24 Spotlight Series</a></p><p class="youtube-embed-meta">Channel: WolfgramLibrary</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Xr4FCiWRLcc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Xr4FCiWRLcc">Open on YouTube</a></p></div></div></div>
@@ -320,13 +320,13 @@ For example:
 * For breaking news, established news organisations with named reporters and corrections policies usually provide more accountable reporting than anonymous social media posts.
 * For scientific claims, look for universities, recognised research organisations or journals before turning to commentary.
 
-The search results page often makes these distinctions visible before you click. A government domain, university website or respected news outlet may appear alongside promotional pages covering the same topic. Exercising restraint allows you to make that comparison deliberately.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://libguides.butler.edu/evaluatingonlinesources" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: libguides.butler.edu">[Butler University Libraries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">libguides.butler.edu</span><span class="citation-popover-title">University Libraries Initial Moves</span><span class="citation-popover-snippet">Butler University LibrariesInitial Moves - Evaluating Online Sources: A Toolkit19 Dec 2025 — Fact checkers exercise click restraint: they...</span></span></span>
+The search results page often makes these distinctions visible before you click. A government domain, university website or respected news outlet may appear alongside promotional pages covering the same topic. Exercising restraint allows you to make that comparison deliberately. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://libguides.butler.edu/evaluatingonlinesources" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: libguides.butler.edu">[Butler University Libraries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">libguides.butler.edu</span><span class="citation-popover-title">University Libraries Initial Moves</span><span class="citation-popover-snippet">Butler University LibrariesInitial Moves - Evaluating Online Sources: A Toolkit19 Dec 2025 — Fact checkers exercise click restraint: they...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_lateral_reading_afeebc_click_restraint_sear_2617c0-Illustration-2-dark.svg" | relative_url }}" alt="Click Restraint illustration 2" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_lateral_reading_afeebc_click_restraint_sear_2617c0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_lateral_reading_afeebc_click_restraint_sear_2617c0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Avoid search paths that reward confirmation bias
 
-One reason click restraint matters is that people naturally prefer information supporting what they already believe. If the first search result appears to confirm an existing opinion, it is tempting to stop searching altogether. This reinforces confirmation bias rather than testing the claim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Confirmation_bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Confirmation bias</span><span class="citation-popover-snippet">Confirmation bias</span></span></span>
+One reason click restraint matters is that people naturally prefer information supporting what they already believe. If the first search result appears to confirm an existing opinion, it is tempting to stop searching altogether. This reinforces confirmation bias rather than testing the claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Confirmation_bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Confirmation bias</span><span class="citation-popover-snippet">Confirmation bias</span></span></span>
 
 A more reliable approach is to ask:
 
@@ -375,201 +375,201 @@ The habit works because it changes the order of decisions:
 
 </div>
 
-Research on lateral reading suggests that this sequence mirrors the behaviour of experienced professional fact-checkers. They are not necessarily better because they read more carefully within a page, but because they make better decisions before committing to one. By resisting the impulse to click the first familiar or agreeable result, they improve the quality of the information that shapes every later judgement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://stacks.stanford.edu/file/druid%3Ayk133ht8603/Wineburg%20McGrew_Lateral%20Reading%20and%20the%20Nature%20of%20Expertise.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacks.stanford.edu">[Stanford Digital Repository+2SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacks.stanford.edu</span><span class="citation-popover-title">Digital Repository Lateral Reading and the Nature of Expertise</span><span class="citation-popover-snippet">Stanford Digital RepositoryLateral Reading and the Nature of Expertise - Stacks28 Jul 2018 — Click restraint stands in contrast to whimsi...</span></span></span>
+Research on lateral reading suggests that this sequence mirrors the behaviour of experienced professional fact-checkers. They are not necessarily better because they read more carefully within a page, but because they make better decisions before committing to one. By resisting the impulse to click the first familiar or agreeable result, they improve the quality of the information that shapes every later judgement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stacks.stanford.edu/file/druid%3Ayk133ht8603/Wineburg%20McGrew_Lateral%20Reading%20and%20the%20Nature%20of%20Expertise.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacks.stanford.edu">[Stanford Digital Repository+2SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacks.stanford.edu</span><span class="citation-popover-title">Digital Repository Lateral Reading and the Nature of Expertise</span><span class="citation-popover-snippet">Stanford Digital RepositoryLateral Reading and the Nature of Expertise - Stacks28 Jul 2018 — Click restraint stands in contrast to whimsi...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/as1IzVljNAw" title="Intro to Lateral Reading - Teaching Online Fact-Checking" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=as1IzVljNAw" target="_blank" rel="noopener noreferrer">Intro to Lateral Reading - Teaching Online Fact-Checking</a></p><p class="youtube-embed-meta">Channel: icivics</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=as1IzVljNAw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=as1IzVljNAw">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why the first search result is not enough. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why the first search result is not enough. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S2ZOzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-</h4>
-<p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y-bvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+        </h4>
+        <p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
         
-<p class="fr-book-desc">Encourages careful source selection over superficial signals.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Encourages careful source selection over superficial signals.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-</h4>
-<p class="fr-book-author">By Dr. Steven Novella</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+        </h4>
+        <p class="fr-book-author">By Daniel Kahneman</p>
         
-<p class="fr-book-desc">Explains reliable methods for checking claims.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains intuitive mistakes behind premature clicking.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpZNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-</h4>
-<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
         
-<p class="fr-book-desc">Promotes disciplined evidence evaluation.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains reliable methods for checking claims.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-</h4>
-<p class="fr-book-author">By Daniel Kahneman</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpZNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Factfulness+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+        </h4>
+        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-<p class="fr-book-desc">Explains intuitive mistakes behind premature clicking.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Promotes disciplined evidence evaluation.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Factfulness+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-first-search-result-is-not-enough-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="why-the-first-search-result-is-not-enough-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for GEOMETRY A2 Laminated educational poster maths numeracy teaching wall resource"><img src="https://i.ebayimg.com/images/g/tGYAAOxy7MtRtEb0/s-l225.jpg" alt="Listing image for GEOMETRY A2 Laminated educational poster maths numeracy teaching wall resource" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-first-search-result-is-not-enough-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="why-the-first-search-result-is-not-enough-education-wall-art" target="_blank" rel="sponsored noopener noreferrer">GEOMETRY A2 Laminated educational poster maths numeracy teaching wall resource</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-first-search-result-is-not-enough-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="why-the-first-search-result-is-not-enough-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: education wall art</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-first-search-result-is-not-enough-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="why-the-first-search-result-is-not-enough-education-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-first-search-result-is-not-enough-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="why-the-first-search-result-is-not-enough-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for GEOMETRY A2 Laminated educational poster maths numeracy teaching wall resource"><img src="https://i.ebayimg.com/images/g/tGYAAOxy7MtRtEb0/s-l225.jpg" alt="Listing image for GEOMETRY A2 Laminated educational poster maths numeracy teaching wall resource" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-first-search-result-is-not-enough-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="why-the-first-search-result-is-not-enough-education-wall-art" target="_blank" rel="sponsored noopener noreferrer">GEOMETRY A2 Laminated educational poster maths numeracy teaching wall resource</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-first-search-result-is-not-enough-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="why-the-first-search-result-is-not-enough-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: education wall art</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-first-search-result-is-not-enough-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="why-the-first-search-result-is-not-enough-education-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-first-search-result-is-not-enough-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="why-the-first-search-result-is-not-enough-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for educational NUMBER (1-20) square large A2 laminated maths wall nursery Poster"><img src="https://i.ebayimg.com/images/g/33cAAOSw5cNYdWNZ/s-l225.jpg" alt="Listing image for educational NUMBER (1-20) square large A2 laminated maths wall nursery Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-first-search-result-is-not-enough-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="why-the-first-search-result-is-not-enough-education-wall-art" target="_blank" rel="sponsored noopener noreferrer">educational NUMBER (1-20) square large A2 laminated maths wall nursery Poster</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-first-search-result-is-not-enough-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="why-the-first-search-result-is-not-enough-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: education wall art</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-first-search-result-is-not-enough-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="why-the-first-search-result-is-not-enough-education-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-first-search-result-is-not-enough-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="why-the-first-search-result-is-not-enough-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for educational NUMBER (1-20) square large A2 laminated maths wall nursery Poster"><img src="https://i.ebayimg.com/images/g/33cAAOSw5cNYdWNZ/s-l225.jpg" alt="Listing image for educational NUMBER (1-20) square large A2 laminated maths wall nursery Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-first-search-result-is-not-enough-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="why-the-first-search-result-is-not-enough-education-wall-art" target="_blank" rel="sponsored noopener noreferrer">educational NUMBER (1-20) square large A2 laminated maths wall nursery Poster</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-first-search-result-is-not-enough-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="why-the-first-search-result-is-not-enough-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: education wall art</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-first-search-result-is-not-enough-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="why-the-first-search-result-is-not-enough-education-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-first-search-result-is-not-enough-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="why-the-first-search-result-is-not-enough-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 15 Pack Educational Poster Laminated Wall Chart for Children Kids Learning Art"><img src="https://i.ebayimg.com/images/g/xMQAAOSwfdVnZVzH/s-l225.jpg" alt="Listing image for 15 Pack Educational Poster Laminated Wall Chart for Children Kids Learning Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-first-search-result-is-not-enough-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="why-the-first-search-result-is-not-enough-education-wall-art" target="_blank" rel="sponsored noopener noreferrer">15 Pack Educational Poster Laminated Wall Chart for Children Kids Learning Art</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-first-search-result-is-not-enough-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="why-the-first-search-result-is-not-enough-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: education wall art</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-first-search-result-is-not-enough-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="why-the-first-search-result-is-not-enough-education-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-first-search-result-is-not-enough-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="why-the-first-search-result-is-not-enough-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 15 Pack Educational Poster Laminated Wall Chart for Children Kids Learning Art"><img src="https://i.ebayimg.com/images/g/xMQAAOSwfdVnZVzH/s-l225.jpg" alt="Listing image for 15 Pack Educational Poster Laminated Wall Chart for Children Kids Learning Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-first-search-result-is-not-enough-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="why-the-first-search-result-is-not-enough-education-wall-art" target="_blank" rel="sponsored noopener noreferrer">15 Pack Educational Poster Laminated Wall Chart for Children Kids Learning Art</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-first-search-result-is-not-enough-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="why-the-first-search-result-is-not-enough-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: education wall art</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-first-search-result-is-not-enough-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="why-the-first-search-result-is-not-enough-education-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-first-search-result-is-not-enough-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="why-the-first-search-result-is-not-enough-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phonetic Alphabet International Wall Art Informative Education Poster Art"><img src="https://i.ebayimg.com/images/g/VQMAAOSwP2Bg3clL/s-l225.jpg" alt="Listing image for Phonetic Alphabet International Wall Art Informative Education Poster Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-first-search-result-is-not-enough-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="why-the-first-search-result-is-not-enough-education-wall-art" target="_blank" rel="sponsored noopener noreferrer">Phonetic Alphabet International Wall Art Informative Education Poster Art</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-first-search-result-is-not-enough-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="why-the-first-search-result-is-not-enough-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: education wall art</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-first-search-result-is-not-enough-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="why-the-first-search-result-is-not-enough-education-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-first-search-result-is-not-enough-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="why-the-first-search-result-is-not-enough-education-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-first-search-result-is-not-enough-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="why-the-first-search-result-is-not-enough-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phonetic Alphabet International Wall Art Informative Education Poster Art"><img src="https://i.ebayimg.com/images/g/VQMAAOSwP2Bg3clL/s-l225.jpg" alt="Listing image for Phonetic Alphabet International Wall Art Informative Education Poster Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-first-search-result-is-not-enough-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="why-the-first-search-result-is-not-enough-education-wall-art" target="_blank" rel="sponsored noopener noreferrer">Phonetic Alphabet International Wall Art Informative Education Poster Art</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-first-search-result-is-not-enough-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="why-the-first-search-result-is-not-enough-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: education wall art</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-first-search-result-is-not-enough-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="why-the-first-search-result-is-not-enough-education-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-first-search-result-is-not-enough-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="why-the-first-search-result-is-not-enough-education-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -585,7 +585,7 @@ Research on lateral reading suggests that this sequence mirrors the behaviour of
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -605,7 +605,7 @@ Research on lateral reading suggests that this sequence mirrors the behaviour of
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -637,7 +637,7 @@ Research on lateral reading suggests that this sequence mirrors the behaviour of
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -689,7 +689,7 @@ Research on lateral reading suggests that this sequence mirrors the behaviour of
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -734,7 +734,7 @@ Research on lateral reading suggests that this sequence mirrors the behaviour of
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -774,80 +774,80 @@ Research on lateral reading suggests that this sequence mirrors the behaviour of
 </section>
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: stacks.stanford.edu  
    Title: Digital Repository Lateral Reading and the Nature of Expertise  
-   Link:<a href="https://stacks.stanford.edu/file/druid%3Ayk133ht8603/Wineburg%20McGrew_Lateral%20Reading%20and%20the%20Nature%20of%20Expertise.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stacks.stanford.edu/file/druid%3Ayk133ht8603/Wineburg%20McGrew_Lateral%20Reading%20and%20the%20Nature%20of%20Expertise.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Digital RepositoryLateral Reading and the Nature of Expertise - Stacks28 Jul 2018 — Click restraint stands in contrast to whimsi...</p></details>
+   Link: <a href="https://stacks.stanford.edu/file/druid%3Ayk133ht8603/Wineburg%20McGrew_Lateral%20Reading%20and%20the%20Nature%20of%20Expertise.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stacks.stanford.edu/file/druid%3Ayk133ht8603/Wineburg%20McGrew_Lateral%20Reading%20and%20the%20Nature%20of%20Expertise.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Digital RepositoryLateral Reading and the Nature of Expertise - Stacks28 Jul 2018 — Click restraint stands in contrast to whimsi...</p></details>
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: papers.ssrn.com  
-   Link:<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048994" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048994</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Less and Learning More When Evaluating Digital...by S Wineburg · 2019 · Cited by 88 — In contrast, fact checkers read laterally, leaving...</p></details>
+   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048994" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048994</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Less and Learning More When Evaluating Digital...by S Wineburg · 2019 · Cited by 88 — In contrast, fact checkers read laterally, leaving...</p></details>
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: libguides.butler.edu  
    Title: University Libraries Initial Moves  
-   Link:<a href="https://libguides.butler.edu/evaluatingonlinesources" target="_blank" rel="noopener noreferrer nofollow">https://libguides.butler.edu/evaluatingonlinesources</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Butler University LibrariesInitial Moves - Evaluating Online Sources: A Toolkit19 Dec 2025 — Fact checkers exercise click restraint: they...</p></details>
+   Link: <a href="https://libguides.butler.edu/evaluatingonlinesources" target="_blank" rel="noopener noreferrer nofollow">https://libguides.butler.edu/evaluatingonlinesources</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Butler University LibrariesInitial Moves - Evaluating Online Sources: A Toolkit19 Dec 2025 — Fact checkers exercise click restraint: they...</p></details>
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Confirmation bias  
-   Link:<a href="https://en.wikipedia.org/wiki/Confirmation_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Confirmation_bias</a>  
+   Link: <a href="https://en.wikipedia.org/wiki/Confirmation_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Confirmation_bias</a>  
 
 ### Additional References
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: hendrix.edu  
-   Link:<a href="https://www.hendrix.edu/uploadedFiles/Academics/Faculty_Resources/Teaching_and_Learning/EvaluatingDigitalInformation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hendrix.edu/uploadedFiles/Academics/Faculty_Resources/Teaching_and_Learning/EvaluatingDigitalInformation.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Hendrix Collegereading less and learning more when evaluating digital...Exhibiting what we call click restraint, she spent nearly 20 sec...</p></details>
+   Link: <a href="https://www.hendrix.edu/uploadedFiles/Academics/Faculty_Resources/Teaching_and_Learning/EvaluatingDigitalInformation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hendrix.edu/uploadedFiles/Academics/Faculty_Resources/Teaching_and_Learning/EvaluatingDigitalInformation.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hendrix Collegereading less and learning more when evaluating digital...Exhibiting what we call click restraint, she spent nearly 20 sec...</p></details>
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: youtube.com  
-   Link:<a href="https://www.youtube.com/watch?v=ih4dY9i9JKE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ih4dY9i9JKE</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Intro to Lateral Reading - Teaching Online Fact-Checking...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=ih4dY9i9JKE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ih4dY9i9JKE</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Intro to Lateral Reading - Teaching Online Fact-Checking...</p></details>
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: poynter.org  
    Title: Feeling overwhelmed by search results?  
-   Link:<a href="https://www.poynter.org/fact-checking/media-literacy/2023/what-is-click-restraint/" target="_blank" rel="noopener noreferrer nofollow">https://www.poynter.org/fact-checking/media-literacy/2023/what-is-click-restraint/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Use click restraint...20 Sept 2023 — Click restraint is the act of not engaging with the very first results you see when conducting an o...</p></details>
+   Link: <a href="https://www.poynter.org/fact-checking/media-literacy/2023/what-is-click-restraint/" target="_blank" rel="noopener noreferrer nofollow">https://www.poynter.org/fact-checking/media-literacy/2023/what-is-click-restraint/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Use click restraint...20 Sept 2023 — Click restraint is the act of not engaging with the very first results you see when conducting an o...</p></details>
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8981191/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8981191/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Lateral reading and monetary incentives to spot disinformation...by F Panizza · 2022 · Cited by 75 — Lateral reading and click restra...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8981191/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8981191/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lateral reading and monetary incentives to spot disinformation...by F Panizza · 2022 · Cited by 75 — Lateral reading and click restra...</p></details>
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: How to Find Better Information Online: Click Restraint  
-   Link:<a href="https://www.youtube.com/watch?v=gbPEiCGxVVY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gbPEiCGxVVY</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Check Yourself with Lateral Reading: Crash Course Navigating Digital Information #3...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=gbPEiCGxVVY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gbPEiCGxVVY</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Check Yourself with Lateral Reading: Crash Course Navigating Digital Information #3...</p></details>
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: Click Restraint: Crash Course Navigating Digital Information #9  
-   Link:<a href="https://www.youtube.com/watch?v=5tw44SkkXQg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5tw44SkkXQg</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Find Better Information Online: Click Restraint...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=5tw44SkkXQg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5tw44SkkXQg</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Find Better Information Online: Click Restraint...</p></details>
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: Intro to Lateral Reading  
-   Link:<a href="https://www.youtube.com/watch?v=as1IzVljNAw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=as1IzVljNAw</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Sarah McGrew - &quot;How Do We Know What&#x27;s True Anymore&quot;...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=as1IzVljNAw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=as1IzVljNAw</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sarah McGrew - &quot;How Do We Know What&#x27;s True Anymore&quot;...</p></details>
 
-12.<a id="endnote-12"></a>
+12. <a id="endnote-12"></a>
    Source: guides.lib.uiowa.edu  
-   Link:<a href="https://guides.lib.uiowa.edu/c.php?g=849536&amp;p=6077640" target="_blank" rel="noopener noreferrer nofollow">https://guides.lib.uiowa.edu/c.php?g=849536&amp;p=6077640</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Online Information: Lateral Reading - Guides24 Nov 2025 — One strategy that we can use is &quot;lateral reading.&quot; Good lateral readers use the...</p></details>
+   Link: <a href="https://guides.lib.uiowa.edu/c.php?g=849536&amp;p=6077640" target="_blank" rel="noopener noreferrer nofollow">https://guides.lib.uiowa.edu/c.php?g=849536&amp;p=6077640</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Online Information: Lateral Reading - Guides24 Nov 2025 — One strategy that we can use is &quot;lateral reading.&quot; Good lateral readers use the...</p></details>
 
-13.<a id="endnote-13"></a>
+13. <a id="endnote-13"></a>
    Source: libguides.marian.edu  
-   Link:<a href="https://libguides.marian.edu/c.php?g=957928&amp;p=8702722" target="_blank" rel="noopener noreferrer nofollow">https://libguides.marian.edu/c.php?g=957928&amp;p=8702722</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Resources: Click Restraint - LibGuides1 Dec 2022 — Fact checkers exercise click restraint: they recognize that some sources may not be th...</p></details>
+   Link: <a href="https://libguides.marian.edu/c.php?g=957928&amp;p=8702722" target="_blank" rel="noopener noreferrer nofollow">https://libguides.marian.edu/c.php?g=957928&amp;p=8702722</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Resources: Click Restraint - LibGuides1 Dec 2022 — Fact checkers exercise click restraint: they recognize that some sources may not be th...</p></details>
 
-14.<a id="endnote-14"></a>
+14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link:<a href="https://www.youtube.com/watch?v=Xr4FCiWRLcc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xr4FCiWRLcc</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>ring 24 Spotlight Series...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=Xr4FCiWRLcc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xr4FCiWRLcc</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ring 24 Spotlight Series...</p></details>

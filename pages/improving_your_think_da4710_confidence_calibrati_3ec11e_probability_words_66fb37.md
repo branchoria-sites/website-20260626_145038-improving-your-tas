@@ -280,7 +280,7 @@ image: /assets/images/improving_your_think_da4710_confidence_calibrati_3ec11e_pr
 
 ## Introduction
 
-Words such as *likely*, *possible*, *unlikely* and *almost certain* seem precise, but they often conceal substantial differences in what people actually believe. Two colleagues may both say that a project is "likely" to succeed while one privately means a 60% chance and the other means 90%. The discussion appears to end in agreement even though they would make very different decisions if money, time or safety depended on the outcome. Research across intelligence analysis, climate science, medicine and risk communication consistently shows that verbal probability expressions are interpreted far less consistently than most people expect.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6469752/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCVerbal probabilities: Very likely to be somewhat more</span><span class="citation-popover-snippet">by BC Wintle · 2019 · Cited by 115 — People interpret verbal expressions of probabilities (eg &#x27;very likely&#x27;) in different ways, yet wo...</span></span></span>
+Words such as *likely*, *possible*, *unlikely* and *almost certain* seem precise, but they often conceal substantial differences in what people actually believe. Two colleagues may both say that a project is "likely" to succeed while one privately means a 60% chance and the other means 90%. The discussion appears to end in agreement even though they would make very different decisions if money, time or safety depended on the outcome. Research across intelligence analysis, climate science, medicine and risk communication consistently shows that verbal probability expressions are interpreted far less consistently than most people expect. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6469752/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCVerbal probabilities: Very likely to be somewhat more</span><span class="citation-popover-snippet">by BC Wintle · 2019 · Cited by 115 — People interpret verbal expressions of probabilities (eg &#x27;very likely&#x27;) in different ways, yet wo...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_confidence_calibrati_3ec11e_probability_words_66fb37-Illustration-1-dark.svg" | relative_url }}" alt="Probability Words illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_confidence_calibrati_3ec11e_probability_words_66fb37-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_confidence_calibrati_3ec11e_probability_words_66fb37-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -303,7 +303,7 @@ Suppose a product team discusses whether a feature will be finished before launc
 
 Nobody notices the disagreement because everyone leaves the meeting believing they agreed.
 
-Studies repeatedly find wide variation in how people interpret common probability words, even when they share the same language and professional background. In one large experiment, participants assigned strikingly different numerical values to expressions such as "very likely", despite seeing the same wording in similar contexts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6469752/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCVerbal probabilities: Very likely to be somewhat more</span><span class="citation-popover-snippet">by BC Wintle · 2019 · Cited by 115 — People interpret verbal expressions of probabilities (eg &#x27;very likely&#x27;) in different ways, yet wo...</span></span></span>
+Studies repeatedly find wide variation in how people interpret common probability words, even when they share the same language and professional background. In one large experiment, participants assigned strikingly different numerical values to expressions such as "very likely", despite seeing the same wording in similar contexts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6469752/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCVerbal probabilities: Very likely to be somewhat more</span><span class="citation-popover-snippet">by BC Wintle · 2019 · Cited by 115 — People interpret verbal expressions of probabilities (eg &#x27;very likely&#x27;) in different ways, yet wo...</span></span></span>
 
 This creates a dangerous illusion of consensus. Teams often argue less than they should because ambiguous language hides differences instead of revealing them.
 
@@ -334,7 +334,7 @@ Numbers are not perfectly objective. A forecast of 70% is still a judgement. How
 * They are testable against future [outcomes]({{ 'outcomes/' | relative_url }}).
 * They reveal disagreement that language can hide.
 
-This is one reason why forecasting [tournaments]({{ 'tournaments/' | relative_url }}) and evidence-based decision-making often require participants to express beliefs numerically rather than verbally. Explicit [probabilities]({{ 'probabilities/' | relative_url }}) also make later calibration possible because forecasters can compare stated confidence with real-world results.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/full/10.1111/risa.14009" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryCommunicating uncertainty in national security intelligence...by D Irwin · 2023 · Cited by 36 — Communicate judgment...</span></span></span>
+This is one reason why forecasting [tournaments]({{ 'tournaments/' | relative_url }}) and evidence-based decision-making often require participants to express beliefs numerically rather than verbally. Explicit [probabilities]({{ 'probabilities/' | relative_url }}) also make later calibration possible because forecasters can compare stated confidence with real-world results. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/full/10.1111/risa.14009" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryCommunicating uncertainty in national security intelligence...by D Irwin · 2023 · Cited by 36 — Communicate judgment...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_confidence_calibrati_3ec11e_probability_words_66fb37-Illustration-2-dark.svg" | relative_url }}" alt="Probability Words illustration 2" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_confidence_calibrati_3ec11e_probability_words_66fb37-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_confidence_calibrati_3ec11e_probability_words_66fb37-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -342,7 +342,7 @@ This is one reason why forecasting [tournaments]({{ 'tournaments/' | relative_ur
 
 Some organisations face decisions where misunderstanding probability can have serious consequences. Rather than leaving terms open to interpretation, they define them explicitly.
 
-The intelligence community has long wrestled with this problem. In the 1960s, intelligence analyst Sherman Kent argued that phrases such as *probable* and *almost certain* should correspond to agreed probability ranges rather than individual intuition. Modern intelligence guidance continues this idea by pairing approved verbal expressions with numerical ranges to reduce ambiguity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3441269_code2173996.pdf?abstractid=3441269&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN+2ETH Zurich Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Chapter 18 – VARIANTS OF VAGUE VERBIAGEUS Intelligence Community Directive (ICD) 203 provides two sets of verbal uncertainty expressi...</span></span></span>
+The intelligence community has long wrestled with this problem. In the 1960s, intelligence analyst Sherman Kent argued that phrases such as *probable* and *almost certain* should correspond to agreed probability ranges rather than individual intuition. Modern intelligence guidance continues this idea by pairing approved verbal expressions with numerical ranges to reduce ambiguity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3441269_code2173996.pdf?abstractid=3441269&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN+2ETH Zurich Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Chapter 18 – VARIANTS OF VAGUE VERBIAGEUS Intelligence Community Directive (ICD) 203 provides two sets of verbal uncertainty expressi...</span></span></span>
 
 A similar approach appears in climate science. The Intergovernmental Panel on Climate Change (IPCC) assigns specific probability ranges to phrases such as:
 
@@ -353,7 +353,7 @@ A similar approach appears in climate science. The Intergovernmental Panel on Cl
 * **Very likely**: greater than 90%
 * **Likely**: greater than 66%
 * **About as likely as not**: 33% to 66%
-* **Very unlikely**: less than 10%<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Words_of_estimative_probability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Words of estimative probability</span><span class="citation-popover-snippet">Words of estimative probability</span></span></span>
+* **Very unlikely**: less than 10% <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Words_of_estimative_probability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Words of estimative probability</span><span class="citation-popover-snippet">Words of estimative probability</span></span></span>
 
 </div>
 
@@ -366,7 +366,7 @@ These standards do not eliminate uncertainty. They reduce disagreement about wha
 
 Many people assume that surrounding context naturally clarifies vague probability words. Research suggests this helps less than expected.
 
-Even when participants read probability expressions within realistic scenarios, interpretations remain widely dispersed. Different readers continue assigning substantially different numerical values to the same phrase. Similar findings have appeared across different countries and languages, suggesting that the ambiguity is not merely a feature of English.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6469752/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Journal of Science Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCVerbal probabilities: Very likely to be somewhat more</span><span class="citation-popover-snippet">by BC Wintle · 2019 · Cited by 115 — People interpret verbal expressions of probabilities (eg &#x27;very likely&#x27;) in different ways, yet wo...</span></span></span>
+Even when participants read probability expressions within realistic scenarios, interpretations remain widely dispersed. Different readers continue assigning substantially different numerical values to the same phrase. Similar findings have appeared across different countries and languages, suggesting that the ambiguity is not merely a feature of English. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6469752/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Journal of Science Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCVerbal probabilities: Very likely to be somewhat more</span><span class="citation-popover-snippet">by BC Wintle · 2019 · Cited by 115 — People interpret verbal expressions of probabilities (eg &#x27;very likely&#x27;) in different ways, yet wo...</span></span></span>
 
 Context certainly matters for understanding *what* is being discussed. It is much less reliable for communicating *how likely* the speaker believes it is.
 
@@ -403,194 +403,194 @@ Instead of debating whether something is "possible", people begin discussing whe
 Better analytical thinking depends not only on estimating uncertainty well, but also on expressing it clearly enough that others know what you actually mean. Numbers do not eliminate uncertainty, but they make hidden disagreement visible, giving teams a better chance to reason together rather than merely sounding as though they already agree.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to When Likely Does Not Mean the Same Thing. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to When Likely Does Not Mean the Same Thing. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=45OmCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
-</h4>
-<p class="fr-book-author">By Philip Tetlock, Dan Gardner</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=45OmCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Superforecasting+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
+        </h4>
+        <p class="fr-book-author">By Philip Tetlock, Dan Gardner</p>
         
-<p class="fr-book-desc">Encourages numerical probabilities instead of vague language.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Encourages numerical probabilities instead of vague language.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Superforecasting+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-</h4>
-<p class="fr-book-author">By Daniel Kahneman</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CiZeDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Art of Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Statistics">The Art of Statistics</a>
+        </h4>
+        <p class="fr-book-author">By David Spiegelhalter</p>
         
-<p class="fr-book-desc">Explains why intuitive language often misleads.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Helps readers interpret probability language.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Measure Anything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CBAh4eM-g3AC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Measure Anything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Measure Anything">How to Measure Anything</a>
-</h4>
-<p class="fr-book-author">By Douglas W. Hubbard</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Measure+Anything+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Measure Anything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CBAh4eM-g3AC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Measure Anything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=How+to+Measure+Anything+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Measure Anything">How to Measure Anything</a>
+        </h4>
+        <p class="fr-book-author">By Douglas W. Hubbard</p>
         
-<p class="fr-book-desc">Shows how to replace vague judgments with measurable estimates.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Shows how to replace vague judgments with measurable estimates.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=How+to+Measure+Anything+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
-</h4>
-<p class="fr-book-author">By Nate Silver</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+        </h4>
+        <p class="fr-book-author">By Nate Silver</p>
         
-<p class="fr-book-desc">Promotes probabilistic communication.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Promotes probabilistic communication.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Measure+Anything&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Measure Anything</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Statistics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Measure+Anything&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Measure Anything</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-likely-does-not-mean-the-same-thing-communication-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication cards" data-ebay-reference="when-likely-does-not-mean-the-same-thing-communication-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Plastic Communication 60 PCs, Feelings Cards Needs, ADHD Autism, Speech Sen Card"><img src="https://i.ebayimg.com/images/g/iAEAAOSwuYxmO4~D/s-l225.jpg" alt="Listing image for Plastic Communication 60 PCs, Feelings Cards Needs, ADHD Autism, Speech Sen Card" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-likely-does-not-mean-the-same-thing-communication-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication cards" data-ebay-reference="when-likely-does-not-mean-the-same-thing-communication-cards" target="_blank" rel="sponsored noopener noreferrer">Plastic Communication 60 PCs, Feelings Cards Needs, ADHD Autism, Speech Sen Card</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-likely-does-not-mean-the-same-thing-communication-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication cards" data-ebay-reference="when-likely-does-not-mean-the-same-thing-communication-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for communication cards">Search<span data-ebay-domain-label>eBay.co.uk</span>: communication cards</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-likely-does-not-mean-the-same-thing-communication-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication cards" data-ebay-reference="when-likely-does-not-mean-the-same-thing-communication-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-likely-does-not-mean-the-same-thing-communication-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication cards" data-ebay-reference="when-likely-does-not-mean-the-same-thing-communication-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Plastic Communication 60 PCs, Feelings Cards Needs, ADHD Autism, Speech Sen Card"><img src="https://i.ebayimg.com/images/g/iAEAAOSwuYxmO4~D/s-l225.jpg" alt="Listing image for Plastic Communication 60 PCs, Feelings Cards Needs, ADHD Autism, Speech Sen Card" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-likely-does-not-mean-the-same-thing-communication-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication cards" data-ebay-reference="when-likely-does-not-mean-the-same-thing-communication-cards" target="_blank" rel="sponsored noopener noreferrer">Plastic Communication 60 PCs, Feelings Cards Needs, ADHD Autism, Speech Sen Card</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-likely-does-not-mean-the-same-thing-communication-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication cards" data-ebay-reference="when-likely-does-not-mean-the-same-thing-communication-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for communication cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: communication cards</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-likely-does-not-mean-the-same-thing-communication-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication cards" data-ebay-reference="when-likely-does-not-mean-the-same-thing-communication-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-likely-does-not-mean-the-same-thing-communication-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication cards" data-ebay-reference="when-likely-does-not-mean-the-same-thing-communication-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Plastic Communication Cards for ADHD and Autism, Special Needs Communication Aid"><img src="https://i.ebayimg.com/images/g/UBgAAOSwTFVm2yMd/s-l225.jpg" alt="Listing image for Plastic Communication Cards for ADHD and Autism, Special Needs Communication Aid" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-likely-does-not-mean-the-same-thing-communication-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication cards" data-ebay-reference="when-likely-does-not-mean-the-same-thing-communication-cards" target="_blank" rel="sponsored noopener noreferrer">Plastic Communication Cards for ADHD and Autism, Special Needs Communication Aid</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-likely-does-not-mean-the-same-thing-communication-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication cards" data-ebay-reference="when-likely-does-not-mean-the-same-thing-communication-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for communication cards">Search<span data-ebay-domain-label>eBay.co.uk</span>: communication cards</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-likely-does-not-mean-the-same-thing-communication-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication cards" data-ebay-reference="when-likely-does-not-mean-the-same-thing-communication-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-likely-does-not-mean-the-same-thing-communication-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication cards" data-ebay-reference="when-likely-does-not-mean-the-same-thing-communication-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Plastic Communication Cards for ADHD and Autism, Special Needs Communication Aid"><img src="https://i.ebayimg.com/images/g/UBgAAOSwTFVm2yMd/s-l225.jpg" alt="Listing image for Plastic Communication Cards for ADHD and Autism, Special Needs Communication Aid" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-likely-does-not-mean-the-same-thing-communication-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication cards" data-ebay-reference="when-likely-does-not-mean-the-same-thing-communication-cards" target="_blank" rel="sponsored noopener noreferrer">Plastic Communication Cards for ADHD and Autism, Special Needs Communication Aid</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-likely-does-not-mean-the-same-thing-communication-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication cards" data-ebay-reference="when-likely-does-not-mean-the-same-thing-communication-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for communication cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: communication cards</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-likely-does-not-mean-the-same-thing-communication-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication cards" data-ebay-reference="when-likely-does-not-mean-the-same-thing-communication-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-likely-does-not-mean-the-same-thing-communication-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication cards" data-ebay-reference="when-likely-does-not-mean-the-same-thing-communication-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for My Communication Cards Flashcard Book Non Verbal asn sen Autism."><img src="https://i.ebayimg.com/images/g/qFsAAeSwkPxqJU~y/s-l225.jpg" alt="Listing image for My Communication Cards Flashcard Book Non Verbal asn sen Autism." loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-likely-does-not-mean-the-same-thing-communication-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication cards" data-ebay-reference="when-likely-does-not-mean-the-same-thing-communication-cards" target="_blank" rel="sponsored noopener noreferrer">My Communication Cards Flashcard Book Non Verbal asn sen Autism.</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-likely-does-not-mean-the-same-thing-communication-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication cards" data-ebay-reference="when-likely-does-not-mean-the-same-thing-communication-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for communication cards">Search<span data-ebay-domain-label>eBay.co.uk</span>: communication cards</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-likely-does-not-mean-the-same-thing-communication-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication cards" data-ebay-reference="when-likely-does-not-mean-the-same-thing-communication-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-likely-does-not-mean-the-same-thing-communication-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication cards" data-ebay-reference="when-likely-does-not-mean-the-same-thing-communication-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for My Communication Cards Flashcard Book Non Verbal asn sen Autism."><img src="https://i.ebayimg.com/images/g/qFsAAeSwkPxqJU~y/s-l225.jpg" alt="Listing image for My Communication Cards Flashcard Book Non Verbal asn sen Autism." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-likely-does-not-mean-the-same-thing-communication-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication cards" data-ebay-reference="when-likely-does-not-mean-the-same-thing-communication-cards" target="_blank" rel="sponsored noopener noreferrer">My Communication Cards Flashcard Book Non Verbal asn sen Autism.</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-likely-does-not-mean-the-same-thing-communication-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication cards" data-ebay-reference="when-likely-does-not-mean-the-same-thing-communication-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for communication cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: communication cards</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-likely-does-not-mean-the-same-thing-communication-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication cards" data-ebay-reference="when-likely-does-not-mean-the-same-thing-communication-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-likely-does-not-mean-the-same-thing-communication-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication cards" data-ebay-reference="when-likely-does-not-mean-the-same-thing-communication-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Emotion Feeling Cards Lanyard Non Verbal Communication Autism ADHD SEN"><img src="https://i.ebayimg.com/images/g/y~kAAeSwpc9qGHLE/s-l225.jpg" alt="Listing image for Emotion Feeling Cards Lanyard Non Verbal Communication Autism ADHD SEN" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-likely-does-not-mean-the-same-thing-communication-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication cards" data-ebay-reference="when-likely-does-not-mean-the-same-thing-communication-cards" target="_blank" rel="sponsored noopener noreferrer">Emotion Feeling Cards Lanyard Non Verbal Communication Autism ADHD SEN</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-likely-does-not-mean-the-same-thing-communication-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication cards" data-ebay-reference="when-likely-does-not-mean-the-same-thing-communication-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for communication cards">Search<span data-ebay-domain-label>eBay.co.uk</span>: communication cards</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-likely-does-not-mean-the-same-thing-communication-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication cards" data-ebay-reference="when-likely-does-not-mean-the-same-thing-communication-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-likely-does-not-mean-the-same-thing-communication-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication cards" data-ebay-reference="when-likely-does-not-mean-the-same-thing-communication-cards" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-likely-does-not-mean-the-same-thing-communication-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication cards" data-ebay-reference="when-likely-does-not-mean-the-same-thing-communication-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Emotion Feeling Cards Lanyard Non Verbal Communication Autism ADHD SEN"><img src="https://i.ebayimg.com/images/g/y~kAAeSwpc9qGHLE/s-l225.jpg" alt="Listing image for Emotion Feeling Cards Lanyard Non Verbal Communication Autism ADHD SEN" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-likely-does-not-mean-the-same-thing-communication-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication cards" data-ebay-reference="when-likely-does-not-mean-the-same-thing-communication-cards" target="_blank" rel="sponsored noopener noreferrer">Emotion Feeling Cards Lanyard Non Verbal Communication Autism ADHD SEN</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-likely-does-not-mean-the-same-thing-communication-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication cards" data-ebay-reference="when-likely-does-not-mean-the-same-thing-communication-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for communication cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: communication cards</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-likely-does-not-mean-the-same-thing-communication-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication cards" data-ebay-reference="when-likely-does-not-mean-the-same-thing-communication-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-likely-does-not-mean-the-same-thing-communication-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication cards" data-ebay-reference="when-likely-does-not-mean-the-same-thing-communication-cards" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -606,7 +606,7 @@ Better analytical thinking depends not only on estimating uncertainty well, but 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -626,7 +626,7 @@ Better analytical thinking depends not only on estimating uncertainty well, but 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -658,7 +658,7 @@ Better analytical thinking depends not only on estimating uncertainty well, but 
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -710,7 +710,7 @@ Better analytical thinking depends not only on estimating uncertainty well, but 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -755,7 +755,7 @@ Better analytical thinking depends not only on estimating uncertainty well, but 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -795,93 +795,93 @@ Better analytical thinking depends not only on estimating uncertainty well, but 
 </section>
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCVerbal probabilities: Very likely to be somewhat more  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6469752/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6469752/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>by BC Wintle · 2019 · Cited by 115 — People interpret verbal expressions of probabilities (eg &#x27;very likely&#x27;) in different ways, yet wo...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6469752/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6469752/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by BC Wintle · 2019 · Cited by 115 — People interpret verbal expressions of probabilities (eg &#x27;very likely&#x27;) in different ways, yet wo...</p></details>
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: onlinelibrary.wiley.com  
-   Link:<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/risa.14009" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1111/risa.14009</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryCommunicating uncertainty in national security intelligence...by D Irwin · 2023 · Cited by 36 — Communicate judgment...</p></details>
+   Link: <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/risa.14009" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1111/risa.14009</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryCommunicating uncertainty in national security intelligence...by D Irwin · 2023 · Cited by 36 — Communicate judgment...</p></details>
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: papers.ssrn.com  
-   Link:<a href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3441269_code2173996.pdf?abstractid=3441269&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3441269_code2173996.pdf?abstractid=3441269&amp;mirid=1</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 18 – VARIANTS OF VAGUE VERBIAGEUS Intelligence Community Directive (ICD) 203 provides two sets of verbal uncertainty expressi...</p></details>
+   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3441269_code2173996.pdf?abstractid=3441269&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3441269_code2173996.pdf?abstractid=3441269&amp;mirid=1</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 18 – VARIANTS OF VAGUE VERBIAGEUS Intelligence Community Directive (ICD) 203 provides two sets of verbal uncertainty expressi...</p></details>
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Words of estimative probability  
-   Link:<a href="https://en.wikipedia.org/wiki/Words_of_estimative_probability" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Words_of_estimative_probability</a>  
+   Link: <a href="https://en.wikipedia.org/wiki/Words_of_estimative_probability" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Words_of_estimative_probability</a>  
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9987346/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9987346/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>and Use in the Expression of Estimative Probabilityby B van Tiel · 2022 · Cited by 13 — Words of estimative probability (WEPs), such as &#x27;...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9987346/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9987346/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>and Use in the Expression of Estimative Probabilityby B van Tiel · 2022 · Cited by 13 — Words of estimative probability (WEPs), such as &#x27;...</p></details>
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: jcom.sissa.it  
-   Link:<a href="https://jcom.sissa.it/article/pubid/JCOM_1902_2020_A03/" target="_blank" rel="noopener noreferrer nofollow">https://jcom.sissa.it/article/pubid/JCOM_1902_2020_A03/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Science CommunicationVariability in the interpretation of probability phrases used in...by S Willems · 2020 · Cited by 59 — I...</p></details>
+   Link: <a href="https://jcom.sissa.it/article/pubid/JCOM_1902_2020_A03/" target="_blank" rel="noopener noreferrer nofollow">https://jcom.sissa.it/article/pubid/JCOM_1902_2020_A03/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Science CommunicationVariability in the interpretation of probability phrases used in...by S Willems · 2020 · Cited by 59 — I...</p></details>
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: files.ethz.ch  
-   Link:<a href="https://www.files.ethz.ch/isn/55739/kesselman_thesis_final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.files.ethz.ch/isn/55739/kesselman_thesis_final.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>ETH Zurich FilesVerbal Probability Expressions in National Intelligence...by RF KESSELMAN · Cited by 28 — Sherman Kent&#x27;s classic work “W...</p></details>
+   Link: <a href="https://www.files.ethz.ch/isn/55739/kesselman_thesis_final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.files.ethz.ch/isn/55739/kesselman_thesis_final.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ETH Zurich FilesVerbal Probability Expressions in National Intelligence...by RF KESSELMAN · Cited by 28 — Sherman Kent&#x27;s classic work “W...</p></details>
 
 ### Additional References
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: files.osf.io  
-   Link:<a href="https://files.osf.io/v1/resources/kuyhb/providers/osfstorage/5ec48c36f3e87e007a576dcc?action=download&amp;direct=&amp;version=2" target="_blank" rel="noopener noreferrer nofollow">https://files.osf.io/v1/resources/kuyhb/providers/osfstorage/5ec48c36f3e87e007a576dcc?action=download&amp;direct=&amp;version=2</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>AND US POLICIES FOR COMMUNICATING...by MK Dhami — Despite the various options for communicating probability available to them, both the...</p></details>
+   Link: <a href="https://files.osf.io/v1/resources/kuyhb/providers/osfstorage/5ec48c36f3e87e007a576dcc?action=download&amp;direct=&amp;version=2" target="_blank" rel="noopener noreferrer nofollow">https://files.osf.io/v1/resources/kuyhb/providers/osfstorage/5ec48c36f3e87e007a576dcc?action=download&amp;direct=&amp;version=2</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AND US POLICIES FOR COMMUNICATING...by MK Dhami — Despite the various options for communicating probability available to them, both the...</p></details>
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/335676014_Assessing_and_Communicating_Uncertainty_Effectively_in_a_Rapidly_Changing_World" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/335676014_Assessing_and_Communicating_Uncertainty_Effectively_in_a_Rapidly_Changing_World</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Recent research suggests that communicating probabilities numerically rather than verbally benefits forecasters&#x27; credibility.Read more...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/335676014_Assessing_and_Communicating_Uncertainty_Effectively_in_a_Rapidly_Changing_World" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/335676014_Assessing_and_Communicating_Uncertainty_Effectively_in_a_Rapidly_Changing_World</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Recent research suggests that communicating probabilities numerically rather than verbally benefits forecasters&#x27; credibility.Read more...</p></details>
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: globalsecurity.org  
-   Link:<a href="https://www.globalsecurity.org/intell/ops/probability.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.globalsecurity.org/intell/ops/probability.htm</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Intelligence analysts often resist explicit probability expressions, whether verbal or numerical...Read more...</p></details>
+   Link: <a href="https://www.globalsecurity.org/intell/ops/probability.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.globalsecurity.org/intell/ops/probability.htm</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Intelligence analysts often resist explicit probability expressions, whether verbal or numerical...Read more...</p></details>
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: research.monash.edu  
-   Link:<a href="https://research.monash.edu/en/publications/verbal-probabilities-ivery-likelyi-to-be-isomewhati-more-confusin/" target="_blank" rel="noopener noreferrer nofollow">https://research.monash.edu/en/publications/verbal-probabilities-ivery-likelyi-to-be-isomewhati-more-confusin/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>probabilities: &gt;very likely&gt; to be &gt;somewhat&gt; more...by BC Wintle · 2019 · Cited by 115 — People interpret verbal expressions of probabi...</p></details>
+   Link: <a href="https://research.monash.edu/en/publications/verbal-probabilities-ivery-likelyi-to-be-isomewhati-more-confusin/" target="_blank" rel="noopener noreferrer nofollow">https://research.monash.edu/en/publications/verbal-probabilities-ivery-likelyi-to-be-isomewhati-more-confusin/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>probabilities: &gt;very likely&gt; to be &gt;somewhat&gt; more...by BC Wintle · 2019 · Cited by 115 — People interpret verbal expressions of probabi...</p></details>
 
-12.<a id="endnote-12"></a>
+12. <a id="endnote-12"></a>
    Source: appext.hks.harvard.edu  
-   Link:<a href="https://appext.hks.harvard.edu/publications/getFile.aspx?Id=1326" target="_blank" rel="noopener noreferrer nofollow">https://appext.hks.harvard.edu/publications/getFile.aspx?Id=1326</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>ric percentages or “words of estimative probability.” We administered this survey to...Read more...</p></details>
+   Link: <a href="https://appext.hks.harvard.edu/publications/getFile.aspx?Id=1326" target="_blank" rel="noopener noreferrer nofollow">https://appext.hks.harvard.edu/publications/getFile.aspx?Id=1326</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ric percentages or “words of estimative probability.” We administered this survey to...Read more...</p></details>
 
-13.<a id="endnote-13"></a>
+13. <a id="endnote-13"></a>
    Source: lirias.kuleuven.be  
    Title: be Towards Effective Management of Verbal Probability  
-   Link:<a href="https://lirias.kuleuven.be/retrieve/e54d95f3-0d8c-4508-8f3d-8f6b1f491a91" target="_blank" rel="noopener noreferrer nofollow">https://lirias.kuleuven.be/retrieve/e54d95f3-0d8c-4508-8f3d-8f6b1f491a91</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>by C FLEINER · 2024 · Cited by 3 — In this paper, we propose a co-learning approach with example to efficiently and effectively com...</p></details>
+   Link: <a href="https://lirias.kuleuven.be/retrieve/e54d95f3-0d8c-4508-8f3d-8f6b1f491a91" target="_blank" rel="noopener noreferrer nofollow">https://lirias.kuleuven.be/retrieve/e54d95f3-0d8c-4508-8f3d-8f6b1f491a91</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by C FLEINER · 2024 · Cited by 3 — In this paper, we propose a co-learning approach with example to efficiently and effectively com...</p></details>
 
-14.<a id="endnote-14"></a>
+14. <a id="endnote-14"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/340555055_Variability_in_the_interpretation_of_probability_phrases_used_in_Dutch_news_articles_-_a_risk_for_miscommunication" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/340555055_Variability_in_the_interpretation_of_probability_phrases_used_in_Dutch_news_articles_-_a_risk_for_miscommunication</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>In this study we look at how...Read more...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/340555055_Variability_in_the_interpretation_of_probability_phrases_used_in_Dutch_news_articles_-_a_risk_for_miscommunication" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/340555055_Variability_in_the_interpretation_of_probability_phrases_used_in_Dutch_news_articles_-_a_risk_for_miscommunication</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>In this study we look at how...Read more...</p></details>
 
-15.<a id="endnote-15"></a>
+15. <a id="endnote-15"></a>
    Source: publications.sto.nato.int  
-   Link:<a href="https://publications.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-SAS-OCS-ORA-2019/MP-SAS-OCS-ORA-2019-M-02-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-SAS-OCS-ORA-2019/MP-SAS-OCS-ORA-2019-M-02-1.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>and Communicating Uncertainty Effectively in a...by DR Mandel · Cited by 2 — This prompted Kent and his colleague, Max Foster, to develo...</p></details>
+   Link: <a href="https://publications.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-SAS-OCS-ORA-2019/MP-SAS-OCS-ORA-2019-M-02-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-SAS-OCS-ORA-2019/MP-SAS-OCS-ORA-2019-M-02-1.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Communicating Uncertainty Effectively in a...by DR Mandel · Cited by 2 — This prompted Kent and his colleague, Max Foster, to develo...</p></details>
 
-16.<a id="endnote-16"></a>
+16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: A three-step approach to solve probability word problems  
-   Link:<a href="https://www.youtube.com/watch?v=Pwxrigxzaxs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Pwxrigxzaxs</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Words of estimative probability - YouTube Words of estimative probability - YouTube...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=Pwxrigxzaxs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Pwxrigxzaxs</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Words of estimative probability - YouTube Words of estimative probability - YouTube...</p></details>
 
-17.<a id="endnote-17"></a>
+17. <a id="endnote-17"></a>
    Source: substack.com  
    Title: p 186628752  
-   Link:<a href="https://substack.com/home/post/p-186628752" target="_blank" rel="noopener noreferrer nofollow">https://substack.com/home/post/p-186628752</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Analytic Tradecraft Standard 2: UncertaintyICD 203 prescribes a specific set of probability terms tied to numerical ranges (ICD 203 2015)...</p></details>
+   Link: <a href="https://substack.com/home/post/p-186628752" target="_blank" rel="noopener noreferrer nofollow">https://substack.com/home/post/p-186628752</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Analytic Tradecraft Standard 2: UncertaintyICD 203 prescribes a specific set of probability terms tied to numerical ranges (ICD 203 2015)...</p></details>

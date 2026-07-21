@@ -274,7 +274,7 @@ image: /assets/images/improving_your_think_da4710_tradeoff_thinking_70bcb4_choic
 
 ## Introduction
 
-More options do not automatically produce better decisions. In many real-world situations, the difficulty comes not from the number of alternatives alone but from the growing number of [tradeoffs]({{ 'tradeoffs/' | relative_url }}) that must be compared. Every extra option can introduce a new combination of strengths and weaknesses, forcing people to weigh price against quality, convenience against performance, or short-term gains against long-term benefits. As these [comparisons]({{ 'comparisons/' | relative_url }}) multiply, people often hesitate, postpone the decision or become less confident that they chose well. Research supports this pattern, but it also shows that "choice overload" is not inevitable. It is most likely when people lack clear preferences, must compare many competing attributes and cannot easily eliminate inferior options.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11111947/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nih.gov</span><span class="citation-popover-title">PMC11111947</span><span class="citation-popover-snippet">PMCfuture research directions in choice overload and its moderatorsby R Misuraca · 2024 · Cited by 40 — A famous field study conducted by...</span></span></span>
+More options do not automatically produce better decisions. In many real-world situations, the difficulty comes not from the number of alternatives alone but from the growing number of [tradeoffs]({{ 'tradeoffs/' | relative_url }}) that must be compared. Every extra option can introduce a new combination of strengths and weaknesses, forcing people to weigh price against quality, convenience against performance, or short-term gains against long-term benefits. As these [comparisons]({{ 'comparisons/' | relative_url }}) multiply, people often hesitate, postpone the decision or become less confident that they chose well. Research supports this pattern, but it also shows that "choice overload" is not inevitable. It is most likely when people lack clear preferences, must compare many competing attributes and cannot easily eliminate inferior options. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11111947/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nih.gov</span><span class="citation-popover-title">PMC11111947</span><span class="citation-popover-snippet">PMCfuture research directions in choice overload and its moderatorsby R Misuraca · 2024 · Cited by 40 — A famous field study conducted by...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_tradeoff_thinking_70bcb4_choice_overload_trad_c5900b-Illustration-1-dark.svg" | relative_url }}" alt="Choice Overload illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_tradeoff_thinking_70bcb4_choice_overload_trad_c5900b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_tradeoff_thinking_70bcb4_choice_overload_trad_c5900b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -294,7 +294,7 @@ Research increasingly distinguishes these situations. The psychological burden g
 * options differ across several important dimensions;
 * no option is clearly superior;
 * the decision-maker lacks a clear ranking of priorities; and
-* each additional option creates new pairwise comparisons rather than simply adding a similar alternative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11111947/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nih.gov</span><span class="citation-popover-title">PMC11111947</span><span class="citation-popover-snippet">PMCfuture research directions in choice overload and its moderatorsby R Misuraca · 2024 · Cited by 40 — A famous field study conducted by...</span></span></span>
+* each additional option creates new pairwise comparisons rather than simply adding a similar alternative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11111947/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nih.gov</span><span class="citation-popover-title">PMC11111947</span><span class="citation-popover-snippet">PMCfuture research directions in choice overload and its moderatorsby R Misuraca · 2024 · Cited by 40 — A famous field study conducted by...</span></span></span>
 
 </div>
 
@@ -307,7 +307,7 @@ For improving analytical thinking, this distinction matters. The real challenge 
 
 Choice overload becomes much more likely when people are uncertain about what they value most.
 
-Studies reviewed across two decades consistently show that people with established preferences are less vulnerable to overload. Someone who already knows they want the lightest bicycle or the cheapest flight can ignore many irrelevant attributes and eliminate large numbers of options quickly. By contrast, people who are exploring an unfamiliar category must evaluate nearly every feature, making comparison substantially more demanding.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://scheibehenne.com/ScheibehenneGreifenederTodd2010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scheibehenne.com">[scheibehenne.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scheibehenne.com</span><span class="citation-popover-title">Can There Ever Be Too Many Options?</span><span class="citation-popover-snippet">A Meta-Analytic...by B SCHEIBEHENNE · Cited by 1730 — The choice overload hypothesis states that an increase in the number of options to...</span></span></span>
+Studies reviewed across two decades consistently show that people with established preferences are less vulnerable to overload. Someone who already knows they want the lightest bicycle or the cheapest flight can ignore many irrelevant attributes and eliminate large numbers of options quickly. By contrast, people who are exploring an unfamiliar category must evaluate nearly every feature, making comparison substantially more demanding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://scheibehenne.com/ScheibehenneGreifenederTodd2010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scheibehenne.com">[scheibehenne.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scheibehenne.com</span><span class="citation-popover-title">Can There Ever Be Too Many Options?</span><span class="citation-popover-snippet">A Meta-Analytic...by B SCHEIBEHENNE · Cited by 1730 — The choice overload hypothesis states that an increase in the number of options to...</span></span></span>
 
 This explains why buying a first home, selecting a pension plan or choosing a university course often feels more exhausting than making routine supermarket purchases. The decision is not merely larger—it requires discovering personal priorities while simultaneously evaluating alternatives.
 
@@ -320,7 +320,7 @@ Researchers have also identified several conditions that increase overload:
 * absence of a clearly dominant option;
 * many attractive alternatives with different strengths;
 * poorly defined personal preferences; and
-* decisions requiring simultaneous comparison across numerous attributes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://scheibehenne.com/ScheibehenneGreifenederTodd2010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scheibehenne.com">[scheibehenne.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scheibehenne.com</span><span class="citation-popover-title">Can There Ever Be Too Many Options?</span><span class="citation-popover-snippet">A Meta-Analytic...by B SCHEIBEHENNE · Cited by 1730 — The choice overload hypothesis states that an increase in the number of options to...</span></span></span>
+* decisions requiring simultaneous comparison across numerous attributes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://scheibehenne.com/ScheibehenneGreifenederTodd2010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scheibehenne.com">[scheibehenne.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scheibehenne.com</span><span class="citation-popover-title">Can There Ever Be Too Many Options?</span><span class="citation-popover-snippet">A Meta-Analytic...by B SCHEIBEHENNE · Cited by 1730 — The choice overload hypothesis states that an increase in the number of options to...</span></span></span>
 
 </div>
 
@@ -330,13 +330,13 @@ These findings fit naturally with tradeoff thinking. When values are unclear, ev
 <img src="{{ "/assets/images/improving_your_think_da4710_tradeoff_thinking_70bcb4_choice_overload_trad_c5900b-Illustration-2-dark.svg" | relative_url }}" alt="Choice Overload illustration 2" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_tradeoff_thinking_70bcb4_choice_overload_trad_c5900b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_tradeoff_thinking_70bcb4_choice_overload_trad_c5900b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The evidence is more nuanced than "more choice is always worse"
 
-The popular idea of the "paradox of choice" was strongly influenced by the famous jam tasting experiment by Sheena Iyengar and Mark Lepper. Shoppers were more likely to stop at a display with twenty-four jams than one with six, but purchases were reportedly higher from the smaller assortment. The study became an influential illustration that extensive choice could reduce commitment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://faculty.washington.edu/jdb/345/345%20Articles/Iyengar%20%26%20Lepper%20%282000%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faculty.washington.edu">[UW Faculty]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faculty.washington.edu</span><span class="citation-popover-snippet">UW FacultyWhen Choice is Demotivating: Can One Desire Too Much...August 30, 2001 — by SS Iyengar · 2000 · Cited by 6949 — Current psycho...</span><span class="citation-popover-meta">Published: August 30, 2001</span></span></span>
+The popular idea of the "paradox of choice" was strongly influenced by the famous jam tasting experiment by Sheena Iyengar and Mark Lepper. Shoppers were more likely to stop at a display with twenty-four jams than one with six, but purchases were reportedly higher from the smaller assortment. The study became an influential illustration that extensive choice could reduce commitment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://faculty.washington.edu/jdb/345/345%20Articles/Iyengar%20%26%20Lepper%20%282000%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faculty.washington.edu">[UW Faculty]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faculty.washington.edu</span><span class="citation-popover-snippet">UW FacultyWhen Choice is Demotivating: Can One Desire Too Much...August 30, 2001 — by SS Iyengar · 2000 · Cited by 6949 — Current psycho...</span><span class="citation-popover-meta">Published: August 30, 2001</span></span></span>
 
 However, later evidence paints a more complicated picture.
 
-A major meta-analysis combining results from dozens of experiments found that the average overall effect of choice overload was close to zero. Rather than concluding that the phenomenon does not exist, the authors argued that its effects depend heavily on context. Some situations reliably produce overload, while others show neutral or even positive effects from larger assortments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://scheibehenne.com/ScheibehenneGreifenederTodd2010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scheibehenne.com">[scheibehenne.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scheibehenne.com</span><span class="citation-popover-title">Can There Ever Be Too Many Options?</span><span class="citation-popover-snippet">A Meta-Analytic...by B SCHEIBEHENNE · Cited by 1730 — The choice overload hypothesis states that an increase in the number of options to...</span></span></span>
+A major meta-analysis combining results from dozens of experiments found that the average overall effect of choice overload was close to zero. Rather than concluding that the phenomenon does not exist, the authors argued that its effects depend heavily on context. Some situations reliably produce overload, while others show neutral or even positive effects from larger assortments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://scheibehenne.com/ScheibehenneGreifenederTodd2010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scheibehenne.com">[scheibehenne.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scheibehenne.com</span><span class="citation-popover-title">Can There Ever Be Too Many Options?</span><span class="citation-popover-snippet">A Meta-Analytic...by B SCHEIBEHENNE · Cited by 1730 — The choice overload hypothesis states that an increase in the number of options to...</span></span></span>
 
-Subsequent conceptual reviews reached a similar conclusion. Larger assortments can be valuable because they improve the chance of finding a better match, satisfy diverse preferences and increase perceived freedom. Negative [outcomes]({{ 'outcomes/' | relative_url }}) become more likely only when comparison becomes cognitively demanding relative to the decision-maker's knowledge and goals.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.semanticscholar.org/paper/Choice-overload%3A-A-conceptual-review-and-Chernev-B%C3%B6ckenholt/48a0eba4bb1df2c391844aae409873942275ba09" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semanticscholar.org">[Semantic Scholar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semanticscholar.org</span><span class="citation-popover-snippet">Semantic ScholarChoice overload: A conceptual review and meta-analysis1 Apr 2015 — On the advantages and disadvantages of choice: future...</span></span></span>
+Subsequent conceptual reviews reached a similar conclusion. Larger assortments can be valuable because they improve the chance of finding a better match, satisfy diverse preferences and increase perceived freedom. Negative [outcomes]({{ 'outcomes/' | relative_url }}) become more likely only when comparison becomes cognitively demanding relative to the decision-maker's knowledge and goals. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.semanticscholar.org/paper/Choice-overload%3A-A-conceptual-review-and-Chernev-B%C3%B6ckenholt/48a0eba4bb1df2c391844aae409873942275ba09" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semanticscholar.org">[Semantic Scholar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semanticscholar.org</span><span class="citation-popover-snippet">Semantic ScholarChoice overload: A conceptual review and meta-analysis1 Apr 2015 — On the advantages and disadvantages of choice: future...</span></span></span>
 
 For analytical thinking, this is an important correction. Simply reducing the number of options is not automatically beneficial. Reducing unnecessary comparison effort is usually the more useful objective.
 
@@ -349,7 +349,7 @@ When tradeoffs become increasingly difficult to compare, several predictable beh
 
 People may delay choosing because they anticipate the effort required to evaluate every possibility. They may also experience greater regret, since more alternatives make it easier to imagine that another option would have been slightly better.
 
-Another common response is simplifying the decision by relying on shortcuts rather than deliberate comparison. Examples include choosing the default option, selecting the most familiar brand or focusing on a single attribute while ignoring others. These strategies reduce cognitive effort but can also overlook important tradeoffs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://scheibehenne.com/ScheibehenneGreifenederTodd2010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scheibehenne.com">[scheibehenne.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scheibehenne.com</span><span class="citation-popover-title">Can There Ever Be Too Many Options?</span><span class="citation-popover-snippet">A Meta-Analytic...by B SCHEIBEHENNE · Cited by 1730 — The choice overload hypothesis states that an increase in the number of options to...</span></span></span>
+Another common response is simplifying the decision by relying on shortcuts rather than deliberate comparison. Examples include choosing the default option, selecting the most familiar brand or focusing on a single attribute while ignoring others. These strategies reduce cognitive effort but can also overlook important tradeoffs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://scheibehenne.com/ScheibehenneGreifenederTodd2010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scheibehenne.com">[scheibehenne.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scheibehenne.com</span><span class="citation-popover-title">Can There Ever Be Too Many Options?</span><span class="citation-popover-snippet">A Meta-Analytic...by B SCHEIBEHENNE · Cited by 1730 — The choice overload hypothesis states that an increase in the number of options to...</span></span></span>
 
 From the perspective of analytical skill, the problem is therefore not merely slower decisions. It is that excessive comparison complexity can shift people away from reasoned evaluation towards convenient heuristics.
 
@@ -384,194 +384,194 @@ Choice overload is best understood as a problem of comparison rather than abunda
 For realistic decision-making, the most valuable analytical habit is therefore not asking, "How can I consider every possibility?" Instead, it is asking, "Which tradeoffs actually matter for this decision?" Once those priorities are explicit, even a large choice set becomes more manageable, while many apparently difficult decisions shrink into a comparison of only a few meaningful alternatives.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why More Choice Can Feel Worse. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why More Choice Can Feel Worse. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Paradox+of+Choice+by+Barry+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Paradox of Choice on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OG0GzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Paradox of Choice" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Paradox+of+Choice+by+Barry+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Paradox of Choice">The Paradox of Choice</a>
-</h4>
-<p class="fr-book-author">By Barry Schwartz</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Paradox+of+Choice+Barry+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Paradox of Choice on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OG0GzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Paradox of Choice" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Paradox+of+Choice+Barry+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Paradox of Choice">The Paradox of Choice</a>
+        </h4>
+        <p class="fr-book-author">By Barry Schwartz</p>
         
-<p class="fr-book-desc">Directly addresses why more options can reduce satisfaction and confidence.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Paradox+of+Choice+by+Barry+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly addresses why more options can reduce satisfaction and confidence.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Paradox+of+Choice+Barry+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decisive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQmv39K-P54C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Decisive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decisive">Decisive</a>
-</h4>
-<p class="fr-book-author">By Chip Heath, Dan Heath</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking+in+Bets+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking in Bets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hOZFDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Thinking in Bets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Thinking+in+Bets+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking in Bets">Thinking in Bets</a>
+        </h4>
+        <p class="fr-book-author">By Annie Duke</p>
         
-<p class="fr-book-desc">Offers strategies for simplifying difficult choices.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Encourages better decisions despite uncertainty and competing tradeoffs.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Thinking+in+Bets+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking+in+Bets+by+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking in Bets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VcouDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking in Bets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Thinking+in+Bets+by+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking in Bets">Thinking in Bets</a>
-</h4>
-<p class="fr-book-author">By Annie Duke</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Decisive+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decisive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aECTEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Decisive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Decisive+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decisive">Decisive</a>
+        </h4>
+        <p class="fr-book-author">By Chip Heath, Dan Heath</p>
         
-<p class="fr-book-desc">Encourages better decisions despite uncertainty and competing tradeoffs.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Thinking+in+Bets+by+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Offers strategies for simplifying difficult choices.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Decisive+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-</h4>
-<p class="fr-book-author">By Daniel Kahneman</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Nudge+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nudge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NGA9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Nudge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Nudge+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nudge">Nudge</a>
+        </h4>
+        <p class="fr-book-author">By Richard H. Thaler, Cass R. Sunstein</p>
         
-<p class="fr-book-desc">Explains mental shortcuts involved in complex choice.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explores how decision environments affect choices and comparisons.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Nudge+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Paradox+of+Choice&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Paradox of Choice</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Decisive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Decisive</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking+in+Bets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking in Bets</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Paradox+of+Choice&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Paradox of Choice</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking+in+Bets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking in Bets</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Decisive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Decisive</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-more-choice-can-feel-worse-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="why-more-choice-can-feel-worse-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for High Quality Desk Name, Custom Engraved Sign, Name Plaque, Office"><img src="https://i.ebayimg.com/images/g/cRMAAOSwmLlX4R1b/s-l225.jpg" alt="Listing image for High Quality Desk Name, Custom Engraved Sign, Name Plaque, Office" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-more-choice-can-feel-worse-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="why-more-choice-can-feel-worse-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer">High Quality Desk Name, Custom Engraved Sign, Name Plaque, Office</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-more-choice-can-feel-worse-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="why-more-choice-can-feel-worse-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office desk sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: office desk sign</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-more-choice-can-feel-worse-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="why-more-choice-can-feel-worse-office-desk-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-more-choice-can-feel-worse-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="why-more-choice-can-feel-worse-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for High Quality Desk Name, Custom Engraved Sign, Name Plaque, Office"><img src="https://i.ebayimg.com/images/g/cRMAAOSwmLlX4R1b/s-l225.jpg" alt="Listing image for High Quality Desk Name, Custom Engraved Sign, Name Plaque, Office" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-more-choice-can-feel-worse-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="why-more-choice-can-feel-worse-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer">High Quality Desk Name, Custom Engraved Sign, Name Plaque, Office</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-more-choice-can-feel-worse-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="why-more-choice-can-feel-worse-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office desk sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: office desk sign</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-more-choice-can-feel-worse-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="why-more-choice-can-feel-worse-office-desk-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-more-choice-can-feel-worse-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="why-more-choice-can-feel-worse-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Text Mini Folding Signs - Novelty Warning Caution Office Desk Gift"><img src="https://i.ebayimg.com/images/g/j60AAeSwrWdp-Kd1/s-l225.jpg" alt="Listing image for Personalised Text Mini Folding Signs - Novelty Warning Caution Office Desk Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-more-choice-can-feel-worse-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="why-more-choice-can-feel-worse-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer">Personalised Text Mini Folding Signs - Novelty Warning Caution Office Desk Gift</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-more-choice-can-feel-worse-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="why-more-choice-can-feel-worse-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office desk sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: office desk sign</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-more-choice-can-feel-worse-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="why-more-choice-can-feel-worse-office-desk-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-more-choice-can-feel-worse-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="why-more-choice-can-feel-worse-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Text Mini Folding Signs - Novelty Warning Caution Office Desk Gift"><img src="https://i.ebayimg.com/images/g/j60AAeSwrWdp-Kd1/s-l225.jpg" alt="Listing image for Personalised Text Mini Folding Signs - Novelty Warning Caution Office Desk Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-more-choice-can-feel-worse-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="why-more-choice-can-feel-worse-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer">Personalised Text Mini Folding Signs - Novelty Warning Caution Office Desk Gift</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-more-choice-can-feel-worse-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="why-more-choice-can-feel-worse-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office desk sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: office desk sign</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-more-choice-can-feel-worse-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="why-more-choice-can-feel-worse-office-desk-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-more-choice-can-feel-worse-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="why-more-choice-can-feel-worse-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sh*t Show Supervisor Sign | Funny Office Desk Plaque"><img src="https://i.ebayimg.com/images/g/978AAeSw5-9p9Bp2/s-l225.jpg" alt="Listing image for Sh*t Show Supervisor Sign | Funny Office Desk Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-more-choice-can-feel-worse-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="why-more-choice-can-feel-worse-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer">Sh*t Show Supervisor Sign | Funny Office Desk Plaque</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-more-choice-can-feel-worse-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="why-more-choice-can-feel-worse-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office desk sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: office desk sign</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-more-choice-can-feel-worse-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="why-more-choice-can-feel-worse-office-desk-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-more-choice-can-feel-worse-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="why-more-choice-can-feel-worse-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sh*t Show Supervisor Sign | Funny Office Desk Plaque"><img src="https://i.ebayimg.com/images/g/978AAeSw5-9p9Bp2/s-l225.jpg" alt="Listing image for Sh*t Show Supervisor Sign | Funny Office Desk Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-more-choice-can-feel-worse-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="why-more-choice-can-feel-worse-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer">Sh*t Show Supervisor Sign | Funny Office Desk Plaque</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-more-choice-can-feel-worse-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="why-more-choice-can-feel-worse-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office desk sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: office desk sign</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-more-choice-can-feel-worse-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="why-more-choice-can-feel-worse-office-desk-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-more-choice-can-feel-worse-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="why-more-choice-can-feel-worse-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalized Acrylic Name Plate Desk Sign Plaque Gift for Teacher Co-workers"><img src="https://i.ebayimg.com/images/g/0T8AAOSw42hkZfZ3/s-l225.jpg" alt="Listing image for Personalized Acrylic Name Plate Desk Sign Plaque Gift for Teacher Co-workers" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-more-choice-can-feel-worse-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="why-more-choice-can-feel-worse-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer">Personalized Acrylic Name Plate Desk Sign Plaque Gift for Teacher Co-workers</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-more-choice-can-feel-worse-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="why-more-choice-can-feel-worse-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office desk sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: office desk sign</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-more-choice-can-feel-worse-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="why-more-choice-can-feel-worse-office-desk-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-more-choice-can-feel-worse-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="why-more-choice-can-feel-worse-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-more-choice-can-feel-worse-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="why-more-choice-can-feel-worse-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalized Acrylic Name Plate Desk Sign Plaque Gift for Teacher Co-workers"><img src="https://i.ebayimg.com/images/g/0T8AAOSw42hkZfZ3/s-l225.jpg" alt="Listing image for Personalized Acrylic Name Plate Desk Sign Plaque Gift for Teacher Co-workers" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-more-choice-can-feel-worse-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="why-more-choice-can-feel-worse-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer">Personalized Acrylic Name Plate Desk Sign Plaque Gift for Teacher Co-workers</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-more-choice-can-feel-worse-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="why-more-choice-can-feel-worse-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office desk sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: office desk sign</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-more-choice-can-feel-worse-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="why-more-choice-can-feel-worse-office-desk-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-more-choice-can-feel-worse-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="why-more-choice-can-feel-worse-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -587,7 +587,7 @@ For realistic decision-making, the most valuable analytical habit is therefore n
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -607,7 +607,7 @@ For realistic decision-making, the most valuable analytical habit is therefore n
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -639,7 +639,7 @@ For realistic decision-making, the most valuable analytical habit is therefore n
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -691,7 +691,7 @@ For realistic decision-making, the most valuable analytical habit is therefore n
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -736,7 +736,7 @@ For realistic decision-making, the most valuable analytical habit is therefore n
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -776,70 +776,70 @@ For realistic decision-making, the most valuable analytical habit is therefore n
 </section>
 ## Endnotes
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: scheibehenne.com  
    Title: Can There Ever Be Too Many Options?  
-   Link:<a href="https://scheibehenne.com/ScheibehenneGreifenederTodd2010.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scheibehenne.com/ScheibehenneGreifenederTodd2010.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>A Meta-Analytic...by B SCHEIBEHENNE · Cited by 1730 — The choice overload hypothesis states that an increase in the number of options to...</p></details>
+   Link: <a href="https://scheibehenne.com/ScheibehenneGreifenederTodd2010.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scheibehenne.com/ScheibehenneGreifenederTodd2010.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Meta-Analytic...by B SCHEIBEHENNE · Cited by 1730 — The choice overload hypothesis states that an increase in the number of options to...</p></details>
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: faculty.washington.edu  
-   Link:<a href="https://faculty.washington.edu/jdb/345/345%20Articles/Iyengar%20%26%20Lepper%20%282000%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://faculty.washington.edu/jdb/345/345%20Articles/Iyengar%20%26%20Lepper%20%282000%29.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>UW FacultyWhen Choice is Demotivating: Can One Desire Too Much...August 30, 2001 — by SS Iyengar · 2000 · Cited by 6949 — Current psycho...</p></details>
+   Link: <a href="https://faculty.washington.edu/jdb/345/345%20Articles/Iyengar%20%26%20Lepper%20%282000%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://faculty.washington.edu/jdb/345/345%20Articles/Iyengar%20%26%20Lepper%20%282000%29.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UW FacultyWhen Choice is Demotivating: Can One Desire Too Much...August 30, 2001 — by SS Iyengar · 2000 · Cited by 6949 — Current psycho...</p></details>
    Published: August 30, 2001  
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: semanticscholar.org  
-   Link:<a href="https://www.semanticscholar.org/paper/Choice-overload%3A-A-conceptual-review-and-Chernev-B%C3%B6ckenholt/48a0eba4bb1df2c391844aae409873942275ba09" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Choice-overload%3A-A-conceptual-review-and-Chernev-B%C3%B6ckenholt/48a0eba4bb1df2c391844aae409873942275ba09</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Semantic ScholarChoice overload: A conceptual review and meta-analysis1 Apr 2015 — On the advantages and disadvantages of choice: future...</p></details>
+   Link: <a href="https://www.semanticscholar.org/paper/Choice-overload%3A-A-conceptual-review-and-Chernev-B%C3%B6ckenholt/48a0eba4bb1df2c391844aae409873942275ba09" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Choice-overload%3A-A-conceptual-review-and-Chernev-B%C3%B6ckenholt/48a0eba4bb1df2c391844aae409873942275ba09</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Semantic ScholarChoice overload: A conceptual review and meta-analysis1 Apr 2015 — On the advantages and disadvantages of choice: future...</p></details>
 
 ### Additional References
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/48210291_Can_There_Ever_be_Too_Many_Options_A_Meta-analytic_Review_of_Choice_Overload" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/48210291_Can_There_Ever_be_Too_Many_Options_A_Meta-analytic_Review_of_Choice_Overload</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Can There Ever be Too Many Options? A Meta-analytic...The choice overload hypothesis states that an increase in the number of options to...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/48210291_Can_There_Ever_be_Too_Many_Options_A_Meta-analytic_Review_of_Choice_Overload" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/48210291_Can_There_Ever_be_Too_Many_Options_A_Meta-analytic_Review_of_Choice_Overload</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Can There Ever be Too Many Options? A Meta-analytic...The choice overload hypothesis states that an increase in the number of options to...</p></details>
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: thedecisionlab.com  
-   Link:<a href="https://thedecisionlab.com/biases/choice-overload-bias" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/choice-overload-bias</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Choice Overload BiasChoice overload, or &quot;overchoice&quot;, is a phenomena stating our tendency to have difficulty making a choice if presented...</p></details>
+   Link: <a href="https://thedecisionlab.com/biases/choice-overload-bias" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/choice-overload-bias</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Choice Overload BiasChoice overload, or &quot;overchoice&quot;, is a phenomena stating our tendency to have difficulty making a choice if presented...</p></details>
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: behavioralscientist.org  
-   Link:<a href="https://behavioralscientist.org/is-having-too-many-choices-versus-too-few-really-the-greater-problem-for-consumers/" target="_blank" rel="noopener noreferrer nofollow">https://behavioralscientist.org/is-having-too-many-choices-versus-too-few-really-the-greater-problem-for-consumers/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>ere the number of options participants reporting having was larger than the number of...Read more...</p></details>
+   Link: <a href="https://behavioralscientist.org/is-having-too-many-choices-versus-too-few-really-the-greater-problem-for-consumers/" target="_blank" rel="noopener noreferrer nofollow">https://behavioralscientist.org/is-having-too-many-choices-versus-too-few-really-the-greater-problem-for-consumers/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ere the number of options participants reporting having was larger than the number of...Read more...</p></details>
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: papers.ssrn.com  
    Title: SSRN ID4434106 code1410331  
-   Link:<a href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID4434106_code1410331.pdf?abstractid=4434106&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID4434106_code1410331.pdf?abstractid=4434106&amp;mirid=1</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Overload: A Systematic Literature ReviewSome academics have acknowledged that decision complexity resulting from a large number of option...</p></details>
+   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID4434106_code1410331.pdf?abstractid=4434106&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID4434106_code1410331.pdf?abstractid=4434106&amp;mirid=1</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Overload: A Systematic Literature ReviewSome academics have acknowledged that decision complexity resulting from a large number of option...</p></details>
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: youtube.com  
-   Link:<a href="https://www.youtube.com/watch?v=mgC3Lk42Voc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mgC3Lk42Voc</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Too Many Choices Makes Us Miserable | Shrink Space E.70...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=mgC3Lk42Voc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mgC3Lk42Voc</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Too Many Choices Makes Us Miserable | Shrink Space E.70...</p></details>
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: Information Overload Explained: How Netflix Tries to Help Users  
-   Link:<a href="https://www.youtube.com/watch?v=IJXb4DOfvRI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IJXb4DOfvRI</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Multi-Criteria Decision Analysis (MCDA): The Method for High-Impact Complex Decisions...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=IJXb4DOfvRI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IJXb4DOfvRI</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Multi-Criteria Decision Analysis (MCDA): The Method for High-Impact Complex Decisions...</p></details>
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: The Overchoice Paradox: Why More Options Make You Miserable  
-   Link:<a href="https://www.youtube.com/watch?v=AaXi1ELlG60" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AaXi1ELlG60</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Information Overload Explained: How Netflix Tries to Help Users...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=AaXi1ELlG60" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AaXi1ELlG60</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Information Overload Explained: How Netflix Tries to Help Users...</p></details>
 
-12.<a id="endnote-12"></a>
+12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: The paradox of choice | Barry Schwartz | TED  
-   Link:<a href="https://www.youtube.com/watch?v=VO6XEQIsCoM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VO6XEQIsCoM</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Overchoice Paradox: Why More Options Make You Miserable...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=VO6XEQIsCoM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VO6XEQIsCoM</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Overchoice Paradox: Why More Options Make You Miserable...</p></details>
 
-13.<a id="endnote-13"></a>
+13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: Why Too Many Choices Makes Us Miserable | Shrink Space E.70  
-   Link:<a href="https://www.youtube.com/watch?v=p1V7prl0l34" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=p1V7prl0l34</a>  
+   Link: <a href="https://www.youtube.com/watch?v=p1V7prl0l34" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=p1V7prl0l34</a>  

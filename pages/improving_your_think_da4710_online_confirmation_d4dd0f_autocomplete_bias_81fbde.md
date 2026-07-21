@@ -280,7 +280,7 @@ image: /assets/images/improving_your_think_da4710_online_confirmation_d4dd0f_aut
 
 ## Introduction
 
-Autocomplete is designed to save time, but it can also shape the direction of an investigation before you have fully decided what you want to ask. As you begin typing, suggested completions present ready-made ways of [framing]({{ 'framing/' | relative_url }}) the topic. Choosing one is often efficient, yet it may also steer the search towards popular assumptions, familiar controversies or emotionally charged questions instead of the balanced question you intended. This matters because confirmation bias does not begin only after you read search results; it can begin at the moment you accept a suggested query. Research on the "[narrow search effect]({{ 'narrow-search/' | relative_url }})" shows that the wording of search terms influences the range of information people encounter and how much they update their beliefs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/40127267/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The narrow search effect and how broadening...by E Leung · 2025 · Cited by 13 — Studies 1 to 5 show that users&#x27; prior beliefs infl...</span></span></span>
+Autocomplete is designed to save time, but it can also shape the direction of an investigation before you have fully decided what you want to ask. As you begin typing, suggested completions present ready-made ways of [framing]({{ 'framing/' | relative_url }}) the topic. Choosing one is often efficient, yet it may also steer the search towards popular assumptions, familiar controversies or emotionally charged questions instead of the balanced question you intended. This matters because confirmation bias does not begin only after you read search results; it can begin at the moment you accept a suggested query. Research on the "[narrow search effect]({{ 'narrow-search/' | relative_url }})" shows that the wording of search terms influences the range of information people encounter and how much they update their beliefs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/40127267/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The narrow search effect and how broadening...by E Leung · 2025 · Cited by 13 — Studies 1 to 5 show that users&#x27; prior beliefs infl...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_online_confirmation_d4dd0f_autocomplete_bias_81fbde-Illustration-1-dark.svg" | relative_url }}" alt="Autocomplete illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_online_confirmation_d4dd0f_autocomplete_bias_81fbde-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_online_confirmation_d4dd0f_autocomplete_bias_81fbde-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,7 +288,7 @@ Autocomplete is designed to save time, but it can also shape the direction of an
 
 Autocomplete feels like a convenience rather than a recommendation. The suggestions appear automatically, are presented neutrally and require only a single click. This makes them easy to treat as objective rather than as one possible framing among many.
 
-Search providers themselves describe autocomplete primarily as a speed feature. Google's documentation explains that [predictions]({{ 'predictions/' | relative_url }}) are generated automatically to help people complete searches more quickly, drawing on factors such as common searches and language patterns rather than acting as an expert guide to the best question to ask.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.google.com/websearch/answer/7368877?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.google.com">[Google Help]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.google.com</span><span class="citation-popover-snippet">Google HelpHow Google autocomplete predictions workAutocomplete is a feature within Google Search that makes it faster to complete search...</span></span></span>
+Search providers themselves describe autocomplete primarily as a speed feature. Google's documentation explains that [predictions]({{ 'predictions/' | relative_url }}) are generated automatically to help people complete searches more quickly, drawing on factors such as common searches and language patterns rather than acting as an expert guide to the best question to ask. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.google.com/websearch/answer/7368877?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.google.com">[Google Help]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.google.com</span><span class="citation-popover-snippet">Google HelpHow Google autocomplete predictions workAutocomplete is a feature within Google Search that makes it faster to complete search...</span></span></span>
 
 The problem is psychological rather than purely technical. People often interpret an easily available suggestion as a reasonable place to begin. When the suggestion happens to align with an existing suspicion, it removes the small moment of reflection in which a different, more neutral question might have been written instead.
 
@@ -310,7 +310,7 @@ Once a suggested completion is selected, several reinforcing steps can follow:
 
 </div>
 
-This complements the broader "narrow search effect" identified in experimental research. Studies found that people's prior beliefs influenced the search terms they chose, which then produced narrower evidence and reduced later belief updating across multiple topics and across both traditional search engines and AI-assisted search systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/40127267/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The narrow search effect and how broadening...by E Leung · 2025 · Cited by 13 — Studies 1 to 5 show that users&#x27; prior beliefs infl...</span></span></span>
+This complements the broader "narrow search effect" identified in experimental research. Studies found that people's prior beliefs influenced the search terms they chose, which then produced narrower evidence and reduced later belief updating across multiple topics and across both traditional search engines and AI-assisted search systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/40127267/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The narrow search effect and how broadening...by E Leung · 2025 · Cited by 13 — Studies 1 to 5 show that users&#x27; prior beliefs infl...</span></span></span>
 
 Autocomplete can accelerate this process because it supplies candidate queries before the user has consciously considered alternative ways of framing the issue.
 
@@ -332,7 +332,7 @@ All three concern the same topic, but they ask fundamentally different questions
 
 ## Popular Does Not Mean Representative
 
-Autocomplete suggestions often reflect patterns in previous searches, current events and other signals of user behaviour. As a result, they tend to amplify questions that many people have already asked rather than questions that are necessarily the most informative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.google.com/websearch/answer/7368877?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.google.com">[Google Help]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.google.com</span><span class="citation-popover-snippet">Google HelpHow Google autocomplete predictions workAutocomplete is a feature within Google Search that makes it faster to complete search...</span></span></span>
+Autocomplete suggestions often reflect patterns in previous searches, current events and other signals of user behaviour. As a result, they tend to amplify questions that many people have already asked rather than questions that are necessarily the most informative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.google.com/websearch/answer/7368877?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.google.com">[Google Help]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.google.com</span><span class="citation-popover-snippet">Google HelpHow Google autocomplete predictions workAutocomplete is a feature within Google Search that makes it faster to complete search...</span></span></span>
 
 Popularity creates two risks.
 
@@ -340,7 +340,7 @@ First, unusual events receive disproportionate attention. A widely reported inci
 
 Second, controversy is often more searchable than careful analysis. Questions beginning with "why is…", "is it true that…" or "does X cause…" frequently spread because they are memorable and emotionally engaging. Their appearance in autocomplete should not be mistaken for evidence that the implied premise is correct.
 
-Researchers studying search suggestions have also shown that users frequently develop informal theories about how autocomplete works, often assuming suggestions represent objective importance rather than the outcome of automated systems responding to aggregate behaviour. Misunderstanding this process can lead people to place greater trust in suggested queries than is warranted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/14614448251406282" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsExamining how search engine users understand the...27 Dec 2025 — In this research, I examine regular end-users&#x27; folk theori...</span></span></span>
+Researchers studying search suggestions have also shown that users frequently develop informal theories about how autocomplete works, often assuming suggestions represent objective importance rather than the outcome of automated systems responding to aggregate behaviour. Misunderstanding this process can lead people to place greater trust in suggested queries than is warranted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/14614448251406282" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsExamining how search engine users understand the...27 Dec 2025 — In this research, I examine regular end-users&#x27; folk theori...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_online_confirmation_d4dd0f_autocomplete_bias_81fbde-Illustration-2-dark.svg" | relative_url }}" alt="Autocomplete illustration 2" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_online_confirmation_d4dd0f_autocomplete_bias_81fbde-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_online_confirmation_d4dd0f_autocomplete_bias_81fbde-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -348,9 +348,9 @@ Researchers studying search suggestions have also shown that users frequently de
 
 Autocomplete systems have attracted attention because they sometimes reproduce social biases or encourage problematic lines of enquiry.
 
-Academic work has examined ethical concerns surrounding autocomplete, including how automated suggestions can reinforce stereotypes or amplify patterns already present in search behaviour. Researchers emphasise that the feature is not simply a passive mirror of society; design choices about filtering, ranking and suppression also influence which suggestions appear.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://research.birmingham.ac.uk/files/191405983/20539517231156518.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.birmingham.ac.uk">[University of Birmingham]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.birmingham.ac.uk</span><span class="citation-popover-snippet">University of BirminghamThe ethical dimensions of Google autocompleteby R Graham · 2023 · Cited by 21 — This article highlights some of t...</span></span></span>
+Academic work has examined ethical concerns surrounding autocomplete, including how automated suggestions can reinforce stereotypes or amplify patterns already present in search behaviour. Researchers emphasise that the feature is not simply a passive mirror of society; design choices about filtering, ranking and suppression also influence which suggestions appear. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://research.birmingham.ac.uk/files/191405983/20539517231156518.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.birmingham.ac.uk">[University of Birmingham]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.birmingham.ac.uk</span><span class="citation-popover-snippet">University of BirminghamThe ethical dimensions of Google autocompleteby R Graham · 2023 · Cited by 21 — This article highlights some of t...</span></span></span>
 
-Past public controversies illustrate the issue. Google has repeatedly modified autocomplete policies after offensive or misleading suggestions involving race, religion, gender and politics attracted criticism. These cases demonstrate that autocomplete is neither entirely neutral nor entirely fixed: providers actively intervene when particular categories of suggestions are judged harmful or misleading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/google-autocomplete-vile-suggestions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2Them]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Google Autocomplete Still Makes Vile Suggestions</span><span class="citation-popover-snippet">Suggestions like “are jews evil?” and “Hitler is my hero” were previously adjusted, yet new offensive autocompletions related to gender...</span></span></span>
+Past public controversies illustrate the issue. Google has repeatedly modified autocomplete policies after offensive or misleading suggestions involving race, religion, gender and politics attracted criticism. These cases demonstrate that autocomplete is neither entirely neutral nor entirely fixed: providers actively intervene when particular categories of suggestions are judged harmful or misleading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/google-autocomplete-vile-suggestions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2Them]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Google Autocomplete Still Makes Vile Suggestions</span><span class="citation-popover-snippet">Suggestions like “are jews evil?” and “Hitler is my hero” were previously adjusted, yet new offensive autocompletions related to gender...</span></span></span>
 
 For someone trying to think analytically, the lesson is practical rather than political. A suggested completion should be treated as evidence that people have searched for a phrase—not that the phrase represents the best question to investigate.
 
@@ -390,178 +390,178 @@ Improving online reasoning is therefore not only about evaluating sources after 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to When Autocomplete Finishes Your Thought for You. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to When Autocomplete Finishes Your Thought for You. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-</h4>
-<p class="fr-book-author">By Daniel Kahneman</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
+        </h4>
+        <p class="fr-book-author">By Julia Galef</p>
         
-<p class="fr-book-desc">Explains the mental shortcuts and biases that make autocomplete suggestions and framing effects persuasive.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly addresses how to resist confirmation bias and seek balanced evidence.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
-</h4>
-<p class="fr-book-author">By Julia Galef</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+        </h4>
+        <p class="fr-book-author">By Daniel Kahneman</p>
         
-<p class="fr-book-desc">Directly addresses how to resist confirmation bias and seek balanced evidence.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains the mental shortcuts and biases that make autocomplete suggestions and framing effects persuasive.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
-</h4>
-<p class="fr-book-author">By Rolf Dobelli</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
+        </h4>
+        <p class="fr-book-author">By Rolf Dobelli</p>
         
-<p class="fr-book-desc">Covers confirmation bias and related cognitive traps relevant to search behaviour.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Covers confirmation bias and related cognitive traps relevant to search behaviour.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Noise+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_KujzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Noise+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Noise">Noise</a>
-</h4>
-<p class="fr-book-author">By Daniel Kahneman, Olivier Sibony et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Noise+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_KujzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Noise+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Noise">Noise</a>
+        </h4>
+        <p class="fr-book-author">By Daniel Kahneman, Olivier Sibony et al.</p>
         
-<p class="fr-book-desc">Explores systematic judgment errors and better decision-making practices applicable to online information seeking.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Noise+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explores systematic judgment errors and better decision-making practices applicable to online information seeking.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Noise+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scout Mindset</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Thinking Clearly</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scout Mindset</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Thinking Clearly</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mechanical+keyboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-autocomplete-finishes-your-thought-for-you-mechanical-keyboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mechanical keyboard" data-ebay-reference="when-autocomplete-finishes-your-thought-for-you-mechanical-keyboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AJAZZ AK820 Pro Wired&amp;Wireless Mechanical Gaming Keyboard Tri-Mode RGB Backlit"><img src="https://i.ebayimg.com/images/g/0ukAAeSwWtdqL8qU/s-l225.jpg" alt="Listing image for AJAZZ AK820 Pro Wired&amp;Wireless Mechanical Gaming Keyboard Tri-Mode RGB Backlit" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mechanical+keyboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-autocomplete-finishes-your-thought-for-you-mechanical-keyboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mechanical keyboard" data-ebay-reference="when-autocomplete-finishes-your-thought-for-you-mechanical-keyboard" target="_blank" rel="sponsored noopener noreferrer">AJAZZ AK820 Pro Wired&amp;Wireless Mechanical Gaming Keyboard Tri-Mode RGB Backlit</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mechanical+keyboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-autocomplete-finishes-your-thought-for-you-mechanical-keyboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mechanical keyboard" data-ebay-reference="when-autocomplete-finishes-your-thought-for-you-mechanical-keyboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mechanical keyboard">Search<span data-ebay-domain-label>eBay.co.uk</span>: mechanical keyboard</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mechanical+keyboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-autocomplete-finishes-your-thought-for-you-mechanical-keyboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mechanical keyboard" data-ebay-reference="when-autocomplete-finishes-your-thought-for-you-mechanical-keyboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mechanical+keyboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-autocomplete-finishes-your-thought-for-you-mechanical-keyboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mechanical keyboard" data-ebay-reference="when-autocomplete-finishes-your-thought-for-you-mechanical-keyboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AJAZZ AK820 Pro Wired&amp;Wireless Mechanical Gaming Keyboard Tri-Mode RGB Backlit"><img src="https://i.ebayimg.com/images/g/0ukAAeSwWtdqL8qU/s-l225.jpg" alt="Listing image for AJAZZ AK820 Pro Wired&amp;Wireless Mechanical Gaming Keyboard Tri-Mode RGB Backlit" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mechanical+keyboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-autocomplete-finishes-your-thought-for-you-mechanical-keyboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mechanical keyboard" data-ebay-reference="when-autocomplete-finishes-your-thought-for-you-mechanical-keyboard" target="_blank" rel="sponsored noopener noreferrer">AJAZZ AK820 Pro Wired&amp;Wireless Mechanical Gaming Keyboard Tri-Mode RGB Backlit</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mechanical+keyboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-autocomplete-finishes-your-thought-for-you-mechanical-keyboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mechanical keyboard" data-ebay-reference="when-autocomplete-finishes-your-thought-for-you-mechanical-keyboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mechanical keyboard">Search <span data-ebay-domain-label>eBay.co.uk</span>: mechanical keyboard</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mechanical+keyboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-autocomplete-finishes-your-thought-for-you-mechanical-keyboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mechanical keyboard" data-ebay-reference="when-autocomplete-finishes-your-thought-for-you-mechanical-keyboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mechanical+keyboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-autocomplete-finishes-your-thought-for-you-mechanical-keyboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mechanical keyboard" data-ebay-reference="when-autocomplete-finishes-your-thought-for-you-mechanical-keyboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mechanical Gaming Keyboard RAPOO TKL Wireless Keyboard USB For PC PS4/5 Xbox"><img src="https://i.ebayimg.com/images/g/FUwAAeSwI1ppFyZB/s-l225.jpg" alt="Listing image for Mechanical Gaming Keyboard RAPOO TKL Wireless Keyboard USB For PC PS4/5 Xbox" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mechanical+keyboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-autocomplete-finishes-your-thought-for-you-mechanical-keyboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mechanical keyboard" data-ebay-reference="when-autocomplete-finishes-your-thought-for-you-mechanical-keyboard" target="_blank" rel="sponsored noopener noreferrer">Mechanical Gaming Keyboard RAPOO TKL Wireless Keyboard USB For PC PS4/5 Xbox</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mechanical+keyboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-autocomplete-finishes-your-thought-for-you-mechanical-keyboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mechanical keyboard" data-ebay-reference="when-autocomplete-finishes-your-thought-for-you-mechanical-keyboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mechanical keyboard">Search<span data-ebay-domain-label>eBay.co.uk</span>: mechanical keyboard</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mechanical+keyboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-autocomplete-finishes-your-thought-for-you-mechanical-keyboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mechanical keyboard" data-ebay-reference="when-autocomplete-finishes-your-thought-for-you-mechanical-keyboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mechanical+keyboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-autocomplete-finishes-your-thought-for-you-mechanical-keyboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mechanical keyboard" data-ebay-reference="when-autocomplete-finishes-your-thought-for-you-mechanical-keyboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mechanical Gaming Keyboard RAPOO TKL Wireless Keyboard USB For PC PS4/5 Xbox"><img src="https://i.ebayimg.com/images/g/FUwAAeSwI1ppFyZB/s-l225.jpg" alt="Listing image for Mechanical Gaming Keyboard RAPOO TKL Wireless Keyboard USB For PC PS4/5 Xbox" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mechanical+keyboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-autocomplete-finishes-your-thought-for-you-mechanical-keyboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mechanical keyboard" data-ebay-reference="when-autocomplete-finishes-your-thought-for-you-mechanical-keyboard" target="_blank" rel="sponsored noopener noreferrer">Mechanical Gaming Keyboard RAPOO TKL Wireless Keyboard USB For PC PS4/5 Xbox</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mechanical+keyboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-autocomplete-finishes-your-thought-for-you-mechanical-keyboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mechanical keyboard" data-ebay-reference="when-autocomplete-finishes-your-thought-for-you-mechanical-keyboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mechanical keyboard">Search <span data-ebay-domain-label>eBay.co.uk</span>: mechanical keyboard</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mechanical+keyboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-autocomplete-finishes-your-thought-for-you-mechanical-keyboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mechanical keyboard" data-ebay-reference="when-autocomplete-finishes-your-thought-for-you-mechanical-keyboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mechanical+keyboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-autocomplete-finishes-your-thought-for-you-mechanical-keyboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mechanical keyboard" data-ebay-reference="when-autocomplete-finishes-your-thought-for-you-mechanical-keyboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for KLIM Shift Wireless Mechanical Keyboard 60% RGB Gaming PC Bluetooth Wireless"><img src="https://i.ebayimg.com/images/g/HlEAAeSwY5FqMRYf/s-l225.jpg" alt="Listing image for KLIM Shift Wireless Mechanical Keyboard 60% RGB Gaming PC Bluetooth Wireless" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mechanical+keyboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-autocomplete-finishes-your-thought-for-you-mechanical-keyboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mechanical keyboard" data-ebay-reference="when-autocomplete-finishes-your-thought-for-you-mechanical-keyboard" target="_blank" rel="sponsored noopener noreferrer">KLIM Shift Wireless Mechanical Keyboard 60% RGB Gaming PC Bluetooth Wireless</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mechanical+keyboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-autocomplete-finishes-your-thought-for-you-mechanical-keyboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mechanical keyboard" data-ebay-reference="when-autocomplete-finishes-your-thought-for-you-mechanical-keyboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mechanical keyboard">Search<span data-ebay-domain-label>eBay.co.uk</span>: mechanical keyboard</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mechanical+keyboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-autocomplete-finishes-your-thought-for-you-mechanical-keyboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mechanical keyboard" data-ebay-reference="when-autocomplete-finishes-your-thought-for-you-mechanical-keyboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=mechanical+keyboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-autocomplete-finishes-your-thought-for-you-mechanical-keyboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mechanical keyboard" data-ebay-reference="when-autocomplete-finishes-your-thought-for-you-mechanical-keyboard" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mechanical+keyboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-autocomplete-finishes-your-thought-for-you-mechanical-keyboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mechanical keyboard" data-ebay-reference="when-autocomplete-finishes-your-thought-for-you-mechanical-keyboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for KLIM Shift Wireless Mechanical Keyboard 60% RGB Gaming PC Bluetooth Wireless"><img src="https://i.ebayimg.com/images/g/HlEAAeSwY5FqMRYf/s-l225.jpg" alt="Listing image for KLIM Shift Wireless Mechanical Keyboard 60% RGB Gaming PC Bluetooth Wireless" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mechanical+keyboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-autocomplete-finishes-your-thought-for-you-mechanical-keyboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mechanical keyboard" data-ebay-reference="when-autocomplete-finishes-your-thought-for-you-mechanical-keyboard" target="_blank" rel="sponsored noopener noreferrer">KLIM Shift Wireless Mechanical Keyboard 60% RGB Gaming PC Bluetooth Wireless</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mechanical+keyboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-autocomplete-finishes-your-thought-for-you-mechanical-keyboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mechanical keyboard" data-ebay-reference="when-autocomplete-finishes-your-thought-for-you-mechanical-keyboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mechanical keyboard">Search <span data-ebay-domain-label>eBay.co.uk</span>: mechanical keyboard</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mechanical+keyboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-autocomplete-finishes-your-thought-for-you-mechanical-keyboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mechanical keyboard" data-ebay-reference="when-autocomplete-finishes-your-thought-for-you-mechanical-keyboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=mechanical+keyboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-autocomplete-finishes-your-thought-for-you-mechanical-keyboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mechanical keyboard" data-ebay-reference="when-autocomplete-finishes-your-thought-for-you-mechanical-keyboard" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -577,7 +577,7 @@ Improving online reasoning is therefore not only about evaluating sources after 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -597,7 +597,7 @@ Improving online reasoning is therefore not only about evaluating sources after 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -629,7 +629,7 @@ Improving online reasoning is therefore not only about evaluating sources after 
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -681,7 +681,7 @@ Improving online reasoning is therefore not only about evaluating sources after 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -726,7 +726,7 @@ Improving online reasoning is therefore not only about evaluating sources after 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -766,128 +766,128 @@ Improving online reasoning is therefore not only about evaluating sources after 
 </section>
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: support.google.com  
-   Link:<a href="https://support.google.com/websearch/answer/7368877?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/websearch/answer/7368877?hl=en</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Google HelpHow Google autocomplete predictions workAutocomplete is a feature within Google Search that makes it faster to complete search...</p></details>
+   Link: <a href="https://support.google.com/websearch/answer/7368877?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/websearch/answer/7368877?hl=en</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google HelpHow Google autocomplete predictions workAutocomplete is a feature within Google Search that makes it faster to complete search...</p></details>
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: wired.com  
    Title: Google Autocomplete Still Makes Vile Suggestions  
-   Link:<a href="https://www.wired.com/story/google-autocomplete-vile-suggestions" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/google-autocomplete-vile-suggestions</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Suggestions like “are jews evil?” and “Hitler is my hero” were previously adjusted, yet new offensive autocompletions related to gender...</p></details>
+   Link: <a href="https://www.wired.com/story/google-autocomplete-vile-suggestions" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/google-autocomplete-vile-suggestions</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Suggestions like “are jews evil?” and “Hitler is my hero” were previously adjusted, yet new offensive autocompletions related to gender...</p></details>
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: them.us  
-   Link:<a href="https://www.them.us/story/google-autocomplete-suggestions-transphobia-celebrities" target="_blank" rel="noopener noreferrer nofollow">https://www.them.us/story/google-autocomplete-suggestions-transphobia-celebrities</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The problematic suggestions include [prompts](&amp;#123;&amp;#123; &#x27;prompts/&#x27; | relative_url &amp;#125;&amp;#125;) to search for trans celebrities&#x27; &quot;dead names,&quot; appearances before transitioning, and surgery...</p></details>
+   Link: <a href="https://www.them.us/story/google-autocomplete-suggestions-transphobia-celebrities" target="_blank" rel="noopener noreferrer nofollow">https://www.them.us/story/google-autocomplete-suggestions-transphobia-celebrities</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The problematic suggestions include [prompts](&amp;#123;&amp;#123; &#x27;prompts/&#x27; | relative_url &amp;#125;&amp;#125;) to search for trans celebrities&#x27; &quot;dead names,&quot; appearances before transitioning, and surgery...</p></details>
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: wired.com  
-   Link:<a href="https://www.wired.com/story/googles-autocomplete-ban-politics-glitches" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/googles-autocomplete-ban-politics-glitches</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED identified an issue where typing &quot;donate&quot; would prompt suggestions for donating to Joe Biden&#x27;s campaign, but not Donald Trump’s. Th...</p></details>
+   Link: <a href="https://www.wired.com/story/googles-autocomplete-ban-politics-glitches" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/googles-autocomplete-ban-politics-glitches</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED identified an issue where typing &quot;donate&quot; would prompt suggestions for donating to Joe Biden&#x27;s campaign, but not Donald Trump’s. Th...</p></details>
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: developers.google.com  
    Title: place autocomplete  
-   Link:<a href="https://developers.google.com/maps/documentation/places/web-service/place-autocomplete" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/maps/documentation/places/web-service/place-autocomplete</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>(New) | Places APIAutocomplete (New) is a web service that returns place predictions and query predictions in response to an HTTP request...</p></details>
+   Link: <a href="https://developers.google.com/maps/documentation/places/web-service/place-autocomplete" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/maps/documentation/places/web-service/place-autocomplete</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>(New) | Places APIAutocomplete (New) is a web service that returns place predictions and query predictions in response to an HTTP request...</p></details>
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/40127267/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/40127267/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The narrow search effect and how broadening...by E Leung · 2025 · Cited by 13 — Studies 1 to 5 show that users&#x27; prior beliefs infl...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/40127267/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/40127267/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The narrow search effect and how broadening...by E Leung · 2025 · Cited by 13 — Studies 1 to 5 show that users&#x27; prior beliefs infl...</p></details>
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: journals.sagepub.com  
-   Link:<a href="https://journals.sagepub.com/doi/10.1177/14614448251406282" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/14614448251406282</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsExamining how search engine users understand the...27 Dec 2025 — In this research, I examine regular end-users&#x27; folk theori...</p></details>
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/14614448251406282" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/14614448251406282</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsExamining how search engine users understand the...27 Dec 2025 — In this research, I examine regular end-users&#x27; folk theori...</p></details>
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: research.birmingham.ac.uk  
-   Link:<a href="https://research.birmingham.ac.uk/files/191405983/20539517231156518.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.birmingham.ac.uk/files/191405983/20539517231156518.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>University of BirminghamThe ethical dimensions of Google autocompleteby R Graham · 2023 · Cited by 21 — This article highlights some of t...</p></details>
+   Link: <a href="https://research.birmingham.ac.uk/files/191405983/20539517231156518.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.birmingham.ac.uk/files/191405983/20539517231156518.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>University of BirminghamThe ethical dimensions of Google autocompleteby R Graham · 2023 · Cited by 21 — This article highlights some of t...</p></details>
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8460288/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8460288/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>internet search data to understand information seeking...by V Vijay · 2021 · Cited by 16 — We used Google autocomplete to try to determi...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8460288/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8460288/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>internet search data to understand information seeking...by V Vijay · 2021 · Cited by 16 — We used Google autocomplete to try to determi...</p></details>
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: journals.sagepub.com  
-   Link:<a href="https://journals.sagepub.com/doi/abs/10.1177/14614448251406282" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/14614448251406282</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>how search engine users understand the...by S Jhaver — (2024) The search suggestion effect (SSE): a quantification of how autocomplete s...</p></details>
+   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/14614448251406282" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/14614448251406282</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>how search engine users understand the...by S Jhaver — (2024) The search suggestion effect (SSE): a quantification of how autocomplete s...</p></details>
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: design-guide.publishing.service.gov.uk  
    Title: publishing.service.gov.uk Search autocomplete  
-   Link:<a href="https://design-guide.publishing.service.gov.uk/components/search-autocomplete/" target="_blank" rel="noopener noreferrer nofollow">https://design-guide.publishing.service.gov.uk/components/search-autocomplete/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>autocomplete - GOV.UK Publishing Design GuideUse search autocomplete when you are dealing with dynamic data and want to reduce typing eff...</p></details>
+   Link: <a href="https://design-guide.publishing.service.gov.uk/components/search-autocomplete/" target="_blank" rel="noopener noreferrer nofollow">https://design-guide.publishing.service.gov.uk/components/search-autocomplete/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>autocomplete - GOV.UK Publishing Design GuideUse search autocomplete when you are dealing with dynamic data and want to reduce typing eff...</p></details>
 
-12.<a id="endnote-12"></a>
+12. <a id="endnote-12"></a>
    Source: aipavilion.github.io  
-   Link:<a href="https://aipavilion.github.io/docs/papers/autocomplete.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aipavilion.github.io/docs/papers/autocomplete.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Considering the Impact of Autocomplete on Users10 Dec 2018 — Autocomplete impacts users in various ways ranging from benefiting those wit...</p></details>
+   Link: <a href="https://aipavilion.github.io/docs/papers/autocomplete.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aipavilion.github.io/docs/papers/autocomplete.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Considering the Impact of Autocomplete on Users10 Dec 2018 — Autocomplete impacts users in various ways ranging from benefiting those wit...</p></details>
 
-13.<a id="endnote-13"></a>
+13. <a id="endnote-13"></a>
    Source: dragonmetrics.com  
    Title: confirmation bias  
-   Link:<a href="https://www.dragonmetrics.com/confirmation-bias/" target="_blank" rel="noopener noreferrer nofollow">https://www.dragonmetrics.com/confirmation-bias/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>What People are REALLY Searching for29 Apr 2024 — Confirmation bias is the human tendency to search for, interpret, and remember informat...</p></details>
+   Link: <a href="https://www.dragonmetrics.com/confirmation-bias/" target="_blank" rel="noopener noreferrer nofollow">https://www.dragonmetrics.com/confirmation-bias/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>What People are REALLY Searching for29 Apr 2024 — Confirmation bias is the human tendency to search for, interpret, and remember informat...</p></details>
 
 ### Additional References
 
-14.<a id="endnote-14"></a>
+14. <a id="endnote-14"></a>
    Source: wiideman.com  
-   Link:<a href="https://www.wiideman.com/research/google-autocomplete/study-results" target="_blank" rel="noopener noreferrer nofollow">https://www.wiideman.com/research/google-autocomplete/study-results</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Google Autocomplete Study ResultsGoogle will analyze patterns of keyword usage to help AdWords advertisers find keyword opportunities and...</p></details>
+   Link: <a href="https://www.wiideman.com/research/google-autocomplete/study-results" target="_blank" rel="noopener noreferrer nofollow">https://www.wiideman.com/research/google-autocomplete/study-results</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google Autocomplete Study ResultsGoogle will analyze patterns of keyword usage to help AdWords advertisers find keyword opportunities and...</p></details>
 
-15.<a id="endnote-15"></a>
+15. <a id="endnote-15"></a>
    Source: upperdog.co.uk  
-   Link:<a href="https://upperdog.co.uk/blog/how-to-influence-google-autocomplete/" target="_blank" rel="noopener noreferrer nofollow">https://upperdog.co.uk/blog/how-to-influence-google-autocomplete/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>How To Influence Google Autocomplete | Upperdog SEO BlogInfluence google autocomplete with this SEO strategy. Find out how to appear in a...</p></details>
+   Link: <a href="https://upperdog.co.uk/blog/how-to-influence-google-autocomplete/" target="_blank" rel="noopener noreferrer nofollow">https://upperdog.co.uk/blog/how-to-influence-google-autocomplete/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Influence Google Autocomplete | Upperdog SEO BlogInfluence google autocomplete with this SEO strategy. Find out how to appear in a...</p></details>
 
-16.<a id="endnote-16"></a>
+16. <a id="endnote-16"></a>
    Source: spinutech.com  
    Title: google autocomplete is more than a simple feature its a powerful tool  
-   Link:<a href="https://www.spinutech.com/digital-marketing/seo/google-autocomplete-is-more-than-a-simple-feature-its-a-powerful-tool/" target="_blank" rel="noopener noreferrer nofollow">https://www.spinutech.com/digital-marketing/seo/google-autocomplete-is-more-than-a-simple-feature-its-a-powerful-tool/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Google Autocomplete is a Powerful Tool11 Oct 2024 — It is a powerful tool that subtly guides users&#x27; search behavior, often leading them t...</p></details>
+   Link: <a href="https://www.spinutech.com/digital-marketing/seo/google-autocomplete-is-more-than-a-simple-feature-its-a-powerful-tool/" target="_blank" rel="noopener noreferrer nofollow">https://www.spinutech.com/digital-marketing/seo/google-autocomplete-is-more-than-a-simple-feature-its-a-powerful-tool/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google Autocomplete is a Powerful Tool11 Oct 2024 — It is a powerful tool that subtly guides users&#x27; search behavior, often leading them t...</p></details>
 
-17.<a id="endnote-17"></a>
+17. <a id="endnote-17"></a>
    Source: marketing.wharton.upenn.edu  
-   Link:<a href="https://marketing.wharton.upenn.edu/wp-content/uploads/2025/09/leung-urminsky-2025-the-narrow-search-effect-and-how-broadening-search-promotes-belief-updating.pdf" target="_blank" rel="noopener noreferrer nofollow">https://marketing.wharton.upenn.edu/wp-content/uploads/2025/09/leung-urminsky-2025-the-narrow-search-effect-and-how-broadening-search-promotes-belief-updating.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Marketing DepartmentThe narrow search effect and how broadening search...by E Leunga · 2025 · Cited by 13 — Directionally narrow search...</p></details>
+   Link: <a href="https://marketing.wharton.upenn.edu/wp-content/uploads/2025/09/leung-urminsky-2025-the-narrow-search-effect-and-how-broadening-search-promotes-belief-updating.pdf" target="_blank" rel="noopener noreferrer nofollow">https://marketing.wharton.upenn.edu/wp-content/uploads/2025/09/leung-urminsky-2025-the-narrow-search-effect-and-how-broadening-search-promotes-belief-updating.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Marketing DepartmentThe narrow search effect and how broadening search...by E Leunga · 2025 · Cited by 13 — Directionally narrow search...</p></details>
 
-18.<a id="endnote-18"></a>
+18. <a id="endnote-18"></a>
    Source: thehalogroup.com  
-   Link:<a href="https://www.thehalogroup.com/understanding-and-addressing-google-autocomplete-reputation-issues/" target="_blank" rel="noopener noreferrer nofollow">https://www.thehalogroup.com/understanding-and-addressing-google-autocomplete-reputation-issues/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>ons about what they might be looking for prior to them completing a given...Read more...</p></details>
+   Link: <a href="https://www.thehalogroup.com/understanding-and-addressing-google-autocomplete-reputation-issues/" target="_blank" rel="noopener noreferrer nofollow">https://www.thehalogroup.com/understanding-and-addressing-google-autocomplete-reputation-issues/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ons about what they might be looking for prior to them completing a given...Read more...</p></details>
 
-19.<a id="endnote-19"></a>
+19. <a id="endnote-19"></a>
    Source: researchgate.net  
    Title: 368793995 The ethical dimensions of Google autocomplete  
-   Link:<a href="https://www.researchgate.net/publication/368793995_The_ethical_dimensions_of_Google_autocomplete" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/368793995_The_ethical_dimensions_of_Google_autocomplete</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The ethical dimensions of Google autocompleteMar 6, 2026 — PDF | On Feb 24, 2023, Rosie Graham published The ethical dimensions of...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/368793995_The_ethical_dimensions_of_Google_autocomplete" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/368793995_The_ethical_dimensions_of_Google_autocomplete</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The ethical dimensions of Google autocompleteMar 6, 2026 — PDF | On Feb 24, 2023, Rosie Graham published The ethical dimensions of...</p></details>
 
-20.<a id="endnote-20"></a>
+20. <a id="endnote-20"></a>
    Source: phys.org  
    Title: 2025 03 narrowminded algorithms polarized perceptions  
-   Link:<a href="https://phys.org/news/2025-03-narrowminded-algorithms-polarized-perceptions.html" target="_blank" rel="noopener noreferrer nofollow">https://phys.org/news/2025-03-narrowminded-algorithms-polarized-perceptions.html</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Do narrow‑minded search algorithms cause polarized...26 Mar 2025 — Search engines optimized for relevance reinforce confirmation bias, r...</p></details>
+   Link: <a href="https://phys.org/news/2025-03-narrowminded-algorithms-polarized-perceptions.html" target="_blank" rel="noopener noreferrer nofollow">https://phys.org/news/2025-03-narrowminded-algorithms-polarized-perceptions.html</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Do narrow‑minded search algorithms cause polarized...26 Mar 2025 — Search engines optimized for relevance reinforce confirmation bias, r...</p></details>
 
-21.<a id="endnote-21"></a>
+21. <a id="endnote-21"></a>
    Source: researchgate.net  
    Title: 284583661 Autocomplete as Research Tool A Study on Providing Search Suggestions  
-   Link:<a href="https://www.researchgate.net/publication/284583661_Autocomplete_as_Research_Tool_A_Study_on_Providing_Search_Suggestions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/284583661_Autocomplete_as_Research_Tool_A_Study_on_Providing_Search_Suggestions</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Autocomplete as Research Tool: A Study on...Mar 14, 2026 — This study examines one such method, the use of autocompletion in searc...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/284583661_Autocomplete_as_Research_Tool_A_Study_on_Providing_Search_Suggestions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/284583661_Autocomplete_as_Research_Tool_A_Study_on_Providing_Search_Suggestions</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Autocomplete as Research Tool: A Study on...Mar 14, 2026 — This study examines one such method, the use of autocompletion in searc...</p></details>
 
-22.<a id="endnote-22"></a>
+22. <a id="endnote-22"></a>
    Source: core.ac.uk  
-   Link:<a href="https://core.ac.uk/download/pdf/301367349.pdf" target="_blank" rel="noopener noreferrer nofollow">https://core.ac.uk/download/pdf/301367349.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>bate confirmation bias by generating results that consist only of confirming evidence for search...Read more...</p></details>
+   Link: <a href="https://core.ac.uk/download/pdf/301367349.pdf" target="_blank" rel="noopener noreferrer nofollow">https://core.ac.uk/download/pdf/301367349.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>bate confirmation bias by generating results that consist only of confirming evidence for search...Read more...</p></details>
 
-23.<a id="endnote-23"></a>
+23. <a id="endnote-23"></a>
    Source: microsoft.com  
    Title: Problematic Autocompletes  
-   Link:<a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2020/08/Problematic-Autocompletes.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/research/wp-content/uploads/2020/08/Problematic-Autocompletes.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>When Are Search Completion Suggestions Problematic?by A OLTEANU · 2020 · Cited by 51 — Grounding our study in web search query logs, we e...</p></details>
+   Link: <a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2020/08/Problematic-Autocompletes.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/research/wp-content/uploads/2020/08/Problematic-Autocompletes.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>When Are Search Completion Suggestions Problematic?by A OLTEANU · 2020 · Cited by 51 — Grounding our study in web search query logs, we e...</p></details>

@@ -286,11 +286,11 @@ Political [framing]({{ 'framing/' | relative_url }}) can make the very same numb
 <img src="{{ "/assets/images/improving_your_think_da4710_myside_bias_de0ec5_political_framing_nu_89bb4b-Illustration-1-dark.svg" | relative_url }}" alt="Motivated Numbers illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_myside_bias_de0ec5_political_framing_nu_89bb4b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_myside_bias_de0ec5_political_framing_nu_89bb4b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Kahan's skin-rash and policy data task
 
-The best-known demonstration comes from work by Dan Kahan and colleagues on what they called "motivated numeracy". Participants were shown a simple 2×2 table that required comparing proportions rather than just comparing raw totals. Most people found the task surprisingly difficult because the largest numbers pointed towards the wrong answer unless the ratios were calculated correctly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://rcgd.isr.umich.edu/wp-content/uploads/2018/07/motivated_numeracy_and_enlightened_selfgovernment.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rcgd.isr.umich.edu">[RCGD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rcgd.isr.umich.edu</span><span class="citation-popover-title">RCGDMotivated numeracy and enlightened self-government</span><span class="citation-popover-snippet">June 24, 2017 — by DANM KAHAN · Cited by 1311 — The numbers in the 2 × 2 contingency table were kept the same, but the labels at the tops...</span><span class="citation-popover-meta">Published: June 24, 2017</span></span></span>
+The best-known demonstration comes from work by Dan Kahan and colleagues on what they called "motivated numeracy". Participants were shown a simple 2×2 table that required comparing proportions rather than just comparing raw totals. Most people found the task surprisingly difficult because the largest numbers pointed towards the wrong answer unless the ratios were calculated correctly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://rcgd.isr.umich.edu/wp-content/uploads/2018/07/motivated_numeracy_and_enlightened_selfgovernment.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rcgd.isr.umich.edu">[RCGD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rcgd.isr.umich.edu</span><span class="citation-popover-title">RCGDMotivated numeracy and enlightened self-government</span><span class="citation-popover-snippet">June 24, 2017 — by DANM KAHAN · Cited by 1311 — The numbers in the 2 × 2 contingency table were kept the same, but the labels at the tops...</span><span class="citation-popover-meta">Published: June 24, 2017</span></span></span>
 
 In the neutral version, participants were told the table described the effectiveness of a fictional skin cream for treating a rash. The correct answer depended entirely on comparing success rates between the treatment and control groups. Nothing about politics entered the task.
 
-The researchers then changed only the story attached to the table. The numerical values stayed the same, but the labels now described whether a city that introduced a gun-control policy experienced more or less crime than a comparison city. Depending on the experimental condition, the numbers either supported or undermined the policy. Participants again had to compute the same ratios to reach the correct conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://rcgd.isr.umich.edu/wp-content/uploads/2018/07/motivated_numeracy_and_enlightened_selfgovernment.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rcgd.isr.umich.edu">[RCGD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rcgd.isr.umich.edu</span><span class="citation-popover-title">RCGDMotivated numeracy and enlightened self-government</span><span class="citation-popover-snippet">June 24, 2017 — by DANM KAHAN · Cited by 1311 — The numbers in the 2 × 2 contingency table were kept the same, but the labels at the tops...</span><span class="citation-popover-meta">Published: June 24, 2017</span></span></span>
+The researchers then changed only the story attached to the table. The numerical values stayed the same, but the labels now described whether a city that introduced a gun-control policy experienced more or less crime than a comparison city. Depending on the experimental condition, the numbers either supported or undermined the policy. Participants again had to compute the same ratios to reach the correct conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://rcgd.isr.umich.edu/wp-content/uploads/2018/07/motivated_numeracy_and_enlightened_selfgovernment.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rcgd.isr.umich.edu">[RCGD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rcgd.isr.umich.edu</span><span class="citation-popover-title">RCGDMotivated numeracy and enlightened self-government</span><span class="citation-popover-snippet">June 24, 2017 — by DANM KAHAN · Cited by 1311 — The numbers in the 2 × 2 contingency table were kept the same, but the labels at the tops...</span><span class="citation-popover-meta">Published: June 24, 2017</span></span></span>
 
 Because the arithmetic never changed, any difference in performance reflected the framing rather than the mathematics itself.
 
@@ -299,11 +299,11 @@ Because the arithmetic never changed, any difference in performance reflected th
 
 ## Why numeracy helps less on identity-linked questions
 
-In the skin-rash version, people with stronger numeracy skills performed substantially better than those with weaker quantitative skills. Better mathematical reasoning translated into more accurate interpretation of the evidence, as would normally be expected.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ideas.repec.org/a/cup/bpubpo/v1y2017i01p54-86_00.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.repec.org">[IDEAS/RePEc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.repec.org</span><span class="citation-popover-snippet">study of a new skin rash treatment. Also as expected, subjects&#x27; responses became politically polarized – and even less accurate – when th...</span></span></span>
+In the skin-rash version, people with stronger numeracy skills performed substantially better than those with weaker quantitative skills. Better mathematical reasoning translated into more accurate interpretation of the evidence, as would normally be expected. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ideas.repec.org/a/cup/bpubpo/v1y2017i01p54-86_00.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.repec.org">[IDEAS/RePEc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.repec.org</span><span class="citation-popover-snippet">study of a new skin rash treatment. Also as expected, subjects&#x27; responses became politically polarized – and even less accurate – when th...</span></span></span>
 
-The politically framed version produced a more surprising pattern. Participants were much more likely to reach the correct answer when it aligned with their political outlook than when the identical calculation pointed in the opposite direction. Highly numerate participants did not simply become more accurate across the board. Instead, their additional reasoning ability often appeared to help them reach the politically congenial interpretation while offering much less benefit when the data challenged their existing views.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ideas.repec.org/a/cup/bpubpo/v1y2017i01p54-86_00.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.repec.org">[IDEAS/RePEc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.repec.org</span><span class="citation-popover-snippet">study of a new skin rash treatment. Also as expected, subjects&#x27; responses became politically polarized – and even less accurate – when th...</span></span></span>
+The politically framed version produced a more surprising pattern. Participants were much more likely to reach the correct answer when it aligned with their political outlook than when the identical calculation pointed in the opposite direction. Highly numerate participants did not simply become more accurate across the board. Instead, their additional reasoning ability often appeared to help them reach the politically congenial interpretation while offering much less benefit when the data challenged their existing views. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ideas.repec.org/a/cup/bpubpo/v1y2017i01p54-86_00.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.repec.org">[IDEAS/RePEc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.repec.org</span><span class="citation-popover-snippet">study of a new skin rash treatment. Also as expected, subjects&#x27; responses became politically polarized – and even less accurate – when th...</span></span></span>
 
-This finding is important because it challenges a simple "knowledge deficit" explanation for political disagreement. If disagreement resulted only from poor mathematical ability, then stronger numeracy should reduce ideological differences. Instead, the original experiment suggested that reasoning ability can sometimes be recruited in defence of identity as well as in pursuit of accuracy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2319992" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Why does public conflict over societal risks persist in the face of compelling and widely accessible scientific evidence?Read more...</span></span></span>
+This finding is important because it challenges a simple "knowledge deficit" explanation for political disagreement. If disagreement resulted only from poor mathematical ability, then stronger numeracy should reduce ideological differences. Instead, the original experiment suggested that reasoning ability can sometimes be recruited in defence of identity as well as in pursuit of accuracy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2319992" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Why does public conflict over societal risks persist in the face of compelling and widely accessible scientific evidence?Read more...</span></span></span>
 
 The broader implication is not that skilled thinkers are irrational. Rather, they may be especially capable of constructing interpretations that satisfy both the numerical evidence and their preferred narrative whenever the evidence leaves room for selective emphasis.
 
@@ -313,11 +313,11 @@ The broader implication is not that skilled thinkers are irrational. Rather, the
 
 The original study became highly influential, but it also attracted substantial [replication]({{ 'replication/' | relative_url }}) efforts. Those later studies paint a more nuanced picture than either enthusiastic supporters or critics sometimes suggest.
 
-Some replications have reproduced important aspects of the original effect, finding that politically relevant framing can reduce objective interpretation of identical numerical evidence, although often with smaller effects than originally reported. Research has also found similar patterns in other politically charged domains such as immigration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/journals/behavioural-public-policy/article/motivated-numeracy-and-active-reasoning-in-a-western-european-sample/5C462D05ED2D1FCAD2715F10287E6A0A" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentMotivated numeracy and active reasoning in a Western...by P CONNOR · 2024 · Cited by 25 — In this...</span></span></span>
+Some replications have reproduced important aspects of the original effect, finding that politically relevant framing can reduce objective interpretation of identical numerical evidence, although often with smaller effects than originally reported. Research has also found similar patterns in other politically charged domains such as immigration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/journals/behavioural-public-policy/article/motivated-numeracy-and-active-reasoning-in-a-western-european-sample/5C462D05ED2D1FCAD2715F10287E6A0A" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentMotivated numeracy and active reasoning in a Western...by P CONNOR · 2024 · Cited by 25 — In this...</span></span></span>
 
-Other preregistered replication studies have reported weaker evidence for motivated numeracy than the original paper. For example, a large preregistered replication concluded that the cumulative evidence was less robust than first believed, although it still found that prior attitudes could influence interpretation and that presenting the data in more cognitively supportive formats, such as number lines, substantially improved accuracy across conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/34051421/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A preregistered replication of motivated numeracyby E Persson · 2021 · Cited by 71 — Our findings suggest that the cumulative evide...</span></span></span>
+Other preregistered replication studies have reported weaker evidence for motivated numeracy than the original paper. For example, a large preregistered replication concluded that the cumulative evidence was less robust than first believed, although it still found that prior attitudes could influence interpretation and that presenting the data in more cognitively supportive formats, such as number lines, substantially improved accuracy across conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/34051421/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A preregistered replication of motivated numeracyby E Persson · 2021 · Cited by 71 — Our findings suggest that the cumulative evide...</span></span></span>
 
-Researchers have also debated methodological details, including statistical power, measurement of political identity and the precise conditions under which motivated numeracy appears. Kahan and colleagues argued that some reported failures reflected design differences rather than genuine contradictions and published their own defence and additional evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3032064_code45442.pdf?abstractid=3026941&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-title">SSRN ID3032064 code45442</span><span class="citation-popover-snippet">Rumors of the “Nonreplication” of the “Motivated Numeracy...Consistent with existing literature, only 30% of the MN sample supplied...</span></span></span>
+Researchers have also debated methodological details, including statistical power, measurement of political identity and the precise conditions under which motivated numeracy appears. Kahan and colleagues argued that some reported failures reflected design differences rather than genuine contradictions and published their own defence and additional evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3032064_code45442.pdf?abstractid=3026941&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-title">SSRN ID3032064 code45442</span><span class="citation-popover-snippet">Rumors of the “Nonreplication” of the “Motivated Numeracy...Consistent with existing literature, only 30% of the MN sample supplied...</span></span></span>
 
 The current evidence therefore supports a cautious conclusion. Political framing can distort numerical reasoning, but the size and consistency of the effect vary across studies, populations and experimental designs. It should not be treated as an inevitable law of human thinking.
 
@@ -357,194 +357,194 @@ Improving analytical thinking therefore involves more than becoming better at ma
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to When Numbers Stop Feeling Neutral. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to When Numbers Stop Feeling Neutral. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-</h4>
-<p class="fr-book-author">By Daniel Kahneman</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
+        </h4>
+        <p class="fr-book-author">By Julia Galef</p>
         
-<p class="fr-book-desc">Explains cognitive biases and why reasoning often departs from objective evidence, providing the broader framework for motivated numeracy.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Focuses on overcoming identity-protective reasoning and evaluating evidence more accurately.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Righteous Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=APSMEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Righteous Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
-</h4>
-<p class="fr-book-author">By Jonathan Haidt</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Righteous Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y9-GG5gPzgwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Righteous Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
+        </h4>
+        <p class="fr-book-author">By Jonathan Haidt</p>
         
-<p class="fr-book-desc">Explores how moral intuitions and group identity shape political judgment and interpretation of evidence.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explores how moral intuitions and group identity shape political judgment and interpretation of evidence.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A1NYvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
-</h4>
-<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A1NYvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
+        </h4>
+        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-<p class="fr-book-desc">Examines self-justification, cognitive dissonance, and the mechanisms behind motivated reasoning.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Examines self-justification, cognitive dissonance, and the mechanisms behind motivated reasoning.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Minds+Change+by+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Minds Change on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QTDkDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Minds Change" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=How+Minds+Change+by+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Minds Change">How Minds Change</a>
-</h4>
-<p class="fr-book-author">By David McRaney</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Minds+Change+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Minds Change on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QTDkDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Minds Change" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=How+Minds+Change+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Minds Change">How Minds Change</a>
+        </h4>
+        <p class="fr-book-author">By David McRaney</p>
         
-<p class="fr-book-desc">Shows why identity affects interpretation of evidence and how people can become more open to changing their minds.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=How+Minds+Change+by+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Shows why identity affects interpretation of evidence and how people can become more open to changing their minds.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=How+Minds+Change+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Righteous+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Righteous Mind</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me)</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scout Mindset</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Righteous+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Righteous Mind</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me)</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-numbers-stop-feeling-neutral-educational-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational board game" data-ebay-reference="when-numbers-stop-feeling-neutral-educational-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COGNOSIS - Educational Board Game, 2013 - Rare Problem Solving Game"><img src="https://i.ebayimg.com/images/g/ZygAAeSwKqlpndRk/s-l225.jpg" alt="Listing image for COGNOSIS - Educational Board Game, 2013 - Rare Problem Solving Game" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-numbers-stop-feeling-neutral-educational-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational board game" data-ebay-reference="when-numbers-stop-feeling-neutral-educational-board-game" target="_blank" rel="sponsored noopener noreferrer">COGNOSIS - Educational Board Game, 2013 - Rare Problem Solving Game</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-numbers-stop-feeling-neutral-educational-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational board game" data-ebay-reference="when-numbers-stop-feeling-neutral-educational-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational board game">Search<span data-ebay-domain-label>eBay.co.uk</span>: educational board game</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-numbers-stop-feeling-neutral-educational-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational board game" data-ebay-reference="when-numbers-stop-feeling-neutral-educational-board-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-numbers-stop-feeling-neutral-educational-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational board game" data-ebay-reference="when-numbers-stop-feeling-neutral-educational-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COGNOSIS - Educational Board Game, 2013 - Rare Problem Solving Game"><img src="https://i.ebayimg.com/images/g/ZygAAeSwKqlpndRk/s-l225.jpg" alt="Listing image for COGNOSIS - Educational Board Game, 2013 - Rare Problem Solving Game" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-numbers-stop-feeling-neutral-educational-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational board game" data-ebay-reference="when-numbers-stop-feeling-neutral-educational-board-game" target="_blank" rel="sponsored noopener noreferrer">COGNOSIS - Educational Board Game, 2013 - Rare Problem Solving Game</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-numbers-stop-feeling-neutral-educational-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational board game" data-ebay-reference="when-numbers-stop-feeling-neutral-educational-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational board game">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational board game</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-numbers-stop-feeling-neutral-educational-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational board game" data-ebay-reference="when-numbers-stop-feeling-neutral-educational-board-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-numbers-stop-feeling-neutral-educational-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational board game" data-ebay-reference="when-numbers-stop-feeling-neutral-educational-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Codenames Board Game Family Kids Adults Educational Toys Puzzle Interaction"><img src="https://i.ebayimg.com/images/g/1NsAAOSwLqFlKN1K/s-l225.jpg" alt="Listing image for Codenames Board Game Family Kids Adults Educational Toys Puzzle Interaction" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-numbers-stop-feeling-neutral-educational-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational board game" data-ebay-reference="when-numbers-stop-feeling-neutral-educational-board-game" target="_blank" rel="sponsored noopener noreferrer">Codenames Board Game Family Kids Adults Educational Toys Puzzle Interaction</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-numbers-stop-feeling-neutral-educational-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational board game" data-ebay-reference="when-numbers-stop-feeling-neutral-educational-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational board game">Search<span data-ebay-domain-label>eBay.co.uk</span>: educational board game</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-numbers-stop-feeling-neutral-educational-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational board game" data-ebay-reference="when-numbers-stop-feeling-neutral-educational-board-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-numbers-stop-feeling-neutral-educational-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational board game" data-ebay-reference="when-numbers-stop-feeling-neutral-educational-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Codenames Board Game Family Kids Adults Educational Toys Puzzle Interaction"><img src="https://i.ebayimg.com/images/g/1NsAAOSwLqFlKN1K/s-l225.jpg" alt="Listing image for Codenames Board Game Family Kids Adults Educational Toys Puzzle Interaction" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-numbers-stop-feeling-neutral-educational-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational board game" data-ebay-reference="when-numbers-stop-feeling-neutral-educational-board-game" target="_blank" rel="sponsored noopener noreferrer">Codenames Board Game Family Kids Adults Educational Toys Puzzle Interaction</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-numbers-stop-feeling-neutral-educational-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational board game" data-ebay-reference="when-numbers-stop-feeling-neutral-educational-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational board game">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational board game</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-numbers-stop-feeling-neutral-educational-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational board game" data-ebay-reference="when-numbers-stop-feeling-neutral-educational-board-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-numbers-stop-feeling-neutral-educational-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational board game" data-ebay-reference="when-numbers-stop-feeling-neutral-educational-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New Sealed Original Scrabble Board Game Family Kids Adults Educational Toys FN2"><img src="https://i.ebayimg.com/images/g/sqIAAeSwWS1qN22q/s-l225.jpg" alt="Listing image for New Sealed Original Scrabble Board Game Family Kids Adults Educational Toys FN2" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-numbers-stop-feeling-neutral-educational-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational board game" data-ebay-reference="when-numbers-stop-feeling-neutral-educational-board-game" target="_blank" rel="sponsored noopener noreferrer">New Sealed Original Scrabble Board Game Family Kids Adults Educational Toys FN2</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-numbers-stop-feeling-neutral-educational-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational board game" data-ebay-reference="when-numbers-stop-feeling-neutral-educational-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational board game">Search<span data-ebay-domain-label>eBay.co.uk</span>: educational board game</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-numbers-stop-feeling-neutral-educational-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational board game" data-ebay-reference="when-numbers-stop-feeling-neutral-educational-board-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-numbers-stop-feeling-neutral-educational-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational board game" data-ebay-reference="when-numbers-stop-feeling-neutral-educational-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New Sealed Original Scrabble Board Game Family Kids Adults Educational Toys FN2"><img src="https://i.ebayimg.com/images/g/sqIAAeSwWS1qN22q/s-l225.jpg" alt="Listing image for New Sealed Original Scrabble Board Game Family Kids Adults Educational Toys FN2" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-numbers-stop-feeling-neutral-educational-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational board game" data-ebay-reference="when-numbers-stop-feeling-neutral-educational-board-game" target="_blank" rel="sponsored noopener noreferrer">New Sealed Original Scrabble Board Game Family Kids Adults Educational Toys FN2</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-numbers-stop-feeling-neutral-educational-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational board game" data-ebay-reference="when-numbers-stop-feeling-neutral-educational-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational board game">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational board game</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-numbers-stop-feeling-neutral-educational-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational board game" data-ebay-reference="when-numbers-stop-feeling-neutral-educational-board-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-numbers-stop-feeling-neutral-educational-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational board game" data-ebay-reference="when-numbers-stop-feeling-neutral-educational-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Board Game One Chance Cards Play Family fun and highly educational fun game"><img src="https://i.ebayimg.com/images/g/huAAAOSwEWtntegA/s-l225.jpg" alt="Listing image for Board Game One Chance Cards Play Family fun and highly educational fun game" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-numbers-stop-feeling-neutral-educational-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational board game" data-ebay-reference="when-numbers-stop-feeling-neutral-educational-board-game" target="_blank" rel="sponsored noopener noreferrer">Board Game One Chance Cards Play Family fun and highly educational fun game</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-numbers-stop-feeling-neutral-educational-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational board game" data-ebay-reference="when-numbers-stop-feeling-neutral-educational-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational board game">Search<span data-ebay-domain-label>eBay.co.uk</span>: educational board game</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-numbers-stop-feeling-neutral-educational-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational board game" data-ebay-reference="when-numbers-stop-feeling-neutral-educational-board-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-numbers-stop-feeling-neutral-educational-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational board game" data-ebay-reference="when-numbers-stop-feeling-neutral-educational-board-game" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-numbers-stop-feeling-neutral-educational-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational board game" data-ebay-reference="when-numbers-stop-feeling-neutral-educational-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Board Game One Chance Cards Play Family fun and highly educational fun game"><img src="https://i.ebayimg.com/images/g/huAAAOSwEWtntegA/s-l225.jpg" alt="Listing image for Board Game One Chance Cards Play Family fun and highly educational fun game" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-numbers-stop-feeling-neutral-educational-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational board game" data-ebay-reference="when-numbers-stop-feeling-neutral-educational-board-game" target="_blank" rel="sponsored noopener noreferrer">Board Game One Chance Cards Play Family fun and highly educational fun game</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-numbers-stop-feeling-neutral-educational-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational board game" data-ebay-reference="when-numbers-stop-feeling-neutral-educational-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational board game">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational board game</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-numbers-stop-feeling-neutral-educational-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational board game" data-ebay-reference="when-numbers-stop-feeling-neutral-educational-board-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-numbers-stop-feeling-neutral-educational-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational board game" data-ebay-reference="when-numbers-stop-feeling-neutral-educational-board-game" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -560,7 +560,7 @@ Improving analytical thinking therefore involves more than becoming better at ma
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -580,7 +580,7 @@ Improving analytical thinking therefore involves more than becoming better at ma
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -612,7 +612,7 @@ Improving analytical thinking therefore involves more than becoming better at ma
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -664,7 +664,7 @@ Improving analytical thinking therefore involves more than becoming better at ma
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -709,7 +709,7 @@ Improving analytical thinking therefore involves more than becoming better at ma
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -749,102 +749,102 @@ Improving analytical thinking therefore involves more than becoming better at ma
 </section>
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: rcgd.isr.umich.edu  
    Title: RCGDMotivated numeracy and enlightened self-government  
-   Link:<a href="https://rcgd.isr.umich.edu/wp-content/uploads/2018/07/motivated_numeracy_and_enlightened_selfgovernment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rcgd.isr.umich.edu/wp-content/uploads/2018/07/motivated_numeracy_and_enlightened_selfgovernment.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>June 24, 2017 — by DANM KAHAN · Cited by 1311 — The numbers in the 2 × 2 contingency table were kept the same, but the labels at the tops...</p></details>
+   Link: <a href="https://rcgd.isr.umich.edu/wp-content/uploads/2018/07/motivated_numeracy_and_enlightened_selfgovernment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rcgd.isr.umich.edu/wp-content/uploads/2018/07/motivated_numeracy_and_enlightened_selfgovernment.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>June 24, 2017 — by DANM KAHAN · Cited by 1311 — The numbers in the 2 × 2 contingency table were kept the same, but the labels at the tops...</p></details>
    Published: June 24, 2017  
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: ideas.repec.org  
-   Link:<a href="https://ideas.repec.org/a/cup/bpubpo/v1y2017i01p54-86_00.html" target="_blank" rel="noopener noreferrer nofollow">https://ideas.repec.org/a/cup/bpubpo/v1y2017i01p54-86_00.html</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>study of a new skin rash treatment. Also as expected, subjects&#x27; responses became politically polarized – and even less accurate – when th...</p></details>
+   Link: <a href="https://ideas.repec.org/a/cup/bpubpo/v1y2017i01p54-86_00.html" target="_blank" rel="noopener noreferrer nofollow">https://ideas.repec.org/a/cup/bpubpo/v1y2017i01p54-86_00.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>study of a new skin rash treatment. Also as expected, subjects&#x27; responses became politically polarized – and even less accurate – when th...</p></details>
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: papers.ssrn.com  
-   Link:<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2319992" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2319992</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Why does public conflict over societal risks persist in the face of compelling and widely accessible scientific evidence?Read more...</p></details>
+   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2319992" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2319992</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why does public conflict over societal risks persist in the face of compelling and widely accessible scientific evidence?Read more...</p></details>
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: cambridge.org  
-   Link:<a href="https://www.cambridge.org/core/journals/behavioural-public-policy/article/motivated-numeracy-and-active-reasoning-in-a-western-european-sample/5C462D05ED2D1FCAD2715F10287E6A0A" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/behavioural-public-policy/article/motivated-numeracy-and-active-reasoning-in-a-western-european-sample/5C462D05ED2D1FCAD2715F10287E6A0A</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentMotivated numeracy and active reasoning in a Western...by P CONNOR · 2024 · Cited by 25 — In this...</p></details>
+   Link: <a href="https://www.cambridge.org/core/journals/behavioural-public-policy/article/motivated-numeracy-and-active-reasoning-in-a-western-european-sample/5C462D05ED2D1FCAD2715F10287E6A0A" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/behavioural-public-policy/article/motivated-numeracy-and-active-reasoning-in-a-western-european-sample/5C462D05ED2D1FCAD2715F10287E6A0A</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentMotivated numeracy and active reasoning in a Western...by P CONNOR · 2024 · Cited by 25 — In this...</p></details>
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: papers.ssrn.com  
    Title: SSRN ID3032064 code45442  
-   Link:<a href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3032064_code45442.pdf?abstractid=3026941&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3032064_code45442.pdf?abstractid=3026941&amp;mirid=1</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Rumors of the “Nonreplication” of the “Motivated Numeracy...Consistent with existing literature, only 30% of the MN sample supplied...</p></details>
+   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3032064_code45442.pdf?abstractid=3026941&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3032064_code45442.pdf?abstractid=3026941&amp;mirid=1</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rumors of the “Nonreplication” of the “Motivated Numeracy...Consistent with existing literature, only 30% of the MN sample supplied...</p></details>
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/34051421/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/34051421/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>A preregistered replication of motivated numeracyby E Persson · 2021 · Cited by 71 — Our findings suggest that the cumulative evide...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/34051421/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/34051421/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A preregistered replication of motivated numeracyby E Persson · 2021 · Cited by 71 — Our findings suggest that the cumulative evide...</p></details>
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11478866/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11478866/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>by S Yu · 2024 · Cited by 2 — In this pre-registered study, we sought to examine the replicability of motivated numeracy, and investig...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11478866/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11478866/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by S Yu · 2024 · Cited by 2 — In this pre-registered study, we sought to examine the replicability of motivated numeracy, and investig...</p></details>
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: diva-portal.org  
    Title: Motivated Numeracy?  
-   Link:<a href="https://www.diva-portal.org/smash/record.jsf?af=%5B%5D&amp;aq=%5B%5B%5D%5D&amp;aq2=%5B%5B%5D%5D&amp;aqe=%5B%5D&amp;faces-redirect=true&amp;language=sv&amp;noOfRows=50&amp;onlyFullText=false&amp;pid=diva2%3A1478949&amp;query=&amp;searchType=SIMPLE&amp;sf=all&amp;sortOrder=author_sort_asc&amp;sortOrder2=title_sort_asc" target="_blank" rel="noopener noreferrer nofollow">https://www.diva-portal.org/smash/record.jsf?af=%5B%5D&amp;aq=%5B%5B%5D%5D&amp;aq2=%5B%5B%5D%5D&amp;aqe=%5B%5D&amp;faces-redirect=true&amp;language=sv&amp;noOfRows=50&amp;onlyFullText=false&amp;pid=diva2%3A1478949&amp;query=&amp;searchType=SIMPLE&amp;sf=all&amp;sortOrder=author_sort_asc&amp;sortOrder2=title_sort_asc</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Well yes, but actually noMotivated Numeracy? Well yes, but actually no: A replication study on motivated reasoning, motivated numeracy, a...</p></details>
+   Link: <a href="https://www.diva-portal.org/smash/record.jsf?af=%5B%5D&amp;aq=%5B%5B%5D%5D&amp;aq2=%5B%5B%5D%5D&amp;aqe=%5B%5D&amp;faces-redirect=true&amp;language=sv&amp;noOfRows=50&amp;onlyFullText=false&amp;pid=diva2%3A1478949&amp;query=&amp;searchType=SIMPLE&amp;sf=all&amp;sortOrder=author_sort_asc&amp;sortOrder2=title_sort_asc" target="_blank" rel="noopener noreferrer nofollow">https://www.diva-portal.org/smash/record.jsf?af=%5B%5D&amp;aq=%5B%5B%5D%5D&amp;aq2=%5B%5B%5D%5D&amp;aqe=%5B%5D&amp;faces-redirect=true&amp;language=sv&amp;noOfRows=50&amp;onlyFullText=false&amp;pid=diva2%3A1478949&amp;query=&amp;searchType=SIMPLE&amp;sf=all&amp;sortOrder=author_sort_asc&amp;sortOrder2=title_sort_asc</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Well yes, but actually noMotivated Numeracy? Well yes, but actually no: A replication study on motivated reasoning, motivated numeracy, a...</p></details>
 
 ### Additional References
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/319698181_Rumors_of_the_%27Nonreplication%27_of_the_%27Motivated_Numeracy_Effect%27_are_Greatly_Exaggerated" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/319698181_Rumors_of_the_%27Nonreplication%27_of_the_%27Motivated_Numeracy_Effect%27_are_Greatly_Exaggerated</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Rumors of the &#x27;Nonreplication&#x27; of the &#x27;Motivated Numeracy...17 Sept 2017 — In evaluating the motivated numeracy effect, we also observed...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/319698181_Rumors_of_the_%27Nonreplication%27_of_the_%27Motivated_Numeracy_Effect%27_are_Greatly_Exaggerated" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/319698181_Rumors_of_the_%27Nonreplication%27_of_the_%27Motivated_Numeracy_Effect%27_are_Greatly_Exaggerated</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rumors of the &#x27;Nonreplication&#x27; of the &#x27;Motivated Numeracy...17 Sept 2017 — In evaluating the motivated numeracy effect, we also observed...</p></details>
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: semanticscholar.org  
-   Link:<a href="https://www.semanticscholar.org/paper/Motivated-numeracy-and-enlightened-self-government-Kahan-Peters/c31861537baeba1d6ea94fd67691b8e3d05a7c0f" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Motivated-numeracy-and-enlightened-self-government-Kahan-Peters/c31861537baeba1d6ea94fd67691b8e3d05a7c0f</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>[PDF] Motivated numeracy and enlightened self-governmentThe findings suggest that the cumulative evidence for motivated numeracy is weake...</p></details>
+   Link: <a href="https://www.semanticscholar.org/paper/Motivated-numeracy-and-enlightened-self-government-Kahan-Peters/c31861537baeba1d6ea94fd67691b8e3d05a7c0f" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Motivated-numeracy-and-enlightened-self-government-Kahan-Peters/c31861537baeba1d6ea94fd67691b8e3d05a7c0f</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>[PDF] Motivated numeracy and enlightened self-governmentThe findings suggest that the cumulative evidence for motivated numeracy is weake...</p></details>
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/291069751_Motivated_Numeracy_and_Enlightened_Self-Government" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/291069751_Motivated_Numeracy_and_Enlightened_Self-Government</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>He showed that greater intelligence increases the capacity to defend identity-based beliefs...Read more...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/291069751_Motivated_Numeracy_and_Enlightened_Self-Government" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/291069751_Motivated_Numeracy_and_Enlightened_Self-Government</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>He showed that greater intelligence increases the capacity to defend identity-based beliefs...Read more...</p></details>
 
-12.<a id="endnote-12"></a>
+12. <a id="endnote-12"></a>
    Source: network.rawdatalibrary.net  
    Title: motivated numeracy and enlightened self government 2f7329  
-   Link:<a href="https://network.rawdatalibrary.net/publication/motivated-numeracy-and-enlightened-self-government-2f7329" target="_blank" rel="noopener noreferrer nofollow">https://network.rawdatalibrary.net/publication/motivated-numeracy-and-enlightened-self-government-2f7329</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Numeracy and Enlightened Self-Government7 days ago — We conducted an experiment to probe two alternative answers: the &quot;Science Comprehens...</p></details>
+   Link: <a href="https://network.rawdatalibrary.net/publication/motivated-numeracy-and-enlightened-self-government-2f7329" target="_blank" rel="noopener noreferrer nofollow">https://network.rawdatalibrary.net/publication/motivated-numeracy-and-enlightened-self-government-2f7329</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Numeracy and Enlightened Self-Government7 days ago — We conducted an experiment to probe two alternative answers: the &quot;Science Comprehens...</p></details>
 
-13.<a id="endnote-13"></a>
+13. <a id="endnote-13"></a>
    Source: rpubs.com  
    Title: Kahan motivated reasoning reanalaysis  
-   Link:<a href="https://rpubs.com/EmilOWK/Kahan_motivated_reasoning_reanalaysis" target="_blank" rel="noopener noreferrer nofollow">https://rpubs.com/EmilOWK/Kahan_motivated_reasoning_reanalaysis</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Motivated numeracy reanalysis26 Mar 2026 — The three-way interaction tests whether the motivated numeracy effect (concordance × numeracy)...</p></details>
+   Link: <a href="https://rpubs.com/EmilOWK/Kahan_motivated_reasoning_reanalaysis" target="_blank" rel="noopener noreferrer nofollow">https://rpubs.com/EmilOWK/Kahan_motivated_reasoning_reanalaysis</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Motivated numeracy reanalysis26 Mar 2026 — The three-way interaction tests whether the motivated numeracy effect (concordance × numeracy)...</p></details>
 
-14.<a id="endnote-14"></a>
+14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: Dan Kahan- "Cultural Cognition of" or "Political Ideology in" Law- Part 1  
-   Link:<a href="https://www.youtube.com/watch?v=8szmm5WzoM0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8szmm5WzoM0</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Intuition: The Good, the Bad, and the Ugly - Scientific [Critical Thinking](&amp;#123;&amp;#123; &#x27;critical-skills/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=8szmm5WzoM0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8szmm5WzoM0</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Intuition: The Good, the Bad, and the Ugly - Scientific [Critical Thinking](&amp;#123;&amp;#123; &#x27;critical-skills/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
-15.<a id="endnote-15"></a>
+15. <a id="endnote-15"></a>
    Source: math.drexel.edu  
-   Link:<a href="https://www.math.drexel.edu/~dp399/mathpolitics/MotivatedNumeracy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.math.drexel.edu/~dp399/mathpolitics/MotivatedNumeracy.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>AND POLITICS Motivated Numeracy &amp; Enlightened...Mounting evidence that science literacy, numeracy, and education are actually associated...</p></details>
+   Link: <a href="https://www.math.drexel.edu/~dp399/mathpolitics/MotivatedNumeracy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.math.drexel.edu/~dp399/mathpolitics/MotivatedNumeracy.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>AND POLITICS Motivated Numeracy &amp; Enlightened...Mounting evidence that science literacy, numeracy, and education are actually associated...</p></details>
 
-16.<a id="endnote-16"></a>
+16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: Dan Kahan: Science Literacy, Numeracy and Climate Change Risk Perceptions  
-   Link:<a href="https://www.youtube.com/watch?v=LZah9G-7vxw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LZah9G-7vxw</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Dan Kahan: How cultural values shape beliefs and perceptions of risk...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=LZah9G-7vxw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LZah9G-7vxw</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dan Kahan: How cultural values shape beliefs and perceptions of risk...</p></details>
 
-17.<a id="endnote-17"></a>
+17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: Dan Kahan: How cultural values shape beliefs and perceptions of risk  
-   Link:<a href="https://www.youtube.com/watch?v=3OFtNm3MlQk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3OFtNm3MlQk</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Dan Kahan- &quot;Cultural Cognition of&quot; or &quot;Political Ideology in&quot; Law- Part 1...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=3OFtNm3MlQk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3OFtNm3MlQk</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dan Kahan- &quot;Cultural Cognition of&quot; or &quot;Political Ideology in&quot; Law- Part 1...</p></details>
 
-18.<a id="endnote-18"></a>
+18. <a id="endnote-18"></a>
    Source: arxiv.org  
-   Link:<a href="https://arxiv.org/abs/2011.02362" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2011.02362</a>  
+   Link: <a href="https://arxiv.org/abs/2011.02362" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2011.02362</a>  

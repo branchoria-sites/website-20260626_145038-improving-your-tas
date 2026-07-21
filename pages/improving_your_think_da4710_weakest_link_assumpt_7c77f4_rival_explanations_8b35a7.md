@@ -280,7 +280,7 @@ image: /assets/images/improving_your_think_da4710_weakest_link_assumpt_7c77f4_ri
 
 ## Introduction
 
-A conclusion becomes fragile when it treats one explanation as if it were the only explanation. In practice, the same facts can often support several different stories. The question is not simply, “Does this explanation fit the evidence?” but “Does it fit the evidence better than the strongest alternative?” [Weakest-link]({{ 'weakest-link/' | relative_url }}) thinking therefore places special emphasis on rival explanations. If an overlooked alternative explains the evidence just as well—or better—the original conclusion loses much of its force, even if none of its individual facts are wrong. Structured analytical methods, scientific reasoning and clinical practice all rely on this principle because comparing competing explanations is often more informative than collecting additional supporting evidence alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stat.berkeley.edu">[Department of Statistics+2ialeia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stat.berkeley.edu</span><span class="citation-popover-snippet">Department of StatisticsStructured Analytic Techniques for Improving Intelligence...April 28, 2009 — by AT Primer · 2009 · Cited by 62 —...</span><span class="citation-popover-meta">Published: April 28, 2009</span></span></span>
+A conclusion becomes fragile when it treats one explanation as if it were the only explanation. In practice, the same facts can often support several different stories. The question is not simply, “Does this explanation fit the evidence?” but “Does it fit the evidence better than the strongest alternative?” [Weakest-link]({{ 'weakest-link/' | relative_url }}) thinking therefore places special emphasis on rival explanations. If an overlooked alternative explains the evidence just as well—or better—the original conclusion loses much of its force, even if none of its individual facts are wrong. Structured analytical methods, scientific reasoning and clinical practice all rely on this principle because comparing competing explanations is often more informative than collecting additional supporting evidence alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stat.berkeley.edu">[Department of Statistics+2ialeia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stat.berkeley.edu</span><span class="citation-popover-snippet">Department of StatisticsStructured Analytic Techniques for Improving Intelligence...April 28, 2009 — by AT Primer · 2009 · Cited by 62 —...</span><span class="citation-popover-meta">Published: April 28, 2009</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_weakest_link_assumpt_7c77f4_rival_explanations_8b35a7-Illustration-1-dark.svg" | relative_url }}" alt="Rivals illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_weakest_link_assumpt_7c77f4_rival_explanations_8b35a7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_weakest_link_assumpt_7c77f4_rival_explanations_8b35a7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -299,7 +299,7 @@ This distinction is central to [critical thinking]({{ 'critical-skills/' | relat
 
 A fever, for example, supports many possible diagnoses. A laboratory test identifying a particular pathogen is far more diagnostic because it separates one explanation from its rivals.
 
-Research on structured analytic techniques similarly argues that systematically considering alternative explanations reduces the risk of overlooking relevant possibilities, particularly when information is incomplete or ambiguous.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stat.berkeley.edu">[Department of Statistics+2ialeia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stat.berkeley.edu</span><span class="citation-popover-snippet">Department of StatisticsStructured Analytic Techniques for Improving Intelligence...April 28, 2009 — by AT Primer · 2009 · Cited by 62 —...</span><span class="citation-popover-meta">Published: April 28, 2009</span></span></span>
+Research on structured analytic techniques similarly argues that systematically considering alternative explanations reduces the risk of overlooking relevant possibilities, particularly when information is incomplete or ambiguous. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stat.berkeley.edu">[Department of Statistics+2ialeia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stat.berkeley.edu</span><span class="citation-popover-snippet">Department of StatisticsStructured Analytic Techniques for Improving Intelligence...April 28, 2009 — by AT Primer · 2009 · Cited by 62 —...</span><span class="citation-popover-meta">Published: April 28, 2009</span></span></span>
 
 ## How to compare rival explanations fairly
 
@@ -320,7 +320,7 @@ A practical sequence is:
 
 The discipline comes from evaluating every hypothesis against every important piece of evidence instead of collecting evidence only for the preferred explanation.
 
-One structured method that embodies this idea is the Analysis of Competing Hypotheses (ACH), originally developed for intelligence analysis. Rather than asking which explanation has the most confirming evidence, it encourages analysts to examine which explanations survive attempts at disconfirmation. Although researchers debate how much ACH improves performance in practice, its central insight—that competing explanations should be evaluated explicitly rather than implicitly—remains influential.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ialeia.org/docs/Psychology_of_Intelligence_Analysis.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ialeia.org">[ialeia.org+2Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ialeia.org</span><span class="citation-popover-snippet">analysis of five alternative paths for making counterintelligence judgments in the...Read more...</span></span></span>
+One structured method that embodies this idea is the Analysis of Competing Hypotheses (ACH), originally developed for intelligence analysis. Rather than asking which explanation has the most confirming evidence, it encourages analysts to examine which explanations survive attempts at disconfirmation. Although researchers debate how much ACH improves performance in practice, its central insight—that competing explanations should be evaluated explicitly rather than implicitly—remains influential. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ialeia.org/docs/Psychology_of_Intelligence_Analysis.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ialeia.org">[ialeia.org+2Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ialeia.org</span><span class="citation-popover-snippet">analysis of five alternative paths for making counterintelligence judgments in the...Read more...</span></span></span>
 
 ### Focus on evidence that changes your mind
 
@@ -343,7 +343,7 @@ Evidence that would genuinely alter the ranking of explanations deserves much gr
 
 ## Why confirmation alone is a weak test
 
-People naturally search for evidence that supports what they already suspect. Psychologists describe this tendency as confirmation bias: favouring information that agrees with an existing belief while paying less attention to conflicting evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Confirmation_bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Confirmation bias</span><span class="citation-popover-snippet">Confirmation bias</span></span></span>
+People naturally search for evidence that supports what they already suspect. Psychologists describe this tendency as confirmation bias: favouring information that agrees with an existing belief while paying less attention to conflicting evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Confirmation_bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Confirmation bias</span><span class="citation-popover-snippet">Confirmation bias</span></span></span>
 
 Testing rival explanations counteracts this tendency because it changes the question from:
 
@@ -360,7 +360,7 @@ This shift produces several benefits:
 * confidence becomes proportional to evidence rather than commitment;
 * [uncertainty]({{ 'uncertainty/' | relative_url }}) is recognised instead of concealed.
 
-Importantly, the outcome is sometimes greater uncertainty. That is not analytical failure. It is often a more accurate reflection of what the evidence actually permits. Heuer's work on intelligence analysis argues that explicitly considering alternatives often reduces unwarranted confidence because it exposes possibilities that intuitive reasoning tends to ignore.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ialeia.org/docs/Psychology_of_Intelligence_Analysis.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ialeia.org">[ialeia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ialeia.org</span><span class="citation-popover-snippet">analysis of five alternative paths for making counterintelligence judgments in the...Read more...</span></span></span>
+Importantly, the outcome is sometimes greater uncertainty. That is not analytical failure. It is often a more accurate reflection of what the evidence actually permits. Heuer's work on intelligence analysis argues that explicitly considering alternatives often reduces unwarranted confidence because it exposes possibilities that intuitive reasoning tends to ignore. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ialeia.org/docs/Psychology_of_Intelligence_Analysis.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ialeia.org">[ialeia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ialeia.org</span><span class="citation-popover-snippet">analysis of five alternative paths for making counterintelligence judgments in the...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_weakest_link_assumpt_7c77f4_rival_explanations_8b35a7-Illustration-2-dark.svg" | relative_url }}" alt="Rivals illustration 2" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_weakest_link_assumpt_7c77f4_rival_explanations_8b35a7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_weakest_link_assumpt_7c77f4_rival_explanations_8b35a7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -429,7 +429,7 @@ Several predictable errors weaken reasoning even when people attempt to compare 
 
 **Creating weak straw-man alternatives.** If competing explanations are implausible from the start, defeating them proves little. The comparison should always involve the strongest realistic rivals.
 
-**Treating absence of evidence as evidence of absence.** Failure to observe something does not automatically eliminate an explanation, particularly if that explanation predicts the evidence would be difficult to detect. Intelligence analysts have long warned against confusing hidden activity with nonexistent activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ialeia.org/docs/Psychology_of_Intelligence_Analysis.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ialeia.org">[ialeia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ialeia.org</span><span class="citation-popover-snippet">analysis of five alternative paths for making counterintelligence judgments in the...Read more...</span></span></span>
+**Treating absence of evidence as evidence of absence.** Failure to observe something does not automatically eliminate an explanation, particularly if that explanation predicts the evidence would be difficult to detect. Intelligence analysts have long warned against confusing hidden activity with nonexistent activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ialeia.org/docs/Psychology_of_Intelligence_Analysis.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ialeia.org">[ialeia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ialeia.org</span><span class="citation-popover-snippet">analysis of five alternative paths for making counterintelligence judgments in the...Read more...</span></span></span>
 
 **Stopping after finding one plausible explanation.** The first coherent story often feels convincing because it reduces uncertainty quickly. That feeling should trigger further comparison rather than end it.
 
@@ -452,194 +452,194 @@ Before accepting an important conclusion, ask four questions:
 These questions transform weakest-link thinking from an exercise in finding flaws into a disciplined comparison of explanations. Conclusions become more robust not because they accumulate more supporting evidence, but because they survive serious competition from credible alternatives.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to What Else Could Explain the Same Evidence?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to What Else Could Explain the Same Evidence?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-</h4>
-<p class="fr-book-author">By Daniel Kahneman</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Super+Thinking+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Super Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fi6qvAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Super Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Super+Thinking+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Super Thinking">Super Thinking</a>
+        </h4>
+        <p class="fr-book-author">By Gabriel Weinberg, Lauren McCann</p>
         
-<p class="fr-book-desc">Explains common reasoning errors, hypothesis testing, and why people overlook alternative explanations.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Introduces frameworks for weighing multiple explanations and avoiding narrow reasoning.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Super+Thinking+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-</h4>
-<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-<p class="fr-book-desc">Promotes comparing competing explanations and evaluating evidence before accepting conclusions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+        </h4>
+        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+        <p class="fr-book-desc">Promotes comparing competing explanations and evaluating evidence before accepting conclusions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Super+Thinking+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Super Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fi6qvAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Super Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Super+Thinking+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Super Thinking">Super Thinking</a>
-</h4>
-<p class="fr-book-author">By Gabriel Weinberg, Lauren McCann</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
+        </h4>
+        <p class="fr-book-author">By Darrell Huff</p>
         
-<p class="fr-book-desc">Introduces frameworks for weighing multiple explanations and avoiding narrow reasoning.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Super+Thinking+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Shows how the same evidence can support misleading interpretations without careful comparison.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
-</h4>
-<p class="fr-book-author">By Darrell Huff</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
+        </h4>
+        <p class="fr-book-author">By Rolf Dobelli</p>
         
-<p class="fr-book-desc">Shows how the same evidence can support misleading interpretations without careful comparison.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Covers cognitive biases that cause people to ignore rival explanations and jump to conclusions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Super+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Super Thinking</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Super+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Super Thinking</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Lie with Statistics</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=else+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-explain-the-same-evidence-else-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="else poster -book -books -dvd" data-ebay-reference="what-else-could-explain-the-same-evidence-else-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A Window to Somewhere Else Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/kw4AAeSwRXpo1atb/s-l225.jpg" alt="Listing image for A Window to Somewhere Else Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=else+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-explain-the-same-evidence-else-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="else poster -book -books -dvd" data-ebay-reference="what-else-could-explain-the-same-evidence-else-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">A Window to Somewhere Else Framed Wall Art Poster Canvas Print Picture</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=else+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-explain-the-same-evidence-else-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="else poster -book -books -dvd" data-ebay-reference="what-else-could-explain-the-same-evidence-else-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for else poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: else poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=else+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-explain-the-same-evidence-else-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="else poster -book -books -dvd" data-ebay-reference="what-else-could-explain-the-same-evidence-else-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=else+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-explain-the-same-evidence-else-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="else poster -book -books -dvd" data-ebay-reference="what-else-could-explain-the-same-evidence-else-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A Window to Somewhere Else Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/kw4AAeSwRXpo1atb/s-l225.jpg" alt="Listing image for A Window to Somewhere Else Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=else+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-explain-the-same-evidence-else-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="else poster -book -books -dvd" data-ebay-reference="what-else-could-explain-the-same-evidence-else-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">A Window to Somewhere Else Framed Wall Art Poster Canvas Print Picture</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=else+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-explain-the-same-evidence-else-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="else poster -book -books -dvd" data-ebay-reference="what-else-could-explain-the-same-evidence-else-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for else poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: else poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=else+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-explain-the-same-evidence-else-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="else poster -book -books -dvd" data-ebay-reference="what-else-could-explain-the-same-evidence-else-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=else+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-explain-the-same-evidence-else-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="else poster -book -books -dvd" data-ebay-reference="what-else-could-explain-the-same-evidence-else-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Be Yourself; Everyone Else Is Alrea Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/G54AAeSwtHBocxWd/s-l225.jpg" alt="Listing image for Be Yourself; Everyone Else Is Alrea Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=else+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-explain-the-same-evidence-else-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="else poster -book -books -dvd" data-ebay-reference="what-else-could-explain-the-same-evidence-else-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Be Yourself; Everyone Else Is Alrea Framed Wall Art Poster Canvas Print Picture</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=else+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-explain-the-same-evidence-else-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="else poster -book -books -dvd" data-ebay-reference="what-else-could-explain-the-same-evidence-else-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for else poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: else poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=else+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-explain-the-same-evidence-else-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="else poster -book -books -dvd" data-ebay-reference="what-else-could-explain-the-same-evidence-else-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=else+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-explain-the-same-evidence-else-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="else poster -book -books -dvd" data-ebay-reference="what-else-could-explain-the-same-evidence-else-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Be Yourself; Everyone Else Is Alrea Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/G54AAeSwtHBocxWd/s-l225.jpg" alt="Listing image for Be Yourself; Everyone Else Is Alrea Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=else+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-explain-the-same-evidence-else-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="else poster -book -books -dvd" data-ebay-reference="what-else-could-explain-the-same-evidence-else-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Be Yourself; Everyone Else Is Alrea Framed Wall Art Poster Canvas Print Picture</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=else+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-explain-the-same-evidence-else-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="else poster -book -books -dvd" data-ebay-reference="what-else-could-explain-the-same-evidence-else-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for else poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: else poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=else+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-explain-the-same-evidence-else-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="else poster -book -books -dvd" data-ebay-reference="what-else-could-explain-the-same-evidence-else-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=else+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-explain-the-same-evidence-else-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="else poster -book -books -dvd" data-ebay-reference="what-else-could-explain-the-same-evidence-else-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Above everything else Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/thIAAeSw3EZpwYBi/s-l225.jpg" alt="Listing image for Above everything else Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=else+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-explain-the-same-evidence-else-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="else poster -book -books -dvd" data-ebay-reference="what-else-could-explain-the-same-evidence-else-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Above everything else Framed Wall Art Poster Canvas Print Picture</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=else+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-explain-the-same-evidence-else-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="else poster -book -books -dvd" data-ebay-reference="what-else-could-explain-the-same-evidence-else-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for else poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: else poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=else+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-explain-the-same-evidence-else-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="else poster -book -books -dvd" data-ebay-reference="what-else-could-explain-the-same-evidence-else-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=else+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-explain-the-same-evidence-else-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="else poster -book -books -dvd" data-ebay-reference="what-else-could-explain-the-same-evidence-else-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Above everything else Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/thIAAeSw3EZpwYBi/s-l225.jpg" alt="Listing image for Above everything else Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=else+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-explain-the-same-evidence-else-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="else poster -book -books -dvd" data-ebay-reference="what-else-could-explain-the-same-evidence-else-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Above everything else Framed Wall Art Poster Canvas Print Picture</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=else+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-explain-the-same-evidence-else-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="else poster -book -books -dvd" data-ebay-reference="what-else-could-explain-the-same-evidence-else-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for else poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: else poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=else+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-explain-the-same-evidence-else-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="else poster -book -books -dvd" data-ebay-reference="what-else-could-explain-the-same-evidence-else-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=else+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-explain-the-same-evidence-else-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="else poster -book -books -dvd" data-ebay-reference="what-else-could-explain-the-same-evidence-else-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Be Yourself Everyone Else Is Alread Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/hlQAAeSw-hBoerzA/s-l225.jpg" alt="Listing image for Be Yourself Everyone Else Is Alread Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=else+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-explain-the-same-evidence-else-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="else poster -book -books -dvd" data-ebay-reference="what-else-could-explain-the-same-evidence-else-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Be Yourself Everyone Else Is Alread Framed Wall Art Poster Canvas Print Picture</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=else+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-explain-the-same-evidence-else-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="else poster -book -books -dvd" data-ebay-reference="what-else-could-explain-the-same-evidence-else-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for else poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: else poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=else+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-explain-the-same-evidence-else-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="else poster -book -books -dvd" data-ebay-reference="what-else-could-explain-the-same-evidence-else-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=else+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-explain-the-same-evidence-else-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="else poster -book -books -dvd" data-ebay-reference="what-else-could-explain-the-same-evidence-else-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=else+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-explain-the-same-evidence-else-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="else poster -book -books -dvd" data-ebay-reference="what-else-could-explain-the-same-evidence-else-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Be Yourself Everyone Else Is Alread Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/hlQAAeSw-hBoerzA/s-l225.jpg" alt="Listing image for Be Yourself Everyone Else Is Alread Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=else+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-explain-the-same-evidence-else-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="else poster -book -books -dvd" data-ebay-reference="what-else-could-explain-the-same-evidence-else-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Be Yourself Everyone Else Is Alread Framed Wall Art Poster Canvas Print Picture</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=else+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-explain-the-same-evidence-else-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="else poster -book -books -dvd" data-ebay-reference="what-else-could-explain-the-same-evidence-else-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for else poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: else poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=else+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-explain-the-same-evidence-else-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="else poster -book -books -dvd" data-ebay-reference="what-else-could-explain-the-same-evidence-else-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=else+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-else-could-explain-the-same-evidence-else-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="else poster -book -books -dvd" data-ebay-reference="what-else-could-explain-the-same-evidence-else-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -655,7 +655,7 @@ These questions transform weakest-link thinking from an exercise in finding flaw
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -675,7 +675,7 @@ These questions transform weakest-link thinking from an exercise in finding flaw
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -707,7 +707,7 @@ These questions transform weakest-link thinking from an exercise in finding flaw
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -759,7 +759,7 @@ These questions transform weakest-link thinking from an exercise in finding flaw
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -804,7 +804,7 @@ These questions transform weakest-link thinking from an exercise in finding flaw
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -844,88 +844,88 @@ These questions transform weakest-link thinking from an exercise in finding flaw
 </section>
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: ialeia.org  
-   Link:<a href="https://www.ialeia.org/docs/Psychology_of_Intelligence_Analysis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ialeia.org/docs/Psychology_of_Intelligence_Analysis.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>analysis of five alternative paths for making counterintelligence judgments in the...Read more...</p></details>
+   Link: <a href="https://www.ialeia.org/docs/Psychology_of_Intelligence_Analysis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ialeia.org/docs/Psychology_of_Intelligence_Analysis.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>analysis of five alternative paths for making counterintelligence judgments in the...Read more...</p></details>
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: onlinelibrary.wiley.com  
-   Link:<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/acp.3550" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1002/acp.3550</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryThe “analysis of competing hypotheses” in intelligence...by MK Dhami · 2019 · Cited by 81 — We examined the use of t...</p></details>
+   Link: <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/acp.3550" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1002/acp.3550</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryThe “analysis of competing hypotheses” in intelligence...by MK Dhami · 2019 · Cited by 81 — We examined the use of t...</p></details>
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Confirmation bias  
-   Link:<a href="https://en.wikipedia.org/wiki/Confirmation_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Confirmation_bias</a>  
+   Link: <a href="https://en.wikipedia.org/wiki/Confirmation_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Confirmation_bias</a>  
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Analysis of competing hypotheses  
-   Link:<a href="https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of competing hypothesesThe analysis of competing hypotheses (ACH) is a methodology for evaluating multiple competing hypothes...</p></details>
+   Link: <a href="https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of competing hypothesesThe analysis of competing hypotheses (ACH) is a methodology for evaluating multiple competing hypothes...</p></details>
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: stat.berkeley.edu  
-   Link:<a href="https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of StatisticsStructured Analytic Techniques for Improving Intelligence...April 28, 2009 — by AT Primer · 2009 · Cited by 62 —...</p></details>
+   Link: <a href="https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of StatisticsStructured Analytic Techniques for Improving Intelligence...April 28, 2009 — by AT Primer · 2009 · Cited by 62 —...</p></details>
    Published: April 28, 2009  
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: sosintel.co.uk  
    Title: analysis of competing hypotheses  
-   Link:<a href="https://sosintel.co.uk/tag/analysis-of-competing-hypotheses/" target="_blank" rel="noopener noreferrer nofollow">https://sosintel.co.uk/tag/analysis-of-competing-hypotheses/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Archives20 Jun 2025 — The Analysis of Competing Hypotheses (ACH) is a structured method designed to cut through ambiguity and support obj...</p></details>
+   Link: <a href="https://sosintel.co.uk/tag/analysis-of-competing-hypotheses/" target="_blank" rel="noopener noreferrer nofollow">https://sosintel.co.uk/tag/analysis-of-competing-hypotheses/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Archives20 Jun 2025 — The Analysis of Competing Hypotheses (ACH) is a structured method designed to cut through ambiguity and support obj...</p></details>
 
 ### Additional References
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: futuribles.com  
-   Link:<a href="https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706" target="_blank" rel="noopener noreferrer nofollow">https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of Competing HypothesesAnalysis of Competing Hypotheses (ACH) is an intelligence analysis method based on evaluating plausible a...</p></details>
+   Link: <a href="https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706" target="_blank" rel="noopener noreferrer nofollow">https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of Competing HypothesesAnalysis of Competing Hypotheses (ACH) is an intelligence analysis method based on evaluating plausible a...</p></details>
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: methods.sagepub.com  
    Title: qualitative data analysis design  
-   Link:<a href="https://methods.sagepub.com/book/mono/introduction-to-educational-research/chpt/qualitative-data-analysis-design" target="_blank" rel="noopener noreferrer nofollow">https://methods.sagepub.com/book/mono/introduction-to-educational-research/chpt/qualitative-data-analysis-design</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Data, Analysis, and DesignGood qualitative research contributes to science via a logical chain of reasoning, multiple sources of convergi...</p></details>
+   Link: <a href="https://methods.sagepub.com/book/mono/introduction-to-educational-research/chpt/qualitative-data-analysis-design" target="_blank" rel="noopener noreferrer nofollow">https://methods.sagepub.com/book/mono/introduction-to-educational-research/chpt/qualitative-data-analysis-design</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data, Analysis, and DesignGood qualitative research contributes to science via a logical chain of reasoning, multiple sources of convergi...</p></details>
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: drcharlesmrusso.substack.com  
    Title: causal reasoning and explanation  
-   Link:<a href="https://drcharlesmrusso.substack.com/p/causal-reasoning-and-explanation" target="_blank" rel="noopener noreferrer nofollow">https://drcharlesmrusso.substack.com/p/causal-reasoning-and-explanation</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Reasoning and Explanation Building as a Core...The article concludes that disciplined causal reasoning is indispensable for moving from...</p></details>
+   Link: <a href="https://drcharlesmrusso.substack.com/p/causal-reasoning-and-explanation" target="_blank" rel="noopener noreferrer nofollow">https://drcharlesmrusso.substack.com/p/causal-reasoning-and-explanation</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reasoning and Explanation Building as a Core...The article concludes that disciplined causal reasoning is indispensable for moving from...</p></details>
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: youtube.com  
-   Link:<a href="https://www.youtube.com/watch?v=Y-J0FYOQRMY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y-J0FYOQRMY</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>This CIA Manual Trains the World&#x27;s Sharpest Analytical Minds...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=Y-J0FYOQRMY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y-J0FYOQRMY</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>This CIA Manual Trains the World&#x27;s Sharpest Analytical Minds...</p></details>
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: Analysis of Competing Hypotheses (ACH): Finding Plausible Answers  
-   Link:<a href="https://www.youtube.com/watch?v=xt4EnzvGA4w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xt4EnzvGA4w</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of Competing Hypotheses (ACH): A Structured Analytic Technique (SAT) for FinCrime...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=xt4EnzvGA4w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xt4EnzvGA4w</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of Competing Hypotheses (ACH): A Structured Analytic Technique (SAT) for FinCrime...</p></details>
 
-12.<a id="endnote-12"></a>
+12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: First Conclusion Bias  
-   Link:<a href="https://www.youtube.com/watch?v=zOaKf_1RgZE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zOaKf_1RgZE</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of Competing Hypotheses (ACH): Finding Plausible Answers - YouTube Analysis of Competing Hypotheses (ACH): Finding Plausible Ans...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=zOaKf_1RgZE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zOaKf_1RgZE</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of Competing Hypotheses (ACH): Finding Plausible Answers - YouTube Analysis of Competing Hypotheses (ACH): Finding Plausible Ans...</p></details>
 
-13.<a id="endnote-13"></a>
+13. <a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8763848/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8763848/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Impact of Cognitive Biases on Professionals&#x27; Decision...by V Berthet · 2022 · Cited by 306 — The author reviewed the research on the imp...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8763848/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8763848/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Impact of Cognitive Biases on Professionals&#x27; Decision...by V Berthet · 2022 · Cited by 306 — The author reviewed the research on the imp...</p></details>
 
-14.<a id="endnote-14"></a>
+14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: This CIA Manual Trains the World's Sharpest Analytical Minds  
-   Link:<a href="https://www.youtube.com/watch?v=NMElghTG_kI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NMElghTG_kI</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Intelligence Analysis Skills: Analysis of Competing Hypotheses (Part 1)...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=NMElghTG_kI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NMElghTG_kI</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Intelligence Analysis Skills: Analysis of Competing Hypotheses (Part 1)...</p></details>
 
-15.<a id="endnote-15"></a>
+15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: Intelligence Analysis Skills: Analysis of Competing Hypotheses (Part 1)  
-   Link:<a href="https://www.youtube.com/watch?v=J_eDCBf7R2I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=J_eDCBf7R2I</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>First Conclusion Bias...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=J_eDCBf7R2I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=J_eDCBf7R2I</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>First Conclusion Bias...</p></details>

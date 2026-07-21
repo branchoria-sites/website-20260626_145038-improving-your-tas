@@ -274,7 +274,7 @@ image: /assets/images/improving_your_think_da4710_critical_thinking_tr_28fa6d_tr
 
 ## Introduction
 
-[Critical thinking]({{ 'critical-skills/' | relative_url }}) does not automatically [transfer]({{ 'transfer/' | relative_url }}) from one subject or situation to another because effective judgement depends on more than general reasoning habits. People need enough background knowledge to recognise which facts matter, identify weak assumptions, interpret evidence correctly and notice when familiar reasoning patterns apply in a new context. Without that knowledge, even someone who has learned general critical thinking strategies may overlook crucial details or apply the wrong standards of evidence. Research in cognitive science consistently shows that transfer is possible, but it is difficult, selective and heavily influenced by what learners already know about the domain in which they are reasoning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.danielwillingham.com/uploads/5/0/0/7/5007325/willingham_2019_nsw_critical_thinking2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: danielwillingham.com">[danielwillingham.com+2American Federation of Teachers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">danielwillingham.com</span><span class="citation-popover-snippet">fer, and the research literature evaluating how well critical thinking skills transfer to new problems is.Read more...</span></span></span>
+[Critical thinking]({{ 'critical-skills/' | relative_url }}) does not automatically [transfer]({{ 'transfer/' | relative_url }}) from one subject or situation to another because effective judgement depends on more than general reasoning habits. People need enough background knowledge to recognise which facts matter, identify weak assumptions, interpret evidence correctly and notice when familiar reasoning patterns apply in a new context. Without that knowledge, even someone who has learned general critical thinking strategies may overlook crucial details or apply the wrong standards of evidence. Research in cognitive science consistently shows that transfer is possible, but it is difficult, selective and heavily influenced by what learners already know about the domain in which they are reasoning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.danielwillingham.com/uploads/5/0/0/7/5007325/willingham_2019_nsw_critical_thinking2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: danielwillingham.com">[danielwillingham.com+2American Federation of Teachers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">danielwillingham.com</span><span class="citation-popover-snippet">fer, and the research literature evaluating how well critical thinking skills transfer to new problems is.Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_critical_thinking_tr_28fa6d_transfer_limits_know_991d7b-Illustration-1-dark.svg" | relative_url }}" alt="Transfer Limits illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_critical_thinking_tr_28fa6d_transfer_limits_know_991d7b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_critical_thinking_tr_28fa6d_transfer_limits_know_991d7b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,16 +288,16 @@ Consider the same question asked in different settings:
 * A historical claim requires judging primary sources, context and authorship.
 * A financial forecast requires recognising economic assumptions and [uncertainty]({{ 'uncertainty/' | relative_url }}).
 
-The thinking routine may appear similar, but the knowledge needed to carry it out differs substantially. Someone can faithfully follow a generic checklist while still reaching poor conclusions because they cannot distinguish meaningful information from irrelevant detail. Daniel Willingham argues that critical thinking is intertwined with the content being considered rather than functioning as a completely general mental skill that operates independently of knowledge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://education.nsw.gov.au/content/dam/main-education/teaching-and-learning/education-for-a-changing-world/media/documents/How-to-teach-critical-thinking-Willingham.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.nsw.gov.au">[NSW Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.nsw.gov.au</span><span class="citation-popover-title">NSW Education How to Teach Critical Thinking</span><span class="citation-popover-snippet">NSW EducationHow to Teach Critical ThinkingFebruary 13, 2025 — by DT Willingham · Cited by 153 — This aspect of critical thinking is call...</span><span class="citation-popover-meta">Published: February 13, 2025</span></span></span>
+The thinking routine may appear similar, but the knowledge needed to carry it out differs substantially. Someone can faithfully follow a generic checklist while still reaching poor conclusions because they cannot distinguish meaningful information from irrelevant detail. Daniel Willingham argues that critical thinking is intertwined with the content being considered rather than functioning as a completely general mental skill that operates independently of knowledge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://education.nsw.gov.au/content/dam/main-education/teaching-and-learning/education-for-a-changing-world/media/documents/How-to-teach-critical-thinking-Willingham.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.nsw.gov.au">[NSW Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.nsw.gov.au</span><span class="citation-popover-title">NSW Education How to Teach Critical Thinking</span><span class="citation-popover-snippet">NSW EducationHow to Teach Critical ThinkingFebruary 13, 2025 — by DT Willingham · Cited by 153 — This aspect of critical thinking is call...</span><span class="citation-popover-meta">Published: February 13, 2025</span></span></span>
 
-This explains why students sometimes perform well on classroom exercises yet struggle to apply the same reasoning in everyday life. The problem is often not that they forgot the thinking strategy, but that they failed to recognise that the strategy was relevant in the new situation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aft.org/ae/fall2020/willingham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aft.org">[American Federation of Teachers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aft.org</span><span class="citation-popover-snippet">American Federation of TeachersAsk the Cognitive Scientist: How Can Educators Teach...by DT Willingham · Cited by 42 — The problem in tr...</span></span></span>
+This explains why students sometimes perform well on classroom exercises yet struggle to apply the same reasoning in everyday life. The problem is often not that they forgot the thinking strategy, but that they failed to recognise that the strategy was relevant in the new situation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aft.org/ae/fall2020/willingham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aft.org">[American Federation of Teachers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aft.org</span><span class="citation-popover-snippet">American Federation of TeachersAsk the Cognitive Scientist: How Can Educators Teach...by DT Willingham · Cited by 42 — The problem in tr...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vypkOQU1rq8" title="Critical Thinking Making evidence-based decisions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vypkOQU1rq8" target="_blank" rel="noopener noreferrer">Critical Thinking Making evidence-based decisions</a></p><p class="youtube-embed-meta">Channel: InstituteFA</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vypkOQU1rq8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vypkOQU1rq8">Open on YouTube</a></p></div></div></div>
 
 ## How background knowledge changes judgement
 
-Background knowledge contributes to critical thinking in several different ways.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tipsforteachers.co.uk/research-critical-thinking-why-is-it-so-hard-to-teach/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tipsforteachers.co.uk">[tipsforteachers.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tipsforteachers.co.uk</span><span class="citation-popover-title">Research: Critical thinking</span><span class="citation-popover-snippet">why is it so hard to teach?This collection of articles explores the challenges of teaching critical thinking, particularly in the context...</span></span></span>
+Background knowledge contributes to critical thinking in several different ways. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tipsforteachers.co.uk/research-critical-thinking-why-is-it-so-hard-to-teach/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tipsforteachers.co.uk">[tipsforteachers.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tipsforteachers.co.uk</span><span class="citation-popover-title">Research: Critical thinking</span><span class="citation-popover-snippet">why is it so hard to teach?This collection of articles explores the challenges of teaching critical thinking, particularly in the context...</span></span></span>
 
 **It helps identify what is important.** Experts notice meaningful patterns that novices simply cannot see. An experienced doctor immediately recognises symptoms that deserve attention, while a beginner may focus on superficial features.
 
@@ -305,7 +305,7 @@ Background knowledge contributes to critical thinking in several different ways.
 
 **It supports alternative explanations.** Critical thinking requires comparing competing interpretations rather than accepting the first plausible answer. Without enough knowledge, people often generate only one explanation and therefore have nothing meaningful to compare against.
 
-**It reduces cognitive load.** Familiar knowledge stored in long-term memory frees working memory to examine arguments rather than merely trying to understand basic concepts. Cognitive psychologists have long shown that reasoning quality depends partly on how efficiently people can retrieve relevant knowledge while solving problems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://education.nsw.gov.au/content/dam/main-education/teaching-and-learning/education-for-a-changing-world/media/documents/How-to-teach-critical-thinking-Willingham.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.nsw.gov.au">[NSW Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.nsw.gov.au</span><span class="citation-popover-title">NSW Education How to Teach Critical Thinking</span><span class="citation-popover-snippet">NSW EducationHow to Teach Critical ThinkingFebruary 13, 2025 — by DT Willingham · Cited by 153 — This aspect of critical thinking is call...</span><span class="citation-popover-meta">Published: February 13, 2025</span></span></span>
+**It reduces cognitive load.** Familiar knowledge stored in long-term memory frees working memory to examine arguments rather than merely trying to understand basic concepts. Cognitive psychologists have long shown that reasoning quality depends partly on how efficiently people can retrieve relevant knowledge while solving problems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://education.nsw.gov.au/content/dam/main-education/teaching-and-learning/education-for-a-changing-world/media/documents/How-to-teach-critical-thinking-Willingham.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.nsw.gov.au">[NSW Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.nsw.gov.au</span><span class="citation-popover-title">NSW Education How to Teach Critical Thinking</span><span class="citation-popover-snippet">NSW EducationHow to Teach Critical ThinkingFebruary 13, 2025 — by DT Willingham · Cited by 153 — This aspect of critical thinking is call...</span><span class="citation-popover-meta">Published: February 13, 2025</span></span></span>
 
 The result is that knowledge does not compete with critical thinking. It makes critical thinking possible.
 
@@ -316,7 +316,7 @@ The result is that knowledge does not compete with critical thinking. It makes c
 
 One of the most important findings from transfer research is that people frequently fail before reasoning even begins. They do not recognise that a previously learned principle applies to the current situation.
 
-Classic experiments on analogy-based problem solving found that participants often failed to apply a solution they had just encountered because the new problem looked different on the surface. When researchers explicitly suggested that the earlier example might help, success rates increased dramatically. The reasoning itself was not beyond participants' abilities; recognising the connection was the obstacle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aft.org/ae/fall2020/willingham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aft.org">[American Federation of Teachers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aft.org</span><span class="citation-popover-snippet">American Federation of TeachersAsk the Cognitive Scientist: How Can Educators Teach...by DT Willingham · Cited by 42 — The problem in tr...</span></span></span>
+Classic experiments on analogy-based problem solving found that participants often failed to apply a solution they had just encountered because the new problem looked different on the surface. When researchers explicitly suggested that the earlier example might help, success rates increased dramatically. The reasoning itself was not beyond participants' abilities; recognising the connection was the obstacle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aft.org/ae/fall2020/willingham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aft.org">[American Federation of Teachers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aft.org</span><span class="citation-popover-snippet">American Federation of TeachersAsk the Cognitive Scientist: How Can Educators Teach...by DT Willingham · Cited by 42 — The problem in tr...</span></span></span>
 
 This distinction matters because transfer depends on recognising deep structure rather than superficial appearance.
 
@@ -326,7 +326,7 @@ For example:
 * A legal argument and a scientific explanation may both require distinguishing correlation from [causation]({{ 'causation/' | relative_url }}).
 * Two scenarios can appear unrelated while sharing the same logical structure.
 
-Experts become better at transfer largely because repeated experience teaches them to see these deeper similarities across different situations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.learningscientists.org/blog/2021/9/23-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learningscientists.org">[The Learning Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learningscientists.org</span><span class="citation-popover-snippet">The Learning ScientistsDepth Structure and Transfer in Critical Thinking...23 Sept 2021 — How do this recognition of depth and domain-sp...</span></span></span>
+Experts become better at transfer largely because repeated experience teaches them to see these deeper similarities across different situations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.learningscientists.org/blog/2021/9/23-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learningscientists.org">[The Learning Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learningscientists.org</span><span class="citation-popover-snippet">The Learning ScientistsDepth Structure and Transfer in Critical Thinking...23 Sept 2021 — How do this recognition of depth and domain-sp...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_critical_thinking_tr_28fa6d_transfer_limits_know_991d7b-Illustration-2-dark.svg" | relative_url }}" alt="Transfer Limits illustration 2" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_critical_thinking_tr_28fa6d_transfer_limits_know_991d7b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_critical_thinking_tr_28fa6d_transfer_limits_know_991d7b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -342,7 +342,7 @@ People can possess extensive factual knowledge while reasoning poorly because th
 * fail to evaluate [source quality]({{ 'source-quality/' | relative_url }}); or
 * overestimate their own certainty.
 
-Research therefore rejects both extremes. Critical thinking is neither a completely general skill that floats free of subject matter nor an automatic consequence of accumulating facts. High-quality judgement requires both domain knowledge and [explicit reasoning]({{ 'explicit-teaching/' | relative_url }}) strategies working together.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://education.nsw.gov.au/content/dam/main-education/teaching-and-learning/education-for-a-changing-world/media/documents/How-to-teach-critical-thinking-Willingham.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.nsw.gov.au">[NSW Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.nsw.gov.au</span><span class="citation-popover-title">NSW Education How to Teach Critical Thinking</span><span class="citation-popover-snippet">NSW EducationHow to Teach Critical ThinkingFebruary 13, 2025 — by DT Willingham · Cited by 153 — This aspect of critical thinking is call...</span><span class="citation-popover-meta">Published: February 13, 2025</span></span></span>
+Research therefore rejects both extremes. Critical thinking is neither a completely general skill that floats free of subject matter nor an automatic consequence of accumulating facts. High-quality judgement requires both domain knowledge and [explicit reasoning]({{ 'explicit-teaching/' | relative_url }}) strategies working together. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://education.nsw.gov.au/content/dam/main-education/teaching-and-learning/education-for-a-changing-world/media/documents/How-to-teach-critical-thinking-Willingham.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.nsw.gov.au">[NSW Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.nsw.gov.au</span><span class="citation-popover-title">NSW Education How to Teach Critical Thinking</span><span class="citation-popover-snippet">NSW EducationHow to Teach Critical ThinkingFebruary 13, 2025 — by DT Willingham · Cited by 153 — This aspect of critical thinking is call...</span><span class="citation-popover-meta">Published: February 13, 2025</span></span></span>
 
 This also explains why experts sometimes make mistakes outside their own specialism. Expertise usually transfers only where the underlying knowledge structures remain relevant.
 
@@ -354,13 +354,13 @@ If transfer is difficult, instruction must deliberately prepare learners for it 
 
 Research highlights several practices that improve the chances of transfer.
 
-**Teach thinking inside subject knowledge.** Students learn reasoning more effectively when critical thinking is embedded within authentic disciplinary problems instead of being separated into abstract exercises.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://education.nsw.gov.au/content/dam/main-education/teaching-and-learning/education-for-a-changing-world/media/documents/How-to-teach-critical-thinking-Willingham.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.nsw.gov.au">[NSW Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.nsw.gov.au</span><span class="citation-popover-title">NSW Education How to Teach Critical Thinking</span><span class="citation-popover-snippet">NSW EducationHow to Teach Critical ThinkingFebruary 13, 2025 — by DT Willingham · Cited by 153 — This aspect of critical thinking is call...</span><span class="citation-popover-meta">Published: February 13, 2025</span></span></span>
+**Teach thinking inside subject knowledge.** Students learn reasoning more effectively when critical thinking is embedded within authentic disciplinary problems instead of being separated into abstract exercises. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://education.nsw.gov.au/content/dam/main-education/teaching-and-learning/education-for-a-changing-world/media/documents/How-to-teach-critical-thinking-Willingham.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.nsw.gov.au">[NSW Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.nsw.gov.au</span><span class="citation-popover-title">NSW Education How to Teach Critical Thinking</span><span class="citation-popover-snippet">NSW EducationHow to Teach Critical ThinkingFebruary 13, 2025 — by DT Willingham · Cited by 153 — This aspect of critical thinking is call...</span><span class="citation-popover-meta">Published: February 13, 2025</span></span></span>
 
-**Compare different examples with the same underlying structure.** Presenting problems that look different but rely on the same reasoning encourages learners to focus on deep principles rather than surface details.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.learningscientists.org/blog/2021/9/23-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learningscientists.org">[The Learning Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learningscientists.org</span><span class="citation-popover-snippet">The Learning ScientistsDepth Structure and Transfer in Critical Thinking...23 Sept 2021 — How do this recognition of depth and domain-sp...</span></span></span>
+**Compare different examples with the same underlying structure.** Presenting problems that look different but rely on the same reasoning encourages learners to focus on deep principles rather than surface details. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.learningscientists.org/blog/2021/9/23-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learningscientists.org">[The Learning Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learningscientists.org</span><span class="citation-popover-snippet">The Learning ScientistsDepth Structure and Transfer in Critical Thinking...23 Sept 2021 — How do this recognition of depth and domain-sp...</span></span></span>
 
-**Make transfer explicit.** Teachers should regularly ask where else a reasoning strategy might apply instead of assuming students will make the connection themselves. Even simple prompts directing learners to compare situations can substantially improve transfer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aft.org/ae/fall2020/willingham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aft.org">[American Federation of Teachers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aft.org</span><span class="citation-popover-snippet">American Federation of TeachersAsk the Cognitive Scientist: How Can Educators Teach...by DT Willingham · Cited by 42 — The problem in tr...</span></span></span>
+**Make transfer explicit.** Teachers should regularly ask where else a reasoning strategy might apply instead of assuming students will make the connection themselves. Even simple prompts directing learners to compare situations can substantially improve transfer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aft.org/ae/fall2020/willingham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aft.org">[American Federation of Teachers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aft.org</span><span class="citation-popover-snippet">American Federation of TeachersAsk the Cognitive Scientist: How Can Educators Teach...by DT Willingham · Cited by 42 — The problem in tr...</span></span></span>
 
-**Provide varied practice.** Encountering the same thinking process across multiple contexts helps learners build flexible mental representations that are easier to recognise later. Authentic problems, discussion, modelling and guided practice have all been associated with stronger transfer than isolated drills.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://lirias.kuleuven.be/retrieve/7bdad7dd-02ee-49af-b74b-73adbf8de3d8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lirias.kuleuven.be">[Lirias]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lirias.kuleuven.be</span><span class="citation-popover-snippet">Systematic design of domain-specific instruction on near...by DT Tiruneh · 2018 · Cited by 62 — The literature on transfer of lear...</span></span></span>
+**Provide varied practice.** Encountering the same thinking process across multiple contexts helps learners build flexible mental representations that are easier to recognise later. Authentic problems, discussion, modelling and guided practice have all been associated with stronger transfer than isolated drills. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://lirias.kuleuven.be/retrieve/7bdad7dd-02ee-49af-b74b-73adbf8de3d8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lirias.kuleuven.be">[Lirias]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lirias.kuleuven.be</span><span class="citation-popover-snippet">Systematic design of domain-specific instruction on near...by DT Tiruneh · 2018 · Cited by 62 — The literature on transfer of lear...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Luosvs-iqrk" title="You Don&#x27;t Need to Read Studies to Teach With Evidence — Start Here" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Luosvs-iqrk" target="_blank" rel="noopener noreferrer">You Don&#x27;t Need to Read Studies to Teach With Evidence — Start Here</a></p><p class="youtube-embed-meta">Channel: Matthew B. Courtney, Ed.D.</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Luosvs-iqrk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Luosvs-iqrk">Open on YouTube</a></p></div></div></div>
@@ -369,197 +369,197 @@ Research highlights several practices that improve the chances of transfer.
 
 The failure of critical thinking to transfer is not evidence that critical thinking cannot be taught. Instead, it reflects how human memory and reasoning work. People think with knowledge they already possess, and they apply reasoning strategies only when they recognise that those strategies fit the situation.
 
-For anyone aiming to improve thinking beyond school, the implication is straightforward: learn the habits of good reasoning, but build them alongside deep knowledge of the subjects that matter. General principles provide direction, while background knowledge supplies the material needed to judge claims accurately. Transfer becomes more reliable not because thinking grows independent of knowledge, but because knowledge makes recognising and applying good thinking increasingly automatic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://education.nsw.gov.au/content/dam/main-education/teaching-and-learning/education-for-a-changing-world/media/documents/How-to-teach-critical-thinking-Willingham.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.nsw.gov.au">[NSW Education+2American Federation of Teachers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.nsw.gov.au</span><span class="citation-popover-title">NSW Education How to Teach Critical Thinking</span><span class="citation-popover-snippet">NSW EducationHow to Teach Critical ThinkingFebruary 13, 2025 — by DT Willingham · Cited by 153 — This aspect of critical thinking is call...</span><span class="citation-popover-meta">Published: February 13, 2025</span></span></span>
+For anyone aiming to improve thinking beyond school, the implication is straightforward: learn the habits of good reasoning, but build them alongside deep knowledge of the subjects that matter. General principles provide direction, while background knowledge supplies the material needed to judge claims accurately. Transfer becomes more reliable not because thinking grows independent of knowledge, but because knowledge makes recognising and applying good thinking increasingly automatic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://education.nsw.gov.au/content/dam/main-education/teaching-and-learning/education-for-a-changing-world/media/documents/How-to-teach-critical-thinking-Willingham.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.nsw.gov.au">[NSW Education+2American Federation of Teachers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.nsw.gov.au</span><span class="citation-popover-title">NSW Education How to Teach Critical Thinking</span><span class="citation-popover-snippet">NSW EducationHow to Teach Critical ThinkingFebruary 13, 2025 — by DT Willingham · Cited by 153 — This aspect of critical thinking is call...</span><span class="citation-popover-meta">Published: February 13, 2025</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Critical Thinking Does Not Always Transfer. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Critical Thinking Does Not Always Transfer. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DlMlEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
-</h4>
-<p class="fr-book-author">By Daniel T. Willingham</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DlMlEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
+        </h4>
+        <p class="fr-book-author">By Daniel T. Willingham</p>
         
-<p class="fr-book-desc">Directly explains why thinking depends on background knowledge and why skills do not automatically transfer across domains.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly explains why thinking depends on background knowledge and why skills do not automatically transfer across domains.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-</h4>
-<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-<p class="fr-book-desc">Demonstrates practical critical thinking, evaluating evidence and questioning unsupported claims.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oneWAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-</h4>
-<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oneWAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+        </h4>
+        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-<p class="fr-book-desc">Explains durable learning, retrieval, varied practice, and conditions that support transfer.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains durable learning, retrieval, varied practice, and conditions that support transfer.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-</h4>
-<p class="fr-book-author">By Daniel Kahneman</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+We+Learn+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How We Learn on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=R9C2DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How We Learn" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=How+We+Learn+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How We Learn">How We Learn</a>
+        </h4>
+        <p class="fr-book-author">By Stanislas Dehaene</p>
         
-<p class="fr-book-desc">Provides foundational understanding of judgement, reasoning errors, and the limits of intuitive thinking.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Covers the cognitive mechanisms behind learning, expertise, and applying knowledge in new situations.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=How+We+Learn+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Don&#x27;t Students Like School?</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
+        </h4>
+        <p class="fr-book-author">By Rolf Dobelli</p>
+        
+        <p class="fr-book-desc">Introduces common reasoning mistakes that complement discussions of critical thinking and domain knowledge.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Don&#x27;t Students Like School?</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+We+Learn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How We Learn</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical poster -book -books -dvd" data-ebay-reference="why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fluffernutter Critical Role Inspire Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/sowAAeSwHRZp1TfL/s-l225.jpg" alt="Listing image for Fluffernutter Critical Role Inspire Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical poster -book -books -dvd" data-ebay-reference="why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Fluffernutter Critical Role Inspire Framed Wall Art Poster Canvas Print Picture</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical poster -book -books -dvd" data-ebay-reference="why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical poster -book -books -dvd" data-ebay-reference="why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical poster -book -books -dvd" data-ebay-reference="why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fluffernutter Critical Role Inspire Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/sowAAeSwHRZp1TfL/s-l225.jpg" alt="Listing image for Fluffernutter Critical Role Inspire Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical poster -book -books -dvd" data-ebay-reference="why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Fluffernutter Critical Role Inspire Framed Wall Art Poster Canvas Print Picture</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical poster -book -books -dvd" data-ebay-reference="why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical poster -book -books -dvd" data-ebay-reference="why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical poster -book -books -dvd" data-ebay-reference="why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Role Vox Machina 2016 Ep 50 C1 Signed Poster 36x24"><img src="https://i.ebayimg.com/images/g/TYQAAeSwjiVqAOL2/s-l225.jpg" alt="Listing image for Critical Role Vox Machina 2016 Ep 50 C1 Signed Poster 36x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical poster -book -books -dvd" data-ebay-reference="why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Critical Role Vox Machina 2016 Ep 50 C1 Signed Poster 36x24</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical poster -book -books -dvd" data-ebay-reference="why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical poster -book -books -dvd" data-ebay-reference="why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical poster -book -books -dvd" data-ebay-reference="why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Role Vox Machina 2016 Ep 50 C1 Signed Poster 36x24"><img src="https://i.ebayimg.com/images/g/TYQAAeSwjiVqAOL2/s-l225.jpg" alt="Listing image for Critical Role Vox Machina 2016 Ep 50 C1 Signed Poster 36x24" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical poster -book -books -dvd" data-ebay-reference="why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Critical Role Vox Machina 2016 Ep 50 C1 Signed Poster 36x24</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical poster -book -books -dvd" data-ebay-reference="why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical poster -book -books -dvd" data-ebay-reference="why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical poster -book -books -dvd" data-ebay-reference="why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Condition 1987 Vintage Original Video Shop Movie Poster"><img src="https://i.ebayimg.com/images/g/Ap0AAOSw3TVnlCVm/s-l225.jpg" alt="Listing image for Critical Condition 1987 Vintage Original Video Shop Movie Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical poster -book -books -dvd" data-ebay-reference="why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Critical Condition 1987 Vintage Original Video Shop Movie Poster</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical poster -book -books -dvd" data-ebay-reference="why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical poster -book -books -dvd" data-ebay-reference="why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical poster -book -books -dvd" data-ebay-reference="why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Condition 1987 Vintage Original Video Shop Movie Poster"><img src="https://i.ebayimg.com/images/g/Ap0AAOSw3TVnlCVm/s-l225.jpg" alt="Listing image for Critical Condition 1987 Vintage Original Video Shop Movie Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical poster -book -books -dvd" data-ebay-reference="why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Critical Condition 1987 Vintage Original Video Shop Movie Poster</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical poster -book -books -dvd" data-ebay-reference="why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical poster -book -books -dvd" data-ebay-reference="why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical poster -book -books -dvd" data-ebay-reference="why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ANTONY GORMLEY Critical Mass 2010 ART EXHIBITION POSTER"><img src="https://i.ebayimg.com/images/g/PeYAAeSw6m5ppAYg/s-l225.jpg" alt="Listing image for ANTONY GORMLEY Critical Mass 2010 ART EXHIBITION POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical poster -book -books -dvd" data-ebay-reference="why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">ANTONY GORMLEY Critical Mass 2010 ART EXHIBITION POSTER</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical poster -book -books -dvd" data-ebay-reference="why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical poster -book -books -dvd" data-ebay-reference="why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical poster -book -books -dvd" data-ebay-reference="why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical poster -book -books -dvd" data-ebay-reference="why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ANTONY GORMLEY Critical Mass 2010 ART EXHIBITION POSTER"><img src="https://i.ebayimg.com/images/g/PeYAAeSw6m5ppAYg/s-l225.jpg" alt="Listing image for ANTONY GORMLEY Critical Mass 2010 ART EXHIBITION POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical poster -book -books -dvd" data-ebay-reference="why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">ANTONY GORMLEY Critical Mass 2010 ART EXHIBITION POSTER</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical poster -book -books -dvd" data-ebay-reference="why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical poster -book -books -dvd" data-ebay-reference="why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical poster -book -books -dvd" data-ebay-reference="why-critical-thinking-does-not-always-transfer-critical-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -575,7 +575,7 @@ For anyone aiming to improve thinking beyond school, the implication is straight
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -595,7 +595,7 @@ For anyone aiming to improve thinking beyond school, the implication is straight
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -627,7 +627,7 @@ For anyone aiming to improve thinking beyond school, the implication is straight
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -679,7 +679,7 @@ For anyone aiming to improve thinking beyond school, the implication is straight
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -724,7 +724,7 @@ For anyone aiming to improve thinking beyond school, the implication is straight
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -764,89 +764,89 @@ For anyone aiming to improve thinking beyond school, the implication is straight
 </section>
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: danielwillingham.com  
-   Link:<a href="https://www.danielwillingham.com/uploads/5/0/0/7/5007325/willingham_2019_nsw_critical_thinking2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.danielwillingham.com/uploads/5/0/0/7/5007325/willingham_2019_nsw_critical_thinking2.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>fer, and the research literature evaluating how well critical thinking skills transfer to new problems is.Read more...</p></details>
+   Link: <a href="https://www.danielwillingham.com/uploads/5/0/0/7/5007325/willingham_2019_nsw_critical_thinking2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.danielwillingham.com/uploads/5/0/0/7/5007325/willingham_2019_nsw_critical_thinking2.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>fer, and the research literature evaluating how well critical thinking skills transfer to new problems is.Read more...</p></details>
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: aft.org  
-   Link:<a href="https://www.aft.org/ae/fall2020/willingham" target="_blank" rel="noopener noreferrer nofollow">https://www.aft.org/ae/fall2020/willingham</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>American Federation of TeachersAsk the Cognitive Scientist: How Can Educators Teach...by DT Willingham · Cited by 42 — The problem in tr...</p></details>
+   Link: <a href="https://www.aft.org/ae/fall2020/willingham" target="_blank" rel="noopener noreferrer nofollow">https://www.aft.org/ae/fall2020/willingham</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>American Federation of TeachersAsk the Cognitive Scientist: How Can Educators Teach...by DT Willingham · Cited by 42 — The problem in tr...</p></details>
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: lirias.kuleuven.be  
-   Link:<a href="https://lirias.kuleuven.be/retrieve/7bdad7dd-02ee-49af-b74b-73adbf8de3d8" target="_blank" rel="noopener noreferrer nofollow">https://lirias.kuleuven.be/retrieve/7bdad7dd-02ee-49af-b74b-73adbf8de3d8</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Systematic design of domain-specific instruction on near...by DT Tiruneh · 2018 · Cited by 62 — The literature on transfer of lear...</p></details>
+   Link: <a href="https://lirias.kuleuven.be/retrieve/7bdad7dd-02ee-49af-b74b-73adbf8de3d8" target="_blank" rel="noopener noreferrer nofollow">https://lirias.kuleuven.be/retrieve/7bdad7dd-02ee-49af-b74b-73adbf8de3d8</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Systematic design of domain-specific instruction on near...by DT Tiruneh · 2018 · Cited by 62 — The literature on transfer of lear...</p></details>
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: education.nsw.gov.au  
    Title: NSW Education How to Teach Critical Thinking  
-   Link:<a href="https://education.nsw.gov.au/content/dam/main-education/teaching-and-learning/education-for-a-changing-world/media/documents/How-to-teach-critical-thinking-Willingham.pdf" target="_blank" rel="noopener noreferrer nofollow">https://education.nsw.gov.au/content/dam/main-education/teaching-and-learning/education-for-a-changing-world/media/documents/How-to-teach-critical-thinking-Willingham.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>NSW EducationHow to Teach Critical ThinkingFebruary 13, 2025 — by DT Willingham · Cited by 153 — This aspect of critical thinking is call...</p></details>
+   Link: <a href="https://education.nsw.gov.au/content/dam/main-education/teaching-and-learning/education-for-a-changing-world/media/documents/How-to-teach-critical-thinking-Willingham.pdf" target="_blank" rel="noopener noreferrer nofollow">https://education.nsw.gov.au/content/dam/main-education/teaching-and-learning/education-for-a-changing-world/media/documents/How-to-teach-critical-thinking-Willingham.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NSW EducationHow to Teach Critical ThinkingFebruary 13, 2025 — by DT Willingham · Cited by 153 — This aspect of critical thinking is call...</p></details>
    Published: February 13, 2025  
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: learningscientists.org  
-   Link:<a href="https://www.learningscientists.org/blog/2021/9/23-1" target="_blank" rel="noopener noreferrer nofollow">https://www.learningscientists.org/blog/2021/9/23-1</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Learning ScientistsDepth Structure and Transfer in Critical Thinking...23 Sept 2021 — How do this recognition of depth and domain-sp...</p></details>
+   Link: <a href="https://www.learningscientists.org/blog/2021/9/23-1" target="_blank" rel="noopener noreferrer nofollow">https://www.learningscientists.org/blog/2021/9/23-1</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Learning ScientistsDepth Structure and Transfer in Critical Thinking...23 Sept 2021 — How do this recognition of depth and domain-sp...</p></details>
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: tipsforteachers.co.uk  
    Title: Research: Critical thinking  
-   Link:<a href="https://tipsforteachers.co.uk/research-critical-thinking-why-is-it-so-hard-to-teach/" target="_blank" rel="noopener noreferrer nofollow">https://tipsforteachers.co.uk/research-critical-thinking-why-is-it-so-hard-to-teach/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>why is it so hard to teach?This collection of articles explores the challenges of teaching critical thinking, particularly in the context...</p></details>
+   Link: <a href="https://tipsforteachers.co.uk/research-critical-thinking-why-is-it-so-hard-to-teach/" target="_blank" rel="noopener noreferrer nofollow">https://tipsforteachers.co.uk/research-critical-thinking-why-is-it-so-hard-to-teach/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>why is it so hard to teach?This collection of articles explores the challenges of teaching critical thinking, particularly in the context...</p></details>
 
 ### Additional References
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: peterellerton.substack.com  
    Title: critical thinking skills are not  
-   Link:<a href="https://peterellerton.substack.com/p/critical-thinking-skills-are-not" target="_blank" rel="noopener noreferrer nofollow">https://peterellerton.substack.com/p/critical-thinking-skills-are-not</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>substack.com(Critical) Thinking skills are not domain specificBut there are cases of complex content that do is domain specific, critical...</p></details>
+   Link: <a href="https://peterellerton.substack.com/p/critical-thinking-skills-are-not" target="_blank" rel="noopener noreferrer nofollow">https://peterellerton.substack.com/p/critical-thinking-skills-are-not</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>substack.com(Critical) Thinking skills are not domain specificBut there are cases of complex content that do is domain specific, critical...</p></details>
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: people.bath.ac.uk  
    Title: Willingham 2008 AEPR  
-   Link:<a href="https://people.bath.ac.uk/edspd/Weblinks/MA_ULL/Resources/Learning%20to%20Learn/Willingham%202008%20AEPR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://people.bath.ac.uk/edspd/Weblinks/MA_ULL/Resources/Learning%20to%20Learn/Willingham%202008%20AEPR.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>University of Bath Personal HomepagesCritical Thinking: Why Is It So Hard to Teach?7 Aug 2010 — Just as it makes of critical thinking wit...</p></details>
+   Link: <a href="https://people.bath.ac.uk/edspd/Weblinks/MA_ULL/Resources/Learning%20to%20Learn/Willingham%202008%20AEPR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://people.bath.ac.uk/edspd/Weblinks/MA_ULL/Resources/Learning%20to%20Learn/Willingham%202008%20AEPR.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>University of Bath Personal HomepagesCritical Thinking: Why Is It So Hard to Teach?7 Aug 2010 — Just as it makes of critical thinking wit...</p></details>
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: Evaluating Evidence: Crash Course Navigating Digital Information #6  
-   Link:<a href="https://www.youtube.com/watch?v=hxhbOvR2TGk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hxhbOvR2TGk</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Thinking; Evidence:- 21. #evidence #critical_thinking...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=hxhbOvR2TGk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hxhbOvR2TGk</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Thinking; Evidence:- 21. #evidence #critical_thinking...</p></details>
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: Real Confidence Is Built From a Body of Evidence: A Goju Meandering Episode  
-   Link:<a href="https://www.youtube.com/watch?v=vWm2BiPoqLc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vWm2BiPoqLc</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>What is Systematic Reviews by Helen Worthington...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=vWm2BiPoqLc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vWm2BiPoqLc</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is Systematic Reviews by Helen Worthington...</p></details>
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/post/Although-students-have-domain-knowledge-they-are-still-unable-to-think-critically-nor-solve-problems" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/post/Although-students-have-domain-knowledge-they-are-still-unable-to-think-critically-nor-solve-problems</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Some believe that solving problems...</p></details>
+   Link: <a href="https://www.researchgate.net/post/Although-students-have-domain-knowledge-they-are-still-unable-to-think-critically-nor-solve-problems" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/post/Although-students-have-domain-knowledge-they-are-still-unable-to-think-critically-nor-solve-problems</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Some believe that solving problems...</p></details>
 
-12.<a id="endnote-12"></a>
+12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: Critical Thinking Making evidence-based decisions  
-   Link:<a href="https://www.youtube.com/watch?v=vypkOQU1rq8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vypkOQU1rq8</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Real Confidence Is Built From a Body of Evidence: A Goju Meandering Episode...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=vypkOQU1rq8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vypkOQU1rq8</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Real Confidence Is Built From a Body of Evidence: A Goju Meandering Episode...</p></details>
 
-13.<a id="endnote-13"></a>
+13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: Critical Thinking; Evidence:- 21. #evidence #critical_thinking  
-   Link:<a href="https://www.youtube.com/watch?v=jbrAe9GSBjA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jbrAe9GSBjA</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Thinking Making evidence-based decisions...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=jbrAe9GSBjA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jbrAe9GSBjA</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Thinking Making evidence-based decisions...</p></details>
 
-14.<a id="endnote-14"></a>
+14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: What is Systematic Reviews by Helen Worthington  
-   Link:<a href="https://www.youtube.com/watch?v=3dyp7R_su7E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3dyp7R_su7E</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>You Don’t Need to Read Studies to Teach With Evidence — Start Here...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=3dyp7R_su7E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3dyp7R_su7E</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>You Don’t Need to Read Studies to Teach With Evidence — Start Here...</p></details>
 
-15.<a id="endnote-15"></a>
+15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: You Don’t Need to Read Studies to Teach With Evidence — Start Here  
-   Link:<a href="https://www.youtube.com/watch?v=Luosvs-iqrk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Luosvs-iqrk</a>  
+   Link: <a href="https://www.youtube.com/watch?v=Luosvs-iqrk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Luosvs-iqrk</a>  

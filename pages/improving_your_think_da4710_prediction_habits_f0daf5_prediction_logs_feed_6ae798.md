@@ -284,7 +284,7 @@ Prediction logs are a simple way to prevent one of the biggest obstacles to anal
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_prediction_habits_f0daf5_prediction_logs_feed_6ae798-Illustration-1-dark.svg" | relative_url }}" alt="Prediction Logs illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_prediction_habits_f0daf5_prediction_logs_feed_6ae798-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_prediction_habits_f0daf5_prediction_logs_feed_6ae798-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This habit matters because people are naturally vulnerable to [hindsight bias]({{ 'hindsight-bias/' | relative_url }})—the tendency to believe that [outcomes]({{ 'outcomes/' | relative_url }}) were more obvious and predictable after they occur than they really were. A prediction log creates an objective record of your pre-result reasoning, making it much easier to identify which assumptions were genuinely useful and which merely seemed convincing in retrospect. Research on prediction, learning and metacognition suggests that committing to expectations before feedback changes how people process surprises and improves calibration over time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8642250/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Carnegie Mellon University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPredicting as a learning strategy</span><span class="citation-popover-snippet">NIHby G Brod · 2021 · Cited by 77 — Initial evidence suggests that predicting boosts surprise about unexpected answers, which leads...</span></span></span>
+This habit matters because people are naturally vulnerable to [hindsight bias]({{ 'hindsight-bias/' | relative_url }})—the tendency to believe that [outcomes]({{ 'outcomes/' | relative_url }}) were more obvious and predictable after they occur than they really were. A prediction log creates an objective record of your pre-result reasoning, making it much easier to identify which assumptions were genuinely useful and which merely seemed convincing in retrospect. Research on prediction, learning and metacognition suggests that committing to expectations before feedback changes how people process surprises and improves calibration over time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8642250/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Carnegie Mellon University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPredicting as a learning strategy</span><span class="citation-popover-snippet">NIHby G Brod · 2021 · Cited by 77 — Initial evidence suggests that predicting boosts surprise about unexpected answers, which leads...</span></span></span>
 
 ## What to write before opening results
 
@@ -311,7 +311,7 @@ Notice that the prediction includes both an expected direction and an explanatio
 
 ## How prior forecasts expose weak assumptions
 
-Without written [predictions]({{ 'predictions/' | relative_url }}), feedback often creates an illusion that the outcome was obvious all along. Once the numbers appear, people unconsciously edit their memory of what they believed beforehand. Hindsight bias makes learning from experience much harder because there is no reliable baseline against which to compare reality. Carnegie Mellon University+2Carlson School of Management<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cmu.edu/dietrich/sds/docs/loewenstein/OutcomeFeedback.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cmu.edu">[cmu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cmu.edu</span><span class="citation-popover-title">Outcome Feedback</span><span class="citation-popover-snippet">Carnegie Mellon UniversityOutcome Feedback: Hindsight and Informationby SJ Hoch · 1989 · Cited by 247 — Although &quot;hindsight bias&quot; researc...</span></span></span>
+Without written [predictions]({{ 'predictions/' | relative_url }}), feedback often creates an illusion that the outcome was obvious all along. Once the numbers appear, people unconsciously edit their memory of what they believed beforehand. Hindsight bias makes learning from experience much harder because there is no reliable baseline against which to compare reality. Carnegie Mellon University+2Carlson School of Management <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cmu.edu/dietrich/sds/docs/loewenstein/OutcomeFeedback.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cmu.edu">[cmu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cmu.edu</span><span class="citation-popover-title">Outcome Feedback</span><span class="citation-popover-snippet">Carnegie Mellon UniversityOutcome Feedback: Hindsight and Informationby SJ Hoch · 1989 · Cited by 247 — Although &quot;hindsight bias&quot; researc...</span></span></span>
 
 Prediction logs interrupt that process in several useful ways.
 
@@ -332,7 +332,7 @@ Prediction logs interrupt that process in several useful ways.
 
 These patterns are difficult to detect from memory because memory itself becomes distorted by outcomes.
 
-**They improve calibration.** Calibration refers to how closely confidence matches actual accuracy. Someone whose 70% confidence predictions are correct roughly seven times out of ten is well calibrated. Forecasting research consistently identifies calibration as an important component of good judgement, and keeping explicit confidence records provides the raw material needed to evaluate it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://forum.effectivealtruism.org/posts/pnpnqA4hijnr59p7d/efforts-to-improve-the-accuracy-of-our-judgments-and" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forum.effectivealtruism.org">[Effective Altruism Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forum.effectivealtruism.org</span><span class="citation-popover-snippet">Effective Altruism ForumEfforts to Improve the Accuracy of Our Judgments and...October 25, 2016 — 25 Oct 2016 — An important component o...</span><span class="citation-popover-meta">Published: October 25, 2016</span></span></span>
+**They improve calibration.** Calibration refers to how closely confidence matches actual accuracy. Someone whose 70% confidence predictions are correct roughly seven times out of ten is well calibrated. Forecasting research consistently identifies calibration as an important component of good judgement, and keeping explicit confidence records provides the raw material needed to evaluate it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://forum.effectivealtruism.org/posts/pnpnqA4hijnr59p7d/efforts-to-improve-the-accuracy-of-our-judgments-and" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forum.effectivealtruism.org">[Effective Altruism Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forum.effectivealtruism.org</span><span class="citation-popover-snippet">Effective Altruism ForumEfforts to Improve the Accuracy of Our Judgments and...October 25, 2016 — 25 Oct 2016 — An important component o...</span><span class="citation-popover-meta">Published: October 25, 2016</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IIrkQluCAsQ" title="#15 Perfectly Confident and Good Judgment: Your Keys to Succeeding in Life feat. Don Moore" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IIrkQluCAsQ" target="_blank" rel="noopener noreferrer">#15 Perfectly Confident and Good Judgment: Your Keys to Succeeding in Life feat. Don Moore</a></p><p class="youtube-embed-meta">Channel: unSILOed Podcast with Greg LaBlanc</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IIrkQluCAsQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IIrkQluCAsQ">Open on YouTube</a></p></div></div></div>
@@ -358,7 +358,7 @@ Suppose a marketing campaign produces lower engagement than expected. Rather tha
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Which prediction was accurate?<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.innerdrive.co.uk/blog/predicting-or-retrieving/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: innerdrive.co.uk">[innerdrive.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">innerdrive.co.uk</span><span class="citation-popover-snippet">e correct answer, they have a better memory of the correct response.Read more...</span></span></span>
+* Which prediction was accurate? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.innerdrive.co.uk/blog/predicting-or-retrieving/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: innerdrive.co.uk">[innerdrive.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">innerdrive.co.uk</span><span class="citation-popover-snippet">e correct answer, they have a better memory of the correct response.Read more...</span></span></span>
 * Which assumption failed?
 * Was confidence justified?
 * Which evidence received too much weight?
@@ -368,7 +368,7 @@ Suppose a marketing campaign produces lower engagement than expected. Rather tha
 
 This comparison turns every result into a test of the analyst's reasoning rather than merely an explanation of the outcome.
 
-Research on prediction as a learning strategy suggests that committing to an expectation before receiving feedback increases attention to discrepancies between expectation and reality. Those discrepancies become informative because they highlight where the mental model requires revision.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8642250/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPredicting as a learning strategy</span><span class="citation-popover-snippet">NIHby G Brod · 2021 · Cited by 77 — Initial evidence suggests that predicting boosts surprise about unexpected answers, which leads...</span></span></span>
+Research on prediction as a learning strategy suggests that committing to an expectation before receiving feedback increases attention to discrepancies between expectation and reality. Those discrepancies become informative because they highlight where the mental model requires revision. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8642250/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPredicting as a learning strategy</span><span class="citation-popover-snippet">NIHby G Brod · 2021 · Cited by 77 — Initial evidence suggests that predicting boosts surprise about unexpected answers, which leads...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_prediction_habits_f0daf5_prediction_logs_feed_6ae798-Illustration-2-dark.svg" | relative_url }}" alt="Prediction Logs illustration 2" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_prediction_habits_f0daf5_prediction_logs_feed_6ae798-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_prediction_habits_f0daf5_prediction_logs_feed_6ae798-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -407,7 +407,7 @@ A practical meeting structure looks like this:
 
 </div>
 
-This sequence resembles structured after-action reviews, where organisations first establish intended outcomes, compare them with what actually occurred, examine why differences emerged, and identify improvements for future work. The emphasis is on organisational learning rather than assigning fault.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.betterevaluation.org/methods-approaches/methods/after-action-review" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: betterevaluation.org">[Better Evaluation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">betterevaluation.org</span><span class="citation-popover-snippet">Better EvaluationAfter action reviewThe after action review (AAR) is a simple method for facilitating an assessment of organisational per...</span></span></span>
+This sequence resembles structured after-action reviews, where organisations first establish intended outcomes, compare them with what actually occurred, examine why differences emerged, and identify improvements for future work. The emphasis is on organisational learning rather than assigning fault. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.betterevaluation.org/methods-approaches/methods/after-action-review" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: betterevaluation.org">[Better Evaluation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">betterevaluation.org</span><span class="citation-popover-snippet">Better EvaluationAfter action reviewThe after action review (AAR) is a simple method for facilitating an assessment of organisational per...</span></span></span>
 
 ## Common mistakes that reduce the value of prediction logs
 
@@ -452,178 +452,178 @@ Over time, the accumulated record becomes more valuable than any individual pred
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Stop explaining results after the fact. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Stop explaining results after the fact. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking+in+Bets+by+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking in Bets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VcouDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking in Bets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Thinking+in+Bets+by+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking in Bets">Thinking in Bets</a>
-</h4>
-<p class="fr-book-author">By Annie Duke</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=45OmCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Superforecasting+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
+        </h4>
+        <p class="fr-book-author">By Philip Tetlock, Dan Gardner</p>
         
-<p class="fr-book-desc">Encourages recording predictions before outcomes are known.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Thinking+in+Bets+by+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Shows how written forecasts improve calibration.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Superforecasting+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=45OmCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
-</h4>
-<p class="fr-book-author">By Philip Tetlock, Dan Gardner</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking+in+Bets+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking in Bets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hOZFDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Thinking in Bets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Thinking+in+Bets+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking in Bets">Thinking in Bets</a>
+        </h4>
+        <p class="fr-book-author">By Annie Duke</p>
         
-<p class="fr-book-desc">Shows how written forecasts improve calibration.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Encourages recording predictions before outcomes are known.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Thinking+in+Bets+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Noise+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_KujzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Noise+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Noise">Noise</a>
-</h4>
-<p class="fr-book-author">By Daniel Kahneman, Olivier Sibony et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Noise+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_KujzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Noise+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Noise">Noise</a>
+        </h4>
+        <p class="fr-book-author">By Daniel Kahneman, Olivier Sibony et al.</p>
         
-<p class="fr-book-desc">Supports systematic review of decisions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Noise+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Supports systematic review of decisions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Noise+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
-</h4>
-<p class="fr-book-author">By Nate Silver</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+        </h4>
+        <p class="fr-book-author">By Nate Silver</p>
         
-<p class="fr-book-desc">Focuses on comparing predictions with reality.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Focuses on comparing predictions with reality.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking+in+Bets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking in Bets</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Noise</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking+in+Bets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking in Bets</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Noise</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stop-explaining-results-after-the-fact-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="stop-explaining-results-after-the-fact-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage For Office"><img src="https://i.ebayimg.com/images/g/INsAAeSwWlNp3UXk/s-l225.jpg" alt="Listing image for Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage For Office" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stop-explaining-results-after-the-fact-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="stop-explaining-results-after-the-fact-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage For Office</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stop-explaining-results-after-the-fact-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="stop-explaining-results-after-the-fact-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stop-explaining-results-after-the-fact-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="stop-explaining-results-after-the-fact-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stop-explaining-results-after-the-fact-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="stop-explaining-results-after-the-fact-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage For Office"><img src="https://i.ebayimg.com/images/g/INsAAeSwWlNp3UXk/s-l225.jpg" alt="Listing image for Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage For Office" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stop-explaining-results-after-the-fact-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="stop-explaining-results-after-the-fact-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage For Office</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stop-explaining-results-after-the-fact-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="stop-explaining-results-after-the-fact-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stop-explaining-results-after-the-fact-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="stop-explaining-results-after-the-fact-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stop-explaining-results-after-the-fact-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="stop-explaining-results-after-the-fact-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RIBBLEAS Organiser Desk Organizer with Drawer Minimalist Pen Holder Office Desk"><img src="https://i.ebayimg.com/images/g/hC8AAeSwLqFpvukg/s-l225.jpg" alt="Listing image for RIBBLEAS Organiser Desk Organizer with Drawer Minimalist Pen Holder Office Desk" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stop-explaining-results-after-the-fact-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="stop-explaining-results-after-the-fact-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">RIBBLEAS Organiser Desk Organizer with Drawer Minimalist Pen Holder Office Desk</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stop-explaining-results-after-the-fact-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="stop-explaining-results-after-the-fact-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stop-explaining-results-after-the-fact-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="stop-explaining-results-after-the-fact-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stop-explaining-results-after-the-fact-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="stop-explaining-results-after-the-fact-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RIBBLEAS Organiser Desk Organizer with Drawer Minimalist Pen Holder Office Desk"><img src="https://i.ebayimg.com/images/g/hC8AAeSwLqFpvukg/s-l225.jpg" alt="Listing image for RIBBLEAS Organiser Desk Organizer with Drawer Minimalist Pen Holder Office Desk" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stop-explaining-results-after-the-fact-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="stop-explaining-results-after-the-fact-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">RIBBLEAS Organiser Desk Organizer with Drawer Minimalist Pen Holder Office Desk</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stop-explaining-results-after-the-fact-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="stop-explaining-results-after-the-fact-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stop-explaining-results-after-the-fact-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="stop-explaining-results-after-the-fact-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stop-explaining-results-after-the-fact-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="stop-explaining-results-after-the-fact-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer"><img src="https://i.ebayimg.com/images/g/0e0AAOSwsRFmTdff/s-l225.jpg" alt="Listing image for OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stop-explaining-results-after-the-fact-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="stop-explaining-results-after-the-fact-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stop-explaining-results-after-the-fact-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="stop-explaining-results-after-the-fact-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stop-explaining-results-after-the-fact-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="stop-explaining-results-after-the-fact-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stop-explaining-results-after-the-fact-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="stop-explaining-results-after-the-fact-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stop-explaining-results-after-the-fact-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="stop-explaining-results-after-the-fact-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer"><img src="https://i.ebayimg.com/images/g/0e0AAOSwsRFmTdff/s-l225.jpg" alt="Listing image for OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stop-explaining-results-after-the-fact-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="stop-explaining-results-after-the-fact-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stop-explaining-results-after-the-fact-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="stop-explaining-results-after-the-fact-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stop-explaining-results-after-the-fact-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="stop-explaining-results-after-the-fact-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stop-explaining-results-after-the-fact-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="stop-explaining-results-after-the-fact-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -639,7 +639,7 @@ Over time, the accumulated record becomes more valuable than any individual pred
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -659,7 +659,7 @@ Over time, the accumulated record becomes more valuable than any individual pred
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -691,7 +691,7 @@ Over time, the accumulated record becomes more valuable than any individual pred
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -743,7 +743,7 @@ Over time, the accumulated record becomes more valuable than any individual pred
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -788,7 +788,7 @@ Over time, the accumulated record becomes more valuable than any individual pred
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -828,107 +828,107 @@ Over time, the accumulated record becomes more valuable than any individual pred
 </section>
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCPredicting as a learning strategy  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8642250/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8642250/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby G Brod · 2021 · Cited by 77 — Initial evidence suggests that predicting boosts [surprise](&amp;#123;&amp;#123; &#x27;surprise/&#x27; | relative_url &amp;#125;&amp;#125;) about unexpected answers, which leads...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8642250/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8642250/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby G Brod · 2021 · Cited by 77 — Initial evidence suggests that predicting boosts [surprise](&amp;#123;&amp;#123; &#x27;surprise/&#x27; | relative_url &amp;#125;&amp;#125;) about unexpected answers, which leads...</p></details>
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCResponse-based outcome predictions and confidence  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8121545/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8121545/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>by R Frömer · 2021 · Cited by 68 — We propose that people leverage insights from response-based performance monitoring – outcome predi...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8121545/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8121545/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by R Frömer · 2021 · Cited by 68 — We propose that people leverage insights from response-based performance monitoring – outcome predi...</p></details>
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: cmu.edu  
    Title: Outcome Feedback  
-   Link:<a href="https://www.cmu.edu/dietrich/sds/docs/loewenstein/OutcomeFeedback.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cmu.edu/dietrich/sds/docs/loewenstein/OutcomeFeedback.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Carnegie Mellon UniversityOutcome Feedback: Hindsight and Informationby SJ Hoch · 1989 · Cited by 247 — Although &quot;hindsight bias&quot; researc...</p></details>
+   Link: <a href="https://www.cmu.edu/dietrich/sds/docs/loewenstein/OutcomeFeedback.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cmu.edu/dietrich/sds/docs/loewenstein/OutcomeFeedback.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Carnegie Mellon UniversityOutcome Feedback: Hindsight and Informationby SJ Hoch · 1989 · Cited by 247 — Although &quot;hindsight bias&quot; researc...</p></details>
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: carlsonschool.umn.edu  
    Title: vohs et al 2012 hindsight bias  
-   Link:<a href="https://carlsonschool.umn.edu/sites/carlsonschool.umn.edu/files/2026-01/vohs-et-al-2012-hindsight-bias.pdf" target="_blank" rel="noopener noreferrer nofollow">https://carlsonschool.umn.edu/sites/carlsonschool.umn.edu/files/2026-01/vohs-et-al-2012-hindsight-bias.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Carlson School of ManagementScience Perspectives on Psychologicalby NJ Roese · 2012 · Cited by 926 — Hindsight bias occurs when people fe...</p></details>
+   Link: <a href="https://carlsonschool.umn.edu/sites/carlsonschool.umn.edu/files/2026-01/vohs-et-al-2012-hindsight-bias.pdf" target="_blank" rel="noopener noreferrer nofollow">https://carlsonschool.umn.edu/sites/carlsonschool.umn.edu/files/2026-01/vohs-et-al-2012-hindsight-bias.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Carlson School of ManagementScience Perspectives on Psychologicalby NJ Roese · 2012 · Cited by 926 — Hindsight bias occurs when people fe...</p></details>
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: forum.effectivealtruism.org  
-   Link:<a href="https://forum.effectivealtruism.org/posts/pnpnqA4hijnr59p7d/efforts-to-improve-the-accuracy-of-our-judgments-and" target="_blank" rel="noopener noreferrer nofollow">https://forum.effectivealtruism.org/posts/pnpnqA4hijnr59p7d/efforts-to-improve-the-accuracy-of-our-judgments-and</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Effective Altruism ForumEfforts to Improve the Accuracy of Our Judgments and...October 25, 2016 — 25 Oct 2016 — An important component o...</p></details>
+   Link: <a href="https://forum.effectivealtruism.org/posts/pnpnqA4hijnr59p7d/efforts-to-improve-the-accuracy-of-our-judgments-and" target="_blank" rel="noopener noreferrer nofollow">https://forum.effectivealtruism.org/posts/pnpnqA4hijnr59p7d/efforts-to-improve-the-accuracy-of-our-judgments-and</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effective Altruism ForumEfforts to Improve the Accuracy of Our Judgments and...October 25, 2016 — 25 Oct 2016 — An important component o...</p></details>
    Published: October 25, 2016  
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: betterevaluation.org  
-   Link:<a href="https://www.betterevaluation.org/methods-approaches/methods/after-action-review" target="_blank" rel="noopener noreferrer nofollow">https://www.betterevaluation.org/methods-approaches/methods/after-action-review</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Better EvaluationAfter action reviewThe after action review (AAR) is a simple method for facilitating an [assessment](&amp;#123;&amp;#123; &#x27;assessment/&#x27; | relative_url &amp;#125;&amp;#125;) of organisational per...</p></details>
+   Link: <a href="https://www.betterevaluation.org/methods-approaches/methods/after-action-review" target="_blank" rel="noopener noreferrer nofollow">https://www.betterevaluation.org/methods-approaches/methods/after-action-review</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Better EvaluationAfter action reviewThe after action review (AAR) is a simple method for facilitating an [assessment](&amp;#123;&amp;#123; &#x27;assessment/&#x27; | relative_url &amp;#125;&amp;#125;) of organisational per...</p></details>
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8763848/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8763848/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Impact of Cognitive Biases on Professionals&#x27; Decision...by V Berthet · 2022 · Cited by 305 — First, the literature reviewed shows that a...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8763848/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8763848/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Impact of Cognitive Biases on Professionals&#x27; Decision...by V Berthet · 2022 · Cited by 305 — First, the literature reviewed shows that a...</p></details>
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: innerdrive.co.uk  
-   Link:<a href="https://www.innerdrive.co.uk/blog/predicting-or-retrieving/" target="_blank" rel="noopener noreferrer nofollow">https://www.innerdrive.co.uk/blog/predicting-or-retrieving/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>e correct answer, they have a better memory of the correct response.Read more...</p></details>
+   Link: <a href="https://www.innerdrive.co.uk/blog/predicting-or-retrieving/" target="_blank" rel="noopener noreferrer nofollow">https://www.innerdrive.co.uk/blog/predicting-or-retrieving/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>e correct answer, they have a better memory of the correct response.Read more...</p></details>
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: link.springer.com  
-   Link:<a href="https://link.springer.com/article/10.3758/s13421-020-01012-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13421-020-01012-w</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>hindsight bias | Memory &amp; Cognitionby R Ackerman · 2020 · Cited by 29 — Our results show that learning the correct answers distorts memor...</p></details>
+   Link: <a href="https://link.springer.com/article/10.3758/s13421-020-01012-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13421-020-01012-w</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>hindsight bias | Memory &amp; Cognitionby R Ackerman · 2020 · Cited by 29 — Our results show that learning the correct answers distorts memor...</p></details>
 
 ### Additional References
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/357667792_Improving_Judgments_of_Existential_Risk_Better_Forecasts_Questions_Explanations_Policies" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/357667792_Improving_Judgments_of_Existential_Risk_Better_Forecasts_Questions_Explanations_Policies</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Improving Judgments of Existential Risk21 Jan 2022 — PDF | Forecasting [tournaments](&amp;#123;&amp;#123; &#x27;tournaments/&#x27; | relative_url &amp;#125;&amp;#125;) are misaligned with the goal of producing action...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/357667792_Improving_Judgments_of_Existential_Risk_Better_Forecasts_Questions_Explanations_Policies" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/357667792_Improving_Judgments_of_Existential_Risk_Better_Forecasts_Questions_Explanations_Policies</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Improving Judgments of Existential Risk21 Jan 2022 — PDF | Forecasting [tournaments](&amp;#123;&amp;#123; &#x27;tournaments/&#x27; | relative_url &amp;#125;&amp;#125;) are misaligned with the goal of producing action...</p></details>
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: my.chartered.college  
-   Link:<a href="https://my.chartered.college/research-hub/research-informed-practice-after-action-reviews/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/research-hub/research-informed-practice-after-action-reviews/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>chartered.collegeResearch-informed practice: After-action reviewsAn after-action review (AAR) is a group process designed to give you cle...</p></details>
+   Link: <a href="https://my.chartered.college/research-hub/research-informed-practice-after-action-reviews/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/research-hub/research-informed-practice-after-action-reviews/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>chartered.collegeResearch-informed practice: After-action reviewsAn after-action review (AAR) is a group process designed to give you cle...</p></details>
 
-12.<a id="endnote-12"></a>
+12. <a id="endnote-12"></a>
    Source: thedecisionlab.com  
-   Link:<a href="https://thedecisionlab.com/biases/hindsight-bias" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/hindsight-bias</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Hindsight BiasThe hindsight bias describes our tendency to look back at an unpredictable event and think it was easily predictable.Read more...</p></details>
+   Link: <a href="https://thedecisionlab.com/biases/hindsight-bias" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/hindsight-bias</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hindsight BiasThe hindsight bias describes our tendency to look back at an unpredictable event and think it was easily predictable.Read more...</p></details>
 
-13.<a id="endnote-13"></a>
+13. <a id="endnote-13"></a>
    Source: jbsfm.org  
-   Link:<a href="https://jbsfm.org/vol3no1/biases-in-managerial-decision-making--overconfidence--status-quo--anchoring--hindsight--availability/" target="_blank" rel="noopener noreferrer nofollow">https://jbsfm.org/vol3no1/biases-in-managerial-decision-making--overconfidence--status-quo--anchoring--hindsight--availability/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Biases in Managerial Decision Making: Overconfidence...30 Jul 2021 — Hindsight is a bias. Hindsight effect is when people claim that, af...</p></details>
+   Link: <a href="https://jbsfm.org/vol3no1/biases-in-managerial-decision-making--overconfidence--status-quo--anchoring--hindsight--availability/" target="_blank" rel="noopener noreferrer nofollow">https://jbsfm.org/vol3no1/biases-in-managerial-decision-making--overconfidence--status-quo--anchoring--hindsight--availability/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Biases in Managerial Decision Making: Overconfidence...30 Jul 2021 — Hindsight is a bias. Hindsight effect is when people claim that, af...</p></details>
 
-14.<a id="endnote-14"></a>
+14. <a id="endnote-14"></a>
    Source: aiimpacts.org  
-   Link:<a href="https://aiimpacts.org/evidence-on-good-forecasting-practices-from-the-[good-judgment" target="_blank" rel="noopener noreferrer nofollow">https://aiimpacts.org/evidence-on-good-forecasting-practices-from-the-[good-judgment</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence on good forecasting practices from the...2 Jul 2019 — Experience and data from the Good Judgment Project (GJP) provide importan...</p></details>
+   Link: <a href="https://aiimpacts.org/evidence-on-good-forecasting-practices-from-the-[good-judgment" target="_blank" rel="noopener noreferrer nofollow">https://aiimpacts.org/evidence-on-good-forecasting-practices-from-the-[good-judgment</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence on good forecasting practices from the...2 Jul 2019 — Experience and data from the Good Judgment Project (GJP) provide importan...</p></details>
 
-15.<a id="endnote-15"></a>
+15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link:<a href="https://www.youtube.com/watch?v=IIrkQluCAsQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IIrkQluCAsQ</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Prediction journal decision journal hindsight bias Decision Journaling: Learn From Every Choice The Mastery Project...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=IIrkQluCAsQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IIrkQluCAsQ</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Prediction journal decision journal hindsight bias Decision Journaling: Learn From Every Choice The Mastery Project...</p></details>
 
-16.<a id="endnote-16"></a>
+16. <a id="endnote-16"></a>
    Source: researchgate.net  
    Title: 350390831 Predicting as a learning strategy  
-   Link:<a href="https://www.researchgate.net/publication/350390831_Predicting_as_a_learning_strategy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/350390831_Predicting_as_a_learning_strategy</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Predicting as a learning strategy29 Mar 2021 — This article attempts to delineate the procedural and mechanistic characteristics of...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/350390831_Predicting_as_a_learning_strategy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/350390831_Predicting_as_a_learning_strategy</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Predicting as a learning strategy29 Mar 2021 — This article attempts to delineate the procedural and mechanistic characteristics of...</p></details>
 
-17.<a id="endnote-17"></a>
+17. <a id="endnote-17"></a>
    Source: chrisquigley.co.uk  
-   Link:<a href="https://www.chrisquigley.co.uk/blog/a-metacognitive-strategy-of-predicting-teaching-tentative-language-to-overcome-the-fear-of-being-wrong/" target="_blank" rel="noopener noreferrer nofollow">https://www.chrisquigley.co.uk/blog/a-metacognitive-strategy-of-predicting-teaching-tentative-language-to-overcome-the-fear-of-being-wrong/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>A Metacognitive Strategy of Predicting: Teaching Tentative...16 May 2024 — Emphasise the learning that comes from examining why a predic...</p></details>
+   Link: <a href="https://www.chrisquigley.co.uk/blog/a-metacognitive-strategy-of-predicting-teaching-tentative-language-to-overcome-the-fear-of-being-wrong/" target="_blank" rel="noopener noreferrer nofollow">https://www.chrisquigley.co.uk/blog/a-metacognitive-strategy-of-predicting-teaching-tentative-language-to-overcome-the-fear-of-being-wrong/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Metacognitive Strategy of Predicting: Teaching Tentative...16 May 2024 — Emphasise the learning that comes from examining why a predic...</p></details>
    Published: May 2024  
 
-18.<a id="endnote-18"></a>
+18. <a id="endnote-18"></a>
    Source: microsoft.com  
    Title: Prediction strategies without loss  
-   Link:<a href="https://www.microsoft.com/en-us/research/publication/prediction-strategies-without-loss/" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/research/publication/prediction-strategies-without-loss/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Microsoft Research1 Jan 2012 — We obtain essentially zero loss with respect to the special expert and optimal loss/regret tradeoff, impro...</p></details>
+   Link: <a href="https://www.microsoft.com/en-us/research/publication/prediction-strategies-without-loss/" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/research/publication/prediction-strategies-without-loss/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Microsoft Research1 Jan 2012 — We obtain essentially zero loss with respect to the special expert and optimal loss/regret tradeoff, impro...</p></details>
 
-19.<a id="endnote-19"></a>
+19. <a id="endnote-19"></a>
    Source: fasterthannormal.co  
-   Link:<a href="https://fasterthannormal.co/mental-models/hindsight-bias" target="_blank" rel="noopener noreferrer nofollow">https://fasterthannormal.co/mental-models/hindsight-bias</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>ires accurate feedback: I predicted X, Y happened...</p></details>
+   Link: <a href="https://fasterthannormal.co/mental-models/hindsight-bias" target="_blank" rel="noopener noreferrer nofollow">https://fasterthannormal.co/mental-models/hindsight-bias</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ires accurate feedback: I predicted X, Y happened...</p></details>

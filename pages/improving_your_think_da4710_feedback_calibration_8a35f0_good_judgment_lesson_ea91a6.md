@@ -280,7 +280,7 @@ image: /assets/images/improving_your_think_da4710_feedback_calibration_8a35f0_go
 
 ## Introduction
 
-The Good Judgment Project showed that everyday judgement can be improved by turning hunches into testable forecasts. Its lesson is simple but demanding: state what you expect, attach a probability, write down why, update when evidence changes, and later score how well your confidence matched reality. In forecasting [tournaments]({{ 'tournaments/' | relative_url }}) run under the US intelligence community’s Aggregative Contingent Estimation programme, Good Judgment’s methods combined training, collaboration, performance tracking and statistical aggregation to improve geopolitical prediction accuracy. The most useful everyday takeaway is not to copy a full tournament at home, but to borrow its feedback loop: make your expectations explicit enough that reality can teach you.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iarpa.gov/research-programs/ace" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iarpa.gov">[IARPA+2WashU Research Profiles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iarpa.gov</span><span class="citation-popover-snippet">ACEThe goal of the ACE Program is to dramatically enhance the accuracy, precision, and timeliness of intelligence forecasts for a br...</span></span></span>
+The Good Judgment Project showed that everyday judgement can be improved by turning hunches into testable forecasts. Its lesson is simple but demanding: state what you expect, attach a probability, write down why, update when evidence changes, and later score how well your confidence matched reality. In forecasting [tournaments]({{ 'tournaments/' | relative_url }}) run under the US intelligence community’s Aggregative Contingent Estimation programme, Good Judgment’s methods combined training, collaboration, performance tracking and statistical aggregation to improve geopolitical prediction accuracy. The most useful everyday takeaway is not to copy a full tournament at home, but to borrow its feedback loop: make your expectations explicit enough that reality can teach you. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iarpa.gov/research-programs/ace" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iarpa.gov">[IARPA+2WashU Research Profiles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iarpa.gov</span><span class="citation-popover-snippet">ACEThe goal of the ACE Program is to dramatically enhance the accuracy, precision, and timeliness of intelligence forecasts for a br...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_feedback_calibration_8a35f0_good_judgment_lesson_ea91a6-Illustration-1-dark.svg" | relative_url }}" alt="Good Judgment illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_feedback_calibration_8a35f0_good_judgment_lesson_ea91a6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_feedback_calibration_8a35f0_good_judgment_lesson_ea91a6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,7 +288,7 @@ The Good Judgment Project showed that everyday judgement can be improved by turn
 
 Most ordinary decisions hide a forecast. Taking a new job contains a forecast about fit, pay, learning and stress. Planning a project contains a forecast about time, cost and likely obstacles. Deciding whether to raise a concern in a meeting contains a forecast about how others will respond. The problem is that these forecasts are often left in vague language: “probably fine”, “unlikely”, “soon”, “risky”, “worth it”. Vague language protects the ego because it is hard to mark later as right or wrong.
 
-Forecasting tournaments forced a sharper format. Participants made probabilistic forecasts on clearly defined questions with future resolution dates, and their answers were scored. Good Judgment Open explains the Brier score as a measure of how far a probability forecast was from reality: lower is better, and a 70% forecast on a yes-or-no question is judged differently from a 95% forecast. That distinction matters because it rewards calibrated confidence, not merely being directionally right.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gjopen.com/faq" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gjopen.com">[Good Judgment Open]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gjopen.com</span><span class="citation-popover-snippet">Good Judgment OpenFrequently Asked Questions (FAQ)Roughly, the Brier score indicates how far away from the truth your forecast was. The B...</span></span></span>
+Forecasting tournaments forced a sharper format. Participants made probabilistic forecasts on clearly defined questions with future resolution dates, and their answers were scored. Good Judgment Open explains the Brier score as a measure of how far a probability forecast was from reality: lower is better, and a 70% forecast on a yes-or-no question is judged differently from a 95% forecast. That distinction matters because it rewards calibrated confidence, not merely being directionally right. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gjopen.com/faq" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gjopen.com">[Good Judgment Open]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gjopen.com</span><span class="citation-popover-snippet">Good Judgment OpenFrequently Asked Questions (FAQ)Roughly, the Brier score indicates how far away from the truth your forecast was. The B...</span></span></span>
 
 This is the first transferable habit: replace general impressions with forecastable statements. “This project is risky” becomes “I think there is a 35% chance we miss the deadline by more than two weeks.” “The client will like it” becomes “I would put a 70% probability on approval without a major redesign.” The wording is less elegant, but the feedback is far better. When the outcome arrives, you can ask whether your confidence was sensible rather than merely whether fortune favoured you.
 
@@ -297,11 +297,11 @@ This is the first transferable habit: replace general impressions with forecasta
 
 ## What made the Good Judgment Project work
 
-The Good Judgment Project was not just a crowd guessing exercise. Research on its performance points to several mutually reinforcing drivers: short training, team discussion, tracking of strong performers, repeated practice and aggregation of forecasts. A 2014 Psychological Science paper found support for training, teaming and tracking as drivers of accuracy, with probability training encouraging reference-class thinking, bias correction and averaging multiple estimates.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://profiles.wustl.edu/en/publications/psychological-strategies-for-winning-a-geopolitical-forecasting-t/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: profiles.wustl.edu">[WashU Research Profiles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">profiles.wustl.edu</span><span class="citation-popover-snippet">WashU Research ProfilesPsychological Strategies for Winning a Geopolitical...by B Mellers · 2014 · Cited by 434 — Forecasting is often v...</span></span></span>
+The Good Judgment Project was not just a crowd guessing exercise. Research on its performance points to several mutually reinforcing drivers: short training, team discussion, tracking of strong performers, repeated practice and aggregation of forecasts. A 2014 Psychological Science paper found support for training, teaming and tracking as drivers of accuracy, with probability training encouraging reference-class thinking, bias correction and averaging multiple estimates. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://profiles.wustl.edu/en/publications/psychological-strategies-for-winning-a-geopolitical-forecasting-t/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: profiles.wustl.edu">[WashU Research Profiles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">profiles.wustl.edu</span><span class="citation-popover-snippet">WashU Research ProfilesPsychological Strategies for Winning a Geopolitical...by B Mellers · 2014 · Cited by 434 — Forecasting is often v...</span></span></span>
 
-A later paper on cultivating superforecasters described high performers as partly discovered and partly created. The strongest forecasters tended to combine cognitive ability and open-minded style with task-specific skill, motivation, frequent updating and an environment that rewarded accuracy rather than status. That is an important historical lesson: the tournament did not merely identify people who were already good; it created conditions under which good judgement could compound.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://web.stanford.edu/~knutson/jdm/mellers15.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: web.stanford.edu">[Stanford University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">web.stanford.edu</span><span class="citation-popover-snippet">Open source on stanford.edu.</span></span></span>
+A later paper on cultivating superforecasters described high performers as partly discovered and partly created. The strongest forecasters tended to combine cognitive ability and open-minded style with task-specific skill, motivation, frequent updating and an environment that rewarded accuracy rather than status. That is an important historical lesson: the tournament did not merely identify people who were already good; it created conditions under which good judgement could compound. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://web.stanford.edu/~knutson/jdm/mellers15.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: web.stanford.edu">[Stanford University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">web.stanford.edu</span><span class="citation-popover-snippet">Open source on stanford.edu.</span></span></span>
 
-Training also mattered even when it was brief. A four-year analysis of geopolitical forecasting tournaments found that a cognitive-debiasing training module lasting less than an hour improved Brier-score accuracy by 6% to 11% compared with a control condition. That is modest enough to be believable and large enough to matter: judgement improved not through personality transformation, but through repeated use of better habits.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/journals/judgment-and-decision-making/article/developing-expert-political-judgment-the-impact-of-training-and-practice-on-judgmental-accuracy-in-geopolitical-forecasting-tournaments/123EB18425391D05FA6581FDBB3F309F" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Open source on cambridge.org.</span></span></span>
+Training also mattered even when it was brief. A four-year analysis of geopolitical forecasting tournaments found that a cognitive-debiasing training module lasting less than an hour improved Brier-score accuracy by 6% to 11% compared with a control condition. That is modest enough to be believable and large enough to matter: judgement improved not through personality transformation, but through repeated use of better habits. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/journals/judgment-and-decision-making/article/developing-expert-political-judgment-the-impact-of-training-and-practice-on-judgmental-accuracy-in-geopolitical-forecasting-tournaments/123EB18425391D05FA6581FDBB3F309F" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Open source on cambridge.org.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/W9sFZkYqvLo" title="How to Predict the Future (According to Science)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=W9sFZkYqvLo" target="_blank" rel="noopener noreferrer">How to Predict the Future (According to Science)</a></p><p class="youtube-embed-meta">Channel: iluli by Mike Lamb</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=W9sFZkYqvLo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=W9sFZkYqvLo">Open on YouTube</a></p></div></div></div>
@@ -330,7 +330,7 @@ The most practical version is a [decision journal]({{ 'decision-journal/' | rela
 <img src="{{ "/assets/images/improving_your_think_da4710_feedback_calibration_8a35f0_good_judgment_lesson_ea91a6-Illustration-2-dark.svg" | relative_url }}" alt="Good Judgment illustration 2" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_feedback_calibration_8a35f0_good_judgment_lesson_ea91a6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_feedback_calibration_8a35f0_good_judgment_lesson_ea91a6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why teamwork helps without becoming groupthink
 
-One surprising lesson from Good Judgment is that teams can improve judgement when they are structured around evidence rather than status. In the tournament research, team collaboration allowed forecasters to share information and discuss the reasoning behind their beliefs; elite teams of top performers improved calibration and resolution.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://profiles.wustl.edu/en/publications/psychological-strategies-for-winning-a-geopolitical-forecasting-t/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: profiles.wustl.edu">[WashU Research Profiles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">profiles.wustl.edu</span><span class="citation-popover-snippet">WashU Research ProfilesPsychological Strategies for Winning a Geopolitical...by B Mellers · 2014 · Cited by 434 — Forecasting is often v...</span></span></span>
+One surprising lesson from Good Judgment is that teams can improve judgement when they are structured around evidence rather than status. In the tournament research, team collaboration allowed forecasters to share information and discuss the reasoning behind their beliefs; elite teams of top performers improved calibration and resolution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://profiles.wustl.edu/en/publications/psychological-strategies-for-winning-a-geopolitical-forecasting-t/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: profiles.wustl.edu">[WashU Research Profiles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">profiles.wustl.edu</span><span class="citation-popover-snippet">WashU Research ProfilesPsychological Strategies for Winning a Geopolitical...by B Mellers · 2014 · Cited by 434 — Forecasting is often v...</span></span></span>
 
 For everyday decisions, the crucial move is to separate independent judgement from group discussion. Ask people for their initial probabilities before the meeting, then compare. If everyone talks first, confident voices can anchor the room. If people forecast first, the group sees disagreement that would otherwise stay hidden.
 
@@ -345,7 +345,7 @@ The Good Judgment Project’s scoring discipline is powerful, but everyday life 
 
 A useful boundary is this: score [predictions]({{ 'predictions/' | relative_url }}) when accuracy is the main issue; use reflective review when wisdom includes values, relationships or ethics. “Will this supplier deliver by Friday?” is forecastable. “Should I forgive this person?” contains predictions, but it is not reducible to a score. The Good Judgment lesson still helps, but indirectly: identify the factual expectations inside the decision without pretending the whole decision is a maths problem.
 
-Formal scoring can also mislead if the questions are too easy or poorly chosen. A low Brier score on obvious predictions may not show much skill, while a bad score on a rare disrupted outcome may hide good reasoning. Good Judgment-style feedback works best when paired with a process review: What did I know? What did I miss? Was my confidence justified? What would I do differently next time?<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7333631/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+Formal scoring can also mislead if the questions are too easy or poorly chosen. A low Brier score on obvious predictions may not show much skill, while a bad score on a rare disrupted outcome may hide good reasoning. Good Judgment-style feedback works best when paired with a process review: What did I know? What did I miss? Was my confidence justified? What would I do differently next time? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7333631/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_feedback_calibration_8a35f0_good_judgment_lesson_ea91a6-Illustration-3-dark.svg" | relative_url }}" alt="Good Judgment illustration 3" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_feedback_calibration_8a35f0_good_judgment_lesson_ea91a6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_feedback_calibration_8a35f0_good_judgment_lesson_ea91a6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -356,194 +356,194 @@ The practical value of the Good Judgment Project is that it makes judgement impr
 For improving thinking and analytical skills, that is the durable lesson. Good judgement is not just having better ideas in the moment. It is creating conditions in which reality can correct you often enough, clearly enough and safely enough that your future confidence becomes better calibrated than your past confidence.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to What Forecasting Tournaments Teach Daily Decisions. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to What Forecasting Tournaments Teach Daily Decisions. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ICgWrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
-</h4>
-<p class="fr-book-author">By Philip Eyrikson Tetlock, Dan Gardner</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ICgWrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Superforecasting+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
+        </h4>
+        <p class="fr-book-author">By Philip Eyrikson Tetlock, Dan Gardner</p>
         
-<p class="fr-book-desc">Directly explains the Good Judgment Project and transferable forecasting habits.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly explains the Good Judgment Project and transferable forecasting habits.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Superforecasting+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ckOQEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
-</h4>
-<p class="fr-book-author">By Nate Silver</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking+in+Bets+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking in Bets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hOZFDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Thinking in Bets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Thinking+in+Bets+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking in Bets">Thinking in Bets</a>
+        </h4>
+        <p class="fr-book-author">By Annie Duke</p>
         
-<p class="fr-book-desc">Expands on probabilistic thinking and improving real-world forecasts.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Teaches probability-based decision habits applicable outside formal tournaments.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Thinking+in+Bets+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Expert+Political+Judgment+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Expert Political Judgment on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=pXGYDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Expert Political Judgment" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Expert+Political+Judgment+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Expert Political Judgment">Expert Political Judgment</a>
-</h4>
-<p class="fr-book-author">By Philip E. Tetlock</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+        </h4>
+        <p class="fr-book-author">By Nate Silver</p>
         
-<p class="fr-book-desc">Provides the research foundations that led to the Good Judgment Project.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Expert+Political+Judgment+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Expands on probabilistic thinking and improving real-world forecasts.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking+in+Bets+by+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking in Bets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hOZFDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Thinking in Bets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Thinking+in+Bets+by+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking in Bets">Thinking in Bets</a>
-</h4>
-<p class="fr-book-author">By Annie Duke</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Expert+Political+Judgment+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Expert Political Judgment on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=pXGYDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Expert Political Judgment" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Expert+Political+Judgment+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Expert Political Judgment">Expert Political Judgment</a>
+        </h4>
+        <p class="fr-book-author">By Philip E. Tetlock</p>
         
-<p class="fr-book-desc">Teaches probability-based decision habits applicable outside formal tournaments.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Thinking+in+Bets+by+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides the research foundations that led to the Good Judgment Project.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Expert+Political+Judgment+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Expert+Political+Judgment&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Expert Political Judgment</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking+in+Bets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking in Bets</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Magnetic Whiteboard Dry Wipe White Board Office Home Memo Notice Small Eraser"><img src="https://i.ebayimg.com/images/g/f6AAAOSwxK5mxyVa/s-l225.jpg" alt="Listing image for A4 Magnetic Whiteboard Dry Wipe White Board Office Home Memo Notice Small Eraser" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer">A4 Magnetic Whiteboard Dry Wipe White Board Office Home Memo Notice Small Eraser</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desktop whiteboard">Search<span data-ebay-domain-label>eBay.co.uk</span>: desktop whiteboard</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Magnetic Whiteboard Dry Wipe White Board Office Home Memo Notice Small Eraser"><img src="https://i.ebayimg.com/images/g/f6AAAOSwxK5mxyVa/s-l225.jpg" alt="Listing image for A4 Magnetic Whiteboard Dry Wipe White Board Office Home Memo Notice Small Eraser" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer">A4 Magnetic Whiteboard Dry Wipe White Board Office Home Memo Notice Small Eraser</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desktop whiteboard">Search <span data-ebay-domain-label>eBay.co.uk</span>: desktop whiteboard</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desktop Whiteboard Glass Desktop Whiteboard with Storage Small Dry Erase Board"><img src="https://i.ebayimg.com/images/g/P7sAAOSwRQBnyCti/s-l225.jpg" alt="Listing image for Desktop Whiteboard Glass Desktop Whiteboard with Storage Small Dry Erase Board" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer">Desktop Whiteboard Glass Desktop Whiteboard with Storage Small Dry Erase Board</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desktop whiteboard">Search<span data-ebay-domain-label>eBay.co.uk</span>: desktop whiteboard</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desktop Whiteboard Glass Desktop Whiteboard with Storage Small Dry Erase Board"><img src="https://i.ebayimg.com/images/g/P7sAAOSwRQBnyCti/s-l225.jpg" alt="Listing image for Desktop Whiteboard Glass Desktop Whiteboard with Storage Small Dry Erase Board" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer">Desktop Whiteboard Glass Desktop Whiteboard with Storage Small Dry Erase Board</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desktop whiteboard">Search <span data-ebay-domain-label>eBay.co.uk</span>: desktop whiteboard</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Magnetic Whiteboard Dry Wipe White Board Office Home Memo Notice Small Eraser"><img src="https://i.ebayimg.com/images/g/0HQAAeSwN8dp18BL/s-l225.jpg" alt="Listing image for A4 Magnetic Whiteboard Dry Wipe White Board Office Home Memo Notice Small Eraser" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer">A4 Magnetic Whiteboard Dry Wipe White Board Office Home Memo Notice Small Eraser</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desktop whiteboard">Search<span data-ebay-domain-label>eBay.co.uk</span>: desktop whiteboard</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Magnetic Whiteboard Dry Wipe White Board Office Home Memo Notice Small Eraser"><img src="https://i.ebayimg.com/images/g/0HQAAeSwN8dp18BL/s-l225.jpg" alt="Listing image for A4 Magnetic Whiteboard Dry Wipe White Board Office Home Memo Notice Small Eraser" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer">A4 Magnetic Whiteboard Dry Wipe White Board Office Home Memo Notice Small Eraser</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desktop whiteboard">Search <span data-ebay-domain-label>eBay.co.uk</span>: desktop whiteboard</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mini Whiteboard A3 Double Sided Magnetic Portable with Stand 40 x 30 cm"><img src="https://i.ebayimg.com/images/g/~k4AAeSwXQNqPOFd/s-l225.jpg" alt="Listing image for Mini Whiteboard A3 Double Sided Magnetic Portable with Stand 40 x 30 cm" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer">Mini Whiteboard A3 Double Sided Magnetic Portable with Stand 40 x 30 cm</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desktop whiteboard">Search<span data-ebay-domain-label>eBay.co.uk</span>: desktop whiteboard</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mini Whiteboard A3 Double Sided Magnetic Portable with Stand 40 x 30 cm"><img src="https://i.ebayimg.com/images/g/~k4AAeSwXQNqPOFd/s-l225.jpg" alt="Listing image for Mini Whiteboard A3 Double Sided Magnetic Portable with Stand 40 x 30 cm" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer">Mini Whiteboard A3 Double Sided Magnetic Portable with Stand 40 x 30 cm</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desktop whiteboard">Search <span data-ebay-domain-label>eBay.co.uk</span>: desktop whiteboard</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop whiteboard" data-ebay-reference="what-forecasting-tournaments-teach-daily-decisions-desktop-whiteboard" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -559,7 +559,7 @@ For improving thinking and analytical skills, that is the durable lesson. Good j
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -579,7 +579,7 @@ For improving thinking and analytical skills, that is the durable lesson. Good j
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -611,7 +611,7 @@ For improving thinking and analytical skills, that is the durable lesson. Good j
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -663,7 +663,7 @@ For improving thinking and analytical skills, that is the durable lesson. Good j
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -708,7 +708,7 @@ For improving thinking and analytical skills, that is the durable lesson. Good j
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -749,129 +749,129 @@ For improving thinking and analytical skills, that is the durable lesson. Good j
 
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: iarpa.gov  
-   Link:<a href="https://www.iarpa.gov/research-programs/ace" target="_blank" rel="noopener noreferrer nofollow">https://www.iarpa.gov/research-programs/ace</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>ACEThe goal of the ACE Program is to dramatically enhance the accuracy, precision, and timeliness of intelligence forecasts for a br...</p></details>
+   Link: <a href="https://www.iarpa.gov/research-programs/ace" target="_blank" rel="noopener noreferrer nofollow">https://www.iarpa.gov/research-programs/ace</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ACEThe goal of the ACE Program is to dramatically enhance the accuracy, precision, and timeliness of intelligence forecasts for a br...</p></details>
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: web.stanford.edu  
-   Link:<a href="https://web.stanford.edu/~knutson/jdm/mellers15.pdf" target="_blank" rel="noopener noreferrer nofollow">https://web.stanford.edu/~knutson/jdm/mellers15.pdf</a>  
+   Link: <a href="https://web.stanford.edu/~knutson/jdm/mellers15.pdf" target="_blank" rel="noopener noreferrer nofollow">https://web.stanford.edu/~knutson/jdm/mellers15.pdf</a>  
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: cambridge.org  
-   Link:<a href="https://www.cambridge.org/core/journals/judgment-and-decision-making/article/developing-expert-political-judgment-the-impact-of-training-and-practice-on-judgmental-accuracy-in-geopolitical-forecasting-tournaments/123EB18425391D05FA6581FDBB3F309F" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/judgment-and-decision-making/article/developing-expert-political-judgment-the-impact-of-training-and-practice-on-judgmental-accuracy-in-geopolitical-forecasting-tournaments/123EB18425391D05FA6581FDBB3F309F</a>  
+   Link: <a href="https://www.cambridge.org/core/journals/judgment-and-decision-making/article/developing-expert-political-judgment-the-impact-of-training-and-practice-on-judgmental-accuracy-in-geopolitical-forecasting-tournaments/123EB18425391D05FA6581FDBB3F309F" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/judgment-and-decision-making/article/developing-expert-political-judgment-the-impact-of-training-and-practice-on-judgmental-accuracy-in-geopolitical-forecasting-tournaments/123EB18425391D05FA6581FDBB3F309F</a>  
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7333631/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7333631/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7333631/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7333631/</a>  
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: profiles.wustl.edu  
-   Link:<a href="https://profiles.wustl.edu/en/publications/psychological-strategies-for-winning-a-geopolitical-forecasting-t/" target="_blank" rel="noopener noreferrer nofollow">https://profiles.wustl.edu/en/publications/psychological-strategies-for-winning-a-geopolitical-forecasting-t/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>WashU Research ProfilesPsychological Strategies for Winning a Geopolitical...by B Mellers · 2014 · Cited by 434 — Forecasting is often v...</p></details>
+   Link: <a href="https://profiles.wustl.edu/en/publications/psychological-strategies-for-winning-a-geopolitical-forecasting-t/" target="_blank" rel="noopener noreferrer nofollow">https://profiles.wustl.edu/en/publications/psychological-strategies-for-winning-a-geopolitical-forecasting-t/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>WashU Research ProfilesPsychological Strategies for Winning a Geopolitical...by B Mellers · 2014 · Cited by 434 — Forecasting is often v...</p></details>
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: gjopen.com  
-   Link:<a href="https://www.gjopen.com/faq" target="_blank" rel="noopener noreferrer nofollow">https://www.gjopen.com/faq</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Good Judgment OpenFrequently Asked Questions (FAQ)Roughly, the Brier score indicates how far away from the truth your forecast was. The B...</p></details>
+   Link: <a href="https://www.gjopen.com/faq" target="_blank" rel="noopener noreferrer nofollow">https://www.gjopen.com/faq</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Good Judgment OpenFrequently Asked Questions (FAQ)Roughly, the Brier score indicates how far away from the truth your forecast was. The B...</p></details>
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: goodjudgment.com  
-   Link:<a href="https://goodjudgment.com/resources/the-superforecasters-track-record/the-first-championship-season/" target="_blank" rel="noopener noreferrer nofollow">https://goodjudgment.com/resources/the-superforecasters-track-record/the-first-championship-season/</a>  
+   Link: <a href="https://goodjudgment.com/resources/the-superforecasters-track-record/the-first-championship-season/" target="_blank" rel="noopener noreferrer nofollow">https://goodjudgment.com/resources/the-superforecasters-track-record/the-first-championship-season/</a>  
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: goodjudgment.com  
-   Link:<a href="https://goodjudgment.com/" target="_blank" rel="noopener noreferrer nofollow">https://goodjudgment.com/</a>  
+   Link: <a href="https://goodjudgment.com/" target="_blank" rel="noopener noreferrer nofollow">https://goodjudgment.com/</a>  
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: goodjudgment.com  
-   Link:<a href="https://goodjudgment.com/resources/the-superforecasters-track-record/" target="_blank" rel="noopener noreferrer nofollow">https://goodjudgment.com/resources/the-superforecasters-track-record/</a>  
+   Link: <a href="https://goodjudgment.com/resources/the-superforecasters-track-record/" target="_blank" rel="noopener noreferrer nofollow">https://goodjudgment.com/resources/the-superforecasters-track-record/</a>  
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: goodjudgment.com  
    Title: the science of superforecasting  
-   Link:<a href="https://goodjudgment.com/about/the-science-of-superforecasting/" target="_blank" rel="noopener noreferrer nofollow">https://goodjudgment.com/about/the-science-of-superforecasting/</a>  
+   Link: <a href="https://goodjudgment.com/about/the-science-of-superforecasting/" target="_blank" rel="noopener noreferrer nofollow">https://goodjudgment.com/about/the-science-of-superforecasting/</a>  
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: goodjudgment.com  
-   Link:<a href="https://goodjudgment.com/human-vs-ai-forecasts/" target="_blank" rel="noopener noreferrer nofollow">https://goodjudgment.com/human-vs-ai-forecasts/</a>  
+   Link: <a href="https://goodjudgment.com/human-vs-ai-forecasts/" target="_blank" rel="noopener noreferrer nofollow">https://goodjudgment.com/human-vs-ai-forecasts/</a>  
 
-12.<a id="endnote-12"></a>
+12. <a id="endnote-12"></a>
    Source: goodjudgment.com  
-   Link:<a href="https://goodjudgment.com/what-forecastbench-doesnt-measure/" target="_blank" rel="noopener noreferrer nofollow">https://goodjudgment.com/what-forecastbench-doesnt-measure/</a>  
+   Link: <a href="https://goodjudgment.com/what-forecastbench-doesnt-measure/" target="_blank" rel="noopener noreferrer nofollow">https://goodjudgment.com/what-forecastbench-doesnt-measure/</a>  
 
-13.<a id="endnote-13"></a>
+13. <a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9023363/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9023363/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9023363/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9023363/</a>  
 
-14.<a id="endnote-14"></a>
+14. <a id="endnote-14"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/24659192/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/24659192/</a>  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/24659192/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/24659192/</a>  
 
-15.<a id="endnote-15"></a>
+15. <a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/25987508/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/25987508/</a>  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/25987508/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/25987508/</a>  
 
-16.<a id="endnote-16"></a>
+16. <a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10189590/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10189590/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10189590/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10189590/</a>  
 
-17.<a id="endnote-17"></a>
+17. <a id="endnote-17"></a>
    Source: Wikipedia  
    Title: The Good Judgment Project  
-   Link:<a href="https://en.wikipedia.org/wiki/The_Good_Judgment_Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Good_Judgment_Project</a>  
+   Link: <a href="https://en.wikipedia.org/wiki/The_Good_Judgment_Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Good_Judgment_Project</a>  
 
-18.<a id="endnote-18"></a>
+18. <a id="endnote-18"></a>
    Source: gjopen.com  
-   Link:<a href="https://www.gjopen.com/snapcasts" target="_blank" rel="noopener noreferrer nofollow">https://www.gjopen.com/snapcasts</a>  
+   Link: <a href="https://www.gjopen.com/snapcasts" target="_blank" rel="noopener noreferrer nofollow">https://www.gjopen.com/snapcasts</a>  
 
 ### Additional References
 
-19.<a id="endnote-19"></a>
+19. <a id="endnote-19"></a>
    Source: psychologicalscience.org  
    Title: Association for Psychological Science Forecasting Tournaments  
-   Link:<a href="https://www.psychologicalscience.org/journals/current-directions/0963721414534257/" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/journals/current-directions/0963721414534257/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceForecasting Tournaments - Current Directions in...Forecasting tournaments are level-playing-field c...</p></details>
+   Link: <a href="https://www.psychologicalscience.org/journals/current-directions/0963721414534257/" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/journals/current-directions/0963721414534257/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceForecasting Tournaments - Current Directions in...Forecasting tournaments are level-playing-field c...</p></details>
 
-20.<a id="endnote-20"></a>
+20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link:<a href="https://www.youtube.com/watch?v=_5YRFQmAxN0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_5YRFQmAxN0</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Superforecasting: The Art and Science of Prediction by Philip E. Tetlock...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=_5YRFQmAxN0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_5YRFQmAxN0</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Superforecasting: The Art and Science of Prediction by Philip E. Tetlock...</p></details>
 
-21.<a id="endnote-21"></a>
+21. <a id="endnote-21"></a>
    Source: journals.sagepub.com  
-   Link:<a href="https://journals.sagepub.com/doi/abs/10.1177/0956797614524255" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/0956797614524255</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsPsychological Strategies for Winning a Geopolitical...by B Mellers · 2014 · Cited by 434 — Results showed that probability...</p></details>
+   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/0956797614524255" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/0956797614524255</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsPsychological Strategies for Winning a Geopolitical...by B Mellers · 2014 · Cited by 434 — Results showed that probability...</p></details>
 
-22.<a id="endnote-22"></a>
+22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: Why Intelligent People Are Wrong More Often Than Chimps | Philip Tetlock  
-   Link:<a href="https://www.youtube.com/watch?v=qAKSd4eaSuY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qAKSd4eaSuY</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Predict the Future (According to Science)...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=qAKSd4eaSuY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qAKSd4eaSuY</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Predict the Future (According to Science)...</p></details>
 
-23.<a id="endnote-23"></a>
+23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: How to Predict the Future (According to Science)  
-   Link:<a href="https://www.youtube.com/watch?v=W9sFZkYqvLo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W9sFZkYqvLo</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Predictions Fail | Use Probabilities Instead of Certainty...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=W9sFZkYqvLo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W9sFZkYqvLo</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Predictions Fail | Use Probabilities Instead of Certainty...</p></details>
 
-24.<a id="endnote-24"></a>
+24. <a id="endnote-24"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/274992096_Forecasting_Tournaments_Tools_for_Increasing_Transparency_and_Improving_the_Quality_of_Debate" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/274992096_Forecasting_Tournaments_Tools_for_Increasing_Transparency_and_Improving_the_Quality_of_Debate</a>  
+   Link: <a href="https://www.researchgate.net/publication/274992096_Forecasting_Tournaments_Tools_for_Increasing_Transparency_and_Improving_the_Quality_of_Debate" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/274992096_Forecasting_Tournaments_Tools_for_Increasing_Transparency_and_Improving_the_Quality_of_Debate</a>  
 
-25.<a id="endnote-25"></a>
+25. <a id="endnote-25"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/261034938_Psychological_Strategies_for_Winning_a_Geopolitical_Forecasting_Tournament" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/261034938_Psychological_Strategies_for_Winning_a_Geopolitical_Forecasting_Tournament</a>  
+   Link: <a href="https://www.researchgate.net/publication/261034938_Psychological_Strategies_for_Winning_a_Geopolitical_Forecasting_Tournament" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/261034938_Psychological_Strategies_for_Winning_a_Geopolitical_Forecasting_Tournament</a>  
 
-26.<a id="endnote-26"></a>
+26. <a id="endnote-26"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/277087515_Identifying_and_Cultivating_Superforecasters_as_a_Method_of_Improving_Probabilistic_Predictions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/277087515_Identifying_and_Cultivating_Superforecasters_as_a_Method_of_Improving_Probabilistic_Predictions</a>  
+   Link: <a href="https://www.researchgate.net/publication/277087515_Identifying_and_Cultivating_Superforecasters_as_a_Method_of_Improving_Probabilistic_Predictions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/277087515_Identifying_and_Cultivating_Superforecasters_as_a_Method_of_Improving_Probabilistic_Predictions</a>  
 
-27.<a id="endnote-27"></a>
+27. <a id="endnote-27"></a>
    Source: reddit.com  
-   Link:<a href="https://www.reddit.com/r/slatestarcodex/comments/p85tc1/a_failure_but_of_prediction/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/slatestarcodex/comments/p85tc1/a_failure_but_of_prediction/</a>  
+   Link: <a href="https://www.reddit.com/r/slatestarcodex/comments/p85tc1/a_failure_but_of_prediction/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/slatestarcodex/comments/p85tc1/a_failure_but_of_prediction/</a>  
 
-28.<a id="endnote-28"></a>
+28. <a id="endnote-28"></a>
    Source: dokumen.pub  
-   Link:<a href="https://dokumen.pub/expert-political-judgment-how-good-is-it-how-can-we-know-new-edition-newnbsped-9781400888818.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/expert-political-judgment-how-good-is-it-how-can-we-know-new-edition-newnbsped-9781400888818.html</a>  
+   Link: <a href="https://dokumen.pub/expert-political-judgment-how-good-is-it-how-can-we-know-new-edition-newnbsped-9781400888818.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/expert-political-judgment-how-good-is-it-how-can-we-know-new-edition-newnbsped-9781400888818.html</a>  

@@ -280,17 +280,17 @@ image: /assets/images/improving_your_think_da4710_distributed_practice_4a249b_ch
 
 ## Introduction
 
-How far apart should study sessions be? The most useful answer is: **the spacing gap should be chosen with the final use date in mind**. A review schedule that is ideal for an exam next week is usually too compressed for knowledge that must remain available months later, while a schedule designed for long-term retention may be unnecessarily slow when a deadline is imminent. Research on [distributed practice]({{ 'spacing/' | relative_url }}) consistently shows that there is no single “best” interval. Instead, the optimal gap grows as the delay before the final test or real-world use grows, although it remains only a fraction of the total retention period.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/19076480/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Spacing effects in learning: a temporal ridgeline of optimal...by NJ Cepeda · 2008 · Cited by 1043 — In a study aimed at character...</span></span></span>
+How far apart should study sessions be? The most useful answer is: **the spacing gap should be chosen with the final use date in mind**. A review schedule that is ideal for an exam next week is usually too compressed for knowledge that must remain available months later, while a schedule designed for long-term retention may be unnecessarily slow when a deadline is imminent. Research on [distributed practice]({{ 'spacing/' | relative_url }}) consistently shows that there is no single “best” interval. Instead, the optimal gap grows as the delay before the final test or real-world use grows, although it remains only a fraction of the total retention period. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/19076480/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Spacing effects in learning: a temporal ridgeline of optimal...by NJ Cepeda · 2008 · Cited by 1043 — In a study aimed at character...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_distributed_practice_4a249b_choosing_spacing_gap_bc08d9-Illustration-1-dark.svg" | relative_url }}" alt="Spacing gaps illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_distributed_practice_4a249b_choosing_spacing_gap_bc08d9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_distributed_practice_4a249b_choosing_spacing_gap_bc08d9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For improving analytical thinking, this matters because the aim is not merely to remember information today, but to retrieve concepts, methods and examples when solving problems in the future. Choosing review intervals that match when the knowledge will next be needed makes spaced practice more efficient and more reliable than following a fixed calendar regardless of the learning goal.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/290511665_Spaced_Repetition_Promotes_Efficient_and_Effective_Learning_Policy_Implications_for_Instruction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Spaced Repetition Promotes Efficient and Effective LearningSpaced review or practice enhances diverse forms of learning, incl...</span></span></span>
+For improving analytical thinking, this matters because the aim is not merely to remember information today, but to retrieve concepts, methods and examples when solving problems in the future. Choosing review intervals that match when the knowledge will next be needed makes spaced practice more efficient and more reliable than following a fixed calendar regardless of the learning goal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/290511665_Spaced_Repetition_Promotes_Efficient_and_Effective_Learning_Policy_Implications_for_Instruction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Spaced Repetition Promotes Efficient and Effective LearningSpaced review or practice enhances diverse forms of learning, incl...</span></span></span>
 
 ## Why the final use date changes the ideal gap
 
-Spacing works by allowing some forgetting before the next review. If the interval is too short, the material still feels familiar and [retrieval]({{ 'retrieval/' | relative_url }}) requires little mental effort. If the interval is too long, retrieval may fail completely, forcing relearning instead of strengthening memory. The most effective gap usually lies between these extremes, where recall is difficult but still successful—a balance often described as a "desirable difficulty".<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5476736/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCSpacing Repetitions Over Long Timescales: A Review</span><span class="citation-popover-snippet">by CD Smith · 2017 · Cited by 114 — The spacing effect is the observation that repetitions spaced in time tend to produce stronger mem...</span></span></span>
+Spacing works by allowing some forgetting before the next review. If the interval is too short, the material still feels familiar and [retrieval]({{ 'retrieval/' | relative_url }}) requires little mental effort. If the interval is too long, retrieval may fail completely, forcing relearning instead of strengthening memory. The most effective gap usually lies between these extremes, where recall is difficult but still successful—a balance often described as a "desirable difficulty". <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5476736/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCSpacing Repetitions Over Long Timescales: A Review</span><span class="citation-popover-snippet">by CD Smith · 2017 · Cited by 114 — The spacing effect is the observation that repetitions spaced in time tend to produce stronger mem...</span></span></span>
 
-The key insight from large-scale research is that this balance depends on **how long the learner must retain the information**. In a landmark experiment involving more than 1,300 participants, Nicholas Cepeda and colleagues varied both the spacing between study sessions and the delay before the final test. They found that the spacing interval producing the best long-term performance became longer as the final test moved further into the future. However, the optimal spacing remained much shorter than the total retention interval.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/19076480/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Spacing effects in learning: a temporal ridgeline of optimal...by NJ Cepeda · 2008 · Cited by 1043 — In a study aimed at character...</span></span></span>
+The key insight from large-scale research is that this balance depends on **how long the learner must retain the information**. In a landmark experiment involving more than 1,300 participants, Nicholas Cepeda and colleagues varied both the spacing between study sessions and the delay before the final test. They found that the spacing interval producing the best long-term performance became longer as the final test moved further into the future. However, the optimal spacing remained much shorter than the total retention interval. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/19076480/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Spacing effects in learning: a temporal ridgeline of optimal...by NJ Cepeda · 2008 · Cited by 1043 — In a study aimed at character...</span></span></span>
 
 A practical way to think about this is that the learner should review **well before the memory has almost disappeared**, but **not so soon that the review becomes effortless repetition**.
 
@@ -298,7 +298,7 @@ A practical way to think about this is that the learner should review **well bef
 
 Different learning deadlines justify different spacing strategies.
 
-Final use of knowledgeSuitable spacing approachWhy it worksWithin a few daysShort gaps of hours to a dayPrevents rapid forgetting while keeping information accessible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/235983059_Using_Spacing_to_Enhance_Diverse_Forms_of_Learning_Review_of_Recent_Research_and_Implications_for_Instruction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Using Spacing to Enhance Diverse Forms of Learningthe findings from Cepeda et al. (2008) suggest that the ideal time to...</span></span></span> one weekReviews separated by one to several daysIntroduces enough forgetting to strengthen retrieval before the deadline.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/19076480/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Spacing effects in learning: a temporal ridgeline of optimal...by NJ Cepeda · 2008 · Cited by 1043 — In a study aimed at character...</span></span></span> month or moreReviews separated by roughly one to two weeksLarger intervals create stronger long-term retention without excessive relearning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/235983059_Using_Spacing_to_Enhance_Diverse_Forms_of_Learning_Review_of_Recent_Research_and_Implications_for_Instruction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Using Spacing to Enhance Diverse Forms of Learningthe findings from Cepeda et al. (2008) suggest that the ideal time to...</span></span></span> months or ongoing professional useIncreasingly wider reviews over weeks or monthsMaintains knowledge efficiently while reducing unnecessary repetitions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5476736/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCSpacing Repetitions Over Long Timescales: A Review</span><span class="citation-popover-snippet">by CD Smith · 2017 · Cited by 114 — The spacing effect is the observation that repetitions spaced in time tend to produce stronger mem...</span></span></span>
+Final use of knowledgeSuitable spacing approachWhy it worksWithin a few daysShort gaps of hours to a dayPrevents rapid forgetting while keeping information accessible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/235983059_Using_Spacing_to_Enhance_Diverse_Forms_of_Learning_Review_of_Recent_Research_and_Implications_for_Instruction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Using Spacing to Enhance Diverse Forms of Learningthe findings from Cepeda et al. (2008) suggest that the ideal time to...</span></span></span> one weekReviews separated by one to several daysIntroduces enough forgetting to strengthen retrieval before the deadline. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/19076480/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Spacing effects in learning: a temporal ridgeline of optimal...by NJ Cepeda · 2008 · Cited by 1043 — In a study aimed at character...</span></span></span> month or moreReviews separated by roughly one to two weeksLarger intervals create stronger long-term retention without excessive relearning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/235983059_Using_Spacing_to_Enhance_Diverse_Forms_of_Learning_Review_of_Recent_Research_and_Implications_for_Instruction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Using Spacing to Enhance Diverse Forms of Learningthe findings from Cepeda et al. (2008) suggest that the ideal time to...</span></span></span> months or ongoing professional useIncreasingly wider reviews over weeks or monthsMaintains knowledge efficiently while reducing unnecessary repetitions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5476736/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCSpacing Repetitions Over Long Timescales: A Review</span><span class="citation-popover-snippet">by CD Smith · 2017 · Cited by 114 — The spacing effect is the observation that repetitions spaced in time tend to produce stronger mem...</span></span></span>
 
 These values should be treated as practical ranges rather than fixed rules. Material complexity, prior knowledge and retrieval success all influence the ideal schedule. The central principle is that **longer retention goals justify longer review intervals**.
 
@@ -321,7 +321,7 @@ For an [assessment]({{ 'assessment/' | relative_url }}) next week:
 
 </div>
 
-This schedule keeps every review relevant to the approaching deadline while avoiding massed revision.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/235983059_Using_Spacing_to_Enhance_Diverse_Forms_of_Learning_Review_of_Recent_Research_and_Implications_for_Instruction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Using Spacing to Enhance Diverse Forms of Learningthe findings from Cepeda et al. (2008) suggest that the ideal time to...</span></span></span>
+This schedule keeps every review relevant to the approaching deadline while avoiding massed revision. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/235983059_Using_Spacing_to_Enhance_Diverse_Forms_of_Learning_Review_of_Recent_Research_and_Implications_for_Instruction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Using Spacing to Enhance Diverse Forms of Learningthe findings from Cepeda et al. (2008) suggest that the ideal time to...</span></span></span>
 
 For material needed in about a month:
 
@@ -336,9 +336,9 @@ For material needed in about a month:
 
 </div>
 
-Here the gaps expand because the learner is preparing for a longer retention interval rather than immediate performance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/19076480/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Spacing effects in learning: a temporal ridgeline of optimal...by NJ Cepeda · 2008 · Cited by 1043 — In a study aimed at character...</span></span></span>
+Here the gaps expand because the learner is preparing for a longer retention interval rather than immediate performance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/19076480/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Spacing effects in learning: a temporal ridgeline of optimal...by NJ Cepeda · 2008 · Cited by 1043 — In a study aimed at character...</span></span></span>
 
-For knowledge intended to become permanent—for example, statistical reasoning, legal principles or programming concepts—the ladder can continue with reviews every month, then every few months, provided retrieval remains successful. Many spaced-repetition systems automate this process by lengthening intervals after successful recall and shortening them following errors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Spaced_repetition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Spaced repetition</span><span class="citation-popover-snippet">Spaced repetition</span></span></span>
+For knowledge intended to become permanent—for example, statistical reasoning, legal principles or programming concepts—the ladder can continue with reviews every month, then every few months, provided retrieval remains successful. Many spaced-repetition systems automate this process by lengthening intervals after successful recall and shortening them following errors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Spaced_repetition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Spaced repetition</span><span class="citation-popover-snippet">Spaced repetition</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_distributed_practice_4a249b_choosing_spacing_gap_bc08d9-Illustration-2-dark.svg" | relative_url }}" alt="Spacing gaps illustration 2" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_distributed_practice_4a249b_choosing_spacing_gap_bc08d9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_distributed_practice_4a249b_choosing_spacing_gap_bc08d9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -346,7 +346,7 @@ For knowledge intended to become permanent—for example, statistical reasoning,
 
 A common misunderstanding is that if spacing is beneficial, the longest possible interval must be best. The evidence does not support this.
 
-Cepeda and colleagues observed a curved relationship between spacing and retention. As the interval between study sessions increased, performance improved up to an optimum, after which further increases reduced later recall because too much forgetting had occurred before review.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/19076480/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Spacing effects in learning: a temporal ridgeline of optimal...by NJ Cepeda · 2008 · Cited by 1043 — In a study aimed at character...</span></span></span>
+Cepeda and colleagues observed a curved relationship between spacing and retention. As the interval between study sessions increased, performance improved up to an optimum, after which further increases reduced later recall because too much forgetting had occurred before review. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/19076480/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Spacing effects in learning: a temporal ridgeline of optimal...by NJ Cepeda · 2008 · Cited by 1043 — In a study aimed at character...</span></span></span>
 
 This explains why a learner preparing for an exam next Friday should not wait until Thursday for the first review, while someone hoping to remember material six months later gains little by reviewing every day during the first week and then stopping.
 
@@ -363,7 +363,7 @@ Useful indicators include:
 
 * **If recall feels almost automatic**, the previous gap was probably shorter than necessary and can usually be lengthened.
 * **If recall succeeds but requires genuine effort**, the spacing is close to ideal because retrieval itself strengthens learning.
-* **If recall repeatedly fails completely**, the gap was probably too long and should be shortened until successful retrieval becomes possible again.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5476736/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCSpacing Repetitions Over Long Timescales: A Review</span><span class="citation-popover-snippet">by CD Smith · 2017 · Cited by 114 — The spacing effect is the observation that repetitions spaced in time tend to produce stronger mem...</span></span></span>
+* **If recall repeatedly fails completely**, the gap was probably too long and should be shortened until successful retrieval becomes possible again. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5476736/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCSpacing Repetitions Over Long Timescales: A Review</span><span class="citation-popover-snippet">by CD Smith · 2017 · Cited by 114 — The spacing effect is the observation that repetitions spaced in time tend to produce stronger mem...</span></span></span>
 
 This adaptive approach explains why digital spaced-repetition systems often outperform rigid calendars: they continuously adjust intervals according to actual memory performance instead of assuming every learner forgets at the same rate.
 
@@ -381,200 +381,200 @@ Instead, each review should require the learner to reconstruct reasoning by:
 * comparing similar concepts that are easily confused; or
 * identifying mistakes in [worked examples]({{ 'worked-examples/' | relative_url }}).
 
-When these retrieval activities are scheduled with gaps that reflect the next expected use of the knowledge, learners strengthen not only memory but also the ability to apply what they know in realistic situations. This is one reason reviews combining spacing with retrieval practice consistently produce stronger long-term learning than repeated rereading alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/290511665_Spaced_Repetition_Promotes_Efficient_and_Effective_Learning_Policy_Implications_for_Instruction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Spaced Repetition Promotes Efficient and Effective LearningSpaced review or practice enhances diverse forms of learning, incl...</span></span></span>
+When these retrieval activities are scheduled with gaps that reflect the next expected use of the knowledge, learners strengthen not only memory but also the ability to apply what they know in realistic situations. This is one reason reviews combining spacing with retrieval practice consistently produce stronger long-term learning than repeated rereading alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/290511665_Spaced_Repetition_Promotes_Efficient_and_Effective_Learning_Policy_Implications_for_Instruction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Spaced Repetition Promotes Efficient and Effective LearningSpaced review or practice enhances diverse forms of learning, incl...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_distributed_practice_4a249b_choosing_spacing_gap_bc08d9-Illustration-3-dark.svg" | relative_url }}" alt="Spacing gaps illustration 3" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_distributed_practice_4a249b_choosing_spacing_gap_bc08d9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_distributed_practice_4a249b_choosing_spacing_gap_bc08d9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to How far apart should study sessions be?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to How far apart should study sessions be?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-</h4>
-<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+We+Learn+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How We Learn on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=R9C2DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How We Learn" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=How+We+Learn+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How We Learn">How We Learn</a>
+        </h4>
+        <p class="fr-book-author">By Stanislas Dehaene</p>
         
-<p class="fr-book-desc">Discusses timing and spacing of review.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains optimal review intervals and forgetting.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=How+We+Learn+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+We+Learn+by+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How We Learn on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ncgJAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How We Learn" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=How+We+Learn+by+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How We Learn">How We Learn</a>
-</h4>
-<p class="fr-book-author">By Benedict Carey</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oneWAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+        </h4>
+        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-<p class="fr-book-desc">Explains optimal review intervals and forgetting.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=How+We+Learn+by+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Discusses timing and spacing of review.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Mind+for+Numbers+by+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Mind for Numbers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Jv3YCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A Mind for Numbers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=A+Mind+for+Numbers+by+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Mind for Numbers">A Mind for Numbers</a>
-</h4>
-<p class="fr-book-author">By Barbara A. Oakley</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Mind+for+Numbers+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Mind for Numbers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Jv3YCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A Mind for Numbers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=A+Mind+for+Numbers+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Mind for Numbers">A Mind for Numbers</a>
+        </h4>
+        <p class="fr-book-author">By Barbara A. Oakley</p>
         
-<p class="fr-book-desc">Provides practical scheduling guidance.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=A+Mind+for+Numbers+by+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides practical scheduling guidance.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=A+Mind+for+Numbers+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ultralearning+by+Scott+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ultralearning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d0IdvgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ultralearning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ultralearning">Ultralearning</a>
-</h4>
-<p class="fr-book-author">By Scott Young</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ultralearning+Scott+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ultralearning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d0IdvgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ultralearning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ultralearning+Scott+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ultralearning">Ultralearning</a>
+        </h4>
+        <p class="fr-book-author">By Scott Young</p>
         
-<p class="fr-book-desc">Shows how to structure effective review.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+Young&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Shows how to structure effective review.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ultralearning+Scott+Young&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+We+Learn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How We Learn</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Mind+for+Numbers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Mind for Numbers</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+We+Learn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How We Learn</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Mind+for+Numbers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Mind for Numbers</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-apart-should-study-sessions-be-study-flash-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash cards" data-ebay-reference="how-far-apart-should-study-sessions-be-study-flash-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Blank Playing Cards - satin finish flash cards teaching study decks (100 cards)"><img src="https://i.ebayimg.com/images/g/LGMAAOSw7Y1njqSJ/s-l225.jpg" alt="Listing image for Blank Playing Cards - satin finish flash cards teaching study decks (100 cards)" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-apart-should-study-sessions-be-study-flash-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash cards" data-ebay-reference="how-far-apart-should-study-sessions-be-study-flash-cards" target="_blank" rel="sponsored noopener noreferrer">Blank Playing Cards - satin finish flash cards teaching study decks (100 cards)</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-apart-should-study-sessions-be-study-flash-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash cards" data-ebay-reference="how-far-apart-should-study-sessions-be-study-flash-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study flash cards">Search<span data-ebay-domain-label>eBay.co.uk</span>: study flash cards</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-apart-should-study-sessions-be-study-flash-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash cards" data-ebay-reference="how-far-apart-should-study-sessions-be-study-flash-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-apart-should-study-sessions-be-study-flash-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash cards" data-ebay-reference="how-far-apart-should-study-sessions-be-study-flash-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Blank Playing Cards - satin finish flash cards teaching study decks (100 cards)"><img src="https://i.ebayimg.com/images/g/LGMAAOSw7Y1njqSJ/s-l225.jpg" alt="Listing image for Blank Playing Cards - satin finish flash cards teaching study decks (100 cards)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-apart-should-study-sessions-be-study-flash-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash cards" data-ebay-reference="how-far-apart-should-study-sessions-be-study-flash-cards" target="_blank" rel="sponsored noopener noreferrer">Blank Playing Cards - satin finish flash cards teaching study decks (100 cards)</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-apart-should-study-sessions-be-study-flash-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash cards" data-ebay-reference="how-far-apart-should-study-sessions-be-study-flash-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study flash cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: study flash cards</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-apart-should-study-sessions-be-study-flash-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash cards" data-ebay-reference="how-far-apart-should-study-sessions-be-study-flash-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-apart-should-study-sessions-be-study-flash-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash cards" data-ebay-reference="how-far-apart-should-study-sessions-be-study-flash-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 100 Sheet Pack Record Flash Cards White Plain Study Revision Home Report 6&quot;x4&quot;"><img src="https://i.ebayimg.com/images/g/XwcAAOSwGBNlgpUU/s-l225.jpg" alt="Listing image for 100 Sheet Pack Record Flash Cards White Plain Study Revision Home Report 6&quot;x4&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-apart-should-study-sessions-be-study-flash-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash cards" data-ebay-reference="how-far-apart-should-study-sessions-be-study-flash-cards" target="_blank" rel="sponsored noopener noreferrer">100 Sheet Pack Record Flash Cards White Plain Study Revision Home Report 6&quot;x4&quot;</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-apart-should-study-sessions-be-study-flash-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash cards" data-ebay-reference="how-far-apart-should-study-sessions-be-study-flash-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study flash cards">Search<span data-ebay-domain-label>eBay.co.uk</span>: study flash cards</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-apart-should-study-sessions-be-study-flash-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash cards" data-ebay-reference="how-far-apart-should-study-sessions-be-study-flash-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-apart-should-study-sessions-be-study-flash-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash cards" data-ebay-reference="how-far-apart-should-study-sessions-be-study-flash-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 100 Sheet Pack Record Flash Cards White Plain Study Revision Home Report 6&quot;x4&quot;"><img src="https://i.ebayimg.com/images/g/XwcAAOSwGBNlgpUU/s-l225.jpg" alt="Listing image for 100 Sheet Pack Record Flash Cards White Plain Study Revision Home Report 6&quot;x4&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-apart-should-study-sessions-be-study-flash-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash cards" data-ebay-reference="how-far-apart-should-study-sessions-be-study-flash-cards" target="_blank" rel="sponsored noopener noreferrer">100 Sheet Pack Record Flash Cards White Plain Study Revision Home Report 6&quot;x4&quot;</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-apart-should-study-sessions-be-study-flash-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash cards" data-ebay-reference="how-far-apart-should-study-sessions-be-study-flash-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study flash cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: study flash cards</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-apart-should-study-sessions-be-study-flash-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash cards" data-ebay-reference="how-far-apart-should-study-sessions-be-study-flash-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-apart-should-study-sessions-be-study-flash-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash cards" data-ebay-reference="how-far-apart-should-study-sessions-be-study-flash-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 x Study Cards on Keyring 4x2&quot; Exam Revision (50x100mm) Flash Cards Mocks GCSE"><img src="https://i.ebayimg.com/images/g/W5gAAOSwvOFm8A6D/s-l225.jpg" alt="Listing image for 2 x Study Cards on Keyring 4x2&quot; Exam Revision (50x100mm) Flash Cards Mocks GCSE" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-apart-should-study-sessions-be-study-flash-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash cards" data-ebay-reference="how-far-apart-should-study-sessions-be-study-flash-cards" target="_blank" rel="sponsored noopener noreferrer">2 x Study Cards on Keyring 4x2&quot; Exam Revision (50x100mm) Flash Cards Mocks GCSE</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-apart-should-study-sessions-be-study-flash-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash cards" data-ebay-reference="how-far-apart-should-study-sessions-be-study-flash-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study flash cards">Search<span data-ebay-domain-label>eBay.co.uk</span>: study flash cards</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-apart-should-study-sessions-be-study-flash-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash cards" data-ebay-reference="how-far-apart-should-study-sessions-be-study-flash-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-apart-should-study-sessions-be-study-flash-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash cards" data-ebay-reference="how-far-apart-should-study-sessions-be-study-flash-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 x Study Cards on Keyring 4x2&quot; Exam Revision (50x100mm) Flash Cards Mocks GCSE"><img src="https://i.ebayimg.com/images/g/W5gAAOSwvOFm8A6D/s-l225.jpg" alt="Listing image for 2 x Study Cards on Keyring 4x2&quot; Exam Revision (50x100mm) Flash Cards Mocks GCSE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-apart-should-study-sessions-be-study-flash-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash cards" data-ebay-reference="how-far-apart-should-study-sessions-be-study-flash-cards" target="_blank" rel="sponsored noopener noreferrer">2 x Study Cards on Keyring 4x2&quot; Exam Revision (50x100mm) Flash Cards Mocks GCSE</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-apart-should-study-sessions-be-study-flash-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash cards" data-ebay-reference="how-far-apart-should-study-sessions-be-study-flash-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study flash cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: study flash cards</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-apart-should-study-sessions-be-study-flash-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash cards" data-ebay-reference="how-far-apart-should-study-sessions-be-study-flash-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-apart-should-study-sessions-be-study-flash-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash cards" data-ebay-reference="how-far-apart-should-study-sessions-be-study-flash-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3.5&quot; x 2&quot; Blank Flash Cards with Rings Study Card Index Cards Note, White 300pcs"><img src="https://i.ebayimg.com/images/g/iJ4AAeSw6B9qMuno/s-l225.jpg" alt="Listing image for 3.5&quot; x 2&quot; Blank Flash Cards with Rings Study Card Index Cards Note, White 300pcs" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-apart-should-study-sessions-be-study-flash-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash cards" data-ebay-reference="how-far-apart-should-study-sessions-be-study-flash-cards" target="_blank" rel="sponsored noopener noreferrer">3.5&quot; x 2&quot; Blank Flash Cards with Rings Study Card Index Cards Note, White 300pcs</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-apart-should-study-sessions-be-study-flash-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash cards" data-ebay-reference="how-far-apart-should-study-sessions-be-study-flash-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study flash cards">Search<span data-ebay-domain-label>eBay.co.uk</span>: study flash cards</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-apart-should-study-sessions-be-study-flash-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash cards" data-ebay-reference="how-far-apart-should-study-sessions-be-study-flash-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-apart-should-study-sessions-be-study-flash-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash cards" data-ebay-reference="how-far-apart-should-study-sessions-be-study-flash-cards" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-apart-should-study-sessions-be-study-flash-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash cards" data-ebay-reference="how-far-apart-should-study-sessions-be-study-flash-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3.5&quot; x 2&quot; Blank Flash Cards with Rings Study Card Index Cards Note, White 300pcs"><img src="https://i.ebayimg.com/images/g/iJ4AAeSw6B9qMuno/s-l225.jpg" alt="Listing image for 3.5&quot; x 2&quot; Blank Flash Cards with Rings Study Card Index Cards Note, White 300pcs" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-apart-should-study-sessions-be-study-flash-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash cards" data-ebay-reference="how-far-apart-should-study-sessions-be-study-flash-cards" target="_blank" rel="sponsored noopener noreferrer">3.5&quot; x 2&quot; Blank Flash Cards with Rings Study Card Index Cards Note, White 300pcs</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-apart-should-study-sessions-be-study-flash-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash cards" data-ebay-reference="how-far-apart-should-study-sessions-be-study-flash-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study flash cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: study flash cards</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-apart-should-study-sessions-be-study-flash-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash cards" data-ebay-reference="how-far-apart-should-study-sessions-be-study-flash-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-apart-should-study-sessions-be-study-flash-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash cards" data-ebay-reference="how-far-apart-should-study-sessions-be-study-flash-cards" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -590,7 +590,7 @@ When these retrieval activities are scheduled with gaps that reflect the next ex
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -610,7 +610,7 @@ When these retrieval activities are scheduled with gaps that reflect the next ex
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -642,7 +642,7 @@ When these retrieval activities are scheduled with gaps that reflect the next ex
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -694,7 +694,7 @@ When these retrieval activities are scheduled with gaps that reflect the next ex
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -739,7 +739,7 @@ When these retrieval activities are scheduled with gaps that reflect the next ex
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -780,107 +780,107 @@ When these retrieval activities are scheduled with gaps that reflect the next ex
 
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/290511665_Spaced_Repetition_Promotes_Efficient_and_Effective_Learning_Policy_Implications_for_Instruction" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/290511665_Spaced_Repetition_Promotes_Efficient_and_Effective_Learning_Policy_Implications_for_Instruction</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Spaced Repetition Promotes Efficient and Effective LearningSpaced review or practice enhances diverse forms of learning, incl...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/290511665_Spaced_Repetition_Promotes_Efficient_and_Effective_Learning_Policy_Implications_for_Instruction" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/290511665_Spaced_Repetition_Promotes_Efficient_and_Effective_Learning_Policy_Implications_for_Instruction</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spaced Repetition Promotes Efficient and Effective LearningSpaced review or practice enhances diverse forms of learning, incl...</p></details>
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/235983059_Using_Spacing_to_Enhance_Diverse_Forms_of_Learning_Review_of_Recent_Research_and_Implications_for_Instruction" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/235983059_Using_Spacing_to_Enhance_Diverse_Forms_of_Learning_Review_of_Recent_Research_and_Implications_for_Instruction</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Using Spacing to Enhance Diverse Forms of Learningthe findings from Cepeda et al. (2008) suggest that the ideal time to...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/235983059_Using_Spacing_to_Enhance_Diverse_Forms_of_Learning_Review_of_Recent_Research_and_Implications_for_Instruction" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/235983059_Using_Spacing_to_Enhance_Diverse_Forms_of_Learning_Review_of_Recent_Research_and_Implications_for_Instruction</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Using Spacing to Enhance Diverse Forms of Learningthe findings from Cepeda et al. (2008) suggest that the ideal time to...</p></details>
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCSpacing Repetitions Over Long Timescales: A Review  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5476736/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5476736/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>by CD Smith · 2017 · Cited by 114 — The spacing effect is the observation that repetitions spaced in time tend to produce stronger mem...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5476736/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5476736/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by CD Smith · 2017 · Cited by 114 — The spacing effect is the observation that repetitions spaced in time tend to produce stronger mem...</p></details>
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Desirable difficulty  
-   Link:<a href="https://en.wikipedia.org/wiki/Desirable_difficulty" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Desirable_difficulty</a>  
+   Link: <a href="https://en.wikipedia.org/wiki/Desirable_difficulty" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Desirable_difficulty</a>  
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Spaced repetition  
-   Link:<a href="https://en.wikipedia.org/wiki/Spaced_repetition" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Spaced_repetition</a>  
+   Link: <a href="https://en.wikipedia.org/wiki/Spaced_repetition" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Spaced_repetition</a>  
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/23657355_Spacing_Effects_in_Learning_A_Temporal_Ridgeline_of_Optimal_Retention" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/23657355_Spacing_Effects_in_Learning_A_Temporal_Ridgeline_of_Optimal_Retention</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Cepeda et al. (2008) demonstrated that the optimal...Read more...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/23657355_Spacing_Effects_in_Learning_A_Temporal_Ridgeline_of_Optimal_Retention" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/23657355_Spacing_Effects_in_Learning_A_Temporal_Ridgeline_of_Optimal_Retention</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cepeda et al. (2008) demonstrated that the optimal...Read more...</p></details>
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: researchgate.net  
    Title: The present review explores the effects of distribution of practice.Read more  
-   Link:<a href="https://www.researchgate.net/publication/7062225_Distributed_Practice_in_Verbal_Recall_Tasks_A_Review_and_Quantitative_Synthesis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/7062225_Distributed_Practice_in_Verbal_Recall_Tasks_A_Review_and_Quantitative_Synthesis</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Distributed Practice in Verbal Recall Tasks: A Review and...spacing and/or lag intervals sometimes failed to benefit retention...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/7062225_Distributed_Practice_in_Verbal_Recall_Tasks_A_Review_and_Quantitative_Synthesis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/7062225_Distributed_Practice_in_Verbal_Recall_Tasks_A_Review_and_Quantitative_Synthesis</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Distributed Practice in Verbal Recall Tasks: A Review and...spacing and/or lag intervals sometimes failed to benefit retention...</p></details>
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/261773056_Retrieval_practice_over_the_long_term_Should_spacing_be_expanding_or_equal-interval" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/261773056_Retrieval_practice_over_the_long_term_Should_spacing_be_expanding_or_equal-interval</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>eficial for long-term retention than expanding intervals...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/261773056_Retrieval_practice_over_the_long_term_Should_spacing_be_expanding_or_equal-interval" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/261773056_Retrieval_practice_over_the_long_term_Should_spacing_be_expanding_or_equal-interval</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>eficial for long-term retention than expanding intervals...</p></details>
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/19076480/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/19076480/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Spacing effects in learning: a temporal ridgeline of optimal...by NJ Cepeda · 2008 · Cited by 1043 — In a study aimed at character...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/19076480/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/19076480/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spacing effects in learning: a temporal ridgeline of optimal...by NJ Cepeda · 2008 · Cited by 1043 — In a study aimed at character...</p></details>
 
 ### Additional References
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: tipsforteachers.co.uk  
-   Link:<a href="https://tipsforteachers.co.uk/research-optimal-spacing-schedule/" target="_blank" rel="noopener noreferrer nofollow">https://tipsforteachers.co.uk/research-optimal-spacing-schedule/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Research: Optimal spacing scheduleThis research paper investigates the spacing effect, which is the phenomenon where learning material ov...</p></details>
+   Link: <a href="https://tipsforteachers.co.uk/research-optimal-spacing-schedule/" target="_blank" rel="noopener noreferrer nofollow">https://tipsforteachers.co.uk/research-optimal-spacing-schedule/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Research: Optimal spacing scheduleThis research paper investigates the spacing effect, which is the phenomenon where learning material ov...</p></details>
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: academia.edu  
-   Link:<a href="https://www.academia.edu/21143528/Spacing_Effects_in_Learning_A_Temporal_Ridgeline_of_Optimal_Retention" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/21143528/Spacing_Effects_in_Learning_A_Temporal_Ridgeline_of_Optimal_Retention</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>rval: 1, 11, 21, and 21 days for RIs of 7, 35, 70, and 350 days respectively.Read more...</p></details>
+   Link: <a href="https://www.academia.edu/21143528/Spacing_Effects_in_Learning_A_Temporal_Ridgeline_of_Optimal_Retention" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/21143528/Spacing_Effects_in_Learning_A_Temporal_Ridgeline_of_Optimal_Retention</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>rval: 1, 11, 21, and 21 days for RIs of 7, 35, 70, and 350 days respectively.Read more...</p></details>
 
-12.<a id="endnote-12"></a>
+12. <a id="endnote-12"></a>
    Source: medium.com  
-   Link:<a href="https://medium.com/language-mind/the-spacing-effect-how-to-triple-your-language-learning-retention-d9c90cf4d3f4" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/language-mind/the-spacing-effect-how-to-triple-your-language-learning-retention-d9c90cf4d3f4</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>es of 80% or higher, even after several months, compared with 20–30...Read more...</p></details>
+   Link: <a href="https://medium.com/language-mind/the-spacing-effect-how-to-triple-your-language-learning-retention-d9c90cf4d3f4" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/language-mind/the-spacing-effect-how-to-triple-your-language-learning-retention-d9c90cf4d3f4</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>es of 80% or higher, even after several months, compared with 20–30...Read more...</p></details>
 
-13.<a id="endnote-13"></a>
+13. <a id="endnote-13"></a>
    Source: pdf.retrievalpractice.org  
    Title: Expanding retrieval practice promotes short-term retention, but.Read more  
-   Link:<a href="https://pdf.retrievalpractice.org/spacing/Carpenter_etal_2012_EDPR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pdf.retrievalpractice.org/spacing/Carpenter_etal_2012_EDPR.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>PDF Retrieval PracticeUsing Spacing to Enhance Diverse Forms of Learningby SK Carpenter · 2012 · Cited by 749 — Spacing effects in learni...</p></details>
+   Link: <a href="https://pdf.retrievalpractice.org/spacing/Carpenter_etal_2012_EDPR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pdf.retrievalpractice.org/spacing/Carpenter_etal_2012_EDPR.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>PDF Retrieval PracticeUsing Spacing to Enhance Diverse Forms of Learningby SK Carpenter · 2012 · Cited by 749 — Spacing effects in learni...</p></details>
 
-14.<a id="endnote-14"></a>
+14. <a id="endnote-14"></a>
    Source: journals.sagepub.com  
    Title: Sage Journals Spacing Effects in Learning  
-   Link:<a href="https://journals.sagepub.com/doi/abs/10.1111/j.1467-9280.2008.02209.x" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1111/j.1467-9280.2008.02209.x</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Cepeda, Edward...by NJ Cepeda · 2008 · Cited by 1047 — (1988). The spacing effect: A case study in the failure to apply the results of p...</p></details>
+   Link: <a href="https://journals.sagepub.com/doi/abs/10.1111/j.1467-9280.2008.02209.x" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1111/j.1467-9280.2008.02209.x</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cepeda, Edward...by NJ Cepeda · 2008 · Cited by 1047 — (1988). The spacing effect: A case study in the failure to apply the results of p...</p></details>
 
-15.<a id="endnote-15"></a>
+15. <a id="endnote-15"></a>
    Source: etheses.whiterose.ac.uk  
    Title: OLSSON 109031197 THESIS  
-   Link:<a href="https://etheses.whiterose.ac.uk/id/eprint/31875/1/OLSSON_109031197_THESIS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://etheses.whiterose.ac.uk/id/eprint/31875/1/OLSSON_109031197_THESIS.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>spacing retrieval practice lead to a benefit in word...by MA Olsson · 2022 · Cited by 1 — This thesis addresses these areas by examining...</p></details>
+   Link: <a href="https://etheses.whiterose.ac.uk/id/eprint/31875/1/OLSSON_109031197_THESIS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://etheses.whiterose.ac.uk/id/eprint/31875/1/OLSSON_109031197_THESIS.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>spacing retrieval practice lead to a benefit in word...by MA Olsson · 2022 · Cited by 1 — This thesis addresses these areas by examining...</p></details>
 
-16.<a id="endnote-16"></a>
+16. <a id="endnote-16"></a>
    Source: laplab.ucsd.edu  
    Title: cepeda exppsych 050808  
-   Link:<a href="https://laplab.ucsd.edu/articles/cepeda_exppsych_050808.pdf" target="_blank" rel="noopener noreferrer nofollow">https://laplab.ucsd.edu/articles/cepeda_exppsych_050808.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Optimizing Distributed Practiceby NJ Cepeda · 2009 · Cited by 511 — Murray (1983), based on Glenberg (1976, 1979), stated that &#x27;&#x27;sp...</p></details>
+   Link: <a href="https://laplab.ucsd.edu/articles/cepeda_exppsych_050808.pdf" target="_blank" rel="noopener noreferrer nofollow">https://laplab.ucsd.edu/articles/cepeda_exppsych_050808.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Optimizing Distributed Practiceby NJ Cepeda · 2009 · Cited by 511 — Murray (1983), based on Glenberg (1976, 1979), stated that &#x27;&#x27;sp...</p></details>
 
-17.<a id="endnote-17"></a>
+17. <a id="endnote-17"></a>
    Source: psychnet.wustl.edu  
    Title: Logan & Balota, 2008  
-   Link:<a href="https://psychnet.wustl.edu/coglab/publications/Logan%20%26%20Balota%2C%202008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://psychnet.wustl.edu/coglab/publications/Logan%20%26%20Balota%2C%202008.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Equal Interval Spaced Retrieval Practiceby JM LOGAN · 2008 · Cited by 160 — The present study was designed to help answer several questio...</p></details>
+   Link: <a href="https://psychnet.wustl.edu/coglab/publications/Logan%20%26%20Balota%2C%202008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://psychnet.wustl.edu/coglab/publications/Logan%20%26%20Balota%2C%202008.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Equal Interval Spaced Retrieval Practiceby JM LOGAN · 2008 · Cited by 160 — The present study was designed to help answer several questio...</p></details>
 
-18.<a id="endnote-18"></a>
+18. <a id="endnote-18"></a>
    Source: link.springer.com  
-   Link:<a href="https://link.springer.com/article/10.1007/s10648-022-09677-2" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10648-022-09677-2</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Spaced Retrieval Practice Imposes Desirable Difficulty in...by KB Lyle · 2022 · Cited by 32 — Students who engaged in spaced pra...</p></details>
+   Link: <a href="https://link.springer.com/article/10.1007/s10648-022-09677-2" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10648-022-09677-2</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spaced Retrieval Practice Imposes Desirable Difficulty in...by KB Lyle · 2022 · Cited by 32 — Students who engaged in spaced pra...</p></details>
 
-19.<a id="endnote-19"></a>
+19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: How to do free recall (AKA active recall)  
-   Link:<a href="https://www.youtube.com/watch?v=FatnXnlwAc4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FatnXnlwAc4</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Stop Cramming! The Spacing Effect That Boosts Memory...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=FatnXnlwAc4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FatnXnlwAc4</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stop Cramming! The Spacing Effect That Boosts Memory...</p></details>

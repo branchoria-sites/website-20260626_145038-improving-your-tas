@@ -280,7 +280,7 @@ image: /assets/images/improving_your_think_da4710_question_design_1265c2_testabl
 
 ## Introduction
 
-A useful question is not simply one that can be answered. It is one whose answer would change a real decision. That distinction separates productive investigation from endless information gathering. Many people begin with broad questions such as “Is this a good idea?” or “Does this method work?”, but these rarely specify what action depends on the answer, what evidence would count, or what outcome matters. As a result, almost any evidence can appear relevant, while conflicting evidence becomes difficult to interpret. Evidence-based practice consistently places careful question formulation before evidence searching because the quality of the question determines the quality of the decision that follows.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK603122/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIQuestion Formulation</span><span class="citation-popover-snippet">This chapter revolves around the three C&#x27;s of question formulation: Capture...Read more...</span></span></span>
+A useful question is not simply one that can be answered. It is one whose answer would change a real decision. That distinction separates productive investigation from endless information gathering. Many people begin with broad questions such as “Is this a good idea?” or “Does this method work?”, but these rarely specify what action depends on the answer, what evidence would count, or what outcome matters. As a result, almost any evidence can appear relevant, while conflicting evidence becomes difficult to interpret. Evidence-based practice consistently places careful question formulation before evidence searching because the quality of the question determines the quality of the decision that follows. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK603122/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIQuestion Formulation</span><span class="citation-popover-snippet">This chapter revolves around the three C&#x27;s of question formulation: Capture...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_question_design_1265c2_testable_decision_qu_2933aa-Illustration-1-dark.svg" | relative_url }}" alt="Testable Decisions illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_question_design_1265c2_testable_decision_qu_2933aa-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_question_design_1265c2_testable_decision_qu_2933aa-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -296,7 +296,7 @@ Curiosity questionDecision questionIs remote working better?Should our team rema
 
 The second column is not necessarily narrower because it is more technical. It is better because every answer has a consequence. If new evidence arrives, you know exactly what it might persuade you to do differently.
 
-Evidence-based practice frameworks formalise this idea by encouraging people to specify the population or situation, the intervention or option, the comparison, and the outcome before searching for evidence. This prevents a search from becoming an unfocused collection of interesting facts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://libguides.mssm.edu/ebm/ebp_pico" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: libguides.mssm.edu">[libguides.mssm.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">libguides.mssm.edu</span><span class="citation-popover-snippet">Open source on mssm.edu.</span></span></span>
+Evidence-based practice frameworks formalise this idea by encouraging people to specify the population or situation, the intervention or option, the comparison, and the outcome before searching for evidence. This prevents a search from becoming an unfocused collection of interesting facts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://libguides.mssm.edu/ebm/ebp_pico" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: libguides.mssm.edu">[libguides.mssm.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">libguides.mssm.edu</span><span class="citation-popover-snippet">Open source on mssm.edu.</span></span></span>
 
 ## How vague wording hides the real choice
 
@@ -333,7 +333,7 @@ Vague language often relies on words such as:
 
 These words only become meaningful once they are attached to measurable [outcomes]({{ 'outcomes/' | relative_url }}) or explicit [comparisons]({{ 'comparisons/' | relative_url }}).
 
-This is why guidance on structured questioning warns that broad, poorly framed questions waste time and produce unfocused searches, whereas specific questions generate more relevant evidence and clearer search strategies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ciap.health.nsw.gov.au/training/ebp-learning-modules/module2/formulating-a-question-using-pico.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsw.gov.au">[ciap.health.nsw.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsw.gov.au</span><span class="citation-popover-title">Formulating a question using PICOVague, broad, poorly framed questions will most likely result in lost time and an inability to locate us</span><span class="citation-popover-snippet">eful evidence</span></span></span>
+This is why guidance on structured questioning warns that broad, poorly framed questions waste time and produce unfocused searches, whereas specific questions generate more relevant evidence and clearer search strategies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ciap.health.nsw.gov.au/training/ebp-learning-modules/module2/formulating-a-question-using-pico.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsw.gov.au">[ciap.health.nsw.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsw.gov.au</span><span class="citation-popover-title">Formulating a question using PICOVague, broad, poorly framed questions will most likely result in lost time and an inability to locate us</span><span class="citation-popover-snippet">eful evidence</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/H3IwnZgfdFo" title="How To Ask Questions That Prompt Critical Thinking" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=H3IwnZgfdFo" target="_blank" rel="noopener noreferrer">How To Ask Questions That Prompt Critical Thinking</a></p><p class="youtube-embed-meta">Channel: Chad Littlefield</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=H3IwnZgfdFo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=H3IwnZgfdFo">Open on YouTube</a></p></div></div></div>
@@ -361,7 +361,7 @@ For example:
 
 These [thresholds]({{ 'thresholds/' | relative_url }}) make learning possible because success and failure are defined in advance rather than explained away afterwards.
 
-This approach echoes a broader principle from the philosophy of science: valuable hypotheses expose themselves to the possibility of being wrong by implying observations that would contradict them. Although everyday decisions are usually less formal than scientific theories, adopting the same habit encourages intellectual honesty and reduces motivated reasoning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Falsifiability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+This approach echoes a broader principle from the philosophy of science: valuable hypotheses expose themselves to the possibility of being wrong by implying observations that would contradict them. Although everyday decisions are usually less formal than scientific theories, adopting the same habit encourages intellectual honesty and reduces motivated reasoning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Falsifiability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_question_design_1265c2_testable_decision_qu_2933aa-Illustration-2-dark.svg" | relative_url }}" alt="Testable Decisions illustration 2" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_question_design_1265c2_testable_decision_qu_2933aa-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_question_design_1265c2_testable_decision_qu_2933aa-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -373,7 +373,7 @@ Most everyday questions can be strengthened through a short sequence of revision
 What action might actually change?
 2. **State the alternative.**
 Compared with doing what instead?
-3. **Choose the outcome.**<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ciap.health.nsw.gov.au/training/ebp-learning-modules/module2/formulating-a-question-using-[pico" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ciap.health.nsw.gov.au">[What result matters most?]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ciap.health.nsw.gov.au</span><span class="citation-popover-snippet">eful evidence...</span></span></span>
+3. **Choose the outcome.** <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ciap.health.nsw.gov.au/training/ebp-learning-modules/module2/formulating-a-question-using-[pico" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ciap.health.nsw.gov.au">[What result matters most?]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ciap.health.nsw.gov.au</span><span class="citation-popover-snippet">eful evidence...</span></span></span>
 4. **Set the timeframe.**
 When should success or failure be judged?
 5. **Define the threshold.**
@@ -455,194 +455,194 @@ It forces assumptions into the open rather than leaving them hidden inside ambig
 Perhaps most importantly, it creates a habit of intellectual flexibility. Instead of asking, "Can I find support for my view?", the better question becomes, "What observation would justify making a different choice?" That shift transforms [question design]({{ 'better-questions/' | relative_url }}) from a preliminary step into one of the most valuable analytical skills in its own right.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Is Your Question Actually a Decision?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Is Your Question Actually a Decision?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decisive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQmv39K-P54C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Decisive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decisive">Decisive</a>
-</h4>
-<p class="fr-book-author">By Chip Heath, Dan Heath</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Decisive+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decisive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQmv39K-P54C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Decisive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Decisive+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decisive">Decisive</a>
+        </h4>
+        <p class="fr-book-author">By Chip Heath, Dan Heath</p>
         
-<p class="fr-book-desc">Focuses on turning vague dilemmas into concrete decisions supported by evidence.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Focuses on turning vague dilemmas into concrete decisions supported by evidence.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Decisive+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Smart+Choices+by+John+S.+Hammond&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Smart Choices on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OlpkCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Smart Choices" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Smart+Choices+by+John+S.+Hammond&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Smart Choices">Smart Choices</a>
-</h4>
-<p class="fr-book-author">By John S. Hammond, Ralph L. Keeney et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Smart+Choices+John+S.+Hammond&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Smart Choices on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OlpkCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Smart Choices" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Smart+Choices+John+S.+Hammond&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Smart Choices">Smart Choices</a>
+        </h4>
+        <p class="fr-book-author">By John S. Hammond, Ralph L. Keeney et al.</p>
         
-<p class="fr-book-desc">Introduces practical frameworks for defining choices and evaluating alternatives.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Smart+Choices+by+John+S.+Hammond&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Introduces practical frameworks for defining choices and evaluating alternatives.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Smart+Choices+John+S.+Hammond&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-</h4>
-<p class="fr-book-author">By Daniel Kahneman</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Super+Thinking+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Super Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fi6qvAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Super Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Super+Thinking+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Super Thinking">Super Thinking</a>
+        </h4>
+        <p class="fr-book-author">By Gabriel Weinberg, Lauren McCann</p>
         
-<p class="fr-book-desc">Explains how framing and cognitive biases affect choices and judgments.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Encourages using structured mental models to clarify decisions and evidence.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Super+Thinking+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Super+Thinking+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Super Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fi6qvAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Super Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Super+Thinking+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Super Thinking">Super Thinking</a>
-</h4>
-<p class="fr-book-author">By Gabriel Weinberg, Lauren McCann</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+Beautiful+Questions+Warren+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of Beautiful Questions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eOxlDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Book of Beautiful Questions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Book+of+Beautiful+Questions+Warren+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Beautiful Questions">The Book of Beautiful Questions</a>
+        </h4>
+        <p class="fr-book-author">By Warren Berger</p>
         
-<p class="fr-book-desc">Encourages using structured mental models to clarify decisions and evidence.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Super+Thinking+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Shows how refining questions leads to better decisions and more productive inquiry.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Book+of+Beautiful+Questions+Warren+Berger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Decisive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Decisive</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Smart+Choices&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Smart Choices</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Decisive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Decisive</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Smart+Choices&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Smart Choices</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Super+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Super Thinking</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-question-actually-a-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="is-your-question-actually-a-decision-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Shifting Stones Family Strategy Game - Visual Decision-Making with Tiles &amp; Cards"><img src="https://i.ebayimg.com/images/g/K7YAAeSwslJqISSu/s-l225.jpg" alt="Listing image for Shifting Stones Family Strategy Game - Visual Decision-Making with Tiles &amp; Cards" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-question-actually-a-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="is-your-question-actually-a-decision-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer">Shifting Stones Family Strategy Game - Visual Decision-Making with Tiles &amp; Cards</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-question-actually-a-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="is-your-question-actually-a-decision-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision making cards">Search<span data-ebay-domain-label>eBay.co.uk</span>: decision making cards</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-question-actually-a-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="is-your-question-actually-a-decision-decision-making-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-question-actually-a-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="is-your-question-actually-a-decision-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Shifting Stones Family Strategy Game - Visual Decision-Making with Tiles &amp; Cards"><img src="https://i.ebayimg.com/images/g/K7YAAeSwslJqISSu/s-l225.jpg" alt="Listing image for Shifting Stones Family Strategy Game - Visual Decision-Making with Tiles &amp; Cards" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-question-actually-a-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="is-your-question-actually-a-decision-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer">Shifting Stones Family Strategy Game - Visual Decision-Making with Tiles &amp; Cards</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-question-actually-a-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="is-your-question-actually-a-decision-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision making cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: decision making cards</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-question-actually-a-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="is-your-question-actually-a-decision-decision-making-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-question-actually-a-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="is-your-question-actually-a-decision-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2024-25 DECISION VENEZUELA EDMUNDO GONZALEZ 4/5 PINK FOIL TRUMP DEPOSES MADURO!"><img src="https://i.ebayimg.com/images/g/sQsAAeSwYkxpZWid/s-l225.jpg" alt="Listing image for 2024-25 DECISION VENEZUELA EDMUNDO GONZALEZ 4/5 PINK FOIL TRUMP DEPOSES MADURO!" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-question-actually-a-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="is-your-question-actually-a-decision-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer">2024-25 DECISION VENEZUELA EDMUNDO GONZALEZ 4/5 PINK FOIL TRUMP DEPOSES MADURO!</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-question-actually-a-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="is-your-question-actually-a-decision-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision making cards">Search<span data-ebay-domain-label>eBay.co.uk</span>: decision making cards</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-question-actually-a-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="is-your-question-actually-a-decision-decision-making-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-question-actually-a-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="is-your-question-actually-a-decision-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2024-25 DECISION VENEZUELA EDMUNDO GONZALEZ 4/5 PINK FOIL TRUMP DEPOSES MADURO!"><img src="https://i.ebayimg.com/images/g/sQsAAeSwYkxpZWid/s-l225.jpg" alt="Listing image for 2024-25 DECISION VENEZUELA EDMUNDO GONZALEZ 4/5 PINK FOIL TRUMP DEPOSES MADURO!" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-question-actually-a-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="is-your-question-actually-a-decision-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer">2024-25 DECISION VENEZUELA EDMUNDO GONZALEZ 4/5 PINK FOIL TRUMP DEPOSES MADURO!</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-question-actually-a-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="is-your-question-actually-a-decision-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision making cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: decision making cards</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-question-actually-a-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="is-your-question-actually-a-decision-decision-making-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-question-actually-a-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="is-your-question-actually-a-decision-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pocket Cards Comprehensive Resource Decision Making Diagnostic Efficiency"><img src="https://i.ebayimg.com/images/g/JyEAAeSwcSxqGpeH/s-l225.jpg" alt="Listing image for Pocket Cards Comprehensive Resource Decision Making Diagnostic Efficiency" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-question-actually-a-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="is-your-question-actually-a-decision-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer">Pocket Cards Comprehensive Resource Decision Making Diagnostic Efficiency</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-question-actually-a-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="is-your-question-actually-a-decision-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision making cards">Search<span data-ebay-domain-label>eBay.co.uk</span>: decision making cards</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-question-actually-a-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="is-your-question-actually-a-decision-decision-making-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-question-actually-a-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="is-your-question-actually-a-decision-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pocket Cards Comprehensive Resource Decision Making Diagnostic Efficiency"><img src="https://i.ebayimg.com/images/g/JyEAAeSwcSxqGpeH/s-l225.jpg" alt="Listing image for Pocket Cards Comprehensive Resource Decision Making Diagnostic Efficiency" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-question-actually-a-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="is-your-question-actually-a-decision-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer">Pocket Cards Comprehensive Resource Decision Making Diagnostic Efficiency</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-question-actually-a-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="is-your-question-actually-a-decision-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision making cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: decision making cards</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-question-actually-a-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="is-your-question-actually-a-decision-decision-making-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-question-actually-a-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="is-your-question-actually-a-decision-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Yes/No Board and Flash Cards for Decision Making"><img src="https://i.ebayimg.com/images/g/rg8AAeSwew1osUb-/s-l225.jpg" alt="Listing image for Yes/No Board and Flash Cards for Decision Making" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-question-actually-a-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="is-your-question-actually-a-decision-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer">Yes/No Board and Flash Cards for Decision Making</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-question-actually-a-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="is-your-question-actually-a-decision-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision making cards">Search<span data-ebay-domain-label>eBay.co.uk</span>: decision making cards</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-question-actually-a-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="is-your-question-actually-a-decision-decision-making-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-question-actually-a-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="is-your-question-actually-a-decision-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-question-actually-a-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="is-your-question-actually-a-decision-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Yes/No Board and Flash Cards for Decision Making"><img src="https://i.ebayimg.com/images/g/rg8AAeSwew1osUb-/s-l225.jpg" alt="Listing image for Yes/No Board and Flash Cards for Decision Making" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-question-actually-a-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="is-your-question-actually-a-decision-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer">Yes/No Board and Flash Cards for Decision Making</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-question-actually-a-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="is-your-question-actually-a-decision-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision making cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: decision making cards</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-question-actually-a-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="is-your-question-actually-a-decision-decision-making-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-your-question-actually-a-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="is-your-question-actually-a-decision-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -658,7 +658,7 @@ Perhaps most importantly, it creates a habit of intellectual flexibility. Instea
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -678,7 +678,7 @@ Perhaps most importantly, it creates a habit of intellectual flexibility. Instea
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -710,7 +710,7 @@ Perhaps most importantly, it creates a habit of intellectual flexibility. Instea
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -762,7 +762,7 @@ Perhaps most importantly, it creates a habit of intellectual flexibility. Instea
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -807,7 +807,7 @@ Perhaps most importantly, it creates a habit of intellectual flexibility. Instea
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -847,83 +847,83 @@ Perhaps most importantly, it creates a habit of intellectual flexibility. Instea
 </section>
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIQuestion Formulation  
-   Link:<a href="https://www.ncbi.nlm.nih.gov/books/NBK603122/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK603122/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>This chapter revolves around the three C&#x27;s of question formulation: Capture...Read more...</p></details>
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK603122/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK603122/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>This chapter revolves around the three C&#x27;s of question formulation: Capture...Read more...</p></details>
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: ciap.health.nsw.gov.au  
-   Link:<a href="https://www.ciap.health.nsw.gov.au/training/ebp-learning-modules/module2/formulating-a-question-using-[pico" target="_blank" rel="noopener noreferrer nofollow">https://www.ciap.health.nsw.gov.au/training/ebp-learning-modules/module2/formulating-a-question-using-[pico</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>eful evidence...</p></details>
+   Link: <a href="https://www.ciap.health.nsw.gov.au/training/ebp-learning-modules/module2/formulating-a-question-using-[pico" target="_blank" rel="noopener noreferrer nofollow">https://www.ciap.health.nsw.gov.au/training/ebp-learning-modules/module2/formulating-a-question-using-[pico</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>eful evidence...</p></details>
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: libguides.mssm.edu  
-   Link:<a href="https://libguides.mssm.edu/ebm/ebp_pico" target="_blank" rel="noopener noreferrer nofollow">https://libguides.mssm.edu/ebm/ebp_pico</a>  
+   Link: <a href="https://libguides.mssm.edu/ebm/ebp_pico" target="_blank" rel="noopener noreferrer nofollow">https://libguides.mssm.edu/ebm/ebp_pico</a>  
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: Wikipedia  
-   Link:<a href="https://en.wikipedia.org/wiki/Falsifiability" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Falsifiability</a>  
+   Link: <a href="https://en.wikipedia.org/wiki/Falsifiability" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Falsifiability</a>  
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: unimelb.libguides.com  
    Title: Frame Your Question  
-   Link:<a href="https://unimelb.libguides.com/EvidenceBasedPractice/FrameYourQuestion" target="_blank" rel="noopener noreferrer nofollow">https://unimelb.libguides.com/EvidenceBasedPractice/FrameYourQuestion</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>libguides.comEvidence-based practice: Frame an answerable question13 May 2026 — These questions are typically structured using the PICO f...</p></details>
+   Link: <a href="https://unimelb.libguides.com/EvidenceBasedPractice/FrameYourQuestion" target="_blank" rel="noopener noreferrer nofollow">https://unimelb.libguides.com/EvidenceBasedPractice/FrameYourQuestion</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>libguides.comEvidence-based practice: Frame an answerable question13 May 2026 — These questions are typically structured using the PICO f...</p></details>
    Published: May 2026  
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: youtube.com  
-   Link:<a href="https://www.youtube.com/watch?v=uhB8YMBTWhk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uhB8YMBTWhk</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;4 Ask people for opinions, not facts.[https://www.youtube.com/watch?v=cafztS23hg4...&quot;](https://www.youtube.com/watch?v=cafztS23hg4...&quot;)...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=uhB8YMBTWhk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uhB8YMBTWhk</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;4 Ask people for opinions, not facts.[https://www.youtube.com/watch?v=cafztS23hg4...&quot;](https://www.youtube.com/watch?v=cafztS23hg4...&quot;)...</p></details>
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3140151/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3140151/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>by S Aslam · 2010 · Cited by 575 — This article will assist researchers by providing step-by-step guidance on the formulation of a res...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3140151/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3140151/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by S Aslam · 2010 · Cited by 575 — This article will assist researchers by providing step-by-step guidance on the formulation of a res...</p></details>
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: guides.mclibrary.duke.edu  
-   Link:<a href="https://guides.mclibrary.duke.edu/ebm/pico" target="_blank" rel="noopener noreferrer nofollow">https://guides.mclibrary.duke.edu/ebm/pico</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>It is a mnemonic for the important parts of a well-built clinical question. It also helps formulate the search strategy.Read more...</p></details>
+   Link: <a href="https://guides.mclibrary.duke.edu/ebm/pico" target="_blank" rel="noopener noreferrer nofollow">https://guides.mclibrary.duke.edu/ebm/pico</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>It is a mnemonic for the important parts of a well-built clinical question. It also helps formulate the search strategy.Read more...</p></details>
 
 ### Additional References
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: tees.ac.uk  
-   Link:<a href="https://tees.ac.uk/lis/learninghub/cinahl/pico.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tees.ac.uk/lis/learninghub/cinahl/pico.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>side UniversityDeveloping Your Search Question using PICO/PIO/PEOFor Evidence Based Practice (EBP) searches, you will often be expect...</p></details>
+   Link: <a href="https://tees.ac.uk/lis/learninghub/cinahl/pico.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tees.ac.uk/lis/learninghub/cinahl/pico.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>side UniversityDeveloping Your Search Question using PICO/PIO/PEOFor Evidence Based Practice (EBP) searches, you will often be expect...</p></details>
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: covidence.org  
-   Link:<a href="https://www.covidence.org/blog/how-to-formulate-the-review-question/" target="_blank" rel="noopener noreferrer nofollow">https://www.covidence.org/blog/how-to-formulate-the-review-question/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>stematic review of intervention...</p></details>
+   Link: <a href="https://www.covidence.org/blog/how-to-formulate-the-review-question/" target="_blank" rel="noopener noreferrer nofollow">https://www.covidence.org/blog/how-to-formulate-the-review-question/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>stematic review of intervention...</p></details>
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: libguides.exeter.ac.uk  
-   Link:<a href="https://libguides.exeter.ac.uk/c.php?g=666944&amp;p=4728848" target="_blank" rel="noopener noreferrer nofollow">https://libguides.exeter.ac.uk/c.php?g=666944&amp;p=4728848</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Formulating answerable questions - Finding and using...15 May 2026 — PICO helps to break down a clinical scenario and turn it into an an...</p></details>
+   Link: <a href="https://libguides.exeter.ac.uk/c.php?g=666944&amp;p=4728848" target="_blank" rel="noopener noreferrer nofollow">https://libguides.exeter.ac.uk/c.php?g=666944&amp;p=4728848</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Formulating answerable questions - Finding and using...15 May 2026 — PICO helps to break down a clinical scenario and turn it into an an...</p></details>
    Published: May 2026  
 
-12.<a id="endnote-12"></a>
+12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: Evidence-Based Practice, Step 1: Asking the Clinical Question  
-   Link:<a href="https://www.youtube.com/watch?v=PJhnN7sjPBg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PJhnN7sjPBg</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>3 EBP - Creating an Answerable Clinical Question...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=PJhnN7sjPBg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PJhnN7sjPBg</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 EBP - Creating an Answerable Clinical Question...</p></details>
 
-13.<a id="endnote-13"></a>
+13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: How To Ask Questions That Prompt [Critical Thinking](&#123;&#123; 'critical-skills/' | relative_url &#125;&#125;)  
-   Link:<a href="https://www.youtube.com/watch?v=H3IwnZgfdFo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H3IwnZgfdFo</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>2 Evidence-Based Practice, Step 1: Asking the Clinical Question...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=H3IwnZgfdFo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H3IwnZgfdFo</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Evidence-Based Practice, Step 1: Asking the Clinical Question...</p></details>
 
-14.<a id="endnote-14"></a>
+14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: The Art of Asking Better Questions | Dave Rogers | TEDx Wolverhampton  
-   Link:<a href="https://www.youtube.com/watch?v=6qNLPyqWoOU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6qNLPyqWoOU</a>  
+   Link: <a href="https://www.youtube.com/watch?v=6qNLPyqWoOU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6qNLPyqWoOU</a>  
 
-15.<a id="endnote-15"></a>
+15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link:<a href="https://www.youtube.com/watch?v=cafztS23hg4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cafztS23hg4</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>5 The Art of Asking Better Questions | Dave Rogers | TEDxWolverhampton...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=cafztS23hg4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cafztS23hg4</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 The Art of Asking Better Questions | Dave Rogers | TEDxWolverhampton...</p></details>

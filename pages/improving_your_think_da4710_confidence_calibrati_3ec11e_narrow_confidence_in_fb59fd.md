@@ -280,7 +280,7 @@ image: /assets/images/improving_your_think_da4710_confidence_calibrati_3ec11e_na
 
 ## Introduction
 
-A confidence interval is meant to express [uncertainty]({{ 'uncertainty/' | relative_url }}), not just a best guess. If you say you are 90% confident that the answer lies between two values, then, over many similar judgements, the true answer should fall inside that range about nine times out of ten. When those supposedly safe ranges miss the truth much more often than expected, the intervals are too narrow. This is one of the clearest signs of **overprecision**: being excessively certain about the limits of what you know rather than necessarily being wrong about the central estimate itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5386407/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCA simple remedy for overprecision in judgment</span><span class="citation-popover-snippet">NIHby U Haran · 2010 · Cited by 185 — Overprecision is typically measured by eliciting a confidence interval — a range of values th...</span></span></span>
+A confidence interval is meant to express [uncertainty]({{ 'uncertainty/' | relative_url }}), not just a best guess. If you say you are 90% confident that the answer lies between two values, then, over many similar judgements, the true answer should fall inside that range about nine times out of ten. When those supposedly safe ranges miss the truth much more often than expected, the intervals are too narrow. This is one of the clearest signs of **overprecision**: being excessively certain about the limits of what you know rather than necessarily being wrong about the central estimate itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5386407/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCA simple remedy for overprecision in judgment</span><span class="citation-popover-snippet">NIHby U Haran · 2010 · Cited by 185 — Overprecision is typically measured by eliciting a confidence interval — a range of values th...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_confidence_calibrati_3ec11e_narrow_confidence_in_fb59fd-Illustration-1-dark.svg" | relative_url }}" alt="Narrow Ranges illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_confidence_calibrati_3ec11e_narrow_confidence_in_fb59fd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_confidence_calibrati_3ec11e_narrow_confidence_in_fb59fd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -295,7 +295,7 @@ An interval estimate combines two ideas:
 
 Suppose you estimate that a project's cost will be £95,000. The point estimate is £95,000. A 90% interval might be £85,000 to £110,000. The important claim is not that every value inside the range is equally likely. Instead, the claim is that your process for producing such intervals should capture the truth roughly 90% of the time.
 
-This is known as **coverage**. If you later examine one hundred comparable estimates labelled "90% confidence", approximately ninety should contain the true value. If only sixty do, your intervals are substantially too narrow, regardless of how reasonable your central estimates appeared.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5386407/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCA simple remedy for overprecision in judgment</span><span class="citation-popover-snippet">NIHby U Haran · 2010 · Cited by 185 — Overprecision is typically measured by eliciting a confidence interval — a range of values th...</span></span></span>
+This is known as **coverage**. If you later examine one hundred comparable estimates labelled "90% confidence", approximately ninety should contain the true value. If only sixty do, your intervals are substantially too narrow, regardless of how reasonable your central estimates appeared. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5386407/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCA simple remedy for overprecision in judgment</span><span class="citation-popover-snippet">NIHby U Haran · 2010 · Cited by 185 — Overprecision is typically measured by eliciting a confidence interval — a range of values th...</span></span></span>
 
 ## How narrow ranges reveal overprecision
 
@@ -310,7 +310,7 @@ If actual sales are £10.6 million, both analysts missed with their point estima
 
 This matters because decision-makers often act on the apparent certainty of an estimate rather than its exact value. A narrow range suggests that contingency plans are unnecessary, while a wider but well-calibrated range communicates that important surprises remain possible.
 
-Classic studies beginning with Alpert and Raiffa found that when people were asked for 90% confidence intervals on general knowledge questions, their intervals commonly captured the correct answer only around 30–60% of the time. The phenomenon has been replicated repeatedly across occupations, cultures and levels of expertise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://learnmoore.org/mooredata/HOC.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learnmoore.org">[learnmoore.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learnmoore.org</span><span class="citation-popover-snippet">and you will get hit rates between 30% and 60%, suggesting they have drawn...Read more...</span></span></span>
+Classic studies beginning with Alpert and Raiffa found that when people were asked for 90% confidence intervals on general knowledge questions, their intervals commonly captured the correct answer only around 30–60% of the time. The phenomenon has been replicated repeatedly across occupations, cultures and levels of expertise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://learnmoore.org/mooredata/HOC.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learnmoore.org">[learnmoore.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learnmoore.org</span><span class="citation-popover-snippet">and you will get hit rates between 30% and 60%, suggesting they have drawn...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9M_QK4stCJU" title="Why People Are So Confident When They&#x27;re Wrong" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9M_QK4stCJU" target="_blank" rel="noopener noreferrer">Why People Are So Confident When They&#x27;re Wrong</a></p><p class="youtube-embed-meta">Channel: Veritasium</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9M_QK4stCJU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9M_QK4stCJU">Open on YouTube</a></p></div></div></div>
@@ -327,7 +327,7 @@ Several psychological [mechanisms]({{ 'mechanisms/' | relative_url }}) push inte
 
 **Preference for precision.** Precise answers appear more competent and useful than vague ones. As a result, people often produce intervals that communicate confidence rather than honestly representing uncertainty.
 
-Research has also shown that many respondents appear not to interpret "90% confidence interval" literally. They often provide intervals much narrower than genuine 90% beliefs would require, suggesting that they balance informativeness against accuracy rather than reporting their true uncertainty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5386407/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Semantic Scholar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCA simple remedy for overprecision in judgment</span><span class="citation-popover-snippet">NIHby U Haran · 2010 · Cited by 185 — Overprecision is typically measured by eliciting a confidence interval — a range of values th...</span></span></span>
+Research has also shown that many respondents appear not to interpret "90% confidence interval" literally. They often provide intervals much narrower than genuine 90% beliefs would require, suggesting that they balance informativeness against accuracy rather than reporting their true uncertainty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5386407/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Semantic Scholar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCA simple remedy for overprecision in judgment</span><span class="citation-popover-snippet">NIHby U Haran · 2010 · Cited by 185 — Overprecision is typically measured by eliciting a confidence interval — a range of values th...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_confidence_calibrati_3ec11e_narrow_confidence_in_fb59fd-Illustration-2-dark.svg" | relative_url }}" alt="Narrow Ranges illustration 2" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_confidence_calibrati_3ec11e_narrow_confidence_in_fb59fd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_confidence_calibrati_3ec11e_narrow_confidence_in_fb59fd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -351,7 +351,7 @@ That is not simply bad luck. It indicates that the uncertainty estimates are sys
 
 The same principle applies in business forecasting, project planning, scientific prediction and everyday judgement. Whenever "high-confidence" estimates fail far more often than their stated confidence implies, the problem is usually not just poor prediction but poor calibration.
 
-Professional forecasting surveys exhibit similar behaviour. Even trained forecasters often produce prediction intervals whose observed coverage falls well below their stated confidence levels, illustrating that expertise alone does not eliminate overprecision.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://online.ucpress.edu/collabra/article/10/1/92953/200113/Overprecision-in-the-Survey-of-Professional" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: online.ucpress.edu">[University of California Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">online.ucpress.edu</span><span class="citation-popover-title">Overprecision in the Survey of Professional</span><span class="citation-popover-snippet">Inside 90% confidence intervals, the hit rate is 66.41%.Read more...</span></span></span>
+Professional forecasting surveys exhibit similar behaviour. Even trained forecasters often produce prediction intervals whose observed coverage falls well below their stated confidence levels, illustrating that expertise alone does not eliminate overprecision. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://online.ucpress.edu/collabra/article/10/1/92953/200113/Overprecision-in-the-Survey-of-Professional" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: online.ucpress.edu">[University of California Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">online.ucpress.edu</span><span class="citation-popover-title">Overprecision in the Survey of Professional</span><span class="citation-popover-snippet">Inside 90% confidence intervals, the hit rate is 66.41%.Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FQAcHqgMKMI" title="How to (and how not to) Interpret Confidence Intervals" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FQAcHqgMKMI" target="_blank" rel="noopener noreferrer">How to (and how not to) Interpret Confidence Intervals</a></p><p class="youtube-embed-meta">Channel: Dr. Dylan Spicker</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FQAcHqgMKMI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FQAcHqgMKMI">Open on YouTube</a></p></div></div></div>
@@ -375,7 +375,7 @@ This reduces the influence of the initial point estimate.
 
 **Use outside information.** Before relying on detailed knowledge of the current case, examine what similar situations have historically produced. [Base rates]({{ 'base-rates/' | relative_url }}) often reveal wider uncertainty than intuition alone suggests.
 
-**Practise with feedback.** Calibration improves when people repeatedly make interval estimates, receive objective outcomes and adjust future ranges accordingly. Simply making more predictions without feedback produces much less improvement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5386407/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCA simple remedy for overprecision in judgment</span><span class="citation-popover-snippet">NIHby U Haran · 2010 · Cited by 185 — Overprecision is typically measured by eliciting a confidence interval — a range of values th...</span></span></span>
+**Practise with feedback.** Calibration improves when people repeatedly make interval estimates, receive objective outcomes and adjust future ranges accordingly. Simply making more predictions without feedback produces much less improvement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5386407/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCA simple remedy for overprecision in judgment</span><span class="citation-popover-snippet">NIHby U Haran · 2010 · Cited by 185 — Overprecision is typically measured by eliciting a confidence interval — a range of values th...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_confidence_calibrati_3ec11e_narrow_confidence_in_fb59fd-Illustration-3-dark.svg" | relative_url }}" alt="Narrow Ranges illustration 3" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_confidence_calibrati_3ec11e_narrow_confidence_in_fb59fd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_confidence_calibrati_3ec11e_narrow_confidence_in_fb59fd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -397,194 +397,194 @@ Recognising intervals that are too narrow therefore strengthens analytical think
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Your Safe Range May Be Too Tight. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Your Safe Range May Be Too Tight. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=45OmCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
-</h4>
-<p class="fr-book-author">By Philip Tetlock, Dan Gardner</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=45OmCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Superforecasting+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
+        </h4>
+        <p class="fr-book-author">By Philip Tetlock, Dan Gardner</p>
         
-<p class="fr-book-desc">Addresses overconfidence and interval estimation habits.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Addresses overconfidence and interval estimation habits.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Superforecasting+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-</h4>
-<p class="fr-book-author">By Daniel Kahneman</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+        </h4>
+        <p class="fr-book-author">By Daniel Kahneman</p>
         
-<p class="fr-book-desc">Explains overconfidence and judgment errors.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains overconfidence and judgment errors.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Measure Anything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CBAh4eM-g3AC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Measure Anything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Measure Anything">How to Measure Anything</a>
-</h4>
-<p class="fr-book-author">By Douglas W. Hubbard</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Measure+Anything+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Measure Anything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CBAh4eM-g3AC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Measure Anything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=How+to+Measure+Anything+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Measure Anything">How to Measure Anything</a>
+        </h4>
+        <p class="fr-book-author">By Douglas W. Hubbard</p>
         
-<p class="fr-book-desc">Demonstrates estimating ranges and uncertainty.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Demonstrates estimating ranges and uncertainty.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=How+to+Measure+Anything+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CiZeDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Art of Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Statistics">The Art of Statistics</a>
-</h4>
-<p class="fr-book-author">By David Spiegelhalter</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+        </h4>
+        <p class="fr-book-author">By Nate Silver</p>
         
-<p class="fr-book-desc">Explains uncertainty intervals in plain language.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Covers uncertainty and probabilistic estimation.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Measure+Anything&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Measure Anything</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Measure+Anything&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Measure Anything</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=too+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="too poster -book -books -dvd" data-ebay-reference="narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original 1980 &quot;The Selecter&quot; Too Much Pressure 2 Tone Records Poster."><img src="{{ '/assets/images/marketplace-covers/d85f1e4dd56cc74dc5af.jpg' | relative_url }}" alt="Listing image for Original 1980 &quot;The Selecter&quot; Too Much Pressure 2 Tone Records Poster." loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=too+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="too poster -book -books -dvd" data-ebay-reference="narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Original 1980 &quot;The Selecter&quot; Too Much Pressure 2 Tone Records Poster.</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=too+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="too poster -book -books -dvd" data-ebay-reference="narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for too poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: too poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=too+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="too poster -book -books -dvd" data-ebay-reference="narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=too+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="too poster -book -books -dvd" data-ebay-reference="narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original 1980 &quot;The Selecter&quot; Too Much Pressure 2 Tone Records Poster."><img src="{{ '/assets/images/marketplace-covers/d85f1e4dd56cc74dc5af.jpg' | relative_url }}" alt="Listing image for Original 1980 &quot;The Selecter&quot; Too Much Pressure 2 Tone Records Poster." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=too+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="too poster -book -books -dvd" data-ebay-reference="narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Original 1980 &quot;The Selecter&quot; Too Much Pressure 2 Tone Records Poster.</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=too+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="too poster -book -books -dvd" data-ebay-reference="narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for too poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: too poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=too+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="too poster -book -books -dvd" data-ebay-reference="narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=too+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="too poster -book -books -dvd" data-ebay-reference="narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rita, Sue and Bob Too 1987 Movie Poster Print Wall Art Cult Comedy British Film"><img src="{{ '/assets/images/marketplace-covers/2c903738887f6afcc977.jpg' | relative_url }}" alt="Listing image for Rita, Sue and Bob Too 1987 Movie Poster Print Wall Art Cult Comedy British Film" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=too+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="too poster -book -books -dvd" data-ebay-reference="narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Rita, Sue and Bob Too 1987 Movie Poster Print Wall Art Cult Comedy British Film</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=too+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="too poster -book -books -dvd" data-ebay-reference="narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for too poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: too poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=too+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="too poster -book -books -dvd" data-ebay-reference="narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=too+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="too poster -book -books -dvd" data-ebay-reference="narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rita, Sue and Bob Too 1987 Movie Poster Print Wall Art Cult Comedy British Film"><img src="{{ '/assets/images/marketplace-covers/2c903738887f6afcc977.jpg' | relative_url }}" alt="Listing image for Rita, Sue and Bob Too 1987 Movie Poster Print Wall Art Cult Comedy British Film" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=too+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="too poster -book -books -dvd" data-ebay-reference="narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Rita, Sue and Bob Too 1987 Movie Poster Print Wall Art Cult Comedy British Film</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=too+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="too poster -book -books -dvd" data-ebay-reference="narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for too poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: too poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=too+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="too poster -book -books -dvd" data-ebay-reference="narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=too+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="too poster -book -books -dvd" data-ebay-reference="narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Public Enemy Too Short 1989Tour Concert Photo / Poster Up To 36&quot;"><img src="{{ '/assets/images/marketplace-covers/5f95e8faf26abcfb4b4e.jpg' | relative_url }}" alt="Listing image for Public Enemy Too Short 1989Tour Concert Photo / Poster Up To 36&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=too+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="too poster -book -books -dvd" data-ebay-reference="narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Public Enemy Too Short 1989Tour Concert Photo / Poster Up To 36&quot;</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=too+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="too poster -book -books -dvd" data-ebay-reference="narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for too poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: too poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=too+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="too poster -book -books -dvd" data-ebay-reference="narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=too+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="too poster -book -books -dvd" data-ebay-reference="narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Public Enemy Too Short 1989Tour Concert Photo / Poster Up To 36&quot;"><img src="{{ '/assets/images/marketplace-covers/5f95e8faf26abcfb4b4e.jpg' | relative_url }}" alt="Listing image for Public Enemy Too Short 1989Tour Concert Photo / Poster Up To 36&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=too+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="too poster -book -books -dvd" data-ebay-reference="narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Public Enemy Too Short 1989Tour Concert Photo / Poster Up To 36&quot;</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=too+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="too poster -book -books -dvd" data-ebay-reference="narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for too poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: too poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=too+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="too poster -book -books -dvd" data-ebay-reference="narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=too+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="too poster -book -books -dvd" data-ebay-reference="narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &quot;Too Glam To Give a..&quot; Wall Art Poster | Glam Up Your Space Available in A3 &amp; A4"><img src="{{ '/assets/images/marketplace-covers/31c6697455c00a5c367b.jpg' | relative_url }}" alt="Listing image for &quot;Too Glam To Give a..&quot; Wall Art Poster | Glam Up Your Space Available in A3 &amp; A4" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=too+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="too poster -book -books -dvd" data-ebay-reference="narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">&quot;Too Glam To Give a..&quot; Wall Art Poster | Glam Up Your Space Available in A3 &amp; A4</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=too+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="too poster -book -books -dvd" data-ebay-reference="narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for too poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: too poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=too+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="too poster -book -books -dvd" data-ebay-reference="narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=too+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="too poster -book -books -dvd" data-ebay-reference="narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=too+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="too poster -book -books -dvd" data-ebay-reference="narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &quot;Too Glam To Give a..&quot; Wall Art Poster | Glam Up Your Space Available in A3 &amp; A4"><img src="{{ '/assets/images/marketplace-covers/31c6697455c00a5c367b.jpg' | relative_url }}" alt="Listing image for &quot;Too Glam To Give a..&quot; Wall Art Poster | Glam Up Your Space Available in A3 &amp; A4" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=too+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="too poster -book -books -dvd" data-ebay-reference="narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">&quot;Too Glam To Give a..&quot; Wall Art Poster | Glam Up Your Space Available in A3 &amp; A4</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=too+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="too poster -book -books -dvd" data-ebay-reference="narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for too poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: too poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=too+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="too poster -book -books -dvd" data-ebay-reference="narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=too+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="too poster -book -books -dvd" data-ebay-reference="narrow-ranges-why-your-safe-range-may-be-too-tight-improving-your-think-too-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -600,7 +600,7 @@ Recognising intervals that are too narrow therefore strengthens analytical think
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -620,7 +620,7 @@ Recognising intervals that are too narrow therefore strengthens analytical think
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -652,7 +652,7 @@ Recognising intervals that are too narrow therefore strengthens analytical think
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -704,7 +704,7 @@ Recognising intervals that are too narrow therefore strengthens analytical think
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -749,7 +749,7 @@ Recognising intervals that are too narrow therefore strengthens analytical think
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -790,83 +790,83 @@ Recognising intervals that are too narrow therefore strengthens analytical think
 
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCA simple remedy for overprecision in judgment  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5386407/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5386407/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby U Haran · 2010 · Cited by 185 — Overprecision is typically measured by eliciting a confidence interval — a range of values th...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5386407/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5386407/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby U Haran · 2010 · Cited by 185 — Overprecision is typically measured by eliciting a confidence interval — a range of values th...</p></details>
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: learnmoore.org  
-   Link:<a href="https://learnmoore.org/mooredata/HOC.pdf" target="_blank" rel="noopener noreferrer nofollow">https://learnmoore.org/mooredata/HOC.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>and you will get hit rates between 30% and 60%, suggesting they have drawn...Read more...</p></details>
+   Link: <a href="https://learnmoore.org/mooredata/HOC.pdf" target="_blank" rel="noopener noreferrer nofollow">https://learnmoore.org/mooredata/HOC.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>and you will get hit rates between 30% and 60%, suggesting they have drawn...Read more...</p></details>
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: semanticscholar.org  
-   Link:<a href="https://www.semanticscholar.org/paper/Overconfidence-in-interval-estimates.-Soll-Klayman/991dbb96824914065de380d6c7e5d589532fde9e" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Overconfidence-in-interval-estimates.-Soll-Klayman/991dbb96824914065de380d6c7e5d589532fde9e</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>We report five experiments showing that people have much less confidence...Read more...</p></details>
+   Link: <a href="https://www.semanticscholar.org/paper/Overconfidence-in-interval-estimates.-Soll-Klayman/991dbb96824914065de380d6c7e5d589532fde9e" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Overconfidence-in-interval-estimates.-Soll-Klayman/991dbb96824914065de380d6c7e5d589532fde9e</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>We report five experiments showing that people have much less confidence...Read more...</p></details>
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: online.ucpress.edu  
    Title: Overprecision in the Survey of Professional  
-   Link:<a href="https://online.ucpress.edu/collabra/article/10/1/92953/200113/Overprecision-in-the-Survey-of-Professional" target="_blank" rel="noopener noreferrer nofollow">https://online.ucpress.edu/collabra/article/10/1/92953/200113/Overprecision-in-the-Survey-of-Professional</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside 90% confidence intervals, the hit rate is 66.41%.Read more...</p></details>
+   Link: <a href="https://online.ucpress.edu/collabra/article/10/1/92953/200113/Overprecision-in-the-Survey-of-Professional" target="_blank" rel="noopener noreferrer nofollow">https://online.ucpress.edu/collabra/article/10/1/92953/200113/Overprecision-in-the-Survey-of-Professional</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside 90% confidence intervals, the hit rate is 66.41%.Read more...</p></details>
 
 ### Additional References
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: d-nb.info  
-   Link:<a href="https://d-nb.info/1248484126/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1248484126/34</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>s for a given confidence level α, simply by taking an interval in the output space that contains α of...Read more...</p></details>
+   Link: <a href="https://d-nb.info/1248484126/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1248484126/34</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>s for a given confidence level α, simply by taking an interval in the output space that contains α of...Read more...</p></details>
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/255968087_True_Overconfidence_in_Interval_Estimates_Evidence_Based_on_a_New_Measure_of_Miscalibration" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/255968087_True_Overconfidence_in_Interval_Estimates_Evidence_Based_on_a_New_Measure_of_Miscalibration</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Often less than 50% of the true values fall within 90% confidence intervals, indicating...Read more...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/255968087_True_Overconfidence_in_Interval_Estimates_Evidence_Based_on_a_New_Measure_of_Miscalibration" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/255968087_True_Overconfidence_in_Interval_Estimates_Evidence_Based_on_a_New_Measure_of_Miscalibration</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Often less than 50% of the true values fall within 90% confidence intervals, indicating...Read more...</p></details>
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: kevindorst.substack.com  
    Title: The Case for Overconfidence is Overstated  
-   Link:<a href="https://kevindorst.substack.com/p/the-case-for-overconfidence-is-overstated" target="_blank" rel="noopener noreferrer nofollow">https://kevindorst.substack.com/p/the-case-for-overconfidence-is-overstated</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>by Kevin DorstYour 90%-confidence intervals are calibrated if 90% of them contain the true value.1 They are overprecise if less than 90%...</p></details>
+   Link: <a href="https://kevindorst.substack.com/p/the-case-for-overconfidence-is-overstated" target="_blank" rel="noopener noreferrer nofollow">https://kevindorst.substack.com/p/the-case-for-overconfidence-is-overstated</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by Kevin DorstYour 90%-confidence intervals are calibrated if 90% of them contain the true value.1 They are overprecise if less than 90%...</p></details>
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: youtube.com  
    Title: Overconfidence: The Most Dangerous Bias in Decision Making  
-   Link:<a href="https://www.youtube.com/watch?v=ei_zP4saqPs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ei_zP4saqPs</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>How to (and how not to) Interpret Confidence Intervals - YouTube How to (and how not to) Interpret Confidence Intervals - YouTube...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=ei_zP4saqPs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ei_zP4saqPs</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to (and how not to) Interpret Confidence Intervals - YouTube How to (and how not to) Interpret Confidence Intervals - YouTube...</p></details>
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: ohdsi.github.io  
    Title: Empirical Ci Calibration Vignette  
-   Link:<a href="https://ohdsi.github.io/EmpiricalCalibration/articles/EmpiricalCiCalibrationVignette.html" target="_blank" rel="noopener noreferrer nofollow">https://ohdsi.github.io/EmpiricalCalibration/articles/EmpiricalCiCalibrationVignette.html</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Empirical calibration of confidence intervals14 Feb 2025 — In this document we use an example study to illustrate how CIs can be calibrat...</p></details>
+   Link: <a href="https://ohdsi.github.io/EmpiricalCalibration/articles/EmpiricalCiCalibrationVignette.html" target="_blank" rel="noopener noreferrer nofollow">https://ohdsi.github.io/EmpiricalCalibration/articles/EmpiricalCiCalibrationVignette.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Empirical calibration of confidence intervals14 Feb 2025 — In this document we use an example study to illustrate how CIs can be calibrat...</p></details>
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: Overconfidence Bias: Why We Overestimate Our Financial Knowledge  
-   Link:<a href="https://www.youtube.com/watch?v=Gcqbb5eDB0w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Gcqbb5eDB0w</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>How to (and how not to) Interpret Confidence Intervals...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=Gcqbb5eDB0w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Gcqbb5eDB0w</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to (and how not to) Interpret Confidence Intervals...</p></details>
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: How to (and how not to) Interpret Confidence Intervals  
-   Link:<a href="https://www.youtube.com/watch?v=FQAcHqgMKMI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FQAcHqgMKMI</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Overconfidence: The Most Dangerous Bias in Decision Making...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=FQAcHqgMKMI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FQAcHqgMKMI</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Overconfidence: The Most Dangerous Bias in Decision Making...</p></details>
 
-12.<a id="endnote-12"></a>
+12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: Why People Are So Confident When They're Wrong  
-   Link:<a href="https://www.youtube.com/watch?v=9M_QK4stCJU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9M_QK4stCJU</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Overconfidence Bias: Why We Overestimate Our Financial Knowledge...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=9M_QK4stCJU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9M_QK4stCJU</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Overconfidence Bias: Why We Overestimate Our Financial Knowledge...</p></details>
 
-13.<a id="endnote-13"></a>
+13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: Overconfidence Bias | Psychology of Decision-Making  
-   Link:<a href="https://www.youtube.com/watch?v=eq6SCQNQNsc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eq6SCQNQNsc</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Why People Are So Confident When They&#x27;re Wrong...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=eq6SCQNQNsc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eq6SCQNQNsc</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why People Are So Confident When They&#x27;re Wrong...</p></details>
 
-14.<a id="endnote-14"></a>
+14. <a id="endnote-14"></a>
    Source: arxiv.org  
-   Link:<a href="https://arxiv.org/pdf/2510.26995" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2510.26995</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
+   Link: <a href="https://arxiv.org/pdf/2510.26995" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2510.26995</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>

@@ -447,7 +447,7 @@ image: /assets/images/improving_your_think_da4710_metacognition_assump_b47334-ov
 
 ## Introduction
 
-Metacognition is the habit of noticing how your own mind is reaching a conclusion before you treat that conclusion as reliable. Within analytical thinking, its special value is not that it makes you cleverer in a general sense; it gives you a way to catch hidden assumptions, inflated confidence and gaps between “I know this” and “I have not actually checked this”. Researchers often describe metacognition as planning, monitoring and evaluating your own thinking, and educational evidence links these skills with better learning and self-regulation when they are taught explicitly rather than left as vague advice.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tll.mit.edu/teaching-resources/how-people-learn/metacognition/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tll.mit.edu">[tll.mit.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tll.mit.edu</span><span class="citation-popover-snippet">MetacognitionMetacognition is the process by which learners use knowledge of the task at hand, knowledge of learning strategies, and know...</span></span></span>
+Metacognition is the habit of noticing how your own mind is reaching a conclusion before you treat that conclusion as reliable. Within analytical thinking, its special value is not that it makes you cleverer in a general sense; it gives you a way to catch hidden assumptions, inflated confidence and gaps between “I know this” and “I have not actually checked this”. Researchers often describe metacognition as planning, monitoring and evaluating your own thinking, and educational evidence links these skills with better learning and self-regulation when they are taught explicitly rather than left as vague advice. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tll.mit.edu/teaching-resources/how-people-learn/metacognition/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tll.mit.edu">[tll.mit.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tll.mit.edu</span><span class="citation-popover-snippet">MetacognitionMetacognition is the process by which learners use knowledge of the task at hand, knowledge of learning strategies, and know...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_metacognition_assump_b47334-overview.webp" | relative_url }}" alt="Overview image for Metacognition" loading="eager" decoding="sync" fetchpriority="high">
@@ -457,7 +457,7 @@ The practical point is simple: many reasoning errors happen before the visible a
 
 Reasoning often focuses on the outside world: facts, evidence, logic, causes and consequences. Metacognition adds a second layer: it looks at the reliability of the person doing the reasoning. This matters because even a well-structured argument can be built on a hidden premise. “This project will work” may rest on “the team has enough time”; “this article is persuasive” may rest on “the quoted expert is representative”; “I understand this topic” may rest on “I recognised the vocabulary”.
 
-A useful distinction is between **accuracy** and **calibration**. Accuracy asks whether your answer is right. Calibration asks whether your confidence matches your accuracy. Someone who is right 70% of the time when they say “I’m 70% sure” is well calibrated; someone who feels certain while often being wrong is not. Research on metacognition commonly uses confidence ratings, judgements of learning and related measures to study how well people monitor their own knowledge and performance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Metacognition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+A useful distinction is between **accuracy** and **calibration**. Accuracy asks whether your answer is right. Calibration asks whether your confidence matches your accuracy. Someone who is right 70% of the time when they say “I’m 70% sure” is well calibrated; someone who feels certain while often being wrong is not. Research on metacognition commonly uses confidence ratings, judgements of learning and related measures to study how well people monitor their own knowledge and performance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Metacognition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 This is why metacognition is especially important when you are improving analytical skills. A person can learn more facts without learning when their own confidence is unreliable. They can become fluent in an explanation while missing the assumptions beneath it. Metacognition closes that gap by making the thinker ask not only “What is my conclusion?” but “What made this conclusion feel obvious?”
 
@@ -498,13 +498,13 @@ The word “if” is a metacognitive tool. It makes the hidden bridge between ev
 <img src="{{ "/assets/images/improving_your_think_da4710_metacognition_assump_b47334-Illustration-1-dark.svg" | relative_url }}" alt="Metacognition illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_metacognition_assump_b47334-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_metacognition_assump_b47334-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why confidence can outrun knowledge
 
-Overconfidence is not just a personality flaw. It is often a monitoring problem: people may lack the skill needed to recognise the limits of their skill. The well-known Kruger and Dunning study found that low performers in humour, grammar and logic tasks substantially overestimated their performance, and the authors linked this to difficulty recognising competence and error.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/10626367/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Unskilled and unaware of it: how difficulties in recognizing...by J Kruger · 1999 · Cited by 13007 — Unskilled and unaware of it...</span></span></span>
+Overconfidence is not just a personality flaw. It is often a monitoring problem: people may lack the skill needed to recognise the limits of their skill. The well-known Kruger and Dunning study found that low performers in humour, grammar and logic tasks substantially overestimated their performance, and the authors linked this to difficulty recognising competence and error. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/10626367/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Unskilled and unaware of it: how difficulties in recognizing...by J Kruger · 1999 · Cited by 13007 — Unskilled and unaware of it...</span></span></span>
 
-That finding is useful, but it is often oversimplified. The broader lesson is not “incompetent people are always the most confident”. Later debates have questioned how much of the pattern is explained by metacognitive deficits, statistical effects, task difficulty and measurement design. A 2022 Royal Society Open Science paper, for example, directly challenged the “dual burden” interpretation that low skill necessarily causes poor self-knowledge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://royalsocietypublishing.org/rsos/article/9/12/191727/96372/Skill-and-self-knowledge-empirical-refutation-of" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsocietypublishing.org">[Royal Society Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsocietypublishing.org</span><span class="citation-popover-snippet">Open source on royalsocietypublishing.org.</span></span></span>
+That finding is useful, but it is often oversimplified. The broader lesson is not “incompetent people are always the most confident”. Later debates have questioned how much of the pattern is explained by metacognitive deficits, statistical effects, task difficulty and measurement design. A 2022 Royal Society Open Science paper, for example, directly challenged the “dual burden” interpretation that low skill necessarily causes poor self-knowledge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://royalsocietypublishing.org/rsos/article/9/12/191727/96372/Skill-and-self-knowledge-empirical-refutation-of" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsocietypublishing.org">[Royal Society Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsocietypublishing.org</span><span class="citation-popover-snippet">Open source on royalsocietypublishing.org.</span></span></span>
 
 For practical thinking, the dispute strengthens rather than weakens the case for metacognition. It shows that self-assessment is difficult, context-sensitive and easy to misread. Confidence may be distorted by lack of skill, by task difficulty, by limited feedback, by social comparison, or by a run of lucky [outcomes]({{ 'outcomes/' | relative_url }}). The safe habit is therefore not to diagnose yourself or others with a slogan, but to treat strong confidence as a signal that deserves checking.
 
-One especially important failure mode is **partial knowledge**. A little knowledge can make a pattern feel familiar before you have enough depth to judge it well. Recent work on diagnostic decision-making found that partial knowledge can inflate confidence and reduce further information seeking, creating a practical danger: the person stops looking precisely when they most need to keep checking.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12988131/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+One especially important failure mode is **partial knowledge**. A little knowledge can make a pattern feel familiar before you have enough depth to judge it well. Recent work on diagnostic decision-making found that partial knowledge can inflate confidence and reduce further information seeking, creating a practical danger: the person stops looking precisely when they most need to keep checking. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12988131/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
 In analytical work, this can appear as premature closure. You see enough to form a story, then the story starts filtering what you notice. Metacognition interrupts that closure by asking, “Am I confident because the evidence is strong, or because the explanation now feels fluent?”
 
@@ -533,7 +533,7 @@ Some assumptions come from direct evidence. Others come from habit, authority, g
 
 People often scrutinise disliked options and excuse favoured ones. Metacognition checks whether the burden of proof is being applied evenly.
 
-The “consider the opposite” strategy is one researched way to do this. In classic experiments, Lord, Lepper and Preston found that prompting people to consider possibilities opposite to their initial beliefs reduced bias in social judgement more effectively than simply telling them to be fair and unbiased.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/6527215/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+The “consider the opposite” strategy is one researched way to do this. In classic experiments, Lord, Lepper and Preston found that prompting people to consider possibilities opposite to their initial beliefs reduced bias in social judgement more effectively than simply telling them to be fair and unbiased. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/6527215/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
 The lesson is practical: do not merely command yourself to be neutral. Give your mind a task that produces counter-evidence. Ask, “Suppose my first interpretation is wrong. What would I notice?”
 
@@ -549,7 +549,7 @@ A quick confidence check has three parts:
 * **Name the confidence source.** Is confidence coming from direct evidence, expert feedback, repeated experience, a clear model, social agreement, or simple familiarity?
 * **Choose the next check by risk.** If the decision is [low-stakes]({{ 'low-stakes/' | relative_url }}), a light check may be enough. If it affects money, safety, relationships or reputation, require stronger evidence.
 
-Calibration can be trained, at least in some contexts. A 2024 study of intelligence analysts found that commercial calibration training improved overall calibration and bias, with especially clear improvement for interval estimation tasks, although effects varied by task type.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/10.1002/acp.4236" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Open source on wiley.com.</span></span></span> This matters because confidence is not merely a private feeling; it guides whether people seek more information, defer, act, warn others or stop investigating.
+Calibration can be trained, at least in some contexts. A 2024 study of intelligence analysts found that commercial calibration training improved overall calibration and bias, with especially clear improvement for interval estimation tasks, although effects varied by task type. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/10.1002/acp.4236" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Open source on wiley.com.</span></span></span> This matters because confidence is not merely a private feeling; it guides whether people seek more information, defer, act, warn others or stop investigating.
 
 For everyday analytical work, a simple calibration routine is to keep a small prediction log. Write down the claim, your confidence, the reason for that confidence, and what happened. Over time, patterns become visible: perhaps your 90% claims are closer to 65%, or perhaps you are underconfident in one domain and overconfident in another. The point is not self-criticism. It is feedback.
 
@@ -562,7 +562,7 @@ A second routine is to use confidence bands rather than single-point guesses. In
 
 Some assumptions are hard to notice because challenging them feels socially awkward. In a team, people may not want to sound negative, obstructive or disloyal. A premortem changes the social task: instead of asking “What could go wrong?”, it asks people to imagine that a plan has already failed and then explain why.
 
-Gary Klein’s Harvard Business Review account of the project premortem describes this as a prospective hindsight method: the team assumes failure has occurred and generates plausible causes before the plan is finalised.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hbr.org/2007/09/performing-a-project-premortem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-title">Harvard Business Review Performing a Project Premortem</span><span class="citation-popover-snippet">Harvard Business Review Performing a Project Premortem</span></span></span> The value is metacognitive as much as managerial. It gives people permission to surface doubts that were previously suppressed or unformed.
+Gary Klein’s Harvard Business Review account of the project premortem describes this as a prospective hindsight method: the team assumes failure has occurred and generates plausible causes before the plan is finalised. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hbr.org/2007/09/performing-a-project-premortem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-title">Harvard Business Review Performing a Project Premortem</span><span class="citation-popover-snippet">Harvard Business Review Performing a Project Premortem</span></span></span> The value is metacognitive as much as managerial. It gives people permission to surface doubts that were previously suppressed or unformed.
 
 A premortem is especially good at exposing assumptions such as:
 
@@ -621,7 +621,7 @@ Metacognition works best when it is short enough to use under real conditions. B
 Include at least one assumption about evidence quality, one about alternatives, and one about your own knowledge.
 3. **Mark the weakest assumption.**
 
-Ask which one would most damage the conclusion if false.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/6527215/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[4. **Consider the opposite.**]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Ask which one would most damage the conclusion if false. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/6527215/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[4. **Consider the opposite.**]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Write the strongest reason the conclusion might be wrong, not the easiest reason to dismiss.
 5. **Set a confidence level and an action threshold.**
@@ -641,194 +641,194 @@ The core habit is to make the invisible visible. Turn conclusions into condition
 Better thinking is not a permanent state of scepticism. It is a disciplined relationship with your own mind: trusting it enough to reason, but not so much that you stop inspecting the assumptions it quietly supplies.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to How to Notice Your Own Thinking. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to How to Notice Your Own Thinking. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
-</h4>
-<p class="fr-book-author">By Julia Galef</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
+        </h4>
+        <p class="fr-book-author">By Julia Galef</p>
         
-<p class="fr-book-desc">Focuses on recognizing assumptions, updating beliefs, and monitoring your own thinking.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Focuses on recognizing assumptions, updating beliefs, and monitoring your own thinking.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-</h4>
-<p class="fr-book-author">By Daniel Kahneman</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Super+Thinking+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Super Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fi6qvAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Super Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Super+Thinking+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Super Thinking">Super Thinking</a>
+        </h4>
+        <p class="fr-book-author">By Gabriel Weinberg, Lauren McCann</p>
         
-<p class="fr-book-desc">Explains common thinking errors, overconfidence, and how to evaluate judgments more carefully.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides mental models that complement metacognitive reflection and reasoning.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Super+Thinking+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Super+Thinking+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Super Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fi6qvAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Super Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Super+Thinking+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Super Thinking">Super Thinking</a>
-</h4>
-<p class="fr-book-author">By Gabriel Weinberg, Lauren McCann</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A1NYvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
+        </h4>
+        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-<p class="fr-book-desc">Provides mental models that complement metacognitive reflection and reasoning.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Super+Thinking+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Shows why people overlook errors in their own thinking and how to recognize them.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A1NYvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
-</h4>
-<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
+        </h4>
+        <p class="fr-book-author">By Rolf Dobelli</p>
         
-<p class="fr-book-desc">Shows why people overlook errors in their own thinking and how to recognize them.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Helps readers identify recurring thinking traps and become more reflective decision-makers.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scout Mindset</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Super+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Super Thinking</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scout Mindset</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Super+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Super Thinking</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me)</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-notice-your-own-thinking-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-to-notice-your-own-thinking-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rational Thinking Brain Teaser IQ Card Game English and French Sealed NEW"><img src="https://i.ebayimg.com/images/g/Jn4AAOSw4QpmbMxF/s-l225.jpg" alt="Listing image for Rational Thinking Brain Teaser IQ Card Game English and French Sealed NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-notice-your-own-thinking-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-to-notice-your-own-thinking-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer">Rational Thinking Brain Teaser IQ Card Game English and French Sealed NEW</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-notice-your-own-thinking-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-to-notice-your-own-thinking-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking card game">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking card game</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-notice-your-own-thinking-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-to-notice-your-own-thinking-critical-thinking-card-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-notice-your-own-thinking-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-to-notice-your-own-thinking-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rational Thinking Brain Teaser IQ Card Game English and French Sealed NEW"><img src="https://i.ebayimg.com/images/g/Jn4AAOSw4QpmbMxF/s-l225.jpg" alt="Listing image for Rational Thinking Brain Teaser IQ Card Game English and French Sealed NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-notice-your-own-thinking-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-to-notice-your-own-thinking-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer">Rational Thinking Brain Teaser IQ Card Game English and French Sealed NEW</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-notice-your-own-thinking-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-to-notice-your-own-thinking-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking card game">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking card game</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-notice-your-own-thinking-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-to-notice-your-own-thinking-critical-thinking-card-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-notice-your-own-thinking-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-to-notice-your-own-thinking-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Trivial Pursuit Disney Edition Board Game Illustrated Cards 2-6 Players 8+ 2023"><img src="https://i.ebayimg.com/images/g/W8EAAeSw51NqGk-O/s-l225.jpg" alt="Listing image for Trivial Pursuit Disney Edition Board Game Illustrated Cards 2-6 Players 8+ 2023" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-notice-your-own-thinking-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-to-notice-your-own-thinking-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer">Trivial Pursuit Disney Edition Board Game Illustrated Cards 2-6 Players 8+ 2023</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-notice-your-own-thinking-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-to-notice-your-own-thinking-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking card game">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking card game</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-notice-your-own-thinking-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-to-notice-your-own-thinking-critical-thinking-card-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-notice-your-own-thinking-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-to-notice-your-own-thinking-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Trivial Pursuit Disney Edition Board Game Illustrated Cards 2-6 Players 8+ 2023"><img src="https://i.ebayimg.com/images/g/W8EAAeSw51NqGk-O/s-l225.jpg" alt="Listing image for Trivial Pursuit Disney Edition Board Game Illustrated Cards 2-6 Players 8+ 2023" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-notice-your-own-thinking-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-to-notice-your-own-thinking-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer">Trivial Pursuit Disney Edition Board Game Illustrated Cards 2-6 Players 8+ 2023</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-notice-your-own-thinking-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-to-notice-your-own-thinking-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking card game">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking card game</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-notice-your-own-thinking-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-to-notice-your-own-thinking-critical-thinking-card-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-notice-your-own-thinking-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-to-notice-your-own-thinking-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scopa Traditional Italian Card Game - Bilingual Edition - 3 Games in 1, Devel..."><img src="https://i.ebayimg.com/images/g/OukAAeSwAtNprZ9i/s-l225.jpg" alt="Listing image for Scopa Traditional Italian Card Game - Bilingual Edition - 3 Games in 1, Devel..." loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-notice-your-own-thinking-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-to-notice-your-own-thinking-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer">Scopa Traditional Italian Card Game - Bilingual Edition - 3 Games in 1, Devel...</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-notice-your-own-thinking-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-to-notice-your-own-thinking-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking card game">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking card game</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-notice-your-own-thinking-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-to-notice-your-own-thinking-critical-thinking-card-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-notice-your-own-thinking-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-to-notice-your-own-thinking-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scopa Traditional Italian Card Game - Bilingual Edition - 3 Games in 1, Devel..."><img src="https://i.ebayimg.com/images/g/OukAAeSwAtNprZ9i/s-l225.jpg" alt="Listing image for Scopa Traditional Italian Card Game - Bilingual Edition - 3 Games in 1, Devel..." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-notice-your-own-thinking-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-to-notice-your-own-thinking-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer">Scopa Traditional Italian Card Game - Bilingual Edition - 3 Games in 1, Devel...</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-notice-your-own-thinking-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-to-notice-your-own-thinking-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking card game">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking card game</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-notice-your-own-thinking-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-to-notice-your-own-thinking-critical-thinking-card-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-notice-your-own-thinking-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-to-notice-your-own-thinking-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scopa Traditional Italian Card Game - Bilingual Edition - 3 Games in 1, Develops"><img src="https://i.ebayimg.com/images/g/~xoAAeSww5dqIEWJ/s-l225.jpg" alt="Listing image for Scopa Traditional Italian Card Game - Bilingual Edition - 3 Games in 1, Develops" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-notice-your-own-thinking-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-to-notice-your-own-thinking-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer">Scopa Traditional Italian Card Game - Bilingual Edition - 3 Games in 1, Develops</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-notice-your-own-thinking-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-to-notice-your-own-thinking-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking card game">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking card game</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-notice-your-own-thinking-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-to-notice-your-own-thinking-critical-thinking-card-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-notice-your-own-thinking-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-to-notice-your-own-thinking-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-notice-your-own-thinking-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-to-notice-your-own-thinking-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scopa Traditional Italian Card Game - Bilingual Edition - 3 Games in 1, Develops"><img src="https://i.ebayimg.com/images/g/~xoAAeSww5dqIEWJ/s-l225.jpg" alt="Listing image for Scopa Traditional Italian Card Game - Bilingual Edition - 3 Games in 1, Develops" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-notice-your-own-thinking-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-to-notice-your-own-thinking-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer">Scopa Traditional Italian Card Game - Bilingual Edition - 3 Games in 1, Develops</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-notice-your-own-thinking-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-to-notice-your-own-thinking-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking card game">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking card game</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-notice-your-own-thinking-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-to-notice-your-own-thinking-critical-thinking-card-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-notice-your-own-thinking-critical-thinking-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking card game" data-ebay-reference="how-to-notice-your-own-thinking-critical-thinking-card-game" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -844,7 +844,7 @@ Better thinking is not a permanent state of scepticism. It is a disciplined rela
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -864,7 +864,7 @@ Better thinking is not a permanent state of scepticism. It is a disciplined rela
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -896,7 +896,7 @@ Better thinking is not a permanent state of scepticism. It is a disciplined rela
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -948,7 +948,7 @@ Better thinking is not a permanent state of scepticism. It is a disciplined rela
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -993,7 +993,7 @@ Better thinking is not a permanent state of scepticism. It is a disciplined rela
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1034,137 +1034,137 @@ Better thinking is not a permanent state of scepticism. It is a disciplined rela
 
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: tll.mit.edu  
-   Link:<a href="https://tll.mit.edu/teaching-resources/how-people-learn/metacognition/" target="_blank" rel="noopener noreferrer nofollow">https://tll.mit.edu/teaching-resources/how-people-learn/metacognition/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>MetacognitionMetacognition is the process by which learners use knowledge of the task at hand, knowledge of learning strategies, and know...</p></details>
+   Link: <a href="https://tll.mit.edu/teaching-resources/how-people-learn/metacognition/" target="_blank" rel="noopener noreferrer nofollow">https://tll.mit.edu/teaching-resources/how-people-learn/metacognition/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>MetacognitionMetacognition is the process by which learners use knowledge of the task at hand, knowledge of learning strategies, and know...</p></details>
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: Wikipedia  
-   Link:<a href="https://en.wikipedia.org/wiki/Metacognition" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Metacognition</a>  
+   Link: <a href="https://en.wikipedia.org/wiki/Metacognition" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Metacognition</a>  
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4451238/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4451238/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Metacognition and confidence: comparing math to other...by S Erickson · 2015 · Cited by 73 — Rather, we focus on calibration of metac...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4451238/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4451238/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Metacognition and confidence: comparing math to other...by S Erickson · 2015 · Cited by 73 — Rather, we focus on calibration of metac...</p></details>
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12988131/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12988131/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12988131/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12988131/</a>  
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: onlinelibrary.wiley.com  
-   Link:<a href="https://onlinelibrary.wiley.com/doi/10.1002/acp.4236" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1002/acp.4236</a>  
+   Link: <a href="https://onlinelibrary.wiley.com/doi/10.1002/acp.4236" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1002/acp.4236</a>  
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Dunning–Kruger effect  
-   Link:<a href="https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect</a>  
+   Link: <a href="https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect</a>  
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Pre mortem  
-   Link:<a href="https://en.wikipedia.org/wiki/Pre-mortem" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pre-mortem</a>  
+   Link: <a href="https://en.wikipedia.org/wiki/Pre-mortem" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pre-mortem</a>  
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: onlinelibrary.wiley.com  
-   Link:<a href="https://onlinelibrary.wiley.com/doi/10.1111/jpr.12409" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1111/jpr.12409</a>  
+   Link: <a href="https://onlinelibrary.wiley.com/doi/10.1111/jpr.12409" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1111/jpr.12409</a>  
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link:<a href="https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>EEFMetacognition and Self-Regulated Learning13 Nov 2025 — There is a strong body of research from psychology and education demonstrating...</p></details>
+   Link: <a href="https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>EEFMetacognition and Self-Regulated Learning13 Nov 2025 — There is a strong body of research from psychology and education demonstrating...</p></details>
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/10626367/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/10626367/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Unskilled and unaware of it: how difficulties in recognizing...by J Kruger · 1999 · Cited by 13007 — Unskilled and unaware of it...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/10626367/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/10626367/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unskilled and unaware of it: how difficulties in recognizing...by J Kruger · 1999 · Cited by 13007 — Unskilled and unaware of it...</p></details>
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: royalsocietypublishing.org  
-   Link:<a href="https://royalsocietypublishing.org/rsos/article/9/12/191727/96372/Skill-and-self-knowledge-empirical-refutation-of" target="_blank" rel="noopener noreferrer nofollow">https://royalsocietypublishing.org/rsos/article/9/12/191727/96372/Skill-and-self-knowledge-empirical-refutation-of</a>  
+   Link: <a href="https://royalsocietypublishing.org/rsos/article/9/12/191727/96372/Skill-and-self-knowledge-empirical-refutation-of" target="_blank" rel="noopener noreferrer nofollow">https://royalsocietypublishing.org/rsos/article/9/12/191727/96372/Skill-and-self-knowledge-empirical-refutation-of</a>  
 
-12.<a id="endnote-12"></a>
+12. <a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/6527215/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/6527215/</a>  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/6527215/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/6527215/</a>  
 
-13.<a id="endnote-13"></a>
+13. <a id="endnote-13"></a>
    Source: hbr.org  
    Title: Harvard Business Review Performing a Project Premortem  
-   Link:<a href="https://hbr.org/2007/09/performing-a-project-premortem" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2007/09/performing-a-project-premortem</a>  
+   Link: <a href="https://hbr.org/2007/09/performing-a-project-premortem" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2007/09/performing-a-project-premortem</a>  
 
-14.<a id="endnote-14"></a>
+14. <a id="endnote-14"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12730000/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12730000/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12730000/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12730000/</a>  
 
-15.<a id="endnote-15"></a>
+15. <a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/35981722/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/35981722/</a>  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/35981722/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/35981722/</a>  
 
-16.<a id="endnote-16"></a>
+16. <a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10912288/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10912288/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10912288/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10912288/</a>  
 
-17.<a id="endnote-17"></a>
+17. <a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9242397/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9242397/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9242397/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9242397/</a>  
 
-18.<a id="endnote-18"></a>
+18. <a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8187395/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8187395/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8187395/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8187395/</a>  
 
-19.<a id="endnote-19"></a>
+19. <a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12103939/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12103939/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12103939/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12103939/</a>  
 
-20.<a id="endnote-20"></a>
+20. <a id="endnote-20"></a>
    Source: ejpbl.org  
-   Link:<a href="https://www.ejpbl.org/journal/view.php?number=78" target="_blank" rel="noopener noreferrer nofollow">https://www.ejpbl.org/journal/view.php?number=78</a>  
+   Link: <a href="https://www.ejpbl.org/journal/view.php?number=78" target="_blank" rel="noopener noreferrer nofollow">https://www.ejpbl.org/journal/view.php?number=78</a>  
 
 ### Additional References
 
-21.<a id="endnote-21"></a>
+21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: Behaviors That Reveal You Have "Metacognitive IQ" (Only 1% Possess It)  
-   Link:<a href="https://www.youtube.com/watch?v=8ev8RLr_kGo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8ev8RLr_kGo</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Use &quot;Step In, Step Out, Step Back&quot; | Harvard Project Zero...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=8ev8RLr_kGo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8ev8RLr_kGo</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Use &quot;Step In, Step Out, Step Back&quot; | Harvard Project Zero...</p></details>
 
-22.<a id="endnote-22"></a>
+22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: How to Use "Step In, Step Out, Step Back" | Harvard Project Zero  
-   Link:<a href="https://www.youtube.com/watch?v=HV7LCYGxkHc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HV7LCYGxkHc</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>How Zen Philosophy Trains Real [Critical Thinking](&amp;#123;&amp;#123; &#x27;critical-skills/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=HV7LCYGxkHc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HV7LCYGxkHc</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Zen Philosophy Trains Real [Critical Thinking](&amp;#123;&amp;#123; &#x27;critical-skills/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
-23.<a id="endnote-23"></a>
+23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: 5 Signs You Have Metacognitive Intelligence  
-   Link:<a href="https://www.youtube.com/watch?v=QfK3PwI1OUw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QfK3PwI1OUw</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Behaviors That Reveal You Have &quot;Metacognitive IQ&quot; (Only 1% Possess It)...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=QfK3PwI1OUw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QfK3PwI1OUw</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Behaviors That Reveal You Have &quot;Metacognitive IQ&quot; (Only 1% Possess It)...</p></details>
 
-24.<a id="endnote-24"></a>
+24. <a id="endnote-24"></a>
    Source: academia.edu  
-   Link:<a href="https://www.academia.edu/16749881/Is_an_Unskilled_Really_Unaware_of_it" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/16749881/Is_an_Unskilled_Really_Unaware_of_it</a>  
+   Link: <a href="https://www.academia.edu/16749881/Is_an_Unskilled_Really_Unaware_of_it" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/16749881/Is_an_Unskilled_Really_Unaware_of_it</a>  
 
-25.<a id="endnote-25"></a>
+25. <a id="endnote-25"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/3229642_Performing_a_Project_Premortem" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/3229642_Performing_a_Project_Premortem</a>  
+   Link: <a href="https://www.researchgate.net/publication/3229642_Performing_a_Project_Premortem" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/3229642_Performing_a_Project_Premortem</a>  
 
-26.<a id="endnote-26"></a>
+26. <a id="endnote-26"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/12688660_Unskilled_and_Unaware_of_It_How_Difficulties_in_Recognizing_One%27s_Own_Incompetence_Lead_to_Inflated_Self-Assessments" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/12688660_Unskilled_and_Unaware_of_It_How_Difficulties_in_Recognizing_One%27s_Own_Incompetence_Lead_to_Inflated_Self-Assessments</a>  
+   Link: <a href="https://www.researchgate.net/publication/12688660_Unskilled_and_Unaware_of_It_How_Difficulties_in_Recognizing_One%27s_Own_Incompetence_Lead_to_Inflated_Self-Assessments" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/12688660_Unskilled_and_Unaware_of_It_How_Difficulties_in_Recognizing_One%27s_Own_Incompetence_Lead_to_Inflated_Self-Assessments</a>  
 
-27.<a id="endnote-27"></a>
+27. <a id="endnote-27"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/380873905_Young_Children%27s_Self-Regulated_Learning_Benefited_from_a_Metacognition-Driven_Science_Education_Intervention_for_Early_Childhood_Teachers" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/380873905_Young_Children%27s_Self-Regulated_Learning_Benefited_from_a_Metacognition-Driven_Science_Education_Intervention_for_Early_Childhood_Teachers</a>  
+   Link: <a href="https://www.researchgate.net/publication/380873905_Young_Children%27s_Self-Regulated_Learning_Benefited_from_a_Metacognition-Driven_Science_Education_Intervention_for_Early_Childhood_Teachers" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/380873905_Young_Children%27s_Self-Regulated_Learning_Benefited_from_a_Metacognition-Driven_Science_Education_Intervention_for_Early_Childhood_Teachers</a>  
 
-28.<a id="endnote-28"></a>
+28. <a id="endnote-28"></a>
    Source: academia.edu  
-   Link:<a href="https://www.academia.edu/3723863/Considering_the_opposite_A_corrective_strategy_for_social_judgment" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/3723863/Considering_the_opposite_A_corrective_strategy_for_social_judgment</a>  
+   Link: <a href="https://www.academia.edu/3723863/Considering_the_opposite_A_corrective_strategy_for_social_judgment" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/3723863/Considering_the_opposite_A_corrective_strategy_for_social_judgment</a>  
 
-29.<a id="endnote-29"></a>
+29. <a id="endnote-29"></a>
    Source: facebook.com  
-   Link:<a href="https://www.facebook.com/groups/775801081313358/posts/1235198688706926/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/775801081313358/posts/1235198688706926/</a>  
+   Link: <a href="https://www.facebook.com/groups/775801081313358/posts/1235198688706926/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/775801081313358/posts/1235198688706926/</a>  
 
-30.<a id="endnote-30"></a>
+30. <a id="endnote-30"></a>
    Source: thedecisionlab.com  
-   Link:<a href="https://thedecisionlab.com/biases/dunning-kruger-effect" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/dunning-kruger-effect</a>  
+   Link: <a href="https://thedecisionlab.com/biases/dunning-kruger-effect" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/dunning-kruger-effect</a>  

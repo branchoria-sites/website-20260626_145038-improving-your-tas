@@ -284,7 +284,7 @@ Science therefore offers an excellent model for evaluating sources. Rather than 
 
 One important form of verification asks a simple question: **if another researcher uses exactly the same data, computer code and analytical procedures, do they obtain the same result?**
 
-The US National Academies define this as **reproducibility** (sometimes called computational reproducibility). If the published analysis cannot be reproduced using the original materials, confidence in the reported findings is reduced because the result may depend on undocumented steps, software errors, or mistakes in the analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/read/25303/chapter/3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesReproducibility and Replicability in Science (2019)Replicability is obtaining consistent results across studies aimed a...</span></span></span>
+The US National Academies define this as **reproducibility** (sometimes called computational reproducibility). If the published analysis cannot be reproduced using the original materials, confidence in the reported findings is reduced because the result may depend on undocumented steps, software errors, or mistakes in the analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/read/25303/chapter/3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesReproducibility and Replicability in Science (2019)Replicability is obtaining consistent results across studies aimed a...</span></span></span>
 
 Reproducibility is valuable because it checks whether:
 
@@ -306,7 +306,7 @@ This is an important distinction for analytical thinking. Repeating a calculatio
 
 The stronger test is **replicability**: whether independent researchers addressing the same scientific question, but collecting **new and independent data**, obtain broadly consistent results.
 
-The National Academies define replicability as obtaining consistent results across studies that answer the same question while using their own independently gathered evidence. Because every study contains [uncertainty]({{ 'uncertainty/' | relative_url }}), replication does not require identical numerical results; it requires findings that are consistent within reasonable scientific expectations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/read/25303/chapter/3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesReproducibility and Replicability in Science (2019)Replicability is obtaining consistent results across studies aimed a...</span></span></span>
+The National Academies define replicability as obtaining consistent results across studies that answer the same question while using their own independently gathered evidence. Because every study contains [uncertainty]({{ 'uncertainty/' | relative_url }}), replication does not require identical numerical results; it requires findings that are consistent within reasonable scientific expectations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/read/25303/chapter/3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesReproducibility and Replicability in Science (2019)Replicability is obtaining consistent results across studies aimed a...</span></span></span>
 
 Independent replication is powerful because it reduces the likelihood that an apparent discovery depends on:
 
@@ -377,7 +377,7 @@ Science therefore values convergence more than uniformity. Identical wording con
 
 A failure to replicate is often misunderstood as proof that the original study was fraudulent or worthless. In reality, science expects some findings to weaken, disappear or become more precisely estimated as additional evidence accumulates.
 
-Large-scale investigations in several disciplines have shown that some published findings do not replicate as strongly as initially reported. These projects have encouraged improvements in study design, statistical practice, data sharing and transparency rather than undermining the scientific method itself. The National Academies emphasise that replication is only one route to building confidence, alongside systematic reviews, meta-analysis and the accumulation of diverse evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/news/new-report-examines-reproducibility-and-replicability-in-science-recommends-ways-to-improve-transparency-and-rigor-in-research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesNew Report Examines Reproducibility and Replicability in...Apr 7, 2019 — Replicability and reproducibility, useful as...</span></span></span>
+Large-scale investigations in several disciplines have shown that some published findings do not replicate as strongly as initially reported. These projects have encouraged improvements in study design, statistical practice, data sharing and transparency rather than undermining the scientific method itself. The National Academies emphasise that replication is only one route to building confidence, alongside systematic reviews, meta-analysis and the accumulation of diverse evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/news/new-report-examines-reproducibility-and-replicability-in-science-recommends-ways-to-improve-transparency-and-rigor-in-research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesNew Report Examines Reproducibility and Replicability in...Apr 7, 2019 — Replicability and reproducibility, useful as...</span></span></span>
 
 This illustrates an important lesson for [critical thinking]({{ 'critical-skills/' | relative_url }}):
 
@@ -406,7 +406,7 @@ When evaluating whether a scientific conclusion is well supported, ask questions
 * **How many independent datasets exist?** Multiple studies using separate data are generally more informative than repeated discussion of one study.
 * **Are different research groups involved?** Independence reduces shared sources of error.
 * **Have different methods reached similar conclusions?** Convergence across approaches is stronger than identical procedures repeated by the same team.
-* **Have systematic reviews or meta-analyses assessed the entire body of evidence?** These methods evaluate patterns across many studies rather than relying on isolated findings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/news/new-report-examines-reproducibility-and-replicability-in-science-recommends-ways-to-improve-transparency-and-rigor-in-research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesNew Report Examines Reproducibility and Replicability in...Apr 7, 2019 — Replicability and reproducibility, useful as...</span></span></span>
+* **Have systematic reviews or meta-analyses assessed the entire body of evidence?** These methods evaluate patterns across many studies rather than relying on isolated findings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/news/new-report-examines-reproducibility-and-replicability-in-science-recommends-ways-to-improve-transparency-and-rigor-in-research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesNew Report Examines Reproducibility and Replicability in...Apr 7, 2019 — Replicability and reproducibility, useful as...</span></span></span>
 * **Do later studies refine rather than simply repeat earlier claims?** Mature scientific understanding usually develops through incremental improvement rather than endless citation of the original paper.
 
 </div>
@@ -423,178 +423,178 @@ The distinction between replication and repeated wording applies well beyond sci
 Scientific practice deliberately rewards independent verification because repeated language can amplify confidence without increasing evidence. Replication, by contrast, increases confidence precisely because it introduces fresh opportunities for claims to fail. When they continue to succeed under independent testing, agreement becomes evidence rather than echo.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Repeating Words Is Not Replicating Evidence. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Repeating Words Is Not Replicating Evidence. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CiZeDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Art of Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Statistics">The Art of Statistics</a>
-</h4>
-<p class="fr-book-author">By David Spiegelhalter</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CiZeDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Art of Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Statistics">The Art of Statistics</a>
+        </h4>
+        <p class="fr-book-author">By David Spiegelhalter</p>
         
-<p class="fr-book-desc">Explains how scientific evidence, uncertainty, and replication should be interpreted.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains how scientific evidence, uncertainty, and replication should be interpreted.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
-</h4>
-<p class="fr-book-author">By Ben Goldacre</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Bad+Science+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
+        </h4>
+        <p class="fr-book-author">By Ben Goldacre</p>
         
-<p class="fr-book-desc">Shows why replication, study quality, and independent evidence matter.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Shows why replication, study quality, and independent evidence matter.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Bad+Science+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-</h4>
-<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-<p class="fr-book-desc">Promotes evidence-based reasoning, source scrutiny, and intellectual humility.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S2ZOzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-</h4>
-<p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+Why+Judea+Pearl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of Why on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VV0otAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of Why" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Book+of+Why+Judea+Pearl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Why">The Book of Why</a>
+        </h4>
+        <p class="fr-book-author">By Judea Pearl, Dana Mackenzie</p>
         
-<p class="fr-book-desc">Distinguishes genuine evidence from repeated unsupported claims.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Helps readers understand evidence beyond simple repetition of findings.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Book+of+Why+Judea+Pearl&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Statistics</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y-bvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+        </h4>
+        <p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
+        
+        <p class="fr-book-desc">Distinguishes genuine evidence from repeated unsupported claims.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Statistics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+Why&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of Why</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=microscope+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repeating-words-is-not-replicating-evidence-microscope-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="microscope model" data-ebay-reference="repeating-words-is-not-replicating-evidence-microscope-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TELMU 40X-1000X compound monocular microscope, model XSP-75"><img src="https://i.ebayimg.com/images/g/0AEAAeSwyWlqAgqw/s-l225.jpg" alt="Listing image for TELMU 40X-1000X compound monocular microscope, model XSP-75" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=microscope+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repeating-words-is-not-replicating-evidence-microscope-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="microscope model" data-ebay-reference="repeating-words-is-not-replicating-evidence-microscope-model" target="_blank" rel="sponsored noopener noreferrer">TELMU 40X-1000X compound monocular microscope, model XSP-75</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=microscope+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repeating-words-is-not-replicating-evidence-microscope-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="microscope model" data-ebay-reference="repeating-words-is-not-replicating-evidence-microscope-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for microscope model">Search<span data-ebay-domain-label>eBay.co.uk</span>: microscope model</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=microscope+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repeating-words-is-not-replicating-evidence-microscope-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="microscope model" data-ebay-reference="repeating-words-is-not-replicating-evidence-microscope-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=microscope+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repeating-words-is-not-replicating-evidence-microscope-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="microscope model" data-ebay-reference="repeating-words-is-not-replicating-evidence-microscope-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TELMU 40X-1000X compound monocular microscope, model XSP-75"><img src="https://i.ebayimg.com/images/g/0AEAAeSwyWlqAgqw/s-l225.jpg" alt="Listing image for TELMU 40X-1000X compound monocular microscope, model XSP-75" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=microscope+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repeating-words-is-not-replicating-evidence-microscope-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="microscope model" data-ebay-reference="repeating-words-is-not-replicating-evidence-microscope-model" target="_blank" rel="sponsored noopener noreferrer">TELMU 40X-1000X compound monocular microscope, model XSP-75</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=microscope+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repeating-words-is-not-replicating-evidence-microscope-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="microscope model" data-ebay-reference="repeating-words-is-not-replicating-evidence-microscope-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for microscope model">Search <span data-ebay-domain-label>eBay.co.uk</span>: microscope model</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=microscope+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repeating-words-is-not-replicating-evidence-microscope-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="microscope model" data-ebay-reference="repeating-words-is-not-replicating-evidence-microscope-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=microscope+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repeating-words-is-not-replicating-evidence-microscope-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="microscope model" data-ebay-reference="repeating-words-is-not-replicating-evidence-microscope-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Beck &amp; Son model 29 Microscope."><img src="https://i.ebayimg.com/images/g/7pMAAeSwTvhpsdUY/s-l225.jpg" alt="Listing image for Vintage Beck &amp; Son model 29 Microscope." loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=microscope+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repeating-words-is-not-replicating-evidence-microscope-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="microscope model" data-ebay-reference="repeating-words-is-not-replicating-evidence-microscope-model" target="_blank" rel="sponsored noopener noreferrer">Vintage Beck &amp; Son model 29 Microscope.</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=microscope+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repeating-words-is-not-replicating-evidence-microscope-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="microscope model" data-ebay-reference="repeating-words-is-not-replicating-evidence-microscope-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for microscope model">Search<span data-ebay-domain-label>eBay.co.uk</span>: microscope model</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=microscope+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repeating-words-is-not-replicating-evidence-microscope-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="microscope model" data-ebay-reference="repeating-words-is-not-replicating-evidence-microscope-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=microscope+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repeating-words-is-not-replicating-evidence-microscope-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="microscope model" data-ebay-reference="repeating-words-is-not-replicating-evidence-microscope-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Beck &amp; Son model 29 Microscope."><img src="https://i.ebayimg.com/images/g/7pMAAeSwTvhpsdUY/s-l225.jpg" alt="Listing image for Vintage Beck &amp; Son model 29 Microscope." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=microscope+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repeating-words-is-not-replicating-evidence-microscope-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="microscope model" data-ebay-reference="repeating-words-is-not-replicating-evidence-microscope-model" target="_blank" rel="sponsored noopener noreferrer">Vintage Beck &amp; Son model 29 Microscope.</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=microscope+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repeating-words-is-not-replicating-evidence-microscope-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="microscope model" data-ebay-reference="repeating-words-is-not-replicating-evidence-microscope-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for microscope model">Search <span data-ebay-domain-label>eBay.co.uk</span>: microscope model</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=microscope+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repeating-words-is-not-replicating-evidence-microscope-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="microscope model" data-ebay-reference="repeating-words-is-not-replicating-evidence-microscope-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=microscope+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repeating-words-is-not-replicating-evidence-microscope-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="microscope model" data-ebay-reference="repeating-words-is-not-replicating-evidence-microscope-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Swift Stereo Twenty Binocular Microscope Model 74633-E 10x 2x Made In Japan"><img src="https://i.ebayimg.com/images/g/TRMAAeSww8lpcN~S/s-l225.jpg" alt="Listing image for Swift Stereo Twenty Binocular Microscope Model 74633-E 10x 2x Made In Japan" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=microscope+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repeating-words-is-not-replicating-evidence-microscope-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="microscope model" data-ebay-reference="repeating-words-is-not-replicating-evidence-microscope-model" target="_blank" rel="sponsored noopener noreferrer">Swift Stereo Twenty Binocular Microscope Model 74633-E 10x 2x Made In Japan</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=microscope+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repeating-words-is-not-replicating-evidence-microscope-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="microscope model" data-ebay-reference="repeating-words-is-not-replicating-evidence-microscope-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for microscope model">Search<span data-ebay-domain-label>eBay.co.uk</span>: microscope model</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=microscope+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repeating-words-is-not-replicating-evidence-microscope-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="microscope model" data-ebay-reference="repeating-words-is-not-replicating-evidence-microscope-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=microscope+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repeating-words-is-not-replicating-evidence-microscope-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="microscope model" data-ebay-reference="repeating-words-is-not-replicating-evidence-microscope-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=microscope+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repeating-words-is-not-replicating-evidence-microscope-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="microscope model" data-ebay-reference="repeating-words-is-not-replicating-evidence-microscope-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Swift Stereo Twenty Binocular Microscope Model 74633-E 10x 2x Made In Japan"><img src="https://i.ebayimg.com/images/g/TRMAAeSww8lpcN~S/s-l225.jpg" alt="Listing image for Swift Stereo Twenty Binocular Microscope Model 74633-E 10x 2x Made In Japan" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=microscope+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repeating-words-is-not-replicating-evidence-microscope-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="microscope model" data-ebay-reference="repeating-words-is-not-replicating-evidence-microscope-model" target="_blank" rel="sponsored noopener noreferrer">Swift Stereo Twenty Binocular Microscope Model 74633-E 10x 2x Made In Japan</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=microscope+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repeating-words-is-not-replicating-evidence-microscope-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="microscope model" data-ebay-reference="repeating-words-is-not-replicating-evidence-microscope-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for microscope model">Search <span data-ebay-domain-label>eBay.co.uk</span>: microscope model</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=microscope+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repeating-words-is-not-replicating-evidence-microscope-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="microscope model" data-ebay-reference="repeating-words-is-not-replicating-evidence-microscope-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=microscope+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repeating-words-is-not-replicating-evidence-microscope-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="microscope model" data-ebay-reference="repeating-words-is-not-replicating-evidence-microscope-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -610,7 +610,7 @@ Scientific practice deliberately rewards independent verification because repeat
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -630,7 +630,7 @@ Scientific practice deliberately rewards independent verification because repeat
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -662,7 +662,7 @@ Scientific practice deliberately rewards independent verification because repeat
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -714,7 +714,7 @@ Scientific practice deliberately rewards independent verification because repeat
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -759,7 +759,7 @@ Scientific practice deliberately rewards independent verification because repeat
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -799,96 +799,96 @@ Scientific practice deliberately rewards independent verification because repeat
 </section>
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: nationalacademies.org  
-   Link:<a href="https://www.nationalacademies.org/read/25303/chapter/3" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/25303/chapter/3</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>National AcademiesReproducibility and Replicability in Science (2019)Replicability is obtaining consistent results across studies aimed a...</p></details>
+   Link: <a href="https://www.nationalacademies.org/read/25303/chapter/3" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/25303/chapter/3</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>National AcademiesReproducibility and Replicability in Science (2019)Replicability is obtaining consistent results across studies aimed a...</p></details>
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: nationalacademies.org  
-   Link:<a href="https://www.nationalacademies.org/read/25303/chapter/5" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/25303/chapter/5</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter: 2 Scientific Methods and Knowledgethe consideration of reproducibility and replicability in science is intended to maintain and...</p></details>
+   Link: <a href="https://www.nationalacademies.org/read/25303/chapter/5" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/25303/chapter/5</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter: 2 Scientific Methods and Knowledgethe consideration of reproducibility and replicability in science is intended to maintain and...</p></details>
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: nationalacademies.org  
-   Link:<a href="https://www.nationalacademies.org/news/new-report-examines-reproducibility-and-replicability-in-science-recommends-ways-to-improve-transparency-and-rigor-in-research" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/news/new-report-examines-reproducibility-and-replicability-in-science-recommends-ways-to-improve-transparency-and-rigor-in-research</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>National AcademiesNew Report Examines Reproducibility and Replicability in...Apr 7, 2019 — Replicability and reproducibility, useful as...</p></details>
+   Link: <a href="https://www.nationalacademies.org/news/new-report-examines-reproducibility-and-replicability-in-science-recommends-ways-to-improve-transparency-and-rigor-in-research" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/news/new-report-examines-reproducibility-and-replicability-in-science-recommends-ways-to-improve-transparency-and-rigor-in-research</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>National AcademiesNew Report Examines Reproducibility and Replicability in...Apr 7, 2019 — Replicability and reproducibility, useful as...</p></details>
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: nationalacademies.org  
-   Link:<a href="https://www.nationalacademies.org/read/25303/chapter/10" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/25303/chapter/10</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Reproducibility and Replicability in Science (2019)In this chapter, the committee illustrates a spectrum of pathways to attain rigor and...</p></details>
+   Link: <a href="https://www.nationalacademies.org/read/25303/chapter/10" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/25303/chapter/10</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reproducibility and Replicability in Science (2019)In this chapter, the committee illustrates a spectrum of pathways to attain rigor and...</p></details>
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: nationalacademies.org  
-   Link:<a href="https://www.nationalacademies.org/projects/DBASSE-BBCSS-17-03/publication/25303" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/projects/DBASSE-BBCSS-17-03/publication/25303</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Reproducibility and Replicability in Science2019 · Cited by 1214 — As the result of a mandate from Congress, the National Academies will...</p></details>
+   Link: <a href="https://www.nationalacademies.org/projects/DBASSE-BBCSS-17-03/publication/25303" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/projects/DBASSE-BBCSS-17-03/publication/25303</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reproducibility and Replicability in Science2019 · Cited by 1214 — As the result of a mandate from Congress, the National Academies will...</p></details>
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: psychologicalscience.org  
-   Link:<a href="https://www.psychologicalscience.org/policy/national-academies-issues-consensus-report-on-reproducibility-and-replicability-in-science.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/policy/national-academies-issues-consensus-report-on-reproducibility-and-replicability-in-science.html</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>May 8, 2019 — The report defines key terms, examines the state of reproducibility and replicability in science, and reviews current activ...</p></details>
+   Link: <a href="https://www.psychologicalscience.org/policy/national-academies-issues-consensus-report-on-reproducibility-and-replicability-in-science.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/policy/national-academies-issues-consensus-report-on-reproducibility-and-replicability-in-science.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 8, 2019 — The report defines key terms, examines the state of reproducibility and replicability in science, and reviews current activ...</p></details>
    Published: May 8, 2019  
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: storage.knaw.nl  
    Title: 20180115 replication studies web  
-   Link:<a href="https://storage.knaw.nl/2022-08/20180115-replication-studies-web.pdf" target="_blank" rel="noopener noreferrer nofollow">https://storage.knaw.nl/2022-08/20180115-replication-studies-web.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>reproducibility in the empirical sciencesStatistical challenges in assessing and fostering the reproducibility of scientific results: Sum...</p></details>
+   Link: <a href="https://storage.knaw.nl/2022-08/20180115-replication-studies-web.pdf" target="_blank" rel="noopener noreferrer nofollow">https://storage.knaw.nl/2022-08/20180115-replication-studies-web.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>reproducibility in the empirical sciencesStatistical challenges in assessing and fostering the reproducibility of scientific results: Sum...</p></details>
 
 ### Additional References
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: cra.org  
-   Link:<a href="https://cra.org/crn/2019/06/nas-report-on-reproducibility-and-repeatability-in-science/" target="_blank" rel="noopener noreferrer nofollow">https://cra.org/crn/2019/06/nas-report-on-reproducibility-and-repeatability-in-science/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>NAS Report on Reproducibility and Repeatability in ScienceThe report provides a series of recommendations to scientists, funding agencies...</p></details>
+   Link: <a href="https://cra.org/crn/2019/06/nas-report-on-reproducibility-and-repeatability-in-science/" target="_blank" rel="noopener noreferrer nofollow">https://cra.org/crn/2019/06/nas-report-on-reproducibility-and-repeatability-in-science/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NAS Report on Reproducibility and Repeatability in ScienceThe report provides a series of recommendations to scientists, funding agencies...</p></details>
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: bioterio.facmed.unam.mx  
-   Link:<a href="https://bioterio.facmed.unam.mx/docs/Libro_Reproducibilidad_y_replicabilidad_NAS-press.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bioterio.facmed.unam.mx/docs/Libro_Reproducibilidad_y_replicabilidad_NAS-press.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>and Replicability in ScienceConsensus Study Reports published by the National Academies of Sciences. Engineering, and Medicine document...</p></details>
+   Link: <a href="https://bioterio.facmed.unam.mx/docs/Libro_Reproducibilidad_y_replicabilidad_NAS-press.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bioterio.facmed.unam.mx/docs/Libro_Reproducibilidad_y_replicabilidad_NAS-press.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>and Replicability in ScienceConsensus Study Reports published by the National Academies of Sciences. Engineering, and Medicine document...</p></details>
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIReproducibility and Replicability in Science  
-   Link:<a href="https://www.ncbi.nlm.nih.gov/books/NBK547537/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK547537/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>and Replicability in Science - NCBI Bookshelf7 May 2019 — This report provides recommendations to researchers, academic institutions, jou...</p></details>
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK547537/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK547537/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Replicability in Science - NCBI Bookshelf7 May 2019 — This report provides recommendations to researchers, academic institutions, jou...</p></details>
    Published: May 2019  
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: goodreads.com  
    Title: 48984704 reproducibility and replicability in science  
-   Link:<a href="https://www.goodreads.com/book/show/48984704-reproducibility-and-replicability-in-science" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/book/show/48984704-reproducibility-and-replicability-in-science</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Reproducibility and Replicability in Science16 Oct 2019 — This report provides recommendations to researchers, academic institutions, jou...</p></details>
+   Link: <a href="https://www.goodreads.com/book/show/48984704-reproducibility-and-replicability-in-science" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/book/show/48984704-reproducibility-and-replicability-in-science</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reproducibility and Replicability in Science16 Oct 2019 — This report provides recommendations to researchers, academic institutions, jou...</p></details>
 
-12.<a id="endnote-12"></a>
+12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link:<a href="https://www.facebook.com/neurosciencenews/posts/new-report-examines-reproducibility-and-replicability-in-sciencewhile-computatio/10156261128068803/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/neurosciencenews/posts/new-report-examines-reproducibility-and-replicability-in-sciencewhile-computatio/10156261128068803/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>ic disruptiveness, persistent reproducibility problems, and...Read more...</p></details>
+   Link: <a href="https://www.facebook.com/neurosciencenews/posts/new-report-examines-reproducibility-and-replicability-in-sciencewhile-computatio/10156261128068803/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/neurosciencenews/posts/new-report-examines-reproducibility-and-replicability-in-sciencewhile-computatio/10156261128068803/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ic disruptiveness, persistent reproducibility problems, and...Read more...</p></details>
 
-13.<a id="endnote-13"></a>
+13. <a id="endnote-13"></a>
    Source: vimeo.com  
-   Link:<a href="https://vimeo.com/335923468" target="_blank" rel="noopener noreferrer nofollow">https://vimeo.com/335923468</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Report&quot; by The National Academies on Vimeo, the home for high...</p></details>
+   Link: <a href="https://vimeo.com/335923468" target="_blank" rel="noopener noreferrer nofollow">https://vimeo.com/335923468</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Report&quot; by The National Academies on Vimeo, the home for high...</p></details>
 
-14.<a id="endnote-14"></a>
+14. <a id="endnote-14"></a>
    Source: hdsr.mitpress.mit.edu  
    Title: nas report highlights  
-   Link:<a href="https://hdsr.mitpress.mit.edu/pub/nas-report-highlights" target="_blank" rel="noopener noreferrer nofollow">https://hdsr.mitpress.mit.edu/pub/nas-report-highlights</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>and Replicability in Science: Report Highlights2020 — A National Academies&#x27; report, Reproducibility and Replicability in Science (2019)...</p></details>
+   Link: <a href="https://hdsr.mitpress.mit.edu/pub/nas-report-highlights" target="_blank" rel="noopener noreferrer nofollow">https://hdsr.mitpress.mit.edu/pub/nas-report-highlights</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Replicability in Science: Report Highlights2020 — A National Academies&#x27; report, Reproducibility and Replicability in Science (2019)...</p></details>
 
-15.<a id="endnote-15"></a>
+15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link:<a href="https://www.youtube.com/watch?v=BD-CUcE-GDw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BD-CUcE-GDw</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Reproducibility and Replicability - Harvey Fineberg...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=BD-CUcE-GDw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BD-CUcE-GDw</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Reproducibility and Replicability - Harvey Fineberg...</p></details>
 
-16.<a id="endnote-16"></a>
+16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: Is there a reproducibility crisis in science?  
-   Link:<a href="https://www.youtube.com/watch?v=FpCrY7x5nEE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FpCrY7x5nEE</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>4 In scientific method we don&#x27;t just trust: or why replication has more value than discovery...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=FpCrY7x5nEE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FpCrY7x5nEE</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 In scientific method we don&#x27;t just trust: or why replication has more value than discovery...</p></details>
 
-17.<a id="endnote-17"></a>
+17. <a id="endnote-17"></a>
    Source: ncbi.nlm.nih.gov  
-   Link:<a href="https://www.ncbi.nlm.nih.gov/books/NBK547531/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK547531/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Reproducibility and Replicability in Science - NCBIOne of the pathways by which scientists confirm the validity of a new finding or disco...</p></details>
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK547531/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK547531/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reproducibility and Replicability in Science - NCBIOne of the pathways by which scientists confirm the validity of a new finding or disco...</p></details>

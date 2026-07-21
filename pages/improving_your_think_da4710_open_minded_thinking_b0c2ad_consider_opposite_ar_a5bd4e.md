@@ -280,15 +280,15 @@ image: /assets/images/improving_your_think_da4710_open_minded_thinking_b0c2ad_co
 
 ## Introduction
 
-Heated arguments rarely fail because people have no arguments. They fail because each side becomes better at defending its existing position than at testing it. One of the simplest evidence-based ways to interrupt this pattern is the **consider-the-opposite** technique: instead of asking yourself to "be unbiased", deliberately ask what you would expect to see if your current view were mistaken. Research in reasoning and actively [open-minded thinking]({{ 'open-mind/' | relative_url }}) suggests that this kind of directed search for disconfirming evidence is often more effective than a vague intention to be fair because it changes what you actively look for, question and remember.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9966223/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2UCSD Pages]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCActively Open-Minded Thinking and Its Measurement</span><span class="citation-popover-snippet">by KE Stanovich · 2023 · Cited by 131 — Actively open-minded thinking (AOT) is measured by items that tap the willingness to consider...</span></span></span>
+Heated arguments rarely fail because people have no arguments. They fail because each side becomes better at defending its existing position than at testing it. One of the simplest evidence-based ways to interrupt this pattern is the **consider-the-opposite** technique: instead of asking yourself to "be unbiased", deliberately ask what you would expect to see if your current view were mistaken. Research in reasoning and actively [open-minded thinking]({{ 'open-mind/' | relative_url }}) suggests that this kind of directed search for disconfirming evidence is often more effective than a vague intention to be fair because it changes what you actively look for, question and remember. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9966223/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2UCSD Pages]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCActively Open-Minded Thinking and Its Measurement</span><span class="citation-popover-snippet">by KE Stanovich · 2023 · Cited by 131 — Actively open-minded thinking (AOT) is measured by items that tap the willingness to consider...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_open_minded_thinking_b0c2ad_consider_opposite_ar_a5bd4e-Illustration-1-dark.svg" | relative_url }}" alt="Opposite Test illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_open_minded_thinking_b0c2ad_consider_opposite_ar_a5bd4e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_open_minded_thinking_b0c2ad_consider_opposite_ar_a5bd4e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within real disagreements, the goal is not to argue against yourself for the sake of balance. The goal is to expose blind spots before they harden into certainty. The technique works best when emotions are high precisely because those are the moments when people are most likely to scrutinise opposing evidence far more critically than evidence supporting their own side.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fbaum.unc.edu/teaching/articles/jpsp-1979-Lord-Ross-Lepper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbaum.unc.edu">[Frank Baumgartner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbaum.unc.edu</span><span class="citation-popover-title">Frank Baumgartner Biased Assimilation and Attitude Polarization: The Effects</span><span class="citation-popover-snippet">ROSS, AND M. LEPPER attitudes and beliefs did change after each new piece of evidence was presented, and from the beginning to the end of...</span></span></span>
+Within real disagreements, the goal is not to argue against yourself for the sake of balance. The goal is to expose blind spots before they harden into certainty. The technique works best when emotions are high precisely because those are the moments when people are most likely to scrutinise opposing evidence far more critically than evidence supporting their own side. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fbaum.unc.edu/teaching/articles/jpsp-1979-Lord-Ross-Lepper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbaum.unc.edu">[Frank Baumgartner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbaum.unc.edu</span><span class="citation-popover-title">Frank Baumgartner Biased Assimilation and Attitude Polarization: The Effects</span><span class="citation-popover-snippet">ROSS, AND M. LEPPER attitudes and beliefs did change after each new piece of evidence was presented, and from the beginning to the end of...</span></span></span>
 
 ## Why trying to be unbiased is often too weak
 
-Simply telling yourself to "keep an open mind" leaves your existing habits of reasoning largely unchanged. Confirmation bias and myside bias do not usually operate through conscious dishonesty. Instead, they influence which questions feel worth asking, which flaws seem important, and which explanations appear naturally plausible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pages.ucsd.edu">[UCSD Pages+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pages.ucsd.edu</span><span class="citation-popover-title">nickerson Confirmation Bias</span><span class="citation-popover-snippet">UCSD PagesConfirmation Bias: A Ubiquitous Phenomenon in Many...by RS Nickerson · 1998 · Cited by 12458 — Confirmation bias, as the term...</span></span></span>
+Simply telling yourself to "keep an open mind" leaves your existing habits of reasoning largely unchanged. Confirmation bias and myside bias do not usually operate through conscious dishonesty. Instead, they influence which questions feel worth asking, which flaws seem important, and which explanations appear naturally plausible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pages.ucsd.edu">[UCSD Pages+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pages.ucsd.edu</span><span class="citation-popover-title">nickerson Confirmation Bias</span><span class="citation-popover-snippet">UCSD PagesConfirmation Bias: A Ubiquitous Phenomenon in Many...by RS Nickerson · 1998 · Cited by 12458 — Confirmation bias, as the term...</span></span></span>
 
 The consider-the-opposite prompt changes the task itself. Rather than asking:
 
@@ -298,7 +298,7 @@ it asks:
 
 > "If my conclusion were wrong, what evidence or events should I expect to find?"
 
-That subtle shift matters because it directs attention towards evidence that your mind might otherwise ignore. Studies of actively open-minded thinking consistently describe a willingness to seek contradictory evidence and postpone premature closure as central features of better judgement rather than optional personality traits.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9966223/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCActively Open-Minded Thinking and Its Measurement</span><span class="citation-popover-snippet">by KE Stanovich · 2023 · Cited by 131 — Actively open-minded thinking (AOT) is measured by items that tap the willingness to consider...</span></span></span>
+That subtle shift matters because it directs attention towards evidence that your mind might otherwise ignore. Studies of actively open-minded thinking consistently describe a willingness to seek contradictory evidence and postpone premature closure as central features of better judgement rather than optional personality traits. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9966223/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCActively Open-Minded Thinking and Its Measurement</span><span class="citation-popover-snippet">by KE Stanovich · 2023 · Cited by 131 — Actively open-minded thinking (AOT) is measured by items that tap the willingness to consider...</span></span></span>
 
 This approach also reduces the temptation to confuse confidence with accuracy. During emotionally charged disagreements, increased confidence often reflects successful self-defence rather than improved understanding.
 
@@ -325,7 +325,7 @@ Useful [prompts]({{ 'prompts/' | relative_url }}) include:
 
 Notice that none of these questions require abandoning your current view. They require identifying conditions under which you would be willing to revise it.
 
-This distinction is important because genuine open-mindedness is conditional rather than indiscriminate. It asks whether your belief is responsive to evidence, not whether every competing claim deserves equal confidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9966223/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCActively Open-Minded Thinking and Its Measurement</span><span class="citation-popover-snippet">by KE Stanovich · 2023 · Cited by 131 — Actively open-minded thinking (AOT) is measured by items that tap the willingness to consider...</span></span></span>
+This distinction is important because genuine open-mindedness is conditional rather than indiscriminate. It asks whether your belief is responsive to evidence, not whether every competing claim deserves equal confidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9966223/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCActively Open-Minded Thinking and Its Measurement</span><span class="citation-popover-snippet">by KE Stanovich · 2023 · Cited by 131 — Actively open-minded thinking (AOT) is measured by items that tap the willingness to consider...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_open_minded_thinking_b0c2ad_consider_opposite_ar_a5bd4e-Illustration-2-dark.svg" | relative_url }}" alt="Opposite Test illustration 2" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_open_minded_thinking_b0c2ad_consider_opposite_ar_a5bd4e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_open_minded_thinking_b0c2ad_consider_opposite_ar_a5bd4e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -333,7 +333,7 @@ This distinction is important because genuine open-mindedness is conditional rat
 
 One reason these prompts matter comes from classic work by Charles Lord, Lee Ross and Mark Lepper on the death penalty. Participants who already favoured or opposed capital punishment read the same mixed collection of studies. Instead of moving towards one another, both groups typically became more convinced that they had been right all along.
 
-The striking finding was not that participants ignored contrary evidence entirely. Rather, they evaluated it differently. Evidence supporting their own position was accepted relatively easily, while evidence supporting the opposing position attracted much more detailed criticism. Identical standards were not being applied to both sides.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fbaum.unc.edu/teaching/articles/jpsp-1979-Lord-Ross-Lepper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbaum.unc.edu">[Frank Baumgartner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbaum.unc.edu</span><span class="citation-popover-title">Frank Baumgartner Biased Assimilation and Attitude Polarization: The Effects</span><span class="citation-popover-snippet">ROSS, AND M. LEPPER attitudes and beliefs did change after each new piece of evidence was presented, and from the beginning to the end of...</span></span></span>
+The striking finding was not that participants ignored contrary evidence entirely. Rather, they evaluated it differently. Evidence supporting their own position was accepted relatively easily, while evidence supporting the opposing position attracted much more detailed criticism. Identical standards were not being applied to both sides. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fbaum.unc.edu/teaching/articles/jpsp-1979-Lord-Ross-Lepper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbaum.unc.edu">[Frank Baumgartner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbaum.unc.edu</span><span class="citation-popover-title">Frank Baumgartner Biased Assimilation and Attitude Polarization: The Effects</span><span class="citation-popover-snippet">ROSS, AND M. LEPPER attitudes and beliefs did change after each new piece of evidence was presented, and from the beginning to the end of...</span></span></span>
 
 A consider-the-opposite prompt interrupts precisely this pattern. Before deciding that a contrary study is weak, it encourages asking:
 
@@ -383,9 +383,9 @@ Consider-the-opposite prompts are especially useful when:
 
 </div>
 
-They become less effective when people refuse to imagine any realistic alternative, when group identity makes concession feel like betrayal, or when participants treat the exercise as a rhetorical game rather than a genuine test. Open-minded thinking depends on willingness as well as cognitive skill.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9966223/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCActively Open-Minded Thinking and Its Measurement</span><span class="citation-popover-snippet">by KE Stanovich · 2023 · Cited by 131 — Actively open-minded thinking (AOT) is measured by items that tap the willingness to consider...</span></span></span>
+They become less effective when people refuse to imagine any realistic alternative, when group identity makes concession feel like betrayal, or when participants treat the exercise as a rhetorical game rather than a genuine test. Open-minded thinking depends on willingness as well as cognitive skill. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9966223/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCActively Open-Minded Thinking and Its Measurement</span><span class="citation-popover-snippet">by KE Stanovich · 2023 · Cited by 131 — Actively open-minded thinking (AOT) is measured by items that tap the willingness to consider...</span></span></span>
 
-Another limitation is that generating poor counterarguments does little to reduce bias. Research on argument quality suggests that people often underestimate the strength of opposing positions because they imagine weaker versions than serious advocates actually hold. Whenever possible, the "opposite" should therefore be the strongest credible alternative rather than an easily dismissed caricature.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jasss.org/26/4/7.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jasss.org">[JASSS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jasss.org</span><span class="citation-popover-snippet">The Wisdom of the Small Crowd: Myside Bias and Group...by E Baccini · 2023 · Cited by 15 — The my-side bias is a well-documented co...</span></span></span>
+Another limitation is that generating poor counterarguments does little to reduce bias. Research on argument quality suggests that people often underestimate the strength of opposing positions because they imagine weaker versions than serious advocates actually hold. Whenever possible, the "opposite" should therefore be the strongest credible alternative rather than an easily dismissed caricature. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jasss.org/26/4/7.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jasss.org">[JASSS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jasss.org</span><span class="citation-popover-snippet">The Wisdom of the Small Crowd: Myside Bias and Group...by E Baccini · 2023 · Cited by 15 — The my-side bias is a well-documented co...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/80M2wnPUcoI" title="Stop Binary Thinking, Win Better Debates | Think Again by Adam Grant (Chapter 8)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=80M2wnPUcoI" target="_blank" rel="noopener noreferrer">Stop Binary Thinking, Win Better Debates | Think Again by Adam Grant (Chapter 8)</a></p><p class="youtube-embed-meta">Channel: Kyky&#x27;s TALK BUFFET</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=80M2wnPUcoI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=80M2wnPUcoI">Open on YouTube</a></p></div></div></div>
@@ -398,197 +398,197 @@ The most valuable consider-the-opposite prompt is surprisingly simple:
 
 Unlike "be objective" or "stay open-minded", this question creates a concrete search task. It shifts attention from defending an existing conclusion towards identifying observations that could genuinely change it.
 
-In heated disagreements, that shift is often enough to slow premature certainty. It encourages people to judge both their own position and their opponent's using comparable standards of evidence—a central aim of actively open-minded thinking rather than a demand for [false balance]({{ 'false-balance/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9966223/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2UCSD Pages]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCActively Open-Minded Thinking and Its Measurement</span><span class="citation-popover-snippet">by KE Stanovich · 2023 · Cited by 131 — Actively open-minded thinking (AOT) is measured by items that tap the willingness to consider...</span></span></span>
+In heated disagreements, that shift is often enough to slow premature certainty. It encourages people to judge both their own position and their opponent's using comparable standards of evidence—a central aim of actively open-minded thinking rather than a demand for [false balance]({{ 'false-balance/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9966223/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2UCSD Pages]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCActively Open-Minded Thinking and Its Measurement</span><span class="citation-popover-snippet">by KE Stanovich · 2023 · Cited by 131 — Actively open-minded thinking (AOT) is measured by items that tap the willingness to consider...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to The Question That Interrupts Defensive Reasoning. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to The Question That Interrupts Defensive Reasoning. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wlagzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
-</h4>
-<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
+        </h4>
+        <p class="fr-book-author">By Julia Galef</p>
         
-<p class="fr-book-desc">Shows why people defend existing beliefs and how defensive reasoning develops.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly addresses actively seeking disconfirming evidence and updating beliefs.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-</h4>
-<p class="fr-book-author">By Daniel Kahneman</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A1NYvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
+        </h4>
+        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-<p class="fr-book-desc">Explains confirmation bias, overconfidence, and reasoning errors that consider-the-opposite techniques are designed to counter.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Shows why people defend existing beliefs and how defensive reasoning develops.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Minds+Change+by+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Minds Change on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QTDkDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Minds Change" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=How+Minds+Change+by+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Minds Change">How Minds Change</a>
-</h4>
-<p class="fr-book-author">By David McRaney</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Minds+Change+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Minds Change on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QTDkDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Minds Change" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=How+Minds+Change+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Minds Change">How Minds Change</a>
+        </h4>
+        <p class="fr-book-author">By David McRaney</p>
         
-<p class="fr-book-desc">Explores evidence-based approaches to reducing defensiveness and encouraging open-minded reasoning.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=How+Minds+Change+by+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explores evidence-based approaches to reducing defensiveness and encouraging open-minded reasoning.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=How+Minds+Change+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=45OmCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
-</h4>
-<p class="fr-book-author">By Philip Tetlock, Dan Gardner</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+        </h4>
+        <p class="fr-book-author">By Daniel Kahneman</p>
         
-<p class="fr-book-desc">Highlights habits of calibrated thinking, belief revision, and testing assumptions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains confirmation bias, overconfidence, and reasoning errors that consider-the-opposite techniques are designed to counter.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me)</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Minds+Change&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Minds Change</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scout Mindset</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me)</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Minds+Change&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Minds Change</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Political Psychology Framed Art Pri Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/c3043224cef26a887498.jpg' | relative_url }}" alt="Listing image for Political Psychology Framed Art Pri Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Political Psychology Framed Art Pri Framed Wall Art Poster Canvas Print Picture</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: psychology poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Political Psychology Framed Art Pri Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/c3043224cef26a887498.jpg' | relative_url }}" alt="Listing image for Political Psychology Framed Art Pri Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Political Psychology Framed Art Pri Framed Wall Art Poster Canvas Print Picture</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: psychology poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Psychology A4 Poster Print Lab Rat, Classical Conditioning Art for Psychologist"><img src="{{ '/assets/images/marketplace-covers/b9d6a80e381347dbe1b9.jpg' | relative_url }}" alt="Listing image for Psychology A4 Poster Print Lab Rat, Classical Conditioning Art for Psychologist" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Psychology A4 Poster Print Lab Rat, Classical Conditioning Art for Psychologist</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: psychology poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Psychology A4 Poster Print Lab Rat, Classical Conditioning Art for Psychologist"><img src="{{ '/assets/images/marketplace-covers/b9d6a80e381347dbe1b9.jpg' | relative_url }}" alt="Listing image for Psychology A4 Poster Print Lab Rat, Classical Conditioning Art for Psychologist" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Psychology A4 Poster Print Lab Rat, Classical Conditioning Art for Psychologist</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: psychology poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Psychologist Psychology Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ff8fe0c130a32448cb1e.jpg' | relative_url }}" alt="Listing image for Psychologist Psychology Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Psychologist Psychology Framed Wall Art Poster Canvas Print Picture</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: psychology poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Psychologist Psychology Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ff8fe0c130a32448cb1e.jpg' | relative_url }}" alt="Listing image for Psychologist Psychology Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Psychologist Psychology Framed Wall Art Poster Canvas Print Picture</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: psychology poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/917838c5c8dbbd984648.jpg' | relative_url }}" alt="Listing image for Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: psychology poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/917838c5c8dbbd984648.jpg' | relative_url }}" alt="Listing image for Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: psychology poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="opposite-test-5d4db9-the-question-that-interrupts-defensive-reasoning-improving-your-think-psychology-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -604,7 +604,7 @@ In heated disagreements, that shift is often enough to slow premature certainty.
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -624,7 +624,7 @@ In heated disagreements, that shift is often enough to slow premature certainty.
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -656,7 +656,7 @@ In heated disagreements, that shift is often enough to slow premature certainty.
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -708,7 +708,7 @@ In heated disagreements, that shift is often enough to slow premature certainty.
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -753,7 +753,7 @@ In heated disagreements, that shift is often enough to slow premature certainty.
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -794,126 +794,126 @@ In heated disagreements, that shift is often enough to slow premature certainty.
 
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCActively Open-Minded Thinking and Its Measurement  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9966223/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9966223/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>by KE Stanovich · 2023 · Cited by 131 — Actively open-minded thinking (AOT) is measured by items that tap the willingness to consider...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9966223/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9966223/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by KE Stanovich · 2023 · Cited by 131 — Actively open-minded thinking (AOT) is measured by items that tap the willingness to consider...</p></details>
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: pages.ucsd.edu  
    Title: nickerson Confirmation Bias  
-   Link:<a href="https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>UCSD PagesConfirmation Bias: A Ubiquitous Phenomenon in Many...by RS Nickerson · 1998 · Cited by 12458 — Confirmation bias, as the term...</p></details>
+   Link: <a href="https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UCSD PagesConfirmation Bias: A Ubiquitous Phenomenon in Many...by RS Nickerson · 1998 · Cited by 12458 — Confirmation bias, as the term...</p></details>
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/232555483_Biased_assimilation_and_attitude_polarization_The_effects_of_prior_theories_on_subsequently_considered_evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232555483_Biased_assimilation_and_attitude_polarization_The_effects_of_prior_theories_on_subsequently_considered_evidence</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>[Biased assimilation](&amp;#123;&amp;#123; &#x27;mixed-evidence-accf68/&#x27; | relative_url &amp;#125;&amp;#125;) and attitude polarization: The effects of...People who hold strong opinions on complex social issues are likely to e...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/232555483_Biased_assimilation_and_attitude_polarization_The_effects_of_prior_theories_on_subsequently_considered_evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232555483_Biased_assimilation_and_attitude_polarization_The_effects_of_prior_theories_on_subsequently_considered_evidence</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>[Biased assimilation](&amp;#123;&amp;#123; &#x27;mixed-evidence-accf68/&#x27; | relative_url &amp;#125;&amp;#125;) and attitude polarization: The effects of...People who hold strong opinions on complex social issues are likely to e...</p></details>
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/258127972_Myside_Bias_Rational_Thinking_and_Intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/258127972_Myside_Bias_Rational_Thinking_and_Intelligence</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Myside Bias, Rational Thinking, and IntelligenceMyside bias occurs when people evaluate evidence, generate evidence, and test hypot...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/258127972_Myside_Bias_Rational_Thinking_and_Intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/258127972_Myside_Bias_Rational_Thinking_and_Intelligence</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Myside Bias, Rational Thinking, and IntelligenceMyside bias occurs when people evaluate evidence, generate evidence, and test hypot...</p></details>
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: cambridge.org  
-   Link:<a href="https://www.cambridge.org/core/journals/judgment-and-decision-making/article/role-of-actively-openminded-thinking-in-information-acquisition-accuracy-and-calibration/1D78BE16863F3F6B2D1C8B5307C9C3B3" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/judgment-and-decision-making/article/role-of-actively-openminded-thinking-in-information-acquisition-accuracy-and-calibration/1D78BE16863F3F6B2D1C8B5307C9C3B3</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Thus, we expected it to be the most predictive...Read more...</p></details>
+   Link: <a href="https://www.cambridge.org/core/journals/judgment-and-decision-making/article/role-of-actively-openminded-thinking-in-information-acquisition-accuracy-and-calibration/1D78BE16863F3F6B2D1C8B5307C9C3B3" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/judgment-and-decision-making/article/role-of-actively-openminded-thinking-in-information-acquisition-accuracy-and-calibration/1D78BE16863F3F6B2D1C8B5307C9C3B3</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Thus, we expected it to be the most predictive...Read more...</p></details>
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: jasss.org  
-   Link:<a href="https://www.jasss.org/26/4/7.html" target="_blank" rel="noopener noreferrer nofollow">https://www.jasss.org/26/4/7.html</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Wisdom of the Small Crowd: Myside Bias and Group...by E Baccini · 2023 · Cited by 15 — The my-side bias is a well-documented co...</p></details>
+   Link: <a href="https://www.jasss.org/26/4/7.html" target="_blank" rel="noopener noreferrer nofollow">https://www.jasss.org/26/4/7.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Wisdom of the Small Crowd: Myside Bias and Group...by E Baccini · 2023 · Cited by 15 — The my-side bias is a well-documented co...</p></details>
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/265394044_The_Role_of_Actively_Open-Minded_Thinking_in_Information_Acquisition_Accuracy_and_Calibration" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/265394044_The_Role_of_Actively_Open-Minded_Thinking_in_Information_Acquisition_Accuracy_and_Calibration</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>tendency to maximize or satisfice when making decisions.Read more...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/265394044_The_Role_of_Actively_Open-Minded_Thinking_in_Information_Acquisition_Accuracy_and_Calibration" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/265394044_The_Role_of_Actively_Open-Minded_Thinking_in_Information_Acquisition_Accuracy_and_Calibration</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>tendency to maximize or satisfice when making decisions.Read more...</p></details>
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: cambridge.org  
-   Link:<a href="https://www.cambridge.org/core/books/cognitive-science-of-belief/building-better-beliefs-through-actively-openminded-thinking/140F5F32706B3B2CBC5A83CC99F174A4" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/cognitive-science-of-belief/building-better-beliefs-through-actively-openminded-thinking/140F5F32706B3B2CBC5A83CC99F174A4</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>s by increasing the depth and – more importantly – the breadth of information...Read more...</p></details>
+   Link: <a href="https://www.cambridge.org/core/books/cognitive-science-of-belief/building-better-beliefs-through-actively-openminded-thinking/140F5F32706B3B2CBC5A83CC99F174A4" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/cognitive-science-of-belief/building-better-beliefs-through-actively-openminded-thinking/140F5F32706B3B2CBC5A83CC99F174A4</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>s by increasing the depth and – more importantly – the breadth of information...Read more...</p></details>
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: fbaum.unc.edu  
    Title: Frank Baumgartner Biased Assimilation and Attitude Polarization: The Effects  
-   Link:<a href="https://fbaum.unc.edu/teaching/articles/jpsp-1979-Lord-Ross-Lepper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fbaum.unc.edu/teaching/articles/jpsp-1979-Lord-Ross-Lepper.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>ROSS, AND M. LEPPER attitudes and beliefs did change after each new piece of evidence was presented, and from the beginning to the end of...</p></details>
+   Link: <a href="https://fbaum.unc.edu/teaching/articles/jpsp-1979-Lord-Ross-Lepper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fbaum.unc.edu/teaching/articles/jpsp-1979-Lord-Ross-Lepper.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ROSS, AND M. LEPPER attitudes and beliefs did change after each new piece of evidence was presented, and from the beginning to the end of...</p></details>
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: tandfonline.com  
-   Link:<a href="https://www.tandfonline.com/doi/abs/10.1080/13546783.2024.2360491" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/13546783.2024.2360491</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis Onlinemyside bias and [uncertainty](&amp;#123;&amp;#123; &#x27;uncertainty/&#x27; | relative_url &amp;#125;&amp;#125;) aversion: Thinking &amp; Reasoningby J Baron · 2024 · Cited by 14 — Actively open-minded t...</p></details>
+   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/13546783.2024.2360491" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/13546783.2024.2360491</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis Onlinemyside bias and [uncertainty](&amp;#123;&amp;#123; &#x27;uncertainty/&#x27; | relative_url &amp;#125;&amp;#125;) aversion: Thinking &amp; Reasoningby J Baron · 2024 · Cited by 14 — Actively open-minded t...</p></details>
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Confirmation bias  
-   Link:<a href="https://en.wikipedia.org/wiki/Confirmation_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Confirmation_bias</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Confirmation biasConfirmation bias is the tendency to search for, interpret, favor and recall information in a way that confirms or su...</p></details>
+   Link: <a href="https://en.wikipedia.org/wiki/Confirmation_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Confirmation_bias</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Confirmation biasConfirmation bias is the tendency to search for, interpret, favor and recall information in a way that confirms or su...</p></details>
 
-12.<a id="endnote-12"></a>
+12. <a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10623627/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10623627/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Parsimony in Bias Research: A Proposed Common...by A Oeberst · 2023 · Cited by 213 — We propose that different biases even share the sam...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10623627/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10623627/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Parsimony in Bias Research: A Proposed Common...by A Oeberst · 2023 · Cited by 213 — We propose that different biases even share the sam...</p></details>
 
-13.<a id="endnote-13"></a>
+13. <a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3735824/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3735824/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Illusion of Argument Justification - PMC - NIHby M Fisher · 2013 · Cited by 72 — Thus, a potential source of greater objectivity is “cons...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3735824/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3735824/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusion of Argument Justification - PMC - NIHby M Fisher · 2013 · Cited by 72 — Thus, a potential source of greater objectivity is “cons...</p></details>
 
 ### Additional References
 
-14.<a id="endnote-14"></a>
+14. <a id="endnote-14"></a>
    Source: preprints.apsanet.org  
    Title: confronting core issues a critical test of attitude polarization  
-   Link:<a href="https://preprints.apsanet.org/engage/api-gateway/apsa/assets/orp/resource/item/63d560216bc5ca3b341e2d73/original/confronting-core-issues-a-critical-test-of-attitude-polarization.pdf" target="_blank" rel="noopener noreferrer nofollow">https://preprints.apsanet.org/engage/api-gateway/apsa/assets/orp/resource/item/63d560216bc5ca3b341e2d73/original/confronting-core-issues-a-critical-test-of-attitude-polarization.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Test of Attitude Polarizationby Y Velez · 2023 · Cited by 13 — A long-standing debate in the political psychology literature con...</p></details>
+   Link: <a href="https://preprints.apsanet.org/engage/api-gateway/apsa/assets/orp/resource/item/63d560216bc5ca3b341e2d73/original/confronting-core-issues-a-critical-test-of-attitude-polarization.pdf" target="_blank" rel="noopener noreferrer nofollow">https://preprints.apsanet.org/engage/api-gateway/apsa/assets/orp/resource/item/63d560216bc5ca3b341e2d73/original/confronting-core-issues-a-critical-test-of-attitude-polarization.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Test of Attitude Polarizationby Y Velez · 2023 · Cited by 13 — A long-standing debate in the political psychology literature con...</p></details>
 
-15.<a id="endnote-15"></a>
+15. <a id="endnote-15"></a>
    Source: facebook.com  
    Title: A strategy that works is: ask yourself how you'd have reacted  
-   Link:<a href="https://www.facebook.com/groups/polymathmafia/posts/2669982003179854/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/polymathmafia/posts/2669982003179854/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Strategies for Overcoming Confirmation Bias in Decision...Michael Keenan writes: tl;dr: Merely striving to be unbiased doesn&#x27;t fix confi...</p></details>
+   Link: <a href="https://www.facebook.com/groups/polymathmafia/posts/2669982003179854/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/polymathmafia/posts/2669982003179854/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Strategies for Overcoming Confirmation Bias in Decision...Michael Keenan writes: tl;dr: Merely striving to be unbiased doesn&#x27;t fix confi...</p></details>
 
-16.<a id="endnote-16"></a>
+16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link:<a href="https://www.reddit.com/r/science/comments/9mnj5o/myside_bias_makes_it_difficult_for_us_to_see_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/science/comments/9mnj5o/myside_bias_makes_it_difficult_for_us_to_see_the/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>disagree with, finds a new study in the Journal of Cognitive Psychology.Read more...</p></details>
+   Link: <a href="https://www.reddit.com/r/science/comments/9mnj5o/myside_bias_makes_it_difficult_for_us_to_see_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/science/comments/9mnj5o/myside_bias_makes_it_difficult_for_us_to_see_the/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>disagree with, finds a new study in the Journal of Cognitive Psychology.Read more...</p></details>
 
-17.<a id="endnote-17"></a>
+17. <a id="endnote-17"></a>
    Source: research.rug.nl  
    Title: qt8nq023zs noSplash 944c2b8ba5ca05bb8ef709bc02e1d089  
-   Link:<a href="https://research.rug.nl/files/1266847446/qt8nq023zs_noSplash_944c2b8ba5ca05bb8ef709bc02e1d089.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.rug.nl/files/1266847446/qt8nq023zs_noSplash_944c2b8ba5ca05bb8ef709bc02e1d089.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Groningen Research PortalUniversity of Groningen The Myside Bias in Argument...by E Baccini · 2022 · Cited by 4 — In the literature, the...</p></details>
+   Link: <a href="https://research.rug.nl/files/1266847446/qt8nq023zs_noSplash_944c2b8ba5ca05bb8ef709bc02e1d089.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.rug.nl/files/1266847446/qt8nq023zs_noSplash_944c2b8ba5ca05bb8ef709bc02e1d089.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Groningen Research PortalUniversity of Groningen The Myside Bias in Argument...by E Baccini · 2022 · Cited by 4 — In the literature, the...</p></details>
 
-18.<a id="endnote-18"></a>
+18. <a id="endnote-18"></a>
    Source: sjdm.org  
-   Link:<a href="https://sjdm.org/dmidi/Actively_Open-Minded_Thinking_Beliefs.html" target="_blank" rel="noopener noreferrer nofollow">https://sjdm.org/dmidi/Actively_Open-Minded_Thinking_Beliefs.html</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>ciding&quot;) is good. This scale is based on a much longer version...Read more...</p></details>
+   Link: <a href="https://sjdm.org/dmidi/Actively_Open-Minded_Thinking_Beliefs.html" target="_blank" rel="noopener noreferrer nofollow">https://sjdm.org/dmidi/Actively_Open-Minded_Thinking_Beliefs.html</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ciding&quot;) is good. This scale is based on a much longer version...Read more...</p></details>
 
-19.<a id="endnote-19"></a>
+19. <a id="endnote-19"></a>
    Source: semanticscholar.org  
-   Link:<a href="https://www.semanticscholar.org/paper/Biased-Assimilation-and-Attitude-Polarization%3A-The-Lord-Ross/16ae4cf82e87451492d0eb12190acfb63294e305" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Biased-Assimilation-and-Attitude-Polarization%3A-The-Lord-Ross/16ae4cf82e87451492d0eb12190acfb63294e305</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Biased Assimilation and Attitude Polarization: The Effects...1 Nov 1979 — People who hold strong opinions on complex social issues are l...</p></details>
+   Link: <a href="https://www.semanticscholar.org/paper/Biased-Assimilation-and-Attitude-Polarization%3A-The-Lord-Ross/16ae4cf82e87451492d0eb12190acfb63294e305" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Biased-Assimilation-and-Attitude-Polarization%3A-The-Lord-Ross/16ae4cf82e87451492d0eb12190acfb63294e305</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Biased Assimilation and Attitude Polarization: The Effects...1 Nov 1979 — People who hold strong opinions on complex social issues are l...</p></details>
 
-20.<a id="endnote-20"></a>
+20. <a id="endnote-20"></a>
    Source: sjdm.org  
-   Link:<a href="https://sjdm.org/~jbaron/ms/talks/aot.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sjdm.org/~jbaron/ms/talks/aot.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>hould take into consideration evidence that goes...Read more...</p></details>
+   Link: <a href="https://sjdm.org/~jbaron/ms/talks/aot.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sjdm.org/~jbaron/ms/talks/aot.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>hould take into consideration evidence that goes...Read more...</p></details>
 
-21.<a id="endnote-21"></a>
+21. <a id="endnote-21"></a>
    Source: uclascnlab.com  
-   Link:<a href="https://www.uclascnlab.com/s/Dolbier-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.uclascnlab.com/s/Dolbier-2025.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>UCLA SCN LabOpen-Mindedness: An Integrative Review of Interventionsby SY Dolbier · 2024 · Cited by 26 — Interventions can promote open-mi...</p></details>
+   Link: <a href="https://www.uclascnlab.com/s/Dolbier-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.uclascnlab.com/s/Dolbier-2025.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UCLA SCN LabOpen-Mindedness: An Integrative Review of Interventionsby SY Dolbier · 2024 · Cited by 26 — Interventions can promote open-mi...</p></details>
 
-22.<a id="endnote-22"></a>
+22. <a id="endnote-22"></a>
    Source: aura.american.edu  
-   Link:<a href="https://aura.american.edu/articles/thesis/Consider_the_opposite_An_application_of_scientific_thinking_to_mitigate_assimilation_bias/23868252" target="_blank" rel="noopener noreferrer nofollow">https://aura.american.edu/articles/thesis/Consider_the_opposite_An_application_of_scientific_thinking_to_mitigate_assimilation_bias/23868252</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Consider the opposite: An application of scientific thinking...by DD Laughlin · 2001 · Cited by 1 — In 1979, Lord, Ross and Lepper ident...</p></details>
+   Link: <a href="https://aura.american.edu/articles/thesis/Consider_the_opposite_An_application_of_scientific_thinking_to_mitigate_assimilation_bias/23868252" target="_blank" rel="noopener noreferrer nofollow">https://aura.american.edu/articles/thesis/Consider_the_opposite_An_application_of_scientific_thinking_to_mitigate_assimilation_bias/23868252</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Consider the opposite: An application of scientific thinking...by DD Laughlin · 2001 · Cited by 1 — In 1979, Lord, Ross and Lepper ident...</p></details>
 
-23.<a id="endnote-23"></a>
+23. <a id="endnote-23"></a>
    Source: scienceopen.com  
-   Link:<a href="https://www.scienceopen.com/document?vid=a3f5de91-e8e5-4ecd-bba6-33a7a45543b5" target="_blank" rel="noopener noreferrer nofollow">https://www.scienceopen.com/document?vid=a3f5de91-e8e5-4ecd-bba6-33a7a45543b5</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Biased assimilation and attitude polarization: The effects of...Biased assimilation and attitude polarization: The effects of prior theo...</p></details>
+   Link: <a href="https://www.scienceopen.com/document?vid=a3f5de91-e8e5-4ecd-bba6-33a7a45543b5" target="_blank" rel="noopener noreferrer nofollow">https://www.scienceopen.com/document?vid=a3f5de91-e8e5-4ecd-bba6-33a7a45543b5</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Biased assimilation and attitude polarization: The effects of...Biased assimilation and attitude polarization: The effects of prior theo...</p></details>

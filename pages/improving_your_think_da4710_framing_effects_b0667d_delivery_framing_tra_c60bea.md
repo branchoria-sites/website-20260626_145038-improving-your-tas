@@ -280,7 +280,7 @@ image: /assets/images/improving_your_think_da4710_framing_effects_b0667d_deliver
 
 ## Introduction
 
-Delivery [framing]({{ 'framing/' | relative_url }}) changes the question from **“Is this still the best use of our resources?”** to **“How do we get this finished?”** That shift seems harmless, but it can keep weak projects alive long after their original business case has eroded. Once delivery becomes the assumed objective, stopping, redesigning or replacing the project starts to look like failure rather than sound judgement. Research on escalation of commitment, framing effects and project decision-making shows that people often continue investing in underperforming initiatives because the decision is framed around completing an existing commitment instead of reassessing future value.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pmi.org/learning/library/psychology-project-termination-decision-maker-5914" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmi.org">[Project Management Institute+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmi.org</span><span class="citation-popover-title">psychology project termination decision maker 5914</span><span class="citation-popover-snippet">Project Management InstituteThe psychology of project termination28 Oct 2013 — This paper presents recent research on the topic of escala...</span></span></span>
+Delivery [framing]({{ 'framing/' | relative_url }}) changes the question from **“Is this still the best use of our resources?”** to **“How do we get this finished?”** That shift seems harmless, but it can keep weak projects alive long after their original business case has eroded. Once delivery becomes the assumed objective, stopping, redesigning or replacing the project starts to look like failure rather than sound judgement. Research on escalation of commitment, framing effects and project decision-making shows that people often continue investing in underperforming initiatives because the decision is framed around completing an existing commitment instead of reassessing future value. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pmi.org/learning/library/psychology-project-termination-decision-maker-5914" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmi.org">[Project Management Institute+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmi.org</span><span class="citation-popover-title">psychology project termination decision maker 5914</span><span class="citation-popover-snippet">Project Management InstituteThe psychology of project termination28 Oct 2013 — This paper presents recent research on the topic of escala...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_framing_effects_b0667d_delivery_framing_tra_c60bea-Illustration-1-dark.svg" | relative_url }}" alt="Delivery Trap illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_framing_effects_b0667d_delivery_framing_tra_c60bea-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_framing_effects_b0667d_delivery_framing_tra_c60bea-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -292,7 +292,7 @@ Projects accumulate momentum through investment, planning, public commitments an
 
 As a result, conversations subtly change. Instead of asking whether expected future benefits still exceed future costs, meetings revolve around delivery dates, implementation risks and execution plans. The original investment decision quietly disappears from view.
 
-This is an important distinction because rational decisions should depend on **future consequences**, not on resources that have already been spent. Yet delivery framing encourages people to evaluate success by whether the original promise is honoured instead of whether continuing remains worthwhile. Research on escalation of commitment consistently finds that organisations often continue funding failing projects despite evidence that expected returns have deteriorated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pmi.org/learning/library/psychology-project-termination-decision-maker-5914" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmi.org">[Project Management Institute+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmi.org</span><span class="citation-popover-title">psychology project termination decision maker 5914</span><span class="citation-popover-snippet">Project Management InstituteThe psychology of project termination28 Oct 2013 — This paper presents recent research on the topic of escala...</span></span></span>
+This is an important distinction because rational decisions should depend on **future consequences**, not on resources that have already been spent. Yet delivery framing encourages people to evaluate success by whether the original promise is honoured instead of whether continuing remains worthwhile. Research on escalation of commitment consistently finds that organisations often continue funding failing projects despite evidence that expected returns have deteriorated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pmi.org/learning/library/psychology-project-termination-decision-maker-5914" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmi.org">[Project Management Institute+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmi.org</span><span class="citation-popover-title">psychology project termination decision maker 5914</span><span class="citation-popover-snippet">Project Management InstituteThe psychology of project termination28 Oct 2013 — This paper presents recent research on the topic of escala...</span></span></span>
 
 The psychological effect is powerful because completing a project offers an obvious, concrete objective. Reopening the decision introduces [uncertainty]({{ 'uncertainty/' | relative_url }}), political disagreement and the possibility that earlier choices were mistaken. Delivery therefore feels responsible even when reassessment would create greater value.
 
@@ -304,10 +304,10 @@ A manager who keeps a project moving appears decisive, reliable and committed. A
 
 Several well-established [mechanisms]({{ 'mechanisms/' | relative_url }}) reinforce this tendency.
 
-* **[Sunk costs]({{ 'sunk-costs/' | relative_url }}) become psychologically relevant.** Previous spending cannot be recovered, but people naturally feel pressure to justify earlier investments. This makes further investment seem easier to defend than accepting that past costs cannot be changed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedecisionlab.com/biases/the-sunk-cost-fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Decision LabThe Sunk Cost FallacyThe sunk cost fallacy is our tendency to follow through with something that we&#x27;ve already invested h...</span></span></span>
-* **Losses become more salient than gains.** Cancelling often feels like locking in failure, whereas continuing preserves the possibility of eventual success. Prospect theory predicts greater willingness to accept risk when people perceive themselves as facing losses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Escalation_of_commitment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Escalation of commitment</span><span class="citation-popover-snippet">Escalation of commitment</span></span></span>
-* **Personal responsibility matters.** Decision-makers who approved the original project may experience greater pressure to defend it because cancellation can feel like admitting poor judgement. Self-justification has been repeatedly identified as an important contributor to escalation of commitment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pmi.org/learning/library/psychology-project-termination-decision-maker-5914" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmi.org">[Project Management Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmi.org</span><span class="citation-popover-title">psychology project termination decision maker 5914</span><span class="citation-popover-snippet">Project Management InstituteThe psychology of project termination28 Oct 2013 — This paper presents recent research on the topic of escala...</span></span></span>
-* **Near-completion creates false confidence.** Projects often receive additional support simply because they appear "almost finished", even when the remaining work is unusually expensive or when expected benefits have fallen. Studies have identified proximity to completion as one factor associated with continued commitment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/350479101_The_effect_of_sunk_cost_framing_effect_and_educational_background_on_the_escalation_of_commitment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Researchers described how managers believe the projects are most vulnerable until managers. choose wrong abandonment even though indeed t...</span></span></span>
+* **[Sunk costs]({{ 'sunk-costs/' | relative_url }}) become psychologically relevant.** Previous spending cannot be recovered, but people naturally feel pressure to justify earlier investments. This makes further investment seem easier to defend than accepting that past costs cannot be changed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedecisionlab.com/biases/the-sunk-cost-fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Decision LabThe Sunk Cost FallacyThe sunk cost fallacy is our tendency to follow through with something that we&#x27;ve already invested h...</span></span></span>
+* **Losses become more salient than gains.** Cancelling often feels like locking in failure, whereas continuing preserves the possibility of eventual success. Prospect theory predicts greater willingness to accept risk when people perceive themselves as facing losses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Escalation_of_commitment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Escalation of commitment</span><span class="citation-popover-snippet">Escalation of commitment</span></span></span>
+* **Personal responsibility matters.** Decision-makers who approved the original project may experience greater pressure to defend it because cancellation can feel like admitting poor judgement. Self-justification has been repeatedly identified as an important contributor to escalation of commitment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pmi.org/learning/library/psychology-project-termination-decision-maker-5914" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmi.org">[Project Management Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmi.org</span><span class="citation-popover-title">psychology project termination decision maker 5914</span><span class="citation-popover-snippet">Project Management InstituteThe psychology of project termination28 Oct 2013 — This paper presents recent research on the topic of escala...</span></span></span>
+* **Near-completion creates false confidence.** Projects often receive additional support simply because they appear "almost finished", even when the remaining work is unusually expensive or when expected benefits have fallen. Studies have identified proximity to completion as one factor associated with continued commitment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/350479101_The_effect_of_sunk_cost_framing_effect_and_educational_background_on_the_escalation_of_commitment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Researchers described how managers believe the projects are most vulnerable until managers. choose wrong abandonment even though indeed t...</span></span></span>
 
 None of these mechanisms necessarily reflect deliberate irrationality. They emerge from ordinary attempts to appear consistent, responsible and dependable.
 
@@ -340,7 +340,7 @@ Projects typically involve multiple departments, contracts, budgets and public c
 
 Performance systems can unintentionally reinforce this pattern. Managers may be rewarded for delivering approved projects rather than for recommending timely termination. Procurement contracts, published roadmaps and political announcements can further raise the perceived cost of changing direction.
 
-Research into project escalation identifies not only psychological factors but also project characteristics, organisational structures and social pressures that encourage continued investment. Large projects become difficult to stop because many systems are already organised around their completion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Escalation_of_commitment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Escalation of commitment</span><span class="citation-popover-snippet">Escalation of commitment</span></span></span>
+Research into project escalation identifies not only psychological factors but also project characteristics, organisational structures and social pressures that encourage continued investment. Large projects become difficult to stop because many systems are already organised around their completion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Escalation_of_commitment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Escalation of commitment</span><span class="citation-popover-snippet">Escalation of commitment</span></span></span>
 
 This explains why weak projects often survive despite widespread private doubts. No single participant believes continuation is ideal, yet the framing of everyone's role centres on delivery.
 
@@ -394,194 +394,194 @@ Strong decision-making separates the quality of today's choice from yesterday's 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to When finishing becomes the wrong goal. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to When finishing becomes the wrong goal. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Escaping+the+Build+Trap+by+Melissa+Perri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Escaping the Build Trap on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PQ8dMQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Escaping the Build Trap" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Escaping+the+Build+Trap+by+Melissa+Perri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Escaping the Build Trap">Escaping the Build Trap</a>
-</h4>
-<p class="fr-book-author">By Melissa Perri</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Escaping+the+Build+Trap+Melissa+Perri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Escaping the Build Trap on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PQ8dMQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Escaping the Build Trap" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Escaping+the+Build+Trap+Melissa+Perri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Escaping the Build Trap">Escaping the Build Trap</a>
+        </h4>
+        <p class="fr-book-author">By Melissa Perri</p>
         
-<p class="fr-book-desc">Directly challenges delivery-focused thinking and reframes success around value rather than finishing work.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Escaping+the+Build+Trap+by+Melissa+Perri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly challenges delivery-focused thinking and reframes success around value rather than finishing work.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Escaping+the+Build+Trap+Melissa+Perri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Big+Things+Get+Done+by+Bent+Flyvbjerg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Big Things Get Done on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kmyTEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How Big Things Get Done" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=How+Big+Things+Get+Done+by+Bent+Flyvbjerg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Big Things Get Done">How Big Things Get Done</a>
-</h4>
-<p class="fr-book-author">By Bent Flyvbjerg, Dan Gardner</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Big+Things+Get+Done+Bent+Flyvbjerg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Big Things Get Done on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kmyTEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How Big Things Get Done" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=How+Big+Things+Get+Done+Bent+Flyvbjerg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Big Things Get Done">How Big Things Get Done</a>
+        </h4>
+        <p class="fr-book-author">By Bent Flyvbjerg, Dan Gardner</p>
         
-<p class="fr-book-desc">Explains why projects go wrong and how teams should reassess plans, forecasts, and execution assumptions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=How+Big+Things+Get+Done+by+Bent+Flyvbjerg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains why projects go wrong and how teams should reassess plans, forecasts, and execution assumptions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=How+Big+Things+Get+Done+Bent+Flyvbjerg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lean Startup on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=r9x-OXdzpPcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Lean Startup" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lean Startup">The Lean Startup</a>
-</h4>
-<p class="fr-book-author">By Eric Ries</p>
-<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-<p class="fr-book-desc">Encourages testing, pivoting, and stopping weak initiatives instead of blindly delivering original plans.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-</h4>
-<p class="fr-book-author">By Daniel Kahneman</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Goal+Eliyahu+M.+Goldratt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Goal on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HyxLDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Goal" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Goal+Eliyahu+M.+Goldratt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Goal">The Goal</a>
+        </h4>
+        <p class="fr-book-author">By Eliyahu M. Goldratt, Jeff Cox</p>
         
-<p class="fr-book-desc">Covers cognitive biases and loss-framed decisions that help explain commitment to failing projects.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Teaches readers to question local progress metrics and reframe work around the real system goal.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Goal+Eliyahu+M.+Goldratt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Escaping+the+Build+Trap&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Escaping the Build Trap</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Big+Things+Get+Done&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Big Things Get Done</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lean+Startup&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lean Startup</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lean+Startup+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lean Startup on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=r9x-OXdzpPcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Lean Startup" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Lean+Startup+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lean Startup">The Lean Startup</a>
+        </h4>
+        <p class="fr-book-author">By Eric Ries</p>
+        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+        <p class="fr-book-desc">Encourages testing, pivoting, and stopping weak initiatives instead of blindly delivering original plans.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Lean+Startup+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Escaping+the+Build+Trap&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Escaping the Build Trap</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Big+Things+Get+Done&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Big Things Get Done</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Goal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Goal</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-finishing-becomes-the-wrong-goal-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="when-finishing-becomes-the-wrong-goal-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Connect Access Card for Accounting for Decision Making and Control by Jerold Zim"><img src="https://i.ebayimg.com/images/g/uJoAAeSw2HBqHSD6/s-l225.jpg" alt="Listing image for Connect Access Card for Accounting for Decision Making and Control by Jerold Zim" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-finishing-becomes-the-wrong-goal-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="when-finishing-becomes-the-wrong-goal-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer">Connect Access Card for Accounting for Decision Making and Control by Jerold Zim</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-finishing-becomes-the-wrong-goal-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="when-finishing-becomes-the-wrong-goal-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision making cards">Search<span data-ebay-domain-label>eBay.co.uk</span>: decision making cards</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-finishing-becomes-the-wrong-goal-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="when-finishing-becomes-the-wrong-goal-decision-making-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-finishing-becomes-the-wrong-goal-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="when-finishing-becomes-the-wrong-goal-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Connect Access Card for Accounting for Decision Making and Control by Jerold Zim"><img src="https://i.ebayimg.com/images/g/uJoAAeSw2HBqHSD6/s-l225.jpg" alt="Listing image for Connect Access Card for Accounting for Decision Making and Control by Jerold Zim" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-finishing-becomes-the-wrong-goal-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="when-finishing-becomes-the-wrong-goal-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer">Connect Access Card for Accounting for Decision Making and Control by Jerold Zim</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-finishing-becomes-the-wrong-goal-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="when-finishing-becomes-the-wrong-goal-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision making cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: decision making cards</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-finishing-becomes-the-wrong-goal-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="when-finishing-becomes-the-wrong-goal-decision-making-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-finishing-becomes-the-wrong-goal-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="when-finishing-becomes-the-wrong-goal-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Yes or No Oracle Deck – 56 Card Decision Making Oracle Cards with Meanings"><img src="https://i.ebayimg.com/images/g/IqwAAeSw77xp5DMx/s-l225.jpg" alt="Listing image for Yes or No Oracle Deck – 56 Card Decision Making Oracle Cards with Meanings" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-finishing-becomes-the-wrong-goal-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="when-finishing-becomes-the-wrong-goal-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer">Yes or No Oracle Deck – 56 Card Decision Making Oracle Cards with Meanings</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-finishing-becomes-the-wrong-goal-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="when-finishing-becomes-the-wrong-goal-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision making cards">Search<span data-ebay-domain-label>eBay.co.uk</span>: decision making cards</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-finishing-becomes-the-wrong-goal-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="when-finishing-becomes-the-wrong-goal-decision-making-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-finishing-becomes-the-wrong-goal-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="when-finishing-becomes-the-wrong-goal-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Yes or No Oracle Deck – 56 Card Decision Making Oracle Cards with Meanings"><img src="https://i.ebayimg.com/images/g/IqwAAeSw77xp5DMx/s-l225.jpg" alt="Listing image for Yes or No Oracle Deck – 56 Card Decision Making Oracle Cards with Meanings" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-finishing-becomes-the-wrong-goal-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="when-finishing-becomes-the-wrong-goal-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer">Yes or No Oracle Deck – 56 Card Decision Making Oracle Cards with Meanings</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-finishing-becomes-the-wrong-goal-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="when-finishing-becomes-the-wrong-goal-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision making cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: decision making cards</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-finishing-becomes-the-wrong-goal-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="when-finishing-becomes-the-wrong-goal-decision-making-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-finishing-becomes-the-wrong-goal-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="when-finishing-becomes-the-wrong-goal-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Visionary I Ching Cards: The Book of Changes for Intuitive Decision Making by Jo"><img src="https://i.ebayimg.com/images/g/hmUAAeSw1cZqM2B8/s-l225.jpg" alt="Listing image for Visionary I Ching Cards: The Book of Changes for Intuitive Decision Making by Jo" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-finishing-becomes-the-wrong-goal-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="when-finishing-becomes-the-wrong-goal-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer">Visionary I Ching Cards: The Book of Changes for Intuitive Decision Making by Jo</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-finishing-becomes-the-wrong-goal-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="when-finishing-becomes-the-wrong-goal-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision making cards">Search<span data-ebay-domain-label>eBay.co.uk</span>: decision making cards</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-finishing-becomes-the-wrong-goal-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="when-finishing-becomes-the-wrong-goal-decision-making-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-finishing-becomes-the-wrong-goal-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="when-finishing-becomes-the-wrong-goal-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Visionary I Ching Cards: The Book of Changes for Intuitive Decision Making by Jo"><img src="https://i.ebayimg.com/images/g/hmUAAeSw1cZqM2B8/s-l225.jpg" alt="Listing image for Visionary I Ching Cards: The Book of Changes for Intuitive Decision Making by Jo" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-finishing-becomes-the-wrong-goal-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="when-finishing-becomes-the-wrong-goal-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer">Visionary I Ching Cards: The Book of Changes for Intuitive Decision Making by Jo</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-finishing-becomes-the-wrong-goal-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="when-finishing-becomes-the-wrong-goal-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision making cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: decision making cards</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-finishing-becomes-the-wrong-goal-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="when-finishing-becomes-the-wrong-goal-decision-making-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-finishing-becomes-the-wrong-goal-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="when-finishing-becomes-the-wrong-goal-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Soccer Referee Tools Red and Yellow Cards for Accurate Decision Making"><img src="https://i.ebayimg.com/images/g/jFAAAeSwOetpjVT-/s-l225.jpg" alt="Listing image for Soccer Referee Tools Red and Yellow Cards for Accurate Decision Making" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-finishing-becomes-the-wrong-goal-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="when-finishing-becomes-the-wrong-goal-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer">Soccer Referee Tools Red and Yellow Cards for Accurate Decision Making</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-finishing-becomes-the-wrong-goal-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="when-finishing-becomes-the-wrong-goal-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision making cards">Search<span data-ebay-domain-label>eBay.co.uk</span>: decision making cards</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-finishing-becomes-the-wrong-goal-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="when-finishing-becomes-the-wrong-goal-decision-making-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-finishing-becomes-the-wrong-goal-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="when-finishing-becomes-the-wrong-goal-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-finishing-becomes-the-wrong-goal-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="when-finishing-becomes-the-wrong-goal-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Soccer Referee Tools Red and Yellow Cards for Accurate Decision Making"><img src="https://i.ebayimg.com/images/g/jFAAAeSwOetpjVT-/s-l225.jpg" alt="Listing image for Soccer Referee Tools Red and Yellow Cards for Accurate Decision Making" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-finishing-becomes-the-wrong-goal-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="when-finishing-becomes-the-wrong-goal-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer">Soccer Referee Tools Red and Yellow Cards for Accurate Decision Making</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-finishing-becomes-the-wrong-goal-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="when-finishing-becomes-the-wrong-goal-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision making cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: decision making cards</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-finishing-becomes-the-wrong-goal-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="when-finishing-becomes-the-wrong-goal-decision-making-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-finishing-becomes-the-wrong-goal-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="when-finishing-becomes-the-wrong-goal-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -597,7 +597,7 @@ Strong decision-making separates the quality of today's choice from yesterday's 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -617,7 +617,7 @@ Strong decision-making separates the quality of today's choice from yesterday's 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -649,7 +649,7 @@ Strong decision-making separates the quality of today's choice from yesterday's 
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -701,7 +701,7 @@ Strong decision-making separates the quality of today's choice from yesterday's 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -746,7 +746,7 @@ Strong decision-making separates the quality of today's choice from yesterday's 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -786,90 +786,90 @@ Strong decision-making separates the quality of today's choice from yesterday's 
 </section>
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UK A review of optimism bias, planning fallacy, sunk cost  
-   Link:<a href="https://assets.publishing.service.gov.uk/media/5a821602ed915d74e3401a64/lit-review-exploration-of-behavioural-biases.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a821602ed915d74e3401a64/lit-review-exploration-of-behavioural-biases.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>consequences: it is harder to admit a poor decision when we are personally... The effect of optimism bias on the decision to terminate f...</p></details>
+   Link: <a href="https://assets.publishing.service.gov.uk/media/5a821602ed915d74e3401a64/lit-review-exploration-of-behavioural-biases.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a821602ed915d74e3401a64/lit-review-exploration-of-behavioural-biases.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>consequences: it is harder to admit a poor decision when we are personally... The effect of optimism bias on the decision to terminate f...</p></details>
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Escalation of commitment  
-   Link:<a href="https://en.wikipedia.org/wiki/Escalation_of_commitment" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Escalation_of_commitment</a>  
+   Link: <a href="https://en.wikipedia.org/wiki/Escalation_of_commitment" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Escalation_of_commitment</a>  
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/350479101_The_effect_of_sunk_cost_framing_effect_and_educational_background_on_the_escalation_of_commitment" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/350479101_The_effect_of_sunk_cost_framing_effect_and_educational_background_on_the_escalation_of_commitment</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Researchers described how managers believe the projects are most vulnerable until managers. choose wrong abandonment even though indeed t...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/350479101_The_effect_of_sunk_cost_framing_effect_and_educational_background_on_the_escalation_of_commitment" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/350479101_The_effect_of_sunk_cost_framing_effect_and_educational_background_on_the_escalation_of_commitment</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Researchers described how managers believe the projects are most vulnerable until managers. choose wrong abandonment even though indeed t...</p></details>
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Sunk cost  
-   Link:<a href="https://en.wikipedia.org/wiki/Sunk_cost" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sunk_cost</a>  
+   Link: <a href="https://en.wikipedia.org/wiki/Sunk_cost" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sunk_cost</a>  
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/335325457_The_effect_of_escalation_of_commitment_and_project_risk_in_resources_allocation_decision" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/335325457_The_effect_of_escalation_of_commitment_and_project_risk_in_resources_allocation_decision</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>poor initial project decision can...Read more...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/335325457_The_effect_of_escalation_of_commitment_and_project_risk_in_resources_allocation_decision" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/335325457_The_effect_of_escalation_of_commitment_and_project_risk_in_resources_allocation_decision</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>poor initial project decision can...Read more...</p></details>
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: pmi.org  
    Title: psychology project termination decision maker 5914  
-   Link:<a href="https://www.pmi.org/learning/library/psychology-project-termination-decision-maker-5914" target="_blank" rel="noopener noreferrer nofollow">https://www.pmi.org/learning/library/psychology-project-termination-decision-maker-5914</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Management InstituteThe psychology of project termination28 Oct 2013 — This paper presents recent research on the topic of escala...</p></details>
+   Link: <a href="https://www.pmi.org/learning/library/psychology-project-termination-decision-maker-5914" target="_blank" rel="noopener noreferrer nofollow">https://www.pmi.org/learning/library/psychology-project-termination-decision-maker-5914</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Management InstituteThe psychology of project termination28 Oct 2013 — This paper presents recent research on the topic of escala...</p></details>
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: thedecisionlab.com  
-   Link:<a href="https://thedecisionlab.com/biases/the-sunk-cost-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/the-sunk-cost-fallacy</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabThe Sunk Cost FallacyThe sunk cost fallacy is our tendency to follow through with something that we&#x27;ve already invested h...</p></details>
+   Link: <a href="https://thedecisionlab.com/biases/the-sunk-cost-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/the-sunk-cost-fallacy</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabThe Sunk Cost FallacyThe sunk cost fallacy is our tendency to follow through with something that we&#x27;ve already invested h...</p></details>
 
 ### Additional References
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: linkedin.com  
-   Link:<a href="https://www.linkedin.com/posts/rugastechnologies_itleadership-projectdelivery-digitaltransformation-activity-7429137893039960064-NPa3" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/rugastechnologies_itleadership-projectdelivery-digitaltransformation-activity-7429137893039960064-NPa3</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>They fail because the conditions for success...</p></details>
+   Link: <a href="https://www.linkedin.com/posts/rugastechnologies_itleadership-projectdelivery-digitaltransformation-activity-7429137893039960064-NPa3" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/rugastechnologies_itleadership-projectdelivery-digitaltransformation-activity-7429137893039960064-NPa3</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>They fail because the conditions for success...</p></details>
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: academia.edu  
-   Link:<a href="https://www.academia.edu/105907637/Escalating_IT_projects_A_text_analysis_of_risk_framing_effects_of_managers" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/105907637/Escalating_IT_projects_A_text_analysis_of_risk_framing_effects_of_managers</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Escalating IT-projects: A text-analysis of risk-framing effects...This research uses text analysis to determine which types of framing a...</p></details>
+   Link: <a href="https://www.academia.edu/105907637/Escalating_IT_projects_A_text_analysis_of_risk_framing_effects_of_managers" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/105907637/Escalating_IT_projects_A_text_analysis_of_risk_framing_effects_of_managers</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Escalating IT-projects: A text-analysis of risk-framing effects...This research uses text analysis to determine which types of framing a...</p></details>
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5904751/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5904751/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>framing in the observed tendency to escalate commitment to a failing course of action.... Both results can be interpreted as consistent...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5904751/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5904751/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>framing in the observed tendency to escalate commitment to a failing course of action.... Both results can be interpreted as consistent...</p></details>
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: The Sunk Cost Fallacy: Why Smart People Make Expensive Mistakes  
-   Link:<a href="https://www.youtube.com/watch?v=NM38AY8nD48" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NM38AY8nD48</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Escalation of Commitment: Why We Struggle to Walk Away (90 Seconds)...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=NM38AY8nD48" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NM38AY8nD48</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Escalation of Commitment: Why We Struggle to Walk Away (90 Seconds)...</p></details>
 
-12.<a id="endnote-12"></a>
+12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: What is the Escalation of Commitment? | Psychology Facts  
-   Link:<a href="https://www.youtube.com/watch?v=xBLQfDtKk7o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xBLQfDtKk7o</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Sunk Cost Fallacy: Why Smart People Make Expensive Mistakes...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=xBLQfDtKk7o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xBLQfDtKk7o</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Sunk Cost Fallacy: Why Smart People Make Expensive Mistakes...</p></details>
 
-13.<a id="endnote-13"></a>
+13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: Escalation of Commitment: Why We Struggle to Walk Away (90 Seconds)  
-   Link:<a href="https://www.youtube.com/watch?v=eeZ1xaD89pU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eeZ1xaD89pU</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Termination: How to Know When to Quit...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=eeZ1xaD89pU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eeZ1xaD89pU</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Termination: How to Know When to Quit...</p></details>
 
-14.<a id="endnote-14"></a>
+14. <a id="endnote-14"></a>
    Source: journals.aom.org  
-   Link:<a href="https://journals.aom.org/doi/10.5465/amj.2011.0869" target="_blank" rel="noopener noreferrer nofollow">https://journals.aom.org/doi/10.5465/amj.2011.0869</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Competitors as Reference...Although larger [rivals](&amp;#123;&amp;#123; &#x27;rivals/&#x27; | relative_url &amp;#125;&amp;#125;)&#x27; successful experience might still affect escalation behavior, such an influence is ex...</p></details>
+   Link: <a href="https://journals.aom.org/doi/10.5465/amj.2011.0869" target="_blank" rel="noopener noreferrer nofollow">https://journals.aom.org/doi/10.5465/amj.2011.0869</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Competitors as Reference...Although larger [rivals](&amp;#123;&amp;#123; &#x27;rivals/&#x27; | relative_url &amp;#125;&amp;#125;)&#x27; successful experience might still affect escalation behavior, such an influence is ex...</p></details>
 
-15.<a id="endnote-15"></a>
+15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: Project Termination: How to Know When to Quit  
-   Link:<a href="https://www.youtube.com/watch?v=f3WX4u-FY9o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=f3WX4u-FY9o</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Failing? Here&#x27;s what to do next...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=f3WX4u-FY9o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=f3WX4u-FY9o</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Failing? Here&#x27;s what to do next...</p></details>
 
-16.<a id="endnote-16"></a>
+16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: Project Failing? Here's what to do next!  
-   Link:<a href="https://www.youtube.com/watch?v=osSh3qkl8x8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=osSh3qkl8x8</a>  
+   Link: <a href="https://www.youtube.com/watch?v=osSh3qkl8x8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=osSh3qkl8x8</a>  

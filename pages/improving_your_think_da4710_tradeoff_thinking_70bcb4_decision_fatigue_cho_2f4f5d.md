@@ -280,7 +280,7 @@ image: /assets/images/improving_your_think_da4710_tradeoff_thinking_70bcb4_decis
 
 ## Introduction
 
-[Tradeoff thinking]({{ 'tradeoffs/' | relative_url }}) depends on comparing options carefully, but that comparison becomes harder when mental effort has already been spent on many earlier decisions. Decision fatigue describes the tendency for the quality of decisions to deteriorate after prolonged or repeated choice-making. Rather than weighing costs and benefits, people are more likely to seek relief by accepting the default, postponing the decision, or copying what someone else has chosen. These shortcuts are not always irrational—sometimes they save effort without much cost—but they become risky when they replace thoughtful judgement in decisions that genuinely matter. Research suggests that decision fatigue is a real phenomenon across many settings, although researchers continue to debate its precise psychological [mechanisms]({{ 'mechanisms/' | relative_url }}) and how broadly it applies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6119549/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDecision Fatigue: A Conceptual Analysis</span><span class="citation-popover-snippet">by GA Pignatiello · 2018 · Cited by 317 — Our understanding of the literature suggests that decision fatigue is a symptom or phenotypi...</span></span></span>
+[Tradeoff thinking]({{ 'tradeoffs/' | relative_url }}) depends on comparing options carefully, but that comparison becomes harder when mental effort has already been spent on many earlier decisions. Decision fatigue describes the tendency for the quality of decisions to deteriorate after prolonged or repeated choice-making. Rather than weighing costs and benefits, people are more likely to seek relief by accepting the default, postponing the decision, or copying what someone else has chosen. These shortcuts are not always irrational—sometimes they save effort without much cost—but they become risky when they replace thoughtful judgement in decisions that genuinely matter. Research suggests that decision fatigue is a real phenomenon across many settings, although researchers continue to debate its precise psychological [mechanisms]({{ 'mechanisms/' | relative_url }}) and how broadly it applies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6119549/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDecision Fatigue: A Conceptual Analysis</span><span class="citation-popover-snippet">by GA Pignatiello · 2018 · Cited by 317 — Our understanding of the literature suggests that decision fatigue is a symptom or phenotypi...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_tradeoff_thinking_70bcb4_decision_fatigue_cho_2f4f5d-Illustration-1-dark.svg" | relative_url }}" alt="Decision Fatigue illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_tradeoff_thinking_70bcb4_decision_fatigue_cho_2f4f5d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_tradeoff_thinking_70bcb4_decision_fatigue_cho_2f4f5d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,9 +288,9 @@ image: /assets/images/improving_your_think_da4710_tradeoff_thinking_70bcb4_decis
 
 Evaluating tradeoffs is mentally demanding because it requires holding several competing goals in mind at once. A realistic choice rarely has a clear winner: one option may save money while sacrificing quality, another may reduce risk while slowing progress. Comparing these competing [outcomes]({{ 'outcomes/' | relative_url }}) requires sustained attention.
 
-As mental effort accumulates, people often become less willing to invest the cognitive work needed for careful comparison. Instead of asking, "Which option best matches my priorities?", they begin asking, "Which option lets me stop deciding?" The result is not necessarily worse intelligence but reduced willingness or capacity to perform effortful evaluation. Recent reviews describe decision fatigue as arising from a combination of individual, organisational and situational pressures rather than from a single depleted mental resource.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frontiersin.org/journals/cognition/articles/10.3389/fcogn.2025.1719312/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">Open source on frontiersin.org.</span></span></span>
+As mental effort accumulates, people often become less willing to invest the cognitive work needed for careful comparison. Instead of asking, "Which option best matches my priorities?", they begin asking, "Which option lets me stop deciding?" The result is not necessarily worse intelligence but reduced willingness or capacity to perform effortful evaluation. Recent reviews describe decision fatigue as arising from a combination of individual, organisational and situational pressures rather than from a single depleted mental resource. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frontiersin.org/journals/cognition/articles/10.3389/fcogn.2025.1719312/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">Open source on frontiersin.org.</span></span></span>
 
-This distinction matters because the older idea of **ego depletion**—the claim that self-control relies on a limited resource that becomes exhausted—has faced substantial [replication]({{ 'replication/' | relative_url }}) challenges. Many researchers now argue that motivation, attention, perceived effort and opportunity costs all contribute to the observed decline in decision quality, rather than a single "willpower reservoir". The existence of poorer decisions after sustained cognitive effort is supported in many contexts, but the exact explanation remains an active scientific debate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/358734161_From_Ego_Depletion_to_Self-Control_Fatigue_A_Review_of_Criticisms_Along_With_New_Perspectives_for_the_Investigation_and_Replication_of_a_Multicomponent_Phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) From Ego Depletion to Self-Control FatigueEgo depletion theory suggests that for high school students, frequent decisio...</span></span></span>
+This distinction matters because the older idea of **ego depletion**—the claim that self-control relies on a limited resource that becomes exhausted—has faced substantial [replication]({{ 'replication/' | relative_url }}) challenges. Many researchers now argue that motivation, attention, perceived effort and opportunity costs all contribute to the observed decline in decision quality, rather than a single "willpower reservoir". The existence of poorer decisions after sustained cognitive effort is supported in many contexts, but the exact explanation remains an active scientific debate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/358734161_From_Ego_Depletion_to_Self-Control_Fatigue_A_Review_of_Criticisms_Along_With_New_Perspectives_for_the_Investigation_and_Replication_of_a_Multicomponent_Phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) From Ego Depletion to Self-Control FatigueEgo depletion theory suggests that for high school students, frequent decisio...</span></span></span>
 
 For practical thinking, the implication is straightforward: regardless of the underlying mechanism, prolonged decision-making increases the likelihood that people stop making careful tradeoff [comparisons]({{ 'comparisons/' | relative_url }}).
 
@@ -301,7 +301,7 @@ For practical thinking, the implication is straightforward: regardless of the un
 
 When people become mentally tired, they often reduce effort by simplifying decisions. Three patterns appear repeatedly.
 
-* **Accepting the default.** The existing option becomes attractive simply because changing it requires more thought. [Defaults]({{ 'defaults/' | relative_url }}) can sometimes improve outcomes—for example, when experts have designed them well—but they can also leave people with choices they would have rejected if they had compared alternatives more carefully.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6119549/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDecision Fatigue: A Conceptual Analysis</span><span class="citation-popover-snippet">by GA Pignatiello · 2018 · Cited by 317 — Our understanding of the literature suggests that decision fatigue is a symptom or phenotypi...</span></span></span>
+* **Accepting the default.** The existing option becomes attractive simply because changing it requires more thought. [Defaults]({{ 'defaults/' | relative_url }}) can sometimes improve outcomes—for example, when experts have designed them well—but they can also leave people with choices they would have rejected if they had compared alternatives more carefully. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6119549/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDecision Fatigue: A Conceptual Analysis</span><span class="citation-popover-snippet">by GA Pignatiello · 2018 · Cited by 317 — Our understanding of the literature suggests that decision fatigue is a symptom or phenotypi...</span></span></span>
 * **Delaying the decision.** Postponement offers immediate psychological relief. Unfortunately, delay can itself become a costly choice when opportunities expire, deadlines approach or [uncertainty]({{ 'uncertainty/' | relative_url }}) increases.
 * **Following someone else's judgement.** Copying a colleague, friend or majority opinion reduces cognitive effort. This is often sensible when others possess better information, but fatigue increases the risk of imitation replacing independent evaluation rather than complementing it.
 
@@ -315,7 +315,7 @@ A familiar everyday example is online shopping after a demanding day. Rather tha
 
 Passive decisions are attractive because they minimise immediate effort, but they can create larger costs later.
 
-In financial decisions, repeatedly accepting default subscription renewals or failing to compare providers may gradually increase spending. In workplace settings, managers facing many sequential decisions may increasingly rely on familiar routines rather than questioning whether circumstances have changed. Healthcare research has also examined decision fatigue among clinicians and family members making difficult medical choices, where sustained cognitive demands can make careful comparison especially challenging.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12481925/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Decision fatigue of surrogate decision-makers: a scoping reviewby S Cai · 2025 · Cited by 1 — Surrogate decision-makers are prone to d...</span></span></span>
+In financial decisions, repeatedly accepting default subscription renewals or failing to compare providers may gradually increase spending. In workplace settings, managers facing many sequential decisions may increasingly rely on familiar routines rather than questioning whether circumstances have changed. Healthcare research has also examined decision fatigue among clinicians and family members making difficult medical choices, where sustained cognitive demands can make careful comparison especially challenging. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12481925/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Decision fatigue of surrogate decision-makers: a scoping reviewby S Cai · 2025 · Cited by 1 — Surrogate decision-makers are prone to d...</span></span></span>
 
 The important analytical point is that "doing nothing" is rarely neutral. Keeping the current arrangement, delaying action or accepting another person's recommendation are all decisions with opportunity costs, even if they feel effortless.
 
@@ -348,7 +348,7 @@ Another useful strategy is to separate information gathering from commitment. Co
 
 Decision fatigue has become a popular explanation for poor choices, but it should not be treated as a universal law.
 
-The strongest evidence supports a modest claim: sustained cognitive demands can make people less likely to engage in effortful comparison, increasing reliance on simple heuristics such as defaults, postponement or imitation. There is considerably less agreement about why this happens. Early theories emphasised depletion of a limited self-control resource, whereas more recent work points towards changing motivation, attention allocation, perceived effort and contextual factors. Reviews increasingly recommend treating decision fatigue as a multifaceted phenomenon rather than a single biological process.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/358734161_From_Ego_Depletion_to_Self-Control_Fatigue_A_Review_of_Criticisms_Along_With_New_Perspectives_for_the_Investigation_and_Replication_of_a_Multicomponent_Phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) From Ego Depletion to Self-Control FatigueEgo depletion theory suggests that for high school students, frequent decisio...</span></span></span>
+The strongest evidence supports a modest claim: sustained cognitive demands can make people less likely to engage in effortful comparison, increasing reliance on simple heuristics such as defaults, postponement or imitation. There is considerably less agreement about why this happens. Early theories emphasised depletion of a limited self-control resource, whereas more recent work points towards changing motivation, attention allocation, perceived effort and contextual factors. Reviews increasingly recommend treating decision fatigue as a multifaceted phenomenon rather than a single biological process. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/358734161_From_Ego_Depletion_to_Self-Control_Fatigue_A_Review_of_Criticisms_Along_With_New_Perspectives_for_the_Investigation_and_Replication_of_a_Multicomponent_Phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) From Ego Depletion to Self-Control FatigueEgo depletion theory suggests that for high school students, frequent decisio...</span></span></span>
 
 For improving analytical skill, this debate changes less than it might appear. Whether the limiting factor is depleted self-control, shifting motivation or cognitive overload, the practical lesson is similar: protect important tradeoff decisions from unnecessary mental exhaustion. When attention is scarce, people do not merely think less carefully—they often stop comparing alternatives altogether, allowing passive choices to replace deliberate judgement.
 
@@ -357,194 +357,194 @@ For improving analytical skill, this debate changes less than it might appear. W
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to When Tired Minds Stop Comparing. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to When Tired Minds Stop Comparing. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-</h4>
-<p class="fr-book-author">By Daniel Kahneman</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Paradox+of+Choice+Barry+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Paradox of Choice on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OG0GzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Paradox of Choice" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Paradox+of+Choice+Barry+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Paradox of Choice">The Paradox of Choice</a>
+        </h4>
+        <p class="fr-book-author">By Barry Schwartz</p>
         
-<p class="fr-book-desc">Explains how mental effort, cognitive shortcuts and fatigue affect judgement.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explores how excessive choice can overwhelm decision-makers.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Paradox+of+Choice+Barry+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Paradox+of+Choice+by+Barry+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Paradox of Choice on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OG0GzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Paradox of Choice" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Paradox+of+Choice+by+Barry+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Paradox of Choice">The Paradox of Choice</a>
-</h4>
-<p class="fr-book-author">By Barry Schwartz</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Decisive+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decisive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aECTEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Decisive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Decisive+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decisive">Decisive</a>
+        </h4>
+        <p class="fr-book-author">By Chip Heath, Dan Heath</p>
         
-<p class="fr-book-desc">Explores how excessive choice can overwhelm decision-makers.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Paradox+of+Choice+by+Barry+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides methods for improving important choices despite cognitive limitations.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Decisive+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decisive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQmv39K-P54C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Decisive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decisive">Decisive</a>
-</h4>
-<p class="fr-book-author">By Chip Heath, Dan Heath</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Algorithms+to+Live+By+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Algorithms to Live By on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QYciswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Algorithms to Live By" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Algorithms+to+Live+By+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Algorithms to Live By">Algorithms to Live By</a>
+        </h4>
+        <p class="fr-book-author">By Brian Christian, Tom Griffiths</p>
         
-<p class="fr-book-desc">Provides methods for improving important choices despite cognitive limitations.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Shows efficient decision strategies when mental resources are limited.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Algorithms+to+Live+By+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Algorithms+to+Live+By+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Algorithms to Live By on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QYciswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Algorithms to Live By" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Algorithms+to+Live+By+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Algorithms to Live By">Algorithms to Live By</a>
-</h4>
-<p class="fr-book-author">By Brian Christian, Tom Griffiths</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
+        </h4>
+        <p class="fr-book-author">By Rolf Dobelli</p>
         
-<p class="fr-book-desc">Shows efficient decision strategies when mental resources are limited.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Algorithms+to+Live+By+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Covers common thinking errors that become more likely under fatigue.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Paradox+of+Choice&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Paradox of Choice</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Decisive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Decisive</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Paradox+of+Choice&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Paradox of Choice</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Decisive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Decisive</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Algorithms+to+Live+By&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Algorithms to Live By</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tired-minds-stop-comparing-stop-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stop poster -book -books -dvd" data-ebay-reference="when-tired-minds-stop-comparing-stop-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Stop Playing With Yourself Framed A Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/meMAAeSw61hp2SCU/s-l225.jpg" alt="Listing image for Stop Playing With Yourself Framed A Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tired-minds-stop-comparing-stop-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stop poster -book -books -dvd" data-ebay-reference="when-tired-minds-stop-comparing-stop-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Stop Playing With Yourself Framed A Framed Wall Art Poster Canvas Print Picture</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tired-minds-stop-comparing-stop-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stop poster -book -books -dvd" data-ebay-reference="when-tired-minds-stop-comparing-stop-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for stop poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: stop poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tired-minds-stop-comparing-stop-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stop poster -book -books -dvd" data-ebay-reference="when-tired-minds-stop-comparing-stop-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tired-minds-stop-comparing-stop-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stop poster -book -books -dvd" data-ebay-reference="when-tired-minds-stop-comparing-stop-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Stop Playing With Yourself Framed A Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/meMAAeSw61hp2SCU/s-l225.jpg" alt="Listing image for Stop Playing With Yourself Framed A Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tired-minds-stop-comparing-stop-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stop poster -book -books -dvd" data-ebay-reference="when-tired-minds-stop-comparing-stop-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Stop Playing With Yourself Framed A Framed Wall Art Poster Canvas Print Picture</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tired-minds-stop-comparing-stop-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stop poster -book -books -dvd" data-ebay-reference="when-tired-minds-stop-comparing-stop-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for stop poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: stop poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tired-minds-stop-comparing-stop-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stop poster -book -books -dvd" data-ebay-reference="when-tired-minds-stop-comparing-stop-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tired-minds-stop-comparing-stop-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stop poster -book -books -dvd" data-ebay-reference="when-tired-minds-stop-comparing-stop-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Banksy Stop and Search Dorothy&#x27;s basket - Canvas -Framed or Just Print Available"><img src="https://i.ebayimg.com/images/g/wgYAAOSwjf9j0VYn/s-l225.jpg" alt="Listing image for Banksy Stop and Search Dorothy&#x27;s basket - Canvas -Framed or Just Print Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tired-minds-stop-comparing-stop-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stop poster -book -books -dvd" data-ebay-reference="when-tired-minds-stop-comparing-stop-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Banksy Stop and Search Dorothy&#x27;s basket - Canvas -Framed or Just Print Available</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tired-minds-stop-comparing-stop-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stop poster -book -books -dvd" data-ebay-reference="when-tired-minds-stop-comparing-stop-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for stop poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: stop poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tired-minds-stop-comparing-stop-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stop poster -book -books -dvd" data-ebay-reference="when-tired-minds-stop-comparing-stop-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tired-minds-stop-comparing-stop-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stop poster -book -books -dvd" data-ebay-reference="when-tired-minds-stop-comparing-stop-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Banksy Stop and Search Dorothy&#x27;s basket - Canvas -Framed or Just Print Available"><img src="https://i.ebayimg.com/images/g/wgYAAOSwjf9j0VYn/s-l225.jpg" alt="Listing image for Banksy Stop and Search Dorothy&#x27;s basket - Canvas -Framed or Just Print Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tired-minds-stop-comparing-stop-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stop poster -book -books -dvd" data-ebay-reference="when-tired-minds-stop-comparing-stop-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Banksy Stop and Search Dorothy&#x27;s basket - Canvas -Framed or Just Print Available</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tired-minds-stop-comparing-stop-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stop poster -book -books -dvd" data-ebay-reference="when-tired-minds-stop-comparing-stop-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for stop poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: stop poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tired-minds-stop-comparing-stop-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stop poster -book -books -dvd" data-ebay-reference="when-tired-minds-stop-comparing-stop-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tired-minds-stop-comparing-stop-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stop poster -book -books -dvd" data-ebay-reference="when-tired-minds-stop-comparing-stop-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BANKSY Exit Through The Gift Shop Rare Bus Stop Poster"><img src="https://i.ebayimg.com/images/g/8gMAAOSwWRNnKUT-/s-l225.jpg" alt="Listing image for BANKSY Exit Through The Gift Shop Rare Bus Stop Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tired-minds-stop-comparing-stop-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stop poster -book -books -dvd" data-ebay-reference="when-tired-minds-stop-comparing-stop-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">BANKSY Exit Through The Gift Shop Rare Bus Stop Poster</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tired-minds-stop-comparing-stop-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stop poster -book -books -dvd" data-ebay-reference="when-tired-minds-stop-comparing-stop-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for stop poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: stop poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tired-minds-stop-comparing-stop-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stop poster -book -books -dvd" data-ebay-reference="when-tired-minds-stop-comparing-stop-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tired-minds-stop-comparing-stop-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stop poster -book -books -dvd" data-ebay-reference="when-tired-minds-stop-comparing-stop-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BANKSY Exit Through The Gift Shop Rare Bus Stop Poster"><img src="https://i.ebayimg.com/images/g/8gMAAOSwWRNnKUT-/s-l225.jpg" alt="Listing image for BANKSY Exit Through The Gift Shop Rare Bus Stop Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tired-minds-stop-comparing-stop-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stop poster -book -books -dvd" data-ebay-reference="when-tired-minds-stop-comparing-stop-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">BANKSY Exit Through The Gift Shop Rare Bus Stop Poster</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tired-minds-stop-comparing-stop-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stop poster -book -books -dvd" data-ebay-reference="when-tired-minds-stop-comparing-stop-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for stop poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: stop poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tired-minds-stop-comparing-stop-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stop poster -book -books -dvd" data-ebay-reference="when-tired-minds-stop-comparing-stop-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tired-minds-stop-comparing-stop-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stop poster -book -books -dvd" data-ebay-reference="when-tired-minds-stop-comparing-stop-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Red Stop Sign on Black Background Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/kpEAAeSwdbxpwX2x/s-l225.jpg" alt="Listing image for Red Stop Sign on Black Background Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tired-minds-stop-comparing-stop-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stop poster -book -books -dvd" data-ebay-reference="when-tired-minds-stop-comparing-stop-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Red Stop Sign on Black Background Framed Wall Art Poster Canvas Print Picture</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tired-minds-stop-comparing-stop-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stop poster -book -books -dvd" data-ebay-reference="when-tired-minds-stop-comparing-stop-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for stop poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: stop poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tired-minds-stop-comparing-stop-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stop poster -book -books -dvd" data-ebay-reference="when-tired-minds-stop-comparing-stop-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tired-minds-stop-comparing-stop-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stop poster -book -books -dvd" data-ebay-reference="when-tired-minds-stop-comparing-stop-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tired-minds-stop-comparing-stop-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stop poster -book -books -dvd" data-ebay-reference="when-tired-minds-stop-comparing-stop-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Red Stop Sign on Black Background Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/kpEAAeSwdbxpwX2x/s-l225.jpg" alt="Listing image for Red Stop Sign on Black Background Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tired-minds-stop-comparing-stop-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stop poster -book -books -dvd" data-ebay-reference="when-tired-minds-stop-comparing-stop-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Red Stop Sign on Black Background Framed Wall Art Poster Canvas Print Picture</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tired-minds-stop-comparing-stop-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stop poster -book -books -dvd" data-ebay-reference="when-tired-minds-stop-comparing-stop-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for stop poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: stop poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tired-minds-stop-comparing-stop-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stop poster -book -books -dvd" data-ebay-reference="when-tired-minds-stop-comparing-stop-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tired-minds-stop-comparing-stop-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stop poster -book -books -dvd" data-ebay-reference="when-tired-minds-stop-comparing-stop-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -560,7 +560,7 @@ For improving analytical skill, this debate changes less than it might appear. W
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -580,7 +580,7 @@ For improving analytical skill, this debate changes less than it might appear. W
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -612,7 +612,7 @@ For improving analytical skill, this debate changes less than it might appear. W
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -664,7 +664,7 @@ For improving analytical skill, this debate changes less than it might appear. W
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -709,7 +709,7 @@ For improving analytical skill, this debate changes less than it might appear. W
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -749,98 +749,98 @@ For improving analytical skill, this debate changes less than it might appear. W
 </section>
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCDecision Fatigue: A Conceptual Analysis  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6119549/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6119549/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>by GA Pignatiello · 2018 · Cited by 317 — Our understanding of the literature suggests that decision fatigue is a symptom or phenotypi...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6119549/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6119549/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by GA Pignatiello · 2018 · Cited by 317 — Our understanding of the literature suggests that decision fatigue is a symptom or phenotypi...</p></details>
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/358734161_From_Ego_Depletion_to_Self-Control_Fatigue_A_Review_of_Criticisms_Along_With_New_Perspectives_for_the_Investigation_and_Replication_of_a_Multicomponent_Phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/358734161_From_Ego_Depletion_to_Self-Control_Fatigue_A_Review_of_Criticisms_Along_With_New_Perspectives_for_the_Investigation_and_Replication_of_a_Multicomponent_Phenomenon</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) From Ego Depletion to Self-Control FatigueEgo depletion theory suggests that for high school students, frequent decisio...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/358734161_From_Ego_Depletion_to_Self-Control_Fatigue_A_Review_of_Criticisms_Along_With_New_Perspectives_for_the_Investigation_and_Replication_of_a_Multicomponent_Phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/358734161_From_Ego_Depletion_to_Self-Control_Fatigue_A_Review_of_Criticisms_Along_With_New_Perspectives_for_the_Investigation_and_Replication_of_a_Multicomponent_Phenomenon</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) From Ego Depletion to Self-Control FatigueEgo depletion theory suggests that for high school students, frequent decisio...</p></details>
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12481925/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12481925/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Decision fatigue of surrogate decision-makers: a scoping reviewby S Cai · 2025 · Cited by 1 — Surrogate decision-makers are prone to d...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12481925/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12481925/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Decision fatigue of surrogate decision-makers: a scoping reviewby S Cai · 2025 · Cited by 1 — Surrogate decision-makers are prone to d...</p></details>
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/237738528_Decision_Fatigue_Exhausts_Self-Regulatory_Resources_-_But_So_Does_Accommodating_to_Unchosen_Alternatives" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/237738528_Decision_Fatigue_Exhausts_Self-Regulatory_Resources_-_But_So_Does_Accommodating_to_Unchosen_Alternatives</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Decision Fatigue Exhausts Self-Regulatory Resources27 Jan 2005 — Making decision from different alternatives for various criteria r...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/237738528_Decision_Fatigue_Exhausts_Self-Regulatory_Resources_-_But_So_Does_Accommodating_to_Unchosen_Alternatives" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/237738528_Decision_Fatigue_Exhausts_Self-Regulatory_Resources_-_But_So_Does_Accommodating_to_Unchosen_Alternatives</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Decision Fatigue Exhausts Self-Regulatory Resources27 Jan 2005 — Making decision from different alternatives for various criteria r...</p></details>
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: frontiersin.org  
-   Link:<a href="https://www.frontiersin.org/journals/cognition/articles/10.3389/fcogn.2025.1719312/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/cognition/articles/10.3389/fcogn.2025.1719312/full</a>  
+   Link: <a href="https://www.frontiersin.org/journals/cognition/articles/10.3389/fcogn.2025.1719312/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/cognition/articles/10.3389/fcogn.2025.1719312/full</a>  
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12736114/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12736114/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of Decision Fatigue on Food Choices: A Narrative...by N Brasington · 2025 · Cited by 1 — This narrative review examines the relat...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12736114/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12736114/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of Decision Fatigue on Food Choices: A Narrative...by N Brasington · 2025 · Cited by 1 — This narrative review examines the relat...</p></details>
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: reachlink.com  
    Title: decision fatigue  
-   Link:<a href="https://www.reachlink.com/advice/stress/decision-fatigue/" target="_blank" rel="noopener noreferrer nofollow">https://www.reachlink.com/advice/stress/decision-fatigue/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>How Too Many Choices Exhaust YouMar 26, 2026 — Decision fatigue occurs when your ability to make quality decisions deteriorates after pro...</p></details>
+   Link: <a href="https://www.reachlink.com/advice/stress/decision-fatigue/" target="_blank" rel="noopener noreferrer nofollow">https://www.reachlink.com/advice/stress/decision-fatigue/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Too Many Choices Exhaust YouMar 26, 2026 — Decision fatigue occurs when your ability to make quality decisions deteriorates after pro...</p></details>
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Decision fatigue  
-   Link:<a href="https://en.wikipedia.org/wiki/Decision_fatigue" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Decision_fatigue</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Decision fatigueDecision fatigue refers to the deteriorating quality of decisions made by an individual after a long session of decisi...</p></details>
+   Link: <a href="https://en.wikipedia.org/wiki/Decision_fatigue" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Decision_fatigue</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Decision fatigueDecision fatigue refers to the deteriorating quality of decisions made by an individual after a long session of decisi...</p></details>
 
 ### Additional References
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: thedecisionlab.com  
-   Link:<a href="https://thedecisionlab.com/biases/decision-fatigue" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/decision-fatigue</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Decision FatigueDecision fatigue describes how the quality of our decision-making declines as we make additional choices, as our cognitiv...</p></details>
+   Link: <a href="https://thedecisionlab.com/biases/decision-fatigue" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/decision-fatigue</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Decision FatigueDecision fatigue describes how the quality of our decision-making declines as we make additional choices, as our cognitiv...</p></details>
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: insidebe.com  
-   Link:<a href="https://insidebe.com/articles/decision-fatigue/" target="_blank" rel="noopener noreferrer nofollow">https://insidebe.com/articles/decision-fatigue/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Decision Fatigue – Everything You Need to KnowDecision fatigue is a lowered ability to make good decisions as the number of choices a per...</p></details>
+   Link: <a href="https://insidebe.com/articles/decision-fatigue/" target="_blank" rel="noopener noreferrer nofollow">https://insidebe.com/articles/decision-fatigue/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Decision Fatigue – Everything You Need to KnowDecision fatigue is a lowered ability to make good decisions as the number of choices a per...</p></details>
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: firmsconsulting.com  
-   Link:<a href="https://firmsconsulting.com/willpower-reduce-decision-fatigue/" target="_blank" rel="noopener noreferrer nofollow">https://firmsconsulting.com/willpower-reduce-decision-fatigue/</a>  
+   Link: <a href="https://firmsconsulting.com/willpower-reduce-decision-fatigue/" target="_blank" rel="noopener noreferrer nofollow">https://firmsconsulting.com/willpower-reduce-decision-fatigue/</a>  
 
-12.<a id="endnote-12"></a>
+12. <a id="endnote-12"></a>
    Source: cell.com  
-   Link:<a href="https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613%2825%2900056-7" target="_blank" rel="noopener noreferrer nofollow">https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613%2825%2900056-7</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>he propensity to choose immediate rewards that can be obtained without effort...Read more...</p></details>
+   Link: <a href="https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613%2825%2900056-7" target="_blank" rel="noopener noreferrer nofollow">https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613%2825%2900056-7</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>he propensity to choose immediate rewards that can be obtained without effort...Read more...</p></details>
 
-13.<a id="endnote-13"></a>
+13. <a id="endnote-13"></a>
    Source: news-medical.net  
-   Link:<a href="https://www.news-medical.net/health/What-is-Decision-Fatigue-and-How-Does-it-Affect-Your-Brain-and-Daily-Choices.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.news-medical.net/health/What-is-Decision-Fatigue-and-How-Does-it-Affect-Your-Brain-and-Daily-Choices.aspx</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>itive efficiency, leading individuals to rely on simpler, less effortful...Read more...</p></details>
+   Link: <a href="https://www.news-medical.net/health/What-is-Decision-Fatigue-and-How-Does-it-Affect-Your-Brain-and-Daily-Choices.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.news-medical.net/health/What-is-Decision-Fatigue-and-How-Does-it-Affect-Your-Brain-and-Daily-Choices.aspx</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>itive efficiency, leading individuals to rely on simpler, less effortful...Read more...</p></details>
 
-14.<a id="endnote-14"></a>
+14. <a id="endnote-14"></a>
    Source: gc-bs.org  
    Title: the neuroscience of decision fatigue  
-   Link:<a href="https://gc-bs.org/articles/the-neuroscience-of-decision-fatigue/" target="_blank" rel="noopener noreferrer nofollow">https://gc-bs.org/articles/the-neuroscience-of-decision-fatigue/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Why We Make...2 Jun 2025 — In the context of decision fatigue, this means that exercising self-control to make optimal choices during ea...</p></details>
+   Link: <a href="https://gc-bs.org/articles/the-neuroscience-of-decision-fatigue/" target="_blank" rel="noopener noreferrer nofollow">https://gc-bs.org/articles/the-neuroscience-of-decision-fatigue/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why We Make...2 Jun 2025 — In the context of decision fatigue, this means that exercising self-control to make optimal choices during ea...</p></details>
 
-15.<a id="endnote-15"></a>
+15. <a id="endnote-15"></a>
    Source: welcometothejungle.com  
    Title: ego depletion decision fatigue  
-   Link:<a href="https://www.welcometothejungle.com/en/articles/ego-depletion-decision-fatigue" target="_blank" rel="noopener noreferrer nofollow">https://www.welcometothejungle.com/en/articles/ego-depletion-decision-fatigue</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Ego depletion: The more decisions you make, the worse...27 Mar 2024 — During the decision-making process, decision fatigue sets in and l...</p></details>
+   Link: <a href="https://www.welcometothejungle.com/en/articles/ego-depletion-decision-fatigue" target="_blank" rel="noopener noreferrer nofollow">https://www.welcometothejungle.com/en/articles/ego-depletion-decision-fatigue</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ego depletion: The more decisions you make, the worse...27 Mar 2024 — During the decision-making process, decision fatigue sets in and l...</p></details>
 
-16.<a id="endnote-16"></a>
+16. <a id="endnote-16"></a>
    Source: bozemancounseling.org  
    Title: navigating decision fatigue  
-   Link:<a href="https://www.bozemancounseling.org/blog/2024/8/4/navigating-decision-fatigue" target="_blank" rel="noopener noreferrer nofollow">https://www.bozemancounseling.org/blog/2024/8/4/navigating-decision-fatigue</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Bozeman, MT TherapyAug 4, 2024 — Decision fatigue refers to the deteriorating quality of decisions made by an individual after a prolonge...</p></details>
+   Link: <a href="https://www.bozemancounseling.org/blog/2024/8/4/navigating-decision-fatigue" target="_blank" rel="noopener noreferrer nofollow">https://www.bozemancounseling.org/blog/2024/8/4/navigating-decision-fatigue</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bozeman, MT TherapyAug 4, 2024 — Decision fatigue refers to the deteriorating quality of decisions made by an individual after a prolonge...</p></details>
 
-17.<a id="endnote-17"></a>
+17. <a id="endnote-17"></a>
    Source: papers.ssrn.com  
-   Link:<a href="https://papers.ssrn.com/sol3/Delivery.cfm/6459743.pdf?abstractid=6459743&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/6459743.pdf?abstractid=6459743&amp;mirid=1</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Overload, Decision Fatigue, and the Case for...Section 3 examines the decision fatigue mechanism, including the ego depletion model, the...</p></details>
+   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/6459743.pdf?abstractid=6459743&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/6459743.pdf?abstractid=6459743&amp;mirid=1</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Overload, Decision Fatigue, and the Case for...Section 3 examines the decision fatigue mechanism, including the ego depletion model, the...</p></details>
 
-18.<a id="endnote-18"></a>
+18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link:<a href="https://www.youtube.com/watch?v=AIO4cIHE1-M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AIO4cIHE1-M</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>How Decision Fatigue Affects Decision Quality...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=AIO4cIHE1-M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AIO4cIHE1-M</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Decision Fatigue Affects Decision Quality...</p></details>

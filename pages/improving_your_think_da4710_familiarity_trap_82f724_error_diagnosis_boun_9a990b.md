@@ -278,7 +278,7 @@ A reliable way to distinguish genuine understanding from mere familiarity is to 
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_familiarity_trap_82f724_error_diagnosis_boun_9a990b-Illustration-1-dark.svg" | relative_url }}" alt="Error Checks illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_familiarity_trap_82f724_error_diagnosis_boun_9a990b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_familiarity_trap_82f724_error_diagnosis_boun_9a990b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This makes error diagnosis one of the strongest tests of analytical thinking. In science, mathematics, engineering, medicine, software development and everyday decision-making, expertise depends not only on producing correct answers but also on detecting incorrect ones before they become costly. Research on self-explanation, metacognition and the illusion of explanatory depth consistently shows that analysing mistakes exposes hidden gaps in understanding far more effectively than repeatedly rehearsing successful examples.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9008134/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Journal of Cognition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCUnderstanding Is a Process</span><span class="citation-popover-snippet">It depends on learning, interpreting, generalizing, and acting upon information. No...Read more...</span></span></span>
+This makes error diagnosis one of the strongest tests of analytical thinking. In science, mathematics, engineering, medicine, software development and everyday decision-making, expertise depends not only on producing correct answers but also on detecting incorrect ones before they become costly. Research on self-explanation, metacognition and the illusion of explanatory depth consistently shows that analysing mistakes exposes hidden gaps in understanding far more effectively than repeatedly rehearsing successful examples. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9008134/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Journal of Cognition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCUnderstanding Is a Process</span><span class="citation-popover-snippet">It depends on learning, interpreting, generalizing, and acting upon information. No...Read more...</span></span></span>
 
 ## Why correct patterns are not enough
 
@@ -299,7 +299,7 @@ Error diagnosis demands something different. To explain why an answer is wrong, 
 
 This process tests the boundaries of knowledge rather than its centre. Instead of asking whether a rule works in ideal conditions, it asks where it stops working.
 
-Researchers studying understanding increasingly describe it as an active process of constructing, testing and revising mental models rather than simply storing correct facts. An explanation that survives scrutiny across both successful and failed cases reflects a more complete understanding than one that only fits successful examples.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9008134/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCUnderstanding Is a Process</span><span class="citation-popover-snippet">It depends on learning, interpreting, generalizing, and acting upon information. No...Read more...</span></span></span>
+Researchers studying understanding increasingly describe it as an active process of constructing, testing and revising mental models rather than simply storing correct facts. An explanation that survives scrutiny across both successful and failed cases reflects a more complete understanding than one that only fits successful examples. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9008134/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCUnderstanding Is a Process</span><span class="citation-popover-snippet">It depends on learning, interpreting, generalizing, and acting upon information. No...Read more...</span></span></span>
 
 ## How diagnosing a plausible mistake reveals deeper understanding
 
@@ -368,7 +368,7 @@ Common characteristics include:
 
 These errors are valuable because they reveal precisely which distinction has not yet become part of the learner's internal model.
 
-Research on the illusion of explanatory depth shows that people frequently believe they understand complex systems until they must explain them in detail. Similarly, explaining why an attractive mistake fails often exposes knowledge gaps that remain invisible while simply producing correct answers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofcognition.org/articles/10.5334/joc.393" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofcognition.org">[Journal of Cognition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofcognition.org</span><span class="citation-popover-snippet">Journal of CognitionSubjective Understanding is Reduced by Mechanistic...by JC Zemla · 2024 · Cited by 1 — In two experiments, we found...</span></span></span>
+Research on the illusion of explanatory depth shows that people frequently believe they understand complex systems until they must explain them in detail. Similarly, explaining why an attractive mistake fails often exposes knowledge gaps that remain invisible while simply producing correct answers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofcognition.org/articles/10.5334/joc.393" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofcognition.org">[Journal of Cognition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofcognition.org</span><span class="citation-popover-snippet">Journal of CognitionSubjective Understanding is Reduced by Mechanistic...by JC Zemla · 2024 · Cited by 1 — In two experiments, we found...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_familiarity_trap_82f724_error_diagnosis_boun_9a990b-Illustration-2-dark.svg" | relative_url }}" alt="Error Checks illustration 2" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_familiarity_trap_82f724_error_diagnosis_boun_9a990b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_familiarity_trap_82f724_error_diagnosis_boun_9a990b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -409,7 +409,7 @@ For example, two problems may use different terminology while sharing the same l
 
 People who habitually explain errors become better at recognising these structural similarities and differences. This improves [transfer]({{ 'transfer/' | relative_url }}): the ability to apply knowledge in situations that differ from the original learning context.
 
-Research on self-explanation shows that actively generating explanations helps learners reorganise and refine their knowledge instead of merely accumulating examples.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2023.1096257/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">error conditions, wrong answers, or bad decisions? Explicit Self-explanation has been shown to improve learning and understanding. This...</span></span></span>
+Research on self-explanation shows that actively generating explanations helps learners reorganise and refine their knowledge instead of merely accumulating examples. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2023.1096257/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">error conditions, wrong answers, or bad decisions? Explicit Self-explanation has been shown to improve learning and understanding. This...</span></span></span>
 
 ## Turning mistakes into a routine analytical habit
 
@@ -433,7 +433,7 @@ After solving any significant analytical problem, it is useful to ask:
 
 This approach works equally well after successes. Even when you reach the correct conclusion, analysing nearby mistakes tests whether you understand the underlying reasoning or simply arrived at the answer by luck or familiarity.
 
-A related finding from learning research is the **hypercorrection effect**: confidently held errors that receive clear corrective feedback are often remembered better than uncertain mistakes because the contradiction captures attention and [prompts]({{ 'prompts/' | relative_url }}) revision of existing knowledge. The benefit comes not from making errors alone but from diagnosing and correcting them accurately.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Hypercorrection_%28psychology%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Hypercorrection (psychology</span><span class="citation-popover-snippet">Hypercorrection (psychology</span></span></span>
+A related finding from learning research is the **hypercorrection effect**: confidently held errors that receive clear corrective feedback are often remembered better than uncertain mistakes because the contradiction captures attention and [prompts]({{ 'prompts/' | relative_url }}) revision of existing knowledge. The benefit comes not from making errors alone but from diagnosing and correcting them accurately. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Hypercorrection_%28psychology%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Hypercorrection (psychology</span><span class="citation-popover-snippet">Hypercorrection (psychology</span></span></span>
 
 ## Why error checking is a stronger test than repetition
 
@@ -444,194 +444,194 @@ The difference is subtle but important. Recognition asks whether you know the de
 In analytical thinking, that distinction is often what separates dependable judgement from confident imitation. A person who can identify exactly why a plausible argument fails has usually developed a mental model that is both deeper and more adaptable than someone who can merely reproduce the correct conclusion.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Wrong Answers Teach the Boundaries. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Wrong Answers Teach the Boundaries. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-</h4>
-<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oneWAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+        </h4>
+        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-<p class="fr-book-desc">Supports learning through testing and correcting mistakes.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Supports learning through testing and correcting mistakes.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-</h4>
-<p class="fr-book-author">By Daniel Kahneman</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Super+Thinking+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Super Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fi6qvAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Super Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Super+Thinking+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Super Thinking">Super Thinking</a>
+        </h4>
+        <p class="fr-book-author">By Gabriel Weinberg, Lauren McCann</p>
         
-<p class="fr-book-desc">Explores reasoning errors and cognitive pitfalls.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Helps readers diagnose flawed reasoning patterns.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Super+Thinking+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Super+Thinking+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Super Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fi6qvAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Super Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Super+Thinking+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Super Thinking">Super Thinking</a>
-</h4>
-<p class="fr-book-author">By Gabriel Weinberg, Lauren McCann</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DlMlEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
+        </h4>
+        <p class="fr-book-author">By Daniel T. Willingham</p>
         
-<p class="fr-book-desc">Helps readers diagnose flawed reasoning patterns.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Super+Thinking+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Encourages understanding rather than pattern memorisation.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
-</h4>
-<p class="fr-book-author">By Rolf Dobelli</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
+        </h4>
+        <p class="fr-book-author">By Rolf Dobelli</p>
         
-<p class="fr-book-desc">Explains common reasoning mistakes and how to spot them.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains common reasoning mistakes and how to spot them.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Super+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Super Thinking</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Super+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Super Thinking</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Don&#x27;t Students Like School?</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Glass Desktop Dry Erase Whiteboard with Storage Caddy and Calculator 15.75x7.09&quot;"><img src="https://i.ebayimg.com/images/g/TPYAAOSwi41m1yyn/s-l225.jpg" alt="Listing image for Glass Desktop Dry Erase Whiteboard with Storage Caddy and Calculator 15.75x7.09&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer">Glass Desktop Dry Erase Whiteboard with Storage Caddy and Calculator 15.75x7.09&quot;</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for dry erase whiteboard">Search<span data-ebay-domain-label>eBay.co.uk</span>: dry erase whiteboard</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Glass Desktop Dry Erase Whiteboard with Storage Caddy and Calculator 15.75x7.09&quot;"><img src="https://i.ebayimg.com/images/g/TPYAAOSwi41m1yyn/s-l225.jpg" alt="Listing image for Glass Desktop Dry Erase Whiteboard with Storage Caddy and Calculator 15.75x7.09&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer">Glass Desktop Dry Erase Whiteboard with Storage Caddy and Calculator 15.75x7.09&quot;</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for dry erase whiteboard">Search <span data-ebay-domain-label>eBay.co.uk</span>: dry erase whiteboard</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Whiteboard Dry Erase Magnetic Fridge Magnet Memo Planner Kitchen Notice Board A3"><img src="https://i.ebayimg.com/images/g/2NAAAeSwkvJqL3Hg/s-l225.jpg" alt="Listing image for Whiteboard Dry Erase Magnetic Fridge Magnet Memo Planner Kitchen Notice Board A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer">Whiteboard Dry Erase Magnetic Fridge Magnet Memo Planner Kitchen Notice Board A3</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for dry erase whiteboard">Search<span data-ebay-domain-label>eBay.co.uk</span>: dry erase whiteboard</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Whiteboard Dry Erase Magnetic Fridge Magnet Memo Planner Kitchen Notice Board A3"><img src="https://i.ebayimg.com/images/g/2NAAAeSwkvJqL3Hg/s-l225.jpg" alt="Listing image for Whiteboard Dry Erase Magnetic Fridge Magnet Memo Planner Kitchen Notice Board A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer">Whiteboard Dry Erase Magnetic Fridge Magnet Memo Planner Kitchen Notice Board A3</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for dry erase whiteboard">Search <span data-ebay-domain-label>eBay.co.uk</span>: dry erase whiteboard</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Magnetic Whiteboard Dry Wipe White Board Office Home Memo Notice Small Eraser"><img src="https://i.ebayimg.com/images/g/AJQAAeSwBOdocM-H/s-l225.jpg" alt="Listing image for A4 Magnetic Whiteboard Dry Wipe White Board Office Home Memo Notice Small Eraser" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer">A4 Magnetic Whiteboard Dry Wipe White Board Office Home Memo Notice Small Eraser</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for dry erase whiteboard">Search<span data-ebay-domain-label>eBay.co.uk</span>: dry erase whiteboard</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Magnetic Whiteboard Dry Wipe White Board Office Home Memo Notice Small Eraser"><img src="https://i.ebayimg.com/images/g/AJQAAeSwBOdocM-H/s-l225.jpg" alt="Listing image for A4 Magnetic Whiteboard Dry Wipe White Board Office Home Memo Notice Small Eraser" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer">A4 Magnetic Whiteboard Dry Wipe White Board Office Home Memo Notice Small Eraser</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for dry erase whiteboard">Search <span data-ebay-domain-label>eBay.co.uk</span>: dry erase whiteboard</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Magnetic Fridge Whiteboard, Dry Erase Magnet Memo Board Kitchen Notice Planner"><img src="https://i.ebayimg.com/images/g/X9EAAOSwg-xhPnrQ/s-l225.jpg" alt="Listing image for Magnetic Fridge Whiteboard, Dry Erase Magnet Memo Board Kitchen Notice Planner" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer">Magnetic Fridge Whiteboard, Dry Erase Magnet Memo Board Kitchen Notice Planner</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for dry erase whiteboard">Search<span data-ebay-domain-label>eBay.co.uk</span>: dry erase whiteboard</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Magnetic Fridge Whiteboard, Dry Erase Magnet Memo Board Kitchen Notice Planner"><img src="https://i.ebayimg.com/images/g/X9EAAOSwg-xhPnrQ/s-l225.jpg" alt="Listing image for Magnetic Fridge Whiteboard, Dry Erase Magnet Memo Board Kitchen Notice Planner" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer">Magnetic Fridge Whiteboard, Dry Erase Magnet Memo Board Kitchen Notice Planner</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for dry erase whiteboard">Search <span data-ebay-domain-label>eBay.co.uk</span>: dry erase whiteboard</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-wrong-answers-teach-the-boundaries-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -647,7 +647,7 @@ In analytical thinking, that distinction is often what separates dependable judg
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -667,7 +667,7 @@ In analytical thinking, that distinction is often what separates dependable judg
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -699,7 +699,7 @@ In analytical thinking, that distinction is often what separates dependable judg
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -751,7 +751,7 @@ In analytical thinking, that distinction is often what separates dependable judg
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -796,7 +796,7 @@ In analytical thinking, that distinction is often what separates dependable judg
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -837,84 +837,84 @@ In analytical thinking, that distinction is often what separates dependable judg
 
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCUnderstanding Is a Process  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9008134/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9008134/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>It depends on learning, interpreting, generalizing, and acting upon information. No...Read more...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9008134/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9008134/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>It depends on learning, interpreting, generalizing, and acting upon information. No...Read more...</p></details>
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Illusion of explanatory depth  
-   Link:<a href="https://en.wikipedia.org/wiki/Illusion_of_explanatory_depth" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Illusion_of_explanatory_depth</a>  
+   Link: <a href="https://en.wikipedia.org/wiki/Illusion_of_explanatory_depth" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Illusion_of_explanatory_depth</a>  
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Hypercorrection (psychology)  
-   Link:<a href="https://en.wikipedia.org/wiki/Hypercorrection_%28psychology%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hypercorrection_%28psychology%29</a>  
+   Link: <a href="https://en.wikipedia.org/wiki/Hypercorrection_%28psychology%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hypercorrection_%28psychology%29</a>  
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: journalofcognition.org  
-   Link:<a href="https://journalofcognition.org/articles/10.5334/joc.393" target="_blank" rel="noopener noreferrer nofollow">https://journalofcognition.org/articles/10.5334/joc.393</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of CognitionSubjective Understanding is Reduced by Mechanistic...by JC Zemla · 2024 · Cited by 1 — In two experiments, we found...</p></details>
+   Link: <a href="https://journalofcognition.org/articles/10.5334/joc.393" target="_blank" rel="noopener noreferrer nofollow">https://journalofcognition.org/articles/10.5334/joc.393</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of CognitionSubjective Understanding is Reduced by Mechanistic...by JC Zemla · 2024 · Cited by 1 — In two experiments, we found...</p></details>
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: frontiersin.org  
-   Link:<a href="https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2023.1096257/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2023.1096257/full</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>error conditions, wrong answers, or bad decisions? Explicit Self-explanation has been shown to improve learning and understanding. This...</p></details>
+   Link: <a href="https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2023.1096257/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2023.1096257/full</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>error conditions, wrong answers, or bad decisions? Explicit Self-explanation has been shown to improve learning and understanding. This...</p></details>
 
 ### Additional References
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/398269382_Learning_Science_and_the_Illusion_of_Understanding_Exploring_the_Effects_of_Integrating_Learning_Tasks_after_Explainer_Videos" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/398269382_Learning_Science_and_the_Illusion_of_Understanding_Exploring_the_Effects_of_Integrating_Learning_Tasks_after_Explainer_Videos</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Learning Science and the Illusion of UnderstandingThis paper reports two experimental studies examining the immediate and long-term...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/398269382_Learning_Science_and_the_Illusion_of_Understanding_Exploring_the_Effects_of_Integrating_Learning_Tasks_after_Explainer_Videos" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/398269382_Learning_Science_and_the_Illusion_of_Understanding_Exploring_the_Effects_of_Integrating_Learning_Tasks_after_Explainer_Videos</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Learning Science and the Illusion of UnderstandingThis paper reports two experimental studies examining the immediate and long-term...</p></details>
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: arxiv.org  
    Title: Why Do Explanations Fail?  
-   Link:<a href="https://arxiv.org/html/2405.13474v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2405.13474v2</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>A Typology and Discussion on...16 Oct 2025 — The typology decomposes system-specific explanation failures into two categories: (1) misle...</p></details>
+   Link: <a href="https://arxiv.org/html/2405.13474v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2405.13474v2</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Typology and Discussion on...16 Oct 2025 — The typology decomposes system-specific explanation failures into two categories: (1) misle...</p></details>
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: link.springer.com  
-   Link:<a href="https://link.springer.com/article/10.1007/s42113-026-00271-1" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s42113-026-00271-1</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Illusions of Understanding in the Sciences - Springer Natureby R Shiffrin · 2026 · Cited by 15 — Most often scientists believe th...</p></details>
+   Link: <a href="https://link.springer.com/article/10.1007/s42113-026-00271-1" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s42113-026-00271-1</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusions of Understanding in the Sciences - Springer Natureby R Shiffrin · 2026 · Cited by 15 — Most often scientists believe th...</p></details>
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: From [Hindsight Bias](&#123;&#123; 'hindsight-bias/' | relative_url &#125;&#125;) to Machine Bias: Dr. Laura Zwaan on Learning from Mistakes  
-   Link:<a href="https://www.youtube.com/watch?v=_Ob_PgYRz7E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_Ob_PgYRz7E</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Get the Most Out of Studying: Part 5, &quot;I Blew the Exam, Now What?&quot;...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=_Ob_PgYRz7E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_Ob_PgYRz7E</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Get the Most Out of Studying: Part 5, &quot;I Blew the Exam, Now What?&quot;...</p></details>
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: gallerix.org  
-   Link:<a href="https://gallerix.org/tribune/psy--illyuziya-ponimaniya/" target="_blank" rel="noopener noreferrer nofollow">https://gallerix.org/tribune/psy--illyuziya-ponimaniya/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Illusion of Understanding: Why We Think We Know...The brain mistakenly interprets a sense of familiarity with an object as an unders...</p></details>
+   Link: <a href="https://gallerix.org/tribune/psy--illyuziya-ponimaniya/" target="_blank" rel="noopener noreferrer nofollow">https://gallerix.org/tribune/psy--illyuziya-ponimaniya/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Illusion of Understanding: Why We Think We Know...The brain mistakenly interprets a sense of familiarity with an object as an unders...</p></details>
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: How to Think About Thinking — The Metacognition Explained  
-   Link:<a href="https://www.youtube.com/watch?v=tn2jyKgwHMg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tn2jyKgwHMg</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>From Hindsight Bias to Machine Bias: Dr. Laura Zwaan on Learning from Mistakes...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=tn2jyKgwHMg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tn2jyKgwHMg</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>From Hindsight Bias to Machine Bias: Dr. Laura Zwaan on Learning from Mistakes...</p></details>
 
-12.<a id="endnote-12"></a>
+12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: Error Analysis: Deepen Understanding by Exploring Mistakes  
-   Link:<a href="https://www.youtube.com/watch?v=p78mrRRShuU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=p78mrRRShuU</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Think About Thinking — The Metacognition Explained...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=p78mrRRShuU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=p78mrRRShuU</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Think About Thinking — The Metacognition Explained...</p></details>
 
-13.<a id="endnote-13"></a>
+13. <a id="endnote-13"></a>
    Source: mdpi.com  
-   Link:<a href="https://www.mdpi.com/2078-2489/17/3/299" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2078-2489/17/3/299</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency Illusion: A Review on Influence of ChatGPT in...by S Kumar · 2026 · Cited by 3 — Drawing on research from cognitive psychology a...</p></details>
+   Link: <a href="https://www.mdpi.com/2078-2489/17/3/299" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2078-2489/17/3/299</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency Illusion: A Review on Influence of ChatGPT in...by S Kumar · 2026 · Cited by 3 — Drawing on research from cognitive psychology a...</p></details>
 
-14.<a id="endnote-14"></a>
+14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: Falling Forward: The Science of Learning from Mistakes w/ Amy Edmondson  
-   Link:<a href="https://www.youtube.com/watch?v=l1WJbiA3cGI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l1WJbiA3cGI</a>  
+   Link: <a href="https://www.youtube.com/watch?v=l1WJbiA3cGI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l1WJbiA3cGI</a>  
 
-15.<a id="endnote-15"></a>
+15. <a id="endnote-15"></a>
    Source: dl.acm.org  
-   Link:<a href="https://dl.acm.org/doi/10.1145/3785022.3785061" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/10.1145/3785022.3785061</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>This study conducted an in vivo experiment...Read more...</p></details>
+   Link: <a href="https://dl.acm.org/doi/10.1145/3785022.3785061" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/10.1145/3785022.3785061</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>This study conducted an in vivo experiment...Read more...</p></details>

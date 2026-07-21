@@ -274,7 +274,7 @@ image: /assets/images/improving_your_think_da4710_decision_journals_44d9d9_rejec
 
 ## Introduction
 
-A [decision journal]({{ 'decision-journal/' | relative_url }}) is most useful when it records not only what you chose, but also what you deliberately chose *against*. Listing the rejected alternatives anchors a decision in the realistic set of options that actually existed at the time. Without that record, later reviews easily drift into comparing reality with an imaginary "perfect" option that was never seriously available, creating unfair self-criticism or misplaced confidence. Recording rejected alternatives helps preserve the original decision context, reduces hindsight distortion, and makes it possible to judge whether the reasoning was sound rather than whether fortune happened to be favourable. Research on [hindsight bias]({{ 'hindsight-bias/' | relative_url }}) and outcome bias consistently shows that knowledge of the result changes how people remember both the options and the quality of the decision process.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/14645895/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Hindsight bias, outcome knowledge and adaptive learningby K Henriksen · 2003 · Cited by 279 — This paper examines the influence of...</span></span></span>
+A [decision journal]({{ 'decision-journal/' | relative_url }}) is most useful when it records not only what you chose, but also what you deliberately chose *against*. Listing the rejected alternatives anchors a decision in the realistic set of options that actually existed at the time. Without that record, later reviews easily drift into comparing reality with an imaginary "perfect" option that was never seriously available, creating unfair self-criticism or misplaced confidence. Recording rejected alternatives helps preserve the original decision context, reduces hindsight distortion, and makes it possible to judge whether the reasoning was sound rather than whether fortune happened to be favourable. Research on [hindsight bias]({{ 'hindsight-bias/' | relative_url }}) and outcome bias consistently shows that knowledge of the result changes how people remember both the options and the quality of the decision process. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/14645895/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Hindsight bias, outcome knowledge and adaptive learningby K Henriksen · 2003 · Cited by 279 — This paper examines the influence of...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_decision_journals_44d9d9_rejected_alternative_fdfc3d-Illustration-1-dark.svg" | relative_url }}" alt="Alternatives illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_decision_journals_44d9d9_rejected_alternative_fdfc3d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_decision_journals_44d9d9_rejected_alternative_fdfc3d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -316,7 +316,7 @@ Third, it separates deliberate rejection from accidental omission. During a revi
 
 The first may reflect sound judgement. The second may reveal a genuine gap in the decision process that deserves attention.
 
-Finally, documenting rejected alternatives encourages active consideration of multiple possibilities, a practice that can reduce overconfidence and improve judgement by making assumptions more explicit. Reviews of debiasing interventions consistently identify structured consideration of alternatives as one practical way to improve decision quality, although effectiveness varies with context.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/01492063241287188" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMitigating Cognitive Bias to Improve Organizational...by B Fasolo · 2025 · Cited by 80 — The detrimental influence of cogni...</span></span></span>
+Finally, documenting rejected alternatives encourages active consideration of multiple possibilities, a practice that can reduce overconfidence and improve judgement by making assumptions more explicit. Reviews of debiasing interventions consistently identify structured consideration of alternatives as one practical way to improve decision quality, although effectiveness varies with context. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/01492063241287188" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMitigating Cognitive Bias to Improve Organizational...by B Fasolo · 2025 · Cited by 80 — The detrimental influence of cogni...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/o_rW4jCOB4c" title="Overcoming Outcome Bias: How to Improve Learning &amp; Decision Making - ft. Annie Duke &amp; Övül Sezer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=o_rW4jCOB4c" target="_blank" rel="noopener noreferrer">Overcoming Outcome Bias: How to Improve Learning &amp; Decision Making - ft. Annie Duke &amp; Övül Sezer</a></p><p class="youtube-embed-meta">Channel: Trevor Ragan</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=o_rW4jCOB4c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=o_rW4jCOB4c">Open on YouTube</a></p></div></div></div>
@@ -345,7 +345,7 @@ The original journal may instead show:
 
 The review then becomes much more informative. Instead of asking whether the chosen supplier eventually disappointed, it asks whether the original weighting of reliability against price was sensible given what was known.
 
-This distinction protects against outcome bias, in which identical decisions are judged differently solely because their [outcomes]({{ 'outcomes/' | relative_url }}) differ. Experimental research has repeatedly shown that people rate the quality of a decision more harshly after learning of a poor outcome, even when the decision-maker had exactly the same information beforehand.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedecisionlab.com/biases/outcome-bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Decision LabOutcome bias: Why we blame bad results, not bad reasoningOutcome bias is a cognitive bias where we evaluate decisions pri...</span></span></span>
+This distinction protects against outcome bias, in which identical decisions are judged differently solely because their [outcomes]({{ 'outcomes/' | relative_url }}) differ. Experimental research has repeatedly shown that people rate the quality of a decision more harshly after learning of a poor outcome, even when the decision-maker had exactly the same information beforehand. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedecisionlab.com/biases/outcome-bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Decision LabOutcome bias: Why we blame bad results, not bad reasoningOutcome bias is a cognitive bias where we evaluate decisions pri...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_decision_journals_44d9d9_rejected_alternative_fdfc3d-Illustration-2-dark.svg" | relative_url }}" alt="Alternatives illustration 2" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_decision_journals_44d9d9_rejected_alternative_fdfc3d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_decision_journals_44d9d9_rejected_alternative_fdfc3d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -364,7 +364,7 @@ Examples include:
 
 </div>
 
-These [comparisons]({{ 'comparisons/' | relative_url }}) feel persuasive because hindsight makes successful paths appear more obvious than they were. Research on hindsight bias shows that outcome knowledge systematically changes people's memory of what seemed likely beforehand and makes actual events appear more predictable than they really were.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/14645895/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Hindsight bias, outcome knowledge and adaptive learningby K Henriksen · 2003 · Cited by 279 — This paper examines the influence of...</span></span></span>
+These [comparisons]({{ 'comparisons/' | relative_url }}) feel persuasive because hindsight makes successful paths appear more obvious than they were. Research on hindsight bias shows that outcome knowledge systematically changes people's memory of what seemed likely beforehand and makes actual events appear more predictable than they really were. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/14645895/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Hindsight bias, outcome knowledge and adaptive learningby K Henriksen · 2003 · Cited by 279 — This paper examines the influence of...</span></span></span>
 
 Recording rejected alternatives helps establish a fairer benchmark:
 
@@ -414,162 +414,162 @@ When reviewing the decision later, revisit each row before looking at the outcom
 That question is usually far more valuable than asking whether events happened to reward or punish the decision.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to What did you choose against?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to What did you choose against?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decisive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aECTEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Decisive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decisive">Decisive</a>
-</h4>
-<p class="fr-book-author">By Chip Heath, Dan Heath</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Decisive+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decisive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aECTEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Decisive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Decisive+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decisive">Decisive</a>
+        </h4>
+        <p class="fr-book-author">By Chip Heath, Dan Heath</p>
         
-<p class="fr-book-desc">Strong emphasis on evaluating alternatives before committing to a choice.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Strong emphasis on evaluating alternatives before committing to a choice.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Decisive+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-</h4>
-<p class="fr-book-author">By Daniel Kahneman</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Decide+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Decide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=scifDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Decide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=How+to+Decide+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Decide">How to Decide</a>
+        </h4>
+        <p class="fr-book-author">By Annie Duke</p>
         
-<p class="fr-book-desc">Explains cognitive biases, including hindsight effects, that decision journals are designed to counter.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly addresses comparing options, uncertainty, and improving decision quality.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=How+to+Decide+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Decide+by+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Decide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=scifDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Decide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=How+to+Decide+by+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Decide">How to Decide</a>
-</h4>
-<p class="fr-book-author">By Annie Duke</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ICgWrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Superforecasting+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
+        </h4>
+        <p class="fr-book-author">By Philip Eyrikson Tetlock, Dan Gardner</p>
         
-<p class="fr-book-desc">Directly addresses comparing options, uncertainty, and improving decision quality.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=How+to+Decide+by+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Encourages disciplined reasoning, tracking predictions, and learning from past decisions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Superforecasting+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ICgWrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
-</h4>
-<p class="fr-book-author">By Philip Eyrikson Tetlock, Dan Gardner</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Decision+Book+Mikael+Krogerus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Decision Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tUVNzwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Decision Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Decision+Book+Mikael+Krogerus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Decision Book">The Decision Book</a>
+        </h4>
+        <p class="fr-book-author">By Mikael Krogerus, Roman Tschäppeler</p>
         
-<p class="fr-book-desc">Encourages disciplined reasoning, tracking predictions, and learning from past decisions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides practical frameworks for comparing alternatives and documenting structured choices.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Decision+Book+Mikael+Krogerus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Decisive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Decisive</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Decide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Decide</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Decisive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Decisive</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Decide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Decide</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=did+you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alternatives-ece2bc-what-did-you-choose-against-improving-your-think-did-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did you poster -book -books -dvd" data-ebay-reference="alternatives-ece2bc-what-did-you-choose-against-improving-your-think-did-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for But Did You Die Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/de5b3169cd7bb0a5239c.jpg' | relative_url }}" alt="Listing image for But Did You Die Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=did+you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alternatives-ece2bc-what-did-you-choose-against-improving-your-think-did-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did you poster -book -books -dvd" data-ebay-reference="alternatives-ece2bc-what-did-you-choose-against-improving-your-think-did-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">But Did You Die Framed Wall Art Poster Canvas Print Picture</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=did+you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alternatives-ece2bc-what-did-you-choose-against-improving-your-think-did-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did you poster -book -books -dvd" data-ebay-reference="alternatives-ece2bc-what-did-you-choose-against-improving-your-think-did-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for did you poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: did you poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=did+you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alternatives-ece2bc-what-did-you-choose-against-improving-your-think-did-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did you poster -book -books -dvd" data-ebay-reference="alternatives-ece2bc-what-did-you-choose-against-improving-your-think-did-you-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=did+you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alternatives-ece2bc-what-did-you-choose-against-improving-your-think-did-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did you poster -book -books -dvd" data-ebay-reference="alternatives-ece2bc-what-did-you-choose-against-improving-your-think-did-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for But Did You Die Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/de5b3169cd7bb0a5239c.jpg' | relative_url }}" alt="Listing image for But Did You Die Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=did+you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alternatives-ece2bc-what-did-you-choose-against-improving-your-think-did-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did you poster -book -books -dvd" data-ebay-reference="alternatives-ece2bc-what-did-you-choose-against-improving-your-think-did-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">But Did You Die Framed Wall Art Poster Canvas Print Picture</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=did+you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alternatives-ece2bc-what-did-you-choose-against-improving-your-think-did-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did you poster -book -books -dvd" data-ebay-reference="alternatives-ece2bc-what-did-you-choose-against-improving-your-think-did-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for did you poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: did you poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=did+you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alternatives-ece2bc-what-did-you-choose-against-improving-your-think-did-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did you poster -book -books -dvd" data-ebay-reference="alternatives-ece2bc-what-did-you-choose-against-improving-your-think-did-you-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=did+you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alternatives-ece2bc-what-did-you-choose-against-improving-your-think-did-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did you poster -book -books -dvd" data-ebay-reference="alternatives-ece2bc-what-did-you-choose-against-improving-your-think-did-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for But Did You Die Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5819a0d9f176174ab65c.jpg' | relative_url }}" alt="Listing image for But Did You Die Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=did+you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alternatives-ece2bc-what-did-you-choose-against-improving-your-think-did-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did you poster -book -books -dvd" data-ebay-reference="alternatives-ece2bc-what-did-you-choose-against-improving-your-think-did-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">But Did You Die Framed Wall Art Poster Canvas Print Picture</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=did+you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alternatives-ece2bc-what-did-you-choose-against-improving-your-think-did-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did you poster -book -books -dvd" data-ebay-reference="alternatives-ece2bc-what-did-you-choose-against-improving-your-think-did-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for did you poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: did you poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=did+you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alternatives-ece2bc-what-did-you-choose-against-improving-your-think-did-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did you poster -book -books -dvd" data-ebay-reference="alternatives-ece2bc-what-did-you-choose-against-improving-your-think-did-you-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=did+you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alternatives-ece2bc-what-did-you-choose-against-improving-your-think-did-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did you poster -book -books -dvd" data-ebay-reference="alternatives-ece2bc-what-did-you-choose-against-improving-your-think-did-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=did+you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alternatives-ece2bc-what-did-you-choose-against-improving-your-think-did-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did you poster -book -books -dvd" data-ebay-reference="alternatives-ece2bc-what-did-you-choose-against-improving-your-think-did-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for But Did You Die Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5819a0d9f176174ab65c.jpg' | relative_url }}" alt="Listing image for But Did You Die Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=did+you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alternatives-ece2bc-what-did-you-choose-against-improving-your-think-did-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did you poster -book -books -dvd" data-ebay-reference="alternatives-ece2bc-what-did-you-choose-against-improving-your-think-did-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">But Did You Die Framed Wall Art Poster Canvas Print Picture</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=did+you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alternatives-ece2bc-what-did-you-choose-against-improving-your-think-did-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did you poster -book -books -dvd" data-ebay-reference="alternatives-ece2bc-what-did-you-choose-against-improving-your-think-did-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for did you poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: did you poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=did+you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alternatives-ece2bc-what-did-you-choose-against-improving-your-think-did-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did you poster -book -books -dvd" data-ebay-reference="alternatives-ece2bc-what-did-you-choose-against-improving-your-think-did-you-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=did+you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alternatives-ece2bc-what-did-you-choose-against-improving-your-think-did-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did you poster -book -books -dvd" data-ebay-reference="alternatives-ece2bc-what-did-you-choose-against-improving-your-think-did-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -585,7 +585,7 @@ That question is usually far more valuable than asking whether events happened t
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -605,7 +605,7 @@ That question is usually far more valuable than asking whether events happened t
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -637,7 +637,7 @@ That question is usually far more valuable than asking whether events happened t
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -689,7 +689,7 @@ That question is usually far more valuable than asking whether events happened t
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -734,7 +734,7 @@ That question is usually far more valuable than asking whether events happened t
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -775,88 +775,88 @@ That question is usually far more valuable than asking whether events happened t
 
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/14645895/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/14645895/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Hindsight bias, outcome knowledge and adaptive learningby K Henriksen · 2003 · Cited by 279 — This paper examines the influence of...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/14645895/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/14645895/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hindsight bias, outcome knowledge and adaptive learningby K Henriksen · 2003 · Cited by 279 — This paper examines the influence of...</p></details>
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: thedecisionlab.com  
-   Link:<a href="https://thedecisionlab.com/biases/outcome-bias" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/outcome-bias</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabOutcome bias: Why we blame bad results, not bad reasoningOutcome bias is a cognitive bias where we evaluate decisions pri...</p></details>
+   Link: <a href="https://thedecisionlab.com/biases/outcome-bias" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/outcome-bias</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabOutcome bias: Why we blame bad results, not bad reasoningOutcome bias is a cognitive bias where we evaluate decisions pri...</p></details>
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: journals.sagepub.com  
-   Link:<a href="https://journals.sagepub.com/doi/10.1177/01492063241287188" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/01492063241287188</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsMitigating Cognitive Bias to Improve Organizational...by B Fasolo · 2025 · Cited by 80 — The detrimental influence of cogni...</p></details>
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/01492063241287188" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/01492063241287188</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsMitigating Cognitive Bias to Improve Organizational...by B Fasolo · 2025 · Cited by 80 — The detrimental influence of cogni...</p></details>
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8763848/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8763848/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Impact of Cognitive Biases on Professionals&#x27; Decision...by V Berthet · 2022 · Cited by 306 — First, the literature reviewed shows...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8763848/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8763848/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Impact of Cognitive Biases on Professionals&#x27; Decision...by V Berthet · 2022 · Cited by 306 — First, the literature reviewed shows...</p></details>
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Outcome bias  
-   Link:<a href="https://en.wikipedia.org/wiki/Outcome_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Outcome_bias</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Outcome biasThe outcome bias is an error made in evaluating the quality of a decision when the outcome of that decision is already known...</p></details>
+   Link: <a href="https://en.wikipedia.org/wiki/Outcome_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Outcome_bias</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Outcome biasThe outcome bias is an error made in evaluating the quality of a decision when the outcome of that decision is already known...</p></details>
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: thedecisionlab.com  
-   Link:<a href="https://thedecisionlab.com/biases/hindsight-bias" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/hindsight-bias</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Hindsight BiasHindsight bias, or the knew-it-all-along, is the tendency to claim currents events were to happen even though it was comple...</p></details>
+   Link: <a href="https://thedecisionlab.com/biases/hindsight-bias" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/hindsight-bias</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hindsight BiasHindsight bias, or the knew-it-all-along, is the tendency to claim currents events were to happen even though it was comple...</p></details>
 
 ### Additional References
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: scholarlypublications.universiteitleiden.nl  
-   Link:<a href="https://scholarlypublications.universiteitleiden.nl/access/item%3A3160833/download" target="_blank" rel="noopener noreferrer nofollow">https://scholarlypublications.universiteitleiden.nl/access/item%3A3160833/download</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>bias and outcome bias in judging directors&#x27;...by N Strohmaier · Cited by 29 — Although very similar to hindsight bias in that outcome in...</p></details>
+   Link: <a href="https://scholarlypublications.universiteitleiden.nl/access/item%3A3160833/download" target="_blank" rel="noopener noreferrer nofollow">https://scholarlypublications.universiteitleiden.nl/access/item%3A3160833/download</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>bias and outcome bias in judging directors&#x27;...by N Strohmaier · Cited by 29 — Although very similar to hindsight bias in that outcome in...</p></details>
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: bmt.org  
-   Link:<a href="https://www.bmt.org/insights/hindsight-bias-its-effects-on-decision-making-and-implications-for-project-management/" target="_blank" rel="noopener noreferrer nofollow">https://www.bmt.org/insights/hindsight-bias-its-effects-on-decision-making-and-implications-for-project-management/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Hindsight Bias: its effects on decision making and...29 Aug 2024 — Hindsight bias can have severe implications for project management, i...</p></details>
+   Link: <a href="https://www.bmt.org/insights/hindsight-bias-its-effects-on-decision-making-and-implications-for-project-management/" target="_blank" rel="noopener noreferrer nofollow">https://www.bmt.org/insights/hindsight-bias-its-effects-on-decision-making-and-implications-for-project-management/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hindsight Bias: its effects on decision making and...29 Aug 2024 — Hindsight bias can have severe implications for project management, i...</p></details>
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: youtube.com  
-   Link:<a href="https://www.youtube.com/watch?v=o_rW4jCOB4c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=o_rW4jCOB4c</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>results, instead of looking at the process itself...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=o_rW4jCOB4c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=o_rW4jCOB4c</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>results, instead of looking at the process itself...</p></details>
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: youtube.com  
-   Link:<a href="https://www.youtube.com/watch?v=00KD0tyvgcY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=00KD0tyvgcY</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>656 - How to Make ANY Decision with Annie Duke...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=00KD0tyvgcY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=00KD0tyvgcY</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>656 - How to Make ANY Decision with Annie Duke...</p></details>
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: link.springer.com  
-   Link:<a href="https://link.springer.com/article/10.1007/s13164-023-00672-2" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s13164-023-00672-2</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>the Evidence for Outcome Bias and Hindsight Bias31 Jan 2023 — Outcome bias and hindsight bias are important in philosophical debates and...</p></details>
+   Link: <a href="https://link.springer.com/article/10.1007/s13164-023-00672-2" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s13164-023-00672-2</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Evidence for Outcome Bias and Hindsight Bias31 Jan 2023 — Outcome bias and hindsight bias are important in philosophical debates and...</p></details>
 
-12.<a id="endnote-12"></a>
+12. <a id="endnote-12"></a>
    Source: cmu.edu  
    Title: Outcome Feedback  
-   Link:<a href="https://www.cmu.edu/dietrich/sds/docs/loewenstein/OutcomeFeedback.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cmu.edu/dietrich/sds/docs/loewenstein/OutcomeFeedback.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Carnegie Mellon UniversityOutcome Feedback: Hindsight and Informationby SJ Hoch · 1989 · Cited by 247 — Although &quot;hindsight bias&quot; researc...</p></details>
+   Link: <a href="https://www.cmu.edu/dietrich/sds/docs/loewenstein/OutcomeFeedback.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cmu.edu/dietrich/sds/docs/loewenstein/OutcomeFeedback.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Carnegie Mellon UniversityOutcome Feedback: Hindsight and Informationby SJ Hoch · 1989 · Cited by 247 — Although &quot;hindsight bias&quot; researc...</p></details>
 
-13.<a id="endnote-13"></a>
+13. <a id="endnote-13"></a>
    Source: academicworks.cuny.edu  
-   Link:<a href="https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1005&amp;context=jj_etds" target="_blank" rel="noopener noreferrer nofollow">https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1005&amp;context=jj_etds</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Bias in Clinical Decision Makingby A Beltrani · 2017 · Cited by 4 — The aim of this study was to extend the current body of literature on...</p></details>
+   Link: <a href="https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1005&amp;context=jj_etds" target="_blank" rel="noopener noreferrer nofollow">https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1005&amp;context=jj_etds</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bias in Clinical Decision Makingby A Beltrani · 2017 · Cited by 4 — The aim of this study was to extend the current body of literature on...</p></details>
 
-14.<a id="endnote-14"></a>
+14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link:<a href="https://www.youtube.com/watch?v=ZOl8z30k2Pg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZOl8z30k2Pg</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Decide: Better Choices, Better Life with Annie Duke...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=ZOl8z30k2Pg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZOl8z30k2Pg</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Decide: Better Choices, Better Life with Annie Duke...</p></details>
 
-15.<a id="endnote-15"></a>
+15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: What is hindsight bias?  
-   Link:<a href="https://www.youtube.com/watch?v=OkrKOdWn3oA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OkrKOdWn3oA</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Psychological Research: Crash Course Psychology #2...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=OkrKOdWn3oA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OkrKOdWn3oA</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychological Research: Crash Course Psychology #2...</p></details>
 
-16.<a id="endnote-16"></a>
+16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: How to Decide: Better Choices, Better Life with Annie Duke  
-   Link:<a href="https://www.youtube.com/watch?v=ynFWVeRDoQs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ynFWVeRDoQs</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>What is hindsight bias?...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=ynFWVeRDoQs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ynFWVeRDoQs</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is hindsight bias?...</p></details>

@@ -280,7 +280,7 @@ image: /assets/images/improving_your_think_da4710_feedback_calibration_8a35f0_fa
 
 ## Introduction
 
-Fast feedback is one of the most effective ways to improve judgement because it links an outcome to the reasoning that produced it before memory, hindsight and rationalisation distort the connection. When feedback arrives soon after a decision, it helps you identify not only what was wrong, but also whether your level of confidence matched the evidence you had at the time. Equally important, it can reveal occasions when you were correct for good reasons but lacked confidence, allowing you to strengthen knowledge that was already present but poorly recognised. Research on metacognition, memory and expertise consistently shows that timely, specific feedback recalibrates confidence more effectively than delayed summaries or vague performance reviews.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Butler-et-al-2008_JEPLMC.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychnet.wustl.edu">[Psychnet+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychnet.wustl.edu</span><span class="citation-popover-title">Butler et al 2008 JEPLMC</span><span class="citation-popover-snippet">Feedback Increases Retention of Low- Confidence Correct...by AC Butler · 2008 · Cited by 540 — Our hypothesis is that feedback s...</span></span></span>
+Fast feedback is one of the most effective ways to improve judgement because it links an outcome to the reasoning that produced it before memory, hindsight and rationalisation distort the connection. When feedback arrives soon after a decision, it helps you identify not only what was wrong, but also whether your level of confidence matched the evidence you had at the time. Equally important, it can reveal occasions when you were correct for good reasons but lacked confidence, allowing you to strengthen knowledge that was already present but poorly recognised. Research on metacognition, memory and expertise consistently shows that timely, specific feedback recalibrates confidence more effectively than delayed summaries or vague performance reviews. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Butler-et-al-2008_JEPLMC.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychnet.wustl.edu">[Psychnet+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychnet.wustl.edu</span><span class="citation-popover-title">Butler et al 2008 JEPLMC</span><span class="citation-popover-snippet">Feedback Increases Retention of Low- Confidence Correct...by AC Butler · 2008 · Cited by 540 — Our hypothesis is that feedback s...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_feedback_calibration_8a35f0_fast_feedback_confid_0193a4-Illustration-1-dark.svg" | relative_url }}" alt="Fast Feedback illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_feedback_calibration_8a35f0_fast_feedback_confid_0193a4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_feedback_calibration_8a35f0_fast_feedback_confid_0193a4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -295,7 +295,7 @@ Several processes reduce learning from delayed feedback:
 * **Reasoning is rewritten.** People unintentionally update their memories so that past beliefs appear more consistent with current knowledge.
 * **Emotional impact shifts.** Immediate [surprise]({{ 'surprise/' | relative_url }}) often motivates careful revision, whereas delayed correction may feel detached or unimportant.
 
-This is one reason why environments with rapid, accurate feedback tend to produce genuine expertise. In work comparing [expert intuition]({{ 'expert-gut/' | relative_url }}) across domains, researchers argued that intuition becomes reliable only when people repeatedly encounter valid patterns and receive prompt, unambiguous feedback linking those patterns to [outcomes]({{ 'outcomes/' | relative_url }}). In slow or noisy environments, confidence can increase without equivalent improvement in judgement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/26798603_Conditions_for_Intuitive_Expertise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Conditions for Intuitive ExpertiseAnd intuitive expertise is trustworthy only in environments offering valid cues and f...</span></span></span>
+This is one reason why environments with rapid, accurate feedback tend to produce genuine expertise. In work comparing [expert intuition]({{ 'expert-gut/' | relative_url }}) across domains, researchers argued that intuition becomes reliable only when people repeatedly encounter valid patterns and receive prompt, unambiguous feedback linking those patterns to [outcomes]({{ 'outcomes/' | relative_url }}). In slow or noisy environments, confidence can increase without equivalent improvement in judgement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/26798603_Conditions_for_Intuitive_Expertise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Conditions for Intuitive ExpertiseAnd intuitive expertise is trustworthy only in environments offering valid cues and f...</span></span></span>
 
 The practical implication is straightforward: if you want to improve judgement, shorten the interval between prediction and review whenever possible. A weekly review of forecasts generally teaches more than an annual retrospective, even if both cover the same decisions.
 
@@ -306,7 +306,7 @@ The practical implication is straightforward: if you want to improve judgement, 
 
 One of the most overlooked functions of feedback is correcting **misplaced underconfidence**.
 
-Most people think feedback exists to fix mistakes. However, experiments by Andrew Butler, Jeffrey Karpicke and Henry Roediger demonstrated that feedback also strengthens answers that were already correct but given with little confidence. Participants who received confirmation after low-confidence correct responses remembered those answers substantially better later than participants who received no feedback. The feedback corrected a metacognitive error rather than a factual one: they had known the answer, but failed to recognise that they knew it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Butler-et-al-2008_JEPLMC.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychnet.wustl.edu">[Psychnet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychnet.wustl.edu</span><span class="citation-popover-title">Butler et al 2008 JEPLMC</span><span class="citation-popover-snippet">Feedback Increases Retention of Low- Confidence Correct...by AC Butler · 2008 · Cited by 540 — Our hypothesis is that feedback s...</span></span></span>
+Most people think feedback exists to fix mistakes. However, experiments by Andrew Butler, Jeffrey Karpicke and Henry Roediger demonstrated that feedback also strengthens answers that were already correct but given with little confidence. Participants who received confirmation after low-confidence correct responses remembered those answers substantially better later than participants who received no feedback. The feedback corrected a metacognitive error rather than a factual one: they had known the answer, but failed to recognise that they knew it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Butler-et-al-2008_JEPLMC.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychnet.wustl.edu">[Psychnet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychnet.wustl.edu</span><span class="citation-popover-title">Butler et al 2008 JEPLMC</span><span class="citation-popover-snippet">Feedback Increases Retention of Low- Confidence Correct...by AC Butler · 2008 · Cited by 540 — Our hypothesis is that feedback s...</span></span></span>
 
 This distinction matters because confidence and knowledge are not identical.
 
@@ -332,7 +332,7 @@ In other words, good feedback calibrates upward as well as downward. Improving j
 
 Feedback has its strongest effect when it violates expectations.
 
-Research on the **hypercorrection effect** found an apparently counterintuitive pattern: people often correct high-confidence mistakes more successfully than low-confidence mistakes after receiving immediate corrective feedback. Rather than resisting correction, strongly held but incorrect beliefs can become especially memorable once they are disproved because the contradiction captures attention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4036076/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCSurprising feedback improves later memory</span><span class="citation-popover-snippet">NIHby LK Fazio · 2009 · Cited by 203 — The hypercorrection effect is the finding that high-confidence errors are more likely to be...</span></span></span>
+Research on the **hypercorrection effect** found an apparently counterintuitive pattern: people often correct high-confidence mistakes more successfully than low-confidence mistakes after receiving immediate corrective feedback. Rather than resisting correction, strongly held but incorrect beliefs can become especially memorable once they are disproved because the contradiction captures attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4036076/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCSurprising feedback improves later memory</span><span class="citation-popover-snippet">NIHby LK Fazio · 2009 · Cited by 203 — The hypercorrection effect is the finding that high-confidence errors are more likely to be...</span></span></span>
 
 The proposed mechanism is prediction error.
 
@@ -347,7 +347,7 @@ When reality differs sharply from expectation:
 
 </div>
 
-Laboratory studies support this explanation by showing greater attention and neural responses when highly confident errors receive corrective feedback than when uncertain errors are corrected.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4036076/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCSurprising feedback improves later memory</span><span class="citation-popover-snippet">NIHby LK Fazio · 2009 · Cited by 203 — The hypercorrection effect is the finding that high-confidence errors are more likely to be...</span></span></span>
+Laboratory studies support this explanation by showing greater attention and neural responses when highly confident errors receive corrective feedback than when uncertain errors are corrected. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4036076/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCSurprising feedback improves later memory</span><span class="citation-popover-snippet">NIHby LK Fazio · 2009 · Cited by 203 — The hypercorrection effect is the finding that high-confidence errors are more likely to be...</span></span></span>
 
 However, this should not be misunderstood as evidence that confident misconceptions are harmless. The benefit appears only when the learner actually receives clear corrective feedback. Without correction, high-confidence errors can become even more entrenched.
 
@@ -420,197 +420,197 @@ Fast feedback improves analytical thinking because it preserves the relationship
 
 </div>
 
-When those elements remain closely connected, mistakes become easier to diagnose, hidden knowledge becomes easier to recognise, and confidence gradually becomes better calibrated to reality. Rather than rewarding only correctness, timely feedback teaches something more valuable: when you should trust your judgement, when you should question it, and how much certainty the available evidence genuinely deserves.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Butler-et-al-2008_JEPLMC.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychnet.wustl.edu">[Psychnet+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychnet.wustl.edu</span><span class="citation-popover-title">Butler et al 2008 JEPLMC</span><span class="citation-popover-snippet">Feedback Increases Retention of Low- Confidence Correct...by AC Butler · 2008 · Cited by 540 — Our hypothesis is that feedback s...</span></span></span>
+When those elements remain closely connected, mistakes become easier to diagnose, hidden knowledge becomes easier to recognise, and confidence gradually becomes better calibrated to reality. Rather than rewarding only correctness, timely feedback teaches something more valuable: when you should trust your judgement, when you should question it, and how much certainty the available evidence genuinely deserves. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Butler-et-al-2008_JEPLMC.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychnet.wustl.edu">[Psychnet+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychnet.wustl.edu</span><span class="citation-popover-title">Butler et al 2008 JEPLMC</span><span class="citation-popover-snippet">Feedback Increases Retention of Low- Confidence Correct...by AC Butler · 2008 · Cited by 540 — Our hypothesis is that feedback s...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Feedback Timing Changes What You Learn. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Feedback Timing Changes What You Learn. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oneWAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-</h4>
-<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oneWAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+        </h4>
+        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-<p class="fr-book-desc">Directly addresses retrieval, feedback, memory, and durable learning.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly addresses retrieval, feedback, memory, and durable learning.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-</h4>
-<p class="fr-book-author">By Daniel Kahneman</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+We+Learn+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How We Learn on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=R9C2DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How We Learn" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=How+We+Learn+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How We Learn">How We Learn</a>
+        </h4>
+        <p class="fr-book-author">By Stanislas Dehaene</p>
         
-<p class="fr-book-desc">Explains cognitive biases, confidence, hindsight, and how better feedback improves judgment.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Covers memory, timing, review, and evidence-based learning strategies closely aligned with feedback timing.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=How+We+Learn+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Peak on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=l9FPDQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Peak" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Peak">Peak</a>
-</h4>
-<p class="fr-book-author">By Anders Ericsson, Robert Pool</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Peak+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Peak on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=l9FPDQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Peak" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Peak+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Peak">Peak</a>
+        </h4>
+        <p class="fr-book-author">By Anders Ericsson, Robert Pool</p>
         
-<p class="fr-book-desc">Strong coverage of how rapid, specific feedback accelerates expertise.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Strong coverage of how rapid, specific feedback accelerates expertise.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Peak+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Learning+by+Josh+Waitzkin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Learning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XUwOtdcIWdkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Art of Learning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Art+of+Learning+by+Josh+Waitzkin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Learning">The Art of Learning</a>
-</h4>
-<p class="fr-book-author">By Josh Waitzkin</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Learning+Josh+Waitzkin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Learning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XUwOtdcIWdkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Art of Learning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Art+of+Learning+Josh+Waitzkin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Learning">The Art of Learning</a>
+        </h4>
+        <p class="fr-book-author">By Josh Waitzkin</p>
         
-<p class="fr-book-desc">Shows how reflection, correction, and iterative feedback improve performance.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Art+of+Learning+by+Josh+Waitzkin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Shows how reflection, correction, and iterative feedback improve performance.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Art+of+Learning+Josh+Waitzkin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Peak&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Peak</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+We+Learn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How We Learn</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Peak&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Peak</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes memorabilia -book -books -dvd" data-ebay-reference="fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WHAT A DIFFERENCE TODAY MAKES PIN New in packaging! Today Show memorabilia"><img src="{{ '/assets/images/marketplace-covers/895e64ac3844d6d9d17b.jpg' | relative_url }}" alt="Listing image for WHAT A DIFFERENCE TODAY MAKES PIN New in packaging! Today Show memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes memorabilia -book -books -dvd" data-ebay-reference="fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">WHAT A DIFFERENCE TODAY MAKES PIN New in packaging! Today Show memorabilia</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes memorabilia -book -books -dvd" data-ebay-reference="fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for makes memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: makes memorabilia</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes memorabilia -book -books -dvd" data-ebay-reference="fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes memorabilia -book -books -dvd" data-ebay-reference="fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WHAT A DIFFERENCE TODAY MAKES PIN New in packaging! Today Show memorabilia"><img src="{{ '/assets/images/marketplace-covers/895e64ac3844d6d9d17b.jpg' | relative_url }}" alt="Listing image for WHAT A DIFFERENCE TODAY MAKES PIN New in packaging! Today Show memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes memorabilia -book -books -dvd" data-ebay-reference="fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">WHAT A DIFFERENCE TODAY MAKES PIN New in packaging! Today Show memorabilia</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes memorabilia -book -books -dvd" data-ebay-reference="fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for makes memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: makes memorabilia</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes memorabilia -book -books -dvd" data-ebay-reference="fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes memorabilia -book -books -dvd" data-ebay-reference="fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for E40 Signed Practice Makes Paper Framed CD Beckett BAS COA Hip Hop Memorabilia"><img src="{{ '/assets/images/marketplace-covers/cb47870448a33186de3a.jpg' | relative_url }}" alt="Listing image for E40 Signed Practice Makes Paper Framed CD Beckett BAS COA Hip Hop Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes memorabilia -book -books -dvd" data-ebay-reference="fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">E40 Signed Practice Makes Paper Framed CD Beckett BAS COA Hip Hop Memorabilia</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes memorabilia -book -books -dvd" data-ebay-reference="fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for makes memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: makes memorabilia</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes memorabilia -book -books -dvd" data-ebay-reference="fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes memorabilia -book -books -dvd" data-ebay-reference="fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for E40 Signed Practice Makes Paper Framed CD Beckett BAS COA Hip Hop Memorabilia"><img src="{{ '/assets/images/marketplace-covers/cb47870448a33186de3a.jpg' | relative_url }}" alt="Listing image for E40 Signed Practice Makes Paper Framed CD Beckett BAS COA Hip Hop Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes memorabilia -book -books -dvd" data-ebay-reference="fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">E40 Signed Practice Makes Paper Framed CD Beckett BAS COA Hip Hop Memorabilia</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes memorabilia -book -books -dvd" data-ebay-reference="fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for makes memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: makes memorabilia</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes memorabilia -book -books -dvd" data-ebay-reference="fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes memorabilia -book -books -dvd" data-ebay-reference="fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Blue Peter Makes a Thunderbirds Tracy Island VHS Video, Sci-Fi Toy Memorabilia"><img src="{{ '/assets/images/marketplace-covers/699f56dd590b5359978b.jpg' | relative_url }}" alt="Listing image for Blue Peter Makes a Thunderbirds Tracy Island VHS Video, Sci-Fi Toy Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes memorabilia -book -books -dvd" data-ebay-reference="fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Blue Peter Makes a Thunderbirds Tracy Island VHS Video, Sci-Fi Toy Memorabilia</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes memorabilia -book -books -dvd" data-ebay-reference="fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for makes memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: makes memorabilia</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes memorabilia -book -books -dvd" data-ebay-reference="fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes memorabilia -book -books -dvd" data-ebay-reference="fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Blue Peter Makes a Thunderbirds Tracy Island VHS Video, Sci-Fi Toy Memorabilia"><img src="{{ '/assets/images/marketplace-covers/699f56dd590b5359978b.jpg' | relative_url }}" alt="Listing image for Blue Peter Makes a Thunderbirds Tracy Island VHS Video, Sci-Fi Toy Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes memorabilia -book -books -dvd" data-ebay-reference="fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Blue Peter Makes a Thunderbirds Tracy Island VHS Video, Sci-Fi Toy Memorabilia</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes memorabilia -book -books -dvd" data-ebay-reference="fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for makes memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: makes memorabilia</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes memorabilia -book -books -dvd" data-ebay-reference="fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes memorabilia -book -books -dvd" data-ebay-reference="fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Metal Sign - Memorabilia Collecting Makes Life Better - 14x10 inches"><img src="{{ '/assets/images/marketplace-covers/1ab47359a4cc5179b5b3.jpg' | relative_url }}" alt="Listing image for Metal Sign - Memorabilia Collecting Makes Life Better - 14x10 inches" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes memorabilia -book -books -dvd" data-ebay-reference="fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Metal Sign - Memorabilia Collecting Makes Life Better - 14x10 inches</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes memorabilia -book -books -dvd" data-ebay-reference="fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for makes memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: makes memorabilia</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes memorabilia -book -books -dvd" data-ebay-reference="fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes memorabilia -book -books -dvd" data-ebay-reference="fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes memorabilia -book -books -dvd" data-ebay-reference="fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Metal Sign - Memorabilia Collecting Makes Life Better - 14x10 inches"><img src="{{ '/assets/images/marketplace-covers/1ab47359a4cc5179b5b3.jpg' | relative_url }}" alt="Listing image for Metal Sign - Memorabilia Collecting Makes Life Better - 14x10 inches" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes memorabilia -book -books -dvd" data-ebay-reference="fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Metal Sign - Memorabilia Collecting Makes Life Better - 14x10 inches</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes memorabilia -book -books -dvd" data-ebay-reference="fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for makes memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: makes memorabilia</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes memorabilia -book -books -dvd" data-ebay-reference="fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes memorabilia -book -books -dvd" data-ebay-reference="fast-feedback-why-feedback-timing-changes-what-you-learn-improving-your-think-makes-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -626,7 +626,7 @@ When those elements remain closely connected, mistakes become easier to diagnose
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -646,7 +646,7 @@ When those elements remain closely connected, mistakes become easier to diagnose
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -678,7 +678,7 @@ When those elements remain closely connected, mistakes become easier to diagnose
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -730,7 +730,7 @@ When those elements remain closely connected, mistakes become easier to diagnose
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -775,7 +775,7 @@ When those elements remain closely connected, mistakes become easier to diagnose
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -816,105 +816,105 @@ When those elements remain closely connected, mistakes become easier to diagnose
 
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/26798603_Conditions_for_Intuitive_Expertise" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/26798603_Conditions_for_Intuitive_Expertise</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Conditions for Intuitive ExpertiseAnd intuitive expertise is trustworthy only in environments offering valid cues and f...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/26798603_Conditions_for_Intuitive_Expertise" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/26798603_Conditions_for_Intuitive_Expertise</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Conditions for Intuitive ExpertiseAnd intuitive expertise is trustworthy only in environments offering valid cues and f...</p></details>
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCRe-assessing confidence improves visual metacognition  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10805928/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10805928/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govRe-assessing confidence improves visual metacognition - PMCby P Elosegi · 2023 · Cited by 14 — The results of the two experiments...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10805928/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10805928/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govRe-assessing confidence improves visual metacognition - PMCby P Elosegi · 2023 · Cited by 14 — The results of the two experiments...</p></details>
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCSurprising feedback improves later memory  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4036076/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4036076/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby LK Fazio · 2009 · Cited by 203 — The hypercorrection effect is the finding that high-confidence errors are more likely to be...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4036076/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4036076/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby LK Fazio · 2009 · Cited by 203 — The hypercorrection effect is the finding that high-confidence errors are more likely to be...</p></details>
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCPeople's Hypercorrection of High Confidence Errors  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3079415/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3079415/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govPeople&#x27;s Hypercorrection of High Confidence Errors - PMC - NIHby J Metcalfe · 2011 · Cited by 119 — The hypercorrection effect ref...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3079415/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3079415/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govPeople&#x27;s Hypercorrection of High Confidence Errors - PMC - NIHby J Metcalfe · 2011 · Cited by 119 — The hypercorrection effect ref...</p></details>
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/226571304_The_correction_of_errors_committed_with_high_confidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/226571304_The_correction_of_errors_committed_with_high_confidence</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The correction of errors committed with high confidenceInterestingly, people correct these high confidence errors more easily...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/226571304_The_correction_of_errors_committed_with_high_confidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/226571304_The_correction_of_errors_committed_with_high_confidence</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The correction of errors committed with high confidenceInterestingly, people correct these high confidence errors more easily...</p></details>
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/5246898_Correcting_a_Metacognitive_Error_Feedback_Increases_Retention_of_Low-Confidence_Correct_Responses" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/5246898_Correcting_a_Metacognitive_Error_Feedback_Increases_Retention_of_Low-Confidence_Correct_Responses</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>ck serves to correct this initial metacognitive error, enhancing retention.Read more...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/5246898_Correcting_a_Metacognitive_Error_Feedback_Increases_Retention_of_Low-Confidence_Correct_Responses" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/5246898_Correcting_a_Metacognitive_Error_Feedback_Increases_Retention_of_Low-Confidence_Correct_Responses</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ck serves to correct this initial metacognitive error, enhancing retention.Read more...</p></details>
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: psychnet.wustl.edu  
    Title: Butler et al 2008 JEPLMC  
-   Link:<a href="https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Butler-et-al-2008_JEPLMC.pdf" target="_blank" rel="noopener noreferrer nofollow">https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Butler-et-al-2008_JEPLMC.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Feedback Increases Retention of Low- Confidence Correct...by AC Butler · 2008 · Cited by 540 — Our hypothesis is that feedback s...</p></details>
+   Link: <a href="https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Butler-et-al-2008_JEPLMC.pdf" target="_blank" rel="noopener noreferrer nofollow">https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Butler-et-al-2008_JEPLMC.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Feedback Increases Retention of Low- Confidence Correct...by AC Butler · 2008 · Cited by 540 — Our hypothesis is that feedback s...</p></details>
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/18605878/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/18605878/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>increases retention of low-confidence correct...by AC Butler · 2008 · Cited by 540 — The authors show that when correct responses are ma...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/18605878/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/18605878/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>increases retention of low-confidence correct...by AC Butler · 2008 · Cited by 540 — The authors show that when correct responses are ma...</p></details>
 
 ### Additional References
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: ovid.com  
    Title: 0278 7393.34.4.918~correcting a metacognitive error feedback increases  
-   Link:<a href="https://www.ovid.com/journals/jeplm/fulltext/10.1037/0278-7393.34.4.918~correcting-a-metacognitive-error-feedback-increases" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/jeplm/fulltext/10.1037/0278-7393.34.4.918~correcting-a-metacognitive-error-feedback-increases</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Correcting a Metacognitive Errorby AC Butler · 2008 · Cited by 540 — Here, the authors show that when correct responses are made with low...</p></details>
+   Link: <a href="https://www.ovid.com/journals/jeplm/fulltext/10.1037/0278-7393.34.4.918~correcting-a-metacognitive-error-feedback-increases" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/jeplm/fulltext/10.1037/0278-7393.34.4.918~correcting-a-metacognitive-error-feedback-increases</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Correcting a Metacognitive Errorby AC Butler · 2008 · Cited by 540 — Here, the authors show that when correct responses are made with low...</p></details>
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: journal.opted.org  
    Title: feedback changes metacognitive accuracy over different time scales  
-   Link:<a href="https://journal.opted.org/article/feedback-changes-metacognitive-accuracy-over-different-time-scales/" target="_blank" rel="noopener noreferrer nofollow">https://journal.opted.org/article/feedback-changes-metacognitive-accuracy-over-different-time-scales/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Changes Metacognitive Accuracy Over Different...2023 — Our results showed that providing feedback over short, medium and longer time sca...</p></details>
+   Link: <a href="https://journal.opted.org/article/feedback-changes-metacognitive-accuracy-over-different-time-scales/" target="_blank" rel="noopener noreferrer nofollow">https://journal.opted.org/article/feedback-changes-metacognitive-accuracy-over-different-time-scales/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Changes Metacognitive Accuracy Over Different...2023 — Our results showed that providing feedback over short, medium and longer time sca...</p></details>
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: researchschool.org.uk  
    Title: the hypercorrection effect spaced practice and remote learning  
-   Link:<a href="https://researchschool.org.uk/durrington/news/the-hypercorrection-effect-spaced-practice-and-remote-learning" target="_blank" rel="noopener noreferrer nofollow">https://researchschool.org.uk/durrington/news/the-hypercorrection-effect-spaced-practice-and-remote-learning</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The hypercorrection effect, spaced… | Durrington...3 Jan 2021 — The hypercorrection effect persists for about a week, but longer than th...</p></details>
+   Link: <a href="https://researchschool.org.uk/durrington/news/the-hypercorrection-effect-spaced-practice-and-remote-learning" target="_blank" rel="noopener noreferrer nofollow">https://researchschool.org.uk/durrington/news/the-hypercorrection-effect-spaced-practice-and-remote-learning</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The hypercorrection effect, spaced… | Durrington...3 Jan 2021 — The hypercorrection effect persists for about a week, but longer than th...</p></details>
 
-12.<a id="endnote-12"></a>
+12. <a id="endnote-12"></a>
    Source: improvewithmetacognition.com  
    Title: hypercorrection overcoming overconfidence metacognition  
-   Link:<a href="https://www.improvewithmetacognition.com/hypercorrection-overcoming-overconfidence-metacognition/" target="_blank" rel="noopener noreferrer nofollow">https://www.improvewithmetacognition.com/hypercorrection-overcoming-overconfidence-metacognition/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Hypercorrection: Overcoming overconfidence with...Jul 18, 2016 — Research on a process called hypercorrection demonstrates that when lea...</p></details>
+   Link: <a href="https://www.improvewithmetacognition.com/hypercorrection-overcoming-overconfidence-metacognition/" target="_blank" rel="noopener noreferrer nofollow">https://www.improvewithmetacognition.com/hypercorrection-overcoming-overconfidence-metacognition/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hypercorrection: Overcoming overconfidence with...Jul 18, 2016 — Research on a process called hypercorrection demonstrates that when lea...</p></details>
 
-13.<a id="endnote-13"></a>
+13. <a id="endnote-13"></a>
    Source: academia.edu  
-   Link:<a href="https://www.academia.edu/83864006/Correcting_a_metacognitive_error_Feedback_increases_retention_of_low_confidence_correct_responses" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/83864006/Correcting_a_metacognitive_error_Feedback_increases_retention_of_low_confidence_correct_responses</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>feedback serves to correct this initial metacognitive error, enhancing...Read more...</p></details>
+   Link: <a href="https://www.academia.edu/83864006/Correcting_a_metacognitive_error_Feedback_increases_retention_of_low_confidence_correct_responses" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/83864006/Correcting_a_metacognitive_error_Feedback_increases_retention_of_low_confidence_correct_responses</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>feedback serves to correct this initial metacognitive error, enhancing...Read more...</p></details>
 
-14.<a id="endnote-14"></a>
+14. <a id="endnote-14"></a>
    Source: structural-learning.com  
    Title: hypercorrection effect teachers guide  
-   Link:<a href="https://www.structural-learning.com/post/hypercorrection-effect-teachers-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/hypercorrection-effect-teachers-guide</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Hypercorrection Effect29 Dec 2025 — The hypercorrection effect shows confident errors are more easily corrected than uncertain ones...</p></details>
+   Link: <a href="https://www.structural-learning.com/post/hypercorrection-effect-teachers-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/hypercorrection-effect-teachers-guide</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Hypercorrection Effect29 Dec 2025 — The hypercorrection effect shows confident errors are more easily corrected than uncertain ones...</p></details>
 
-15.<a id="endnote-15"></a>
+15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: Metacognition Tricks That Make You Smarter  
-   Link:<a href="https://www.youtube.com/watch?v=CFt-E8v4Y2U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CFt-E8v4Y2U</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Philosophy Roulette 534 - Conditions for Intuitive Expertise. Daniel Kahneman &amp; Gary Klein...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=CFt-E8v4Y2U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CFt-E8v4Y2U</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Philosophy Roulette 534 - Conditions for Intuitive Expertise. Daniel Kahneman &amp; Gary Klein...</p></details>
 
-16.<a id="endnote-16"></a>
+16. <a id="endnote-16"></a>
    Source: columbia.edu  
-   Link:<a href="https://www.columbia.edu/cu/psychology/metcalfe/PDFs/MetcalfeFinn2011.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.columbia.edu/cu/psychology/metcalfe/PDFs/MetcalfeFinn2011.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Columbia UniversityPeople&#x27;s Hypercorrection of High-Confidence Errorsby J Metcalfe · 2011 · Cited by 119 — The hypercor- rection effect r...</p></details>
+   Link: <a href="https://www.columbia.edu/cu/psychology/metcalfe/PDFs/MetcalfeFinn2011.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.columbia.edu/cu/psychology/metcalfe/PDFs/MetcalfeFinn2011.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Columbia UniversityPeople&#x27;s Hypercorrection of High-Confidence Errorsby J Metcalfe · 2011 · Cited by 119 — The hypercor- rection effect r...</p></details>
 
-17.<a id="endnote-17"></a>
+17. <a id="endnote-17"></a>
    Source: digitalcommons.cwu.edu  
-   Link:<a href="https://digitalcommons.cwu.edu/cgi/viewcontent.cgi?article=1222&amp;context=ijurca" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.cwu.edu/cgi/viewcontent.cgi?article=1222&amp;context=ijurca</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Metacognitive Awareness Relates to Overconfidence...by D Klein · 2023 · Cited by 2 — Two potential factors influencing overconfidence ar...</p></details>
+   Link: <a href="https://digitalcommons.cwu.edu/cgi/viewcontent.cgi?article=1222&amp;context=ijurca" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.cwu.edu/cgi/viewcontent.cgi?article=1222&amp;context=ijurca</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Metacognitive Awareness Relates to Overconfidence...by D Klein · 2023 · Cited by 2 — Two potential factors influencing overconfidence ar...</p></details>
 
-18.<a id="endnote-18"></a>
+18. <a id="endnote-18"></a>
    Source: trump.org.il  
    Title: מאמר גון האטי  
-   Link:<a href="https://trump.org.il/wp-content/uploads/2018/09/%D7%9E%D7%90%D7%9E%D7%A8-%D7%92%D7%95%D7%9F-%D7%94%D7%90%D7%98%D7%99.pdf" target="_blank" rel="noopener noreferrer nofollow">https://trump.org.il/wp-content/uploads/2018/09/%D7%9E%D7%90%D7%9E%D7%A8-%D7%92%D7%95%D7%9F-%D7%94%D7%90%D7%98%D7%99.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Calibration and confidence: Where to next?by J Hattie · 2013 · Cited by 183 — May be the most fruitful next step in calibration research...</p></details>
+   Link: <a href="https://trump.org.il/wp-content/uploads/2018/09/%D7%9E%D7%90%D7%9E%D7%A8-%D7%92%D7%95%D7%9F-%D7%94%D7%90%D7%98%D7%99.pdf" target="_blank" rel="noopener noreferrer nofollow">https://trump.org.il/wp-content/uploads/2018/09/%D7%9E%D7%90%D7%9E%D7%A8-%D7%92%D7%95%D7%9F-%D7%94%D7%90%D7%98%D7%99.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Calibration and confidence: Where to next?by J Hattie · 2013 · Cited by 183 — May be the most fruitful next step in calibration research...</p></details>

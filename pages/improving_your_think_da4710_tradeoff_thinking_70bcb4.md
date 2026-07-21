@@ -447,19 +447,19 @@ image: /assets/images/improving_your_think_da4710_tradeoff_thinking_70bcb4-overv
 
 ## Introduction
 
-Tradeoff thinking is the habit of asking, “What am I giving up to get this?” It improves analytical skill because realistic choices rarely offer one option that is better on every dimension. A cheaper flat may mean a longer commute. A faster project plan may mean more defects or more stress. A safer policy may cost more money, time or flexibility. The point is not to make every decision mathematical; it is to make the sacrifice visible before you commit. Opportunity cost is the value of the next-best alternative you give up when choosing, and it is central to clear decision-making because scarcity forces choices between competing uses of time, money and attention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.federalreserveeducation.org/resources/infographics/infographic--decision-making.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: federalreserveeducation.org">[Federal Reserve Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">federalreserveeducation.org</span><span class="citation-popover-title">Federal Reserve Education Opportunity Cost</span><span class="citation-popover-snippet">Federal Reserve EducationOpportunity CostMarch 2, 2026 — Opportunity cost is the value of the next best alternative when someone makes a...</span><span class="citation-popover-meta">Published: March 2, 2026</span></span></span>
+Tradeoff thinking is the habit of asking, “What am I giving up to get this?” It improves analytical skill because realistic choices rarely offer one option that is better on every dimension. A cheaper flat may mean a longer commute. A faster project plan may mean more defects or more stress. A safer policy may cost more money, time or flexibility. The point is not to make every decision mathematical; it is to make the sacrifice visible before you commit. Opportunity cost is the value of the next-best alternative you give up when choosing, and it is central to clear decision-making because scarcity forces choices between competing uses of time, money and attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.federalreserveeducation.org/resources/infographics/infographic--decision-making.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: federalreserveeducation.org">[Federal Reserve Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">federalreserveeducation.org</span><span class="citation-popover-title">Federal Reserve Education Opportunity Cost</span><span class="citation-popover-snippet">Federal Reserve EducationOpportunity CostMarch 2, 2026 — Opportunity cost is the value of the next best alternative when someone makes a...</span><span class="citation-popover-meta">Published: March 2, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_tradeoff_thinking_70bcb4-overview.webp" | relative_url }}" alt="Overview image for Tradeoffs" loading="eager" decoding="sync" fetchpriority="high">
-Good tradeoff thinking asks three questions: what [outcomes]({{ 'outcomes/' | relative_url }}) matter, which option advances them, and what cost or risk you are accepting in return. This is different from a simple pros-and-cons list, which can make a long column of minor advantages look more important than one decisive drawback. Structured approaches such as multi-criteria decision analysis are useful when several objectives conflict, but their value lies in clarifying judgement, not pretending [uncertainty]({{ 'uncertainty/' | relative_url }}) has disappeared.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://analysisfunction.civilservice.gov.uk/policy-store/an-introductory-guide-to-mcda/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: analysisfunction.civilservice.gov.uk">[analysisfunction.civilservice.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">analysisfunction.civilservice.gov.uk</span><span class="citation-popover-title">an introductory guide to mcda</span><span class="citation-popover-snippet">An Introductory Guide to Multi-Criteria Decision Analysis...1 May 2024 — MCDA is a way of helping decision-makers rationally choose betw...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+Good tradeoff thinking asks three questions: what [outcomes]({{ 'outcomes/' | relative_url }}) matter, which option advances them, and what cost or risk you are accepting in return. This is different from a simple pros-and-cons list, which can make a long column of minor advantages look more important than one decisive drawback. Structured approaches such as multi-criteria decision analysis are useful when several objectives conflict, but their value lies in clarifying judgement, not pretending [uncertainty]({{ 'uncertainty/' | relative_url }}) has disappeared. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://analysisfunction.civilservice.gov.uk/policy-store/an-introductory-guide-to-mcda/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: analysisfunction.civilservice.gov.uk">[analysisfunction.civilservice.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">analysisfunction.civilservice.gov.uk</span><span class="citation-popover-title">an introductory guide to mcda</span><span class="citation-popover-snippet">An Introductory Guide to Multi-Criteria Decision Analysis...1 May 2024 — MCDA is a way of helping decision-makers rationally choose betw...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
 ## Why good options still have costs
 
 A common thinking error is treating “good” as if it means “cost-free”. In real decisions, an option can be good and still require a painful sacrifice. A job offer might bring higher pay but reduce autonomy. A university course might be prestigious but poorly matched to the way you learn. A business software tool might save time in one team while increasing complexity for another. Tradeoff thinking starts from the premise that the important question is rarely “Is this good?” but “Good compared with what, and at what cost?”
 
-Economics gives this idea a simple name: opportunity cost. The cost of choosing one path includes the value of the best path not taken, not just the cash spent. The Federal Reserve’s educational materials define opportunity cost as what someone gives up when making a choice; the St Louis Fed similarly frames it as the value of the next-best alternative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.federalreserveeducation.org/resources/infographics/infographic--decision-making.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: federalreserveeducation.org">[Federal Reserve Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">federalreserveeducation.org</span><span class="citation-popover-title">Federal Reserve Education Opportunity Cost</span><span class="citation-popover-snippet">Federal Reserve EducationOpportunity CostMarch 2, 2026 — Opportunity cost is the value of the next best alternative when someone makes a...</span><span class="citation-popover-meta">Published: March 2, 2026</span></span></span> That definition matters because many everyday mistakes come from counting visible costs while ignoring displaced alternatives. A meeting that is “only thirty minutes” may still be expensive if it interrupts deep work. A bargain purchase may not be cheap if it consumes storage, maintenance and attention.
+Economics gives this idea a simple name: opportunity cost. The cost of choosing one path includes the value of the best path not taken, not just the cash spent. The Federal Reserve’s educational materials define opportunity cost as what someone gives up when making a choice; the St Louis Fed similarly frames it as the value of the next-best alternative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.federalreserveeducation.org/resources/infographics/infographic--decision-making.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: federalreserveeducation.org">[Federal Reserve Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">federalreserveeducation.org</span><span class="citation-popover-title">Federal Reserve Education Opportunity Cost</span><span class="citation-popover-snippet">Federal Reserve EducationOpportunity CostMarch 2, 2026 — Opportunity cost is the value of the next best alternative when someone makes a...</span><span class="citation-popover-meta">Published: March 2, 2026</span></span></span> That definition matters because many everyday mistakes come from counting visible costs while ignoring displaced alternatives. A meeting that is “only thirty minutes” may still be expensive if it interrupts deep work. A bargain purchase may not be cheap if it consumes storage, maintenance and attention.
 
-This is why realistic analysis often sounds less exciting than motivational advice. “You can have anything” is sometimes true; “you can have everything at once” usually is not. Herbert Simon’s work on bounded rationality challenged the image of decision-makers who can gather all information and optimise perfectly. Instead, people and organisations make choices under limits of information, time, attention and institutional constraint.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.investopedia.com/terms/h/herbert-a-simon.asp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: investopedia.com">[Investopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">investopedia.com</span><span class="citation-popover-title">Herbert A. Simon: Nobel Economist &amp; AI Pioneer in Bounded Rationality</span><span class="citation-popover-snippet">Simon’s work challenged traditional economic views of a fully rational &quot;economic man&quot; and emphasized the social and institutional constra...</span></span></span> Tradeoff thinking accepts those limits and asks for the best usable comparison, not an impossible search for the perfect answer.
+This is why realistic analysis often sounds less exciting than motivational advice. “You can have anything” is sometimes true; “you can have everything at once” usually is not. Herbert Simon’s work on bounded rationality challenged the image of decision-makers who can gather all information and optimise perfectly. Instead, people and organisations make choices under limits of information, time, attention and institutional constraint. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.investopedia.com/terms/h/herbert-a-simon.asp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: investopedia.com">[Investopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">investopedia.com</span><span class="citation-popover-title">Herbert A. Simon: Nobel Economist &amp; AI Pioneer in Bounded Rationality</span><span class="citation-popover-snippet">Simon’s work challenged traditional economic views of a fully rational &quot;economic man&quot; and emphasized the social and institutional constra...</span></span></span> Tradeoff thinking accepts those limits and asks for the best usable comparison, not an impossible search for the perfect answer.
 
 The practical shift is to name the sacrifice in the same sentence as the benefit:
 
@@ -479,11 +479,11 @@ That wording prevents vague optimism from hiding the bill. It also makes disagre
 <img src="{{ "/assets/images/improving_your_think_da4710_tradeoff_thinking_70bcb4-Illustration-1-dark.svg" | relative_url }}" alt="Tradeoffs illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_tradeoff_thinking_70bcb4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_tradeoff_thinking_70bcb4-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Choosing the outcome that matters
 
-Tradeoffs are confusing when every outcome is treated as equally important. Better analysis begins by separating must-haves from preferences, and preferences from nice extras. In multi-criteria decision analysis, the reason for using a structured method is precisely that decisions often involve several conflicting objectives, mixed types of evidence and different stakeholder views. The UK Civil Service guide describes MCDA as a way to choose between options where several objectives conflict and cannot be compared directly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://analysisfunction.civilservice.gov.uk/policy-store/an-introductory-guide-to-mcda/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: analysisfunction.civilservice.gov.uk">[analysisfunction.civilservice.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">analysisfunction.civilservice.gov.uk</span><span class="citation-popover-title">an introductory guide to mcda</span><span class="citation-popover-snippet">An Introductory Guide to Multi-Criteria Decision Analysis...1 May 2024 — MCDA is a way of helping decision-makers rationally choose betw...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+Tradeoffs are confusing when every outcome is treated as equally important. Better analysis begins by separating must-haves from preferences, and preferences from nice extras. In multi-criteria decision analysis, the reason for using a structured method is precisely that decisions often involve several conflicting objectives, mixed types of evidence and different stakeholder views. The UK Civil Service guide describes MCDA as a way to choose between options where several objectives conflict and cannot be compared directly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://analysisfunction.civilservice.gov.uk/policy-store/an-introductory-guide-to-mcda/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: analysisfunction.civilservice.gov.uk">[analysisfunction.civilservice.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">analysisfunction.civilservice.gov.uk</span><span class="citation-popover-title">an introductory guide to mcda</span><span class="citation-popover-snippet">An Introductory Guide to Multi-Criteria Decision Analysis...1 May 2024 — MCDA is a way of helping decision-makers rationally choose betw...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
 For personal decisions, the same logic can be used without technical language. Before comparing options, decide what kind of success you are actually trying to protect. A flat search might involve rent, commute, safety, space, noise and access to friends. But not all of those belong in the same category. Some may be [thresholds]({{ 'thresholds/' | relative_url }}): “I will not choose somewhere unsafe.” Some may be primary outcomes: “I need the commute to be manageable five days a week.” Others may be preferences: “A larger kitchen would be nice.” A decision becomes clearer when you stop letting small preferences compensate for violating a core requirement.
 
-Public decision-making offers a useful concrete example. The UK Treasury Green Book, the government’s guidance on appraisal, defines appraisal as assessing the costs, benefits and risks of different options for achieving objectives. It does not set the political objective; it provides a framework for comparing ways to achieve it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/698dbcd17da91680ad7f4308/The_Green_Book_2026.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK The Green Book – UK government guidance on appraisal</span><span class="citation-popover-snippet">UK The Green Book – UK government guidance on appraisal</span></span></span> That distinction is powerful for ordinary thinking too. Analysis cannot tell you what to care about most until you state the goal. It can, however, show whether your chosen option actually serves that goal.
+Public decision-making offers a useful concrete example. The UK Treasury Green Book, the government’s guidance on appraisal, defines appraisal as assessing the costs, benefits and risks of different options for achieving objectives. It does not set the political objective; it provides a framework for comparing ways to achieve it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/698dbcd17da91680ad7f4308/The_Green_Book_2026.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK The Green Book – UK government guidance on appraisal</span><span class="citation-popover-snippet">UK The Green Book – UK government guidance on appraisal</span></span></span> That distinction is powerful for ordinary thinking too. Analysis cannot tell you what to care about most until you state the goal. It can, however, show whether your chosen option actually serves that goal.
 
 A simple implementation routine is:
 
@@ -505,11 +505,11 @@ The central benefit is not that you become perfectly objective. It is that you s
 
 ## When more options make tradeoffs harder
 
-More choice feels as though it should improve decisions, but it can also make tradeoffs mentally heavier. Research on [choice overload]({{ 'choice-overload/' | relative_url }}) examines cases where larger option sets produce difficulty choosing, reduced satisfaction or avoidance. A 2024 review describes choice overload as the negative consequences that can follow from too many options, while also noting that effects depend on moderators such as task complexity and preference uncertainty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11111947/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+More choice feels as though it should improve decisions, but it can also make tradeoffs mentally heavier. Research on [choice overload]({{ 'choice-overload/' | relative_url }}) examines cases where larger option sets produce difficulty choosing, reduced satisfaction or avoidance. A 2024 review describes choice overload as the negative consequences that can follow from too many options, while also noting that effects depend on moderators such as task complexity and preference uncertainty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11111947/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
 This matters for tradeoff thinking because the burden is not just the number of options. It is the number of [comparisons]({{ 'comparisons/' | relative_url }}) between dimensions. Choosing between two laptops is manageable if one is better and cheaper. It becomes harder when one has better battery life, another has a better screen, a third is lighter, a fourth is cheaper, and the reviews disagree about reliability. The difficulty comes from cross-dimensional sacrifice: you cannot resolve the choice by finding the option with the most positives.
 
-[Decision fatigue]({{ 'decision-fatigue/' | relative_url }}) adds another warning. A conceptual analysis in *Psychology Research and Behaviour Management* reports that people experiencing decision fatigue show impaired ability to make tradeoffs and may prefer a more passive role in decision-making.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6119549/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDecision Fatigue: A Conceptual Analysis</span><span class="citation-popover-snippet">PMCDecision Fatigue: A Conceptual Analysis</span></span></span> In practical terms, the mind under load often seeks relief: defaulting, delaying, copying someone else’s choice or over-weighting the easiest feature to compare. That can be sensible for [low-stakes]({{ 'low-stakes/' | relative_url }}) decisions, but risky when the decision deserves attention.
+[Decision fatigue]({{ 'decision-fatigue/' | relative_url }}) adds another warning. A conceptual analysis in *Psychology Research and Behaviour Management* reports that people experiencing decision fatigue show impaired ability to make tradeoffs and may prefer a more passive role in decision-making. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6119549/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDecision Fatigue: A Conceptual Analysis</span><span class="citation-popover-snippet">PMCDecision Fatigue: A Conceptual Analysis</span></span></span> In practical terms, the mind under load often seeks relief: defaulting, delaying, copying someone else’s choice or over-weighting the easiest feature to compare. That can be sensible for [low-stakes]({{ 'low-stakes/' | relative_url }}) decisions, but risky when the decision deserves attention.
 
 The antidote is not to research forever. It is to reduce the comparison to the few tradeoffs that could realistically change the answer. For example:
 
@@ -522,7 +522,7 @@ The antidote is not to research forever. It is to reduce the comparison to the f
 
 </div>
 
-This is where satisficing can be a strength rather than a failure. Simon’s idea of satisficing means choosing an option that is [good enough]({{ 'good-enough/' | relative_url }}) under real constraints rather than searching indefinitely for the theoretical optimum. Studies by Schwartz and colleagues found that people with stronger maximising tendencies reported lower happiness, optimism, self-esteem and life satisfaction, and were less satisfied with some consumer decisions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/12416921/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span> The lesson is not “settle carelessly”. It is “define good enough before the search becomes the problem”.
+This is where satisficing can be a strength rather than a failure. Simon’s idea of satisficing means choosing an option that is [good enough]({{ 'good-enough/' | relative_url }}) under real constraints rather than searching indefinitely for the theoretical optimum. Studies by Schwartz and colleagues found that people with stronger maximising tendencies reported lower happiness, optimism, self-esteem and life satisfaction, and were less satisfied with some consumer decisions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/12416921/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span> The lesson is not “settle carelessly”. It is “define good enough before the search becomes the problem”.
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_tradeoff_thinking_70bcb4-Illustration-2-dark.svg" | relative_url }}" alt="Tradeoffs illustration 2" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_tradeoff_thinking_70bcb4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_tradeoff_thinking_70bcb4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -530,13 +530,13 @@ This is where satisficing can be a strength rather than a failure. Simon’s ide
 
 Decision matrices can help when a choice has several serious criteria. The basic method is simple: list options, list criteria, weight the criteria, score each option, and compare the totals. Used well, this forces hidden assumptions into the open. Used badly, it creates false precision: a spreadsheet says Option B scored 82.7 and Option C scored 81.9, even though the inputs were rough guesses.
 
-This is why structured decision tools should be treated as scaffolding for judgement, not as machines that manufacture certainty. Multi-criteria decision analysis is designed for decisions involving multiple objectives, but even introductory guides stress that it is a way of supporting decision-makers, especially where criteria conflict, perspectives differ or direct comparison is difficult.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://analysisfunction.civilservice.gov.uk/policy-store/an-introductory-guide-to-mcda/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: analysisfunction.civilservice.gov.uk">[analysisfunction.civilservice.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">analysisfunction.civilservice.gov.uk</span><span class="citation-popover-title">an introductory guide to mcda</span><span class="citation-popover-snippet">An Introductory Guide to Multi-Criteria Decision Analysis...1 May 2024 — MCDA is a way of helping decision-makers rationally choose betw...</span><span class="citation-popover-meta">Published: May 2024</span></span></span> The output is most useful when it reveals what the decision depends on: “This option wins only if we treat speed as much more important than reliability” or “These two options are effectively tied unless cost is weighted heavily.”
+This is why structured decision tools should be treated as scaffolding for judgement, not as machines that manufacture certainty. Multi-criteria decision analysis is designed for decisions involving multiple objectives, but even introductory guides stress that it is a way of supporting decision-makers, especially where criteria conflict, perspectives differ or direct comparison is difficult. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://analysisfunction.civilservice.gov.uk/policy-store/an-introductory-guide-to-mcda/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: analysisfunction.civilservice.gov.uk">[analysisfunction.civilservice.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">analysisfunction.civilservice.gov.uk</span><span class="citation-popover-title">an introductory guide to mcda</span><span class="citation-popover-snippet">An Introductory Guide to Multi-Criteria Decision Analysis...1 May 2024 — MCDA is a way of helping decision-makers rationally choose betw...</span><span class="citation-popover-meta">Published: May 2024</span></span></span> The output is most useful when it reveals what the decision depends on: “This option wins only if we treat speed as much more important than reliability” or “These two options are effectively tied unless cost is weighted heavily.”
 
 A good tradeoff comparison has three safeguards.
 
 **First, separate thresholds from scores.** Some criteria should not be averaged away. If a car is unsafe, a low price should not rescue it. If a candidate lacks a required qualification, charm should not compensate. Decision matrices can mislead when many minor positives add up to outweigh a must-have requirement.
 
-**Second, use ranges where estimates are uncertain.** If you do not really know whether implementation will take four weeks or ten, do not score it as though you know it will take exactly six. Sensitivity analysis, widely used in multi-criteria decision work, asks how much the conclusion changes when inputs or weights shift. Recent MCDA research continues to emphasise uncertainty and robustness because rankings can change when weights, data or assumptions change.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/full/10.1002/mcda.70006" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Open source on wiley.com.</span></span></span>
+**Second, use ranges where estimates are uncertain.** If you do not really know whether implementation will take four weeks or ten, do not score it as though you know it will take exactly six. Sensitivity analysis, widely used in multi-criteria decision work, asks how much the conclusion changes when inputs or weights shift. Recent MCDA research continues to emphasise uncertainty and robustness because rankings can change when weights, data or assumptions change. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/full/10.1002/mcda.70006" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Open source on wiley.com.</span></span></span>
 
 **Third, treat close scores as a prompt for discussion, not a verdict.** If two options are close, the useful question is not “Which decimal is bigger?” but “What would make us regret this?” The close result may show that either option is reasonable, or that the current criteria are missing something important.
 
@@ -553,7 +553,7 @@ This kind of table does not pretend to know more than it knows. It makes the dis
 
 Analytical skill is not only about selecting the highest-scoring option. It is also about choosing an option whose downside you can realistically absorb. A person with unstable income may rationally choose a less exciting but safer commitment. A team already near burnout may reject a high-upside project because the hidden cost is staff exhaustion. A family may choose a smaller home in a better location because the daily commute cost would otherwise be paid in time, sleep and stress.
 
-Health economics shows this logic in a formal setting. NICE, the National Institute for Health and Care Excellence, uses economic evaluation to compare health technologies by considering costs and health outcomes, including quality-adjusted life years in relevant appraisals.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nice.org.uk/process/pmg36/chapter/economic-evaluation-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nice.org.uk">[NICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nice.org.uk</span><span class="citation-popover-snippet">Open source on nice.org.uk.</span></span></span> These decisions are difficult because approving one treatment can mean not funding something else within a limited health budget. The example is more formal than everyday life, but the underlying discipline is the same: benefits must be compared with what else the same resources could achieve.
+Health economics shows this logic in a formal setting. NICE, the National Institute for Health and Care Excellence, uses economic evaluation to compare health technologies by considering costs and health outcomes, including quality-adjusted life years in relevant appraisals. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nice.org.uk/process/pmg36/chapter/economic-evaluation-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nice.org.uk">[NICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nice.org.uk</span><span class="citation-popover-snippet">Open source on nice.org.uk.</span></span></span> These decisions are difficult because approving one treatment can mean not funding something else within a limited health budget. The example is more formal than everyday life, but the underlying discipline is the same: benefits must be compared with what else the same resources could achieve.
 
 For ordinary decisions, the human version is regret testing. Before choosing, ask:
 
@@ -595,194 +595,194 @@ Tradeoff thinking improves analysis because it makes choice honest. It does not 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to What Are You Giving Up?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to What Are You Giving Up?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking+in+Bets+by+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking in Bets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VcouDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking in Bets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Thinking+in+Bets+by+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking in Bets">Thinking in Bets</a>
-</h4>
-<p class="fr-book-author">By Annie Duke</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking+in+Bets+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking in Bets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hOZFDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Thinking in Bets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Thinking+in+Bets+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking in Bets">Thinking in Bets</a>
+        </h4>
+        <p class="fr-book-author">By Annie Duke</p>
         
-<p class="fr-book-desc">Focuses on making better choices under uncertainty and recognizing tradeoffs.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Thinking+in+Bets+by+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Focuses on making better choices under uncertainty and recognizing tradeoffs.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Thinking+in+Bets+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decisive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQmv39K-P54C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Decisive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decisive">Decisive</a>
-</h4>
-<p class="fr-book-author">By Chip Heath, Dan Heath</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Decisive+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decisive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aECTEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Decisive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Decisive+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decisive">Decisive</a>
+        </h4>
+        <p class="fr-book-author">By Chip Heath, Dan Heath</p>
         
-<p class="fr-book-desc">Provides structured techniques for comparing options.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides structured techniques for comparing options.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Decisive+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-</h4>
-<p class="fr-book-author">By Daniel Kahneman</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=45OmCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Superforecasting+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
+        </h4>
+        <p class="fr-book-author">By Philip Tetlock, Dan Gardner</p>
         
-<p class="fr-book-desc">Explains biases that distort tradeoff evaluation and judgment.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Shows disciplined reasoning when balancing uncertain outcomes.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Superforecasting+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Smart+Choices+by+John+S.+Hammond&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Smart Choices on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OlpkCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Smart Choices" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Smart+Choices+by+John+S.+Hammond&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Smart Choices">Smart Choices</a>
-</h4>
-<p class="fr-book-author">By John S. Hammond, Ralph L. Keeney et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Smart+Choices+John+S.+Hammond&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Smart Choices on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OlpkCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Smart Choices" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Smart+Choices+John+S.+Hammond&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Smart Choices">Smart Choices</a>
+        </h4>
+        <p class="fr-book-author">By John S. Hammond, Ralph L. Keeney et al.</p>
         
-<p class="fr-book-desc">Covers opportunity cost, objectives, and explicit tradeoff thinking.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Smart+Choices+by+John+S.+Hammond&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Covers opportunity cost, objectives, and explicit tradeoff thinking.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Smart+Choices+John+S.+Hammond&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking+in+Bets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking in Bets</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Decisive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Decisive</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking+in+Bets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking in Bets</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Decisive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Decisive</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-giving-up-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="what-are-you-giving-up-strategy-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bomb Busters Board Game – Brand New &amp; Sealed | UK Seller | Fast Dispatch"><img src="https://i.ebayimg.com/images/g/ghAAAeSwmeRpzm5l/s-l225.jpg" alt="Listing image for Bomb Busters Board Game – Brand New &amp; Sealed | UK Seller | Fast Dispatch" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-giving-up-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="what-are-you-giving-up-strategy-board-game" target="_blank" rel="sponsored noopener noreferrer">Bomb Busters Board Game – Brand New &amp; Sealed | UK Seller | Fast Dispatch</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-giving-up-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="what-are-you-giving-up-strategy-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for strategy board game">Search<span data-ebay-domain-label>eBay.co.uk</span>: strategy board game</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-giving-up-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="what-are-you-giving-up-strategy-board-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-giving-up-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="what-are-you-giving-up-strategy-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bomb Busters Board Game – Brand New &amp; Sealed | UK Seller | Fast Dispatch"><img src="https://i.ebayimg.com/images/g/ghAAAeSwmeRpzm5l/s-l225.jpg" alt="Listing image for Bomb Busters Board Game – Brand New &amp; Sealed | UK Seller | Fast Dispatch" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-giving-up-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="what-are-you-giving-up-strategy-board-game" target="_blank" rel="sponsored noopener noreferrer">Bomb Busters Board Game – Brand New &amp; Sealed | UK Seller | Fast Dispatch</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-giving-up-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="what-are-you-giving-up-strategy-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for strategy board game">Search <span data-ebay-domain-label>eBay.co.uk</span>: strategy board game</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-giving-up-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="what-are-you-giving-up-strategy-board-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-giving-up-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="what-are-you-giving-up-strategy-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CATAN Board Game 5th Edition Strategy Game – Trade Build Settle- Family Game"><img src="https://i.ebayimg.com/images/g/sBEAAeSwOoppMsQR/s-l225.jpg" alt="Listing image for CATAN Board Game 5th Edition Strategy Game – Trade Build Settle- Family Game" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-giving-up-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="what-are-you-giving-up-strategy-board-game" target="_blank" rel="sponsored noopener noreferrer">CATAN Board Game 5th Edition Strategy Game – Trade Build Settle- Family Game</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-giving-up-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="what-are-you-giving-up-strategy-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for strategy board game">Search<span data-ebay-domain-label>eBay.co.uk</span>: strategy board game</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-giving-up-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="what-are-you-giving-up-strategy-board-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-giving-up-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="what-are-you-giving-up-strategy-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CATAN Board Game 5th Edition Strategy Game – Trade Build Settle- Family Game"><img src="https://i.ebayimg.com/images/g/sBEAAeSwOoppMsQR/s-l225.jpg" alt="Listing image for CATAN Board Game 5th Edition Strategy Game – Trade Build Settle- Family Game" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-giving-up-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="what-are-you-giving-up-strategy-board-game" target="_blank" rel="sponsored noopener noreferrer">CATAN Board Game 5th Edition Strategy Game – Trade Build Settle- Family Game</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-giving-up-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="what-are-you-giving-up-strategy-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for strategy board game">Search <span data-ebay-domain-label>eBay.co.uk</span>: strategy board game</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-giving-up-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="what-are-you-giving-up-strategy-board-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-giving-up-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="what-are-you-giving-up-strategy-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Agent Avenue Board Game Card Game Family Party Strategy Game Brand New"><img src="https://i.ebayimg.com/images/g/W~gAAeSwFMlp1OFm/s-l225.jpg" alt="Listing image for Agent Avenue Board Game Card Game Family Party Strategy Game Brand New" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-giving-up-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="what-are-you-giving-up-strategy-board-game" target="_blank" rel="sponsored noopener noreferrer">Agent Avenue Board Game Card Game Family Party Strategy Game Brand New</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-giving-up-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="what-are-you-giving-up-strategy-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for strategy board game">Search<span data-ebay-domain-label>eBay.co.uk</span>: strategy board game</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-giving-up-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="what-are-you-giving-up-strategy-board-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-giving-up-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="what-are-you-giving-up-strategy-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Agent Avenue Board Game Card Game Family Party Strategy Game Brand New"><img src="https://i.ebayimg.com/images/g/W~gAAeSwFMlp1OFm/s-l225.jpg" alt="Listing image for Agent Avenue Board Game Card Game Family Party Strategy Game Brand New" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-giving-up-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="what-are-you-giving-up-strategy-board-game" target="_blank" rel="sponsored noopener noreferrer">Agent Avenue Board Game Card Game Family Party Strategy Game Brand New</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-giving-up-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="what-are-you-giving-up-strategy-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for strategy board game">Search <span data-ebay-domain-label>eBay.co.uk</span>: strategy board game</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-giving-up-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="what-are-you-giving-up-strategy-board-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-giving-up-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="what-are-you-giving-up-strategy-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rummikub 2-4 Player Game by Ideal - Classic Family Strategy Board Game Set UK"><img src="https://i.ebayimg.com/images/g/uDAAAeSwrF5ocA4k/s-l225.jpg" alt="Listing image for Rummikub 2-4 Player Game by Ideal - Classic Family Strategy Board Game Set UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-giving-up-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="what-are-you-giving-up-strategy-board-game" target="_blank" rel="sponsored noopener noreferrer">Rummikub 2-4 Player Game by Ideal - Classic Family Strategy Board Game Set UK</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-giving-up-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="what-are-you-giving-up-strategy-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for strategy board game">Search<span data-ebay-domain-label>eBay.co.uk</span>: strategy board game</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-giving-up-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="what-are-you-giving-up-strategy-board-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-giving-up-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="what-are-you-giving-up-strategy-board-game" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-giving-up-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="what-are-you-giving-up-strategy-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rummikub 2-4 Player Game by Ideal - Classic Family Strategy Board Game Set UK"><img src="https://i.ebayimg.com/images/g/uDAAAeSwrF5ocA4k/s-l225.jpg" alt="Listing image for Rummikub 2-4 Player Game by Ideal - Classic Family Strategy Board Game Set UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-giving-up-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="what-are-you-giving-up-strategy-board-game" target="_blank" rel="sponsored noopener noreferrer">Rummikub 2-4 Player Game by Ideal - Classic Family Strategy Board Game Set UK</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-giving-up-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="what-are-you-giving-up-strategy-board-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for strategy board game">Search <span data-ebay-domain-label>eBay.co.uk</span>: strategy board game</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-giving-up-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="what-are-you-giving-up-strategy-board-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+board+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-giving-up-strategy-board-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy board game" data-ebay-reference="what-are-you-giving-up-strategy-board-game" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -798,7 +798,7 @@ Tradeoff thinking improves analysis because it makes choice honest. It does not 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -818,7 +818,7 @@ Tradeoff thinking improves analysis because it makes choice honest. It does not 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -850,7 +850,7 @@ Tradeoff thinking improves analysis because it makes choice honest. It does not 
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -902,7 +902,7 @@ Tradeoff thinking improves analysis because it makes choice honest. It does not 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -947,7 +947,7 @@ Tradeoff thinking improves analysis because it makes choice honest. It does not 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -987,158 +987,158 @@ Tradeoff thinking improves analysis because it makes choice honest. It does not 
 </section>
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: analysisfunction.civilservice.gov.uk  
    Title: an introductory guide to mcda  
-   Link:<a href="https://analysisfunction.civilservice.gov.uk/policy-store/an-introductory-guide-to-mcda/" target="_blank" rel="noopener noreferrer nofollow">https://analysisfunction.civilservice.gov.uk/policy-store/an-introductory-guide-to-mcda/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>An Introductory Guide to Multi-Criteria Decision Analysis...1 May 2024 — MCDA is a way of helping decision-makers rationally choose betw...</p></details>
+   Link: <a href="https://analysisfunction.civilservice.gov.uk/policy-store/an-introductory-guide-to-mcda/" target="_blank" rel="noopener noreferrer nofollow">https://analysisfunction.civilservice.gov.uk/policy-store/an-introductory-guide-to-mcda/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>An Introductory Guide to Multi-Criteria Decision Analysis...1 May 2024 — MCDA is a way of helping decision-makers rationally choose betw...</p></details>
    Published: May 2024  
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: investopedia.com  
    Title: Herbert A. Simon: Nobel Economist & AI Pioneer in Bounded Rationality  
-   Link:<a href="https://www.investopedia.com/terms/h/herbert-a-simon.asp" target="_blank" rel="noopener noreferrer nofollow">https://www.investopedia.com/terms/h/herbert-a-simon.asp</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Simon’s work challenged traditional economic views of a fully rational &quot;economic man&quot; and emphasized the social and institutional constra...</p></details>
+   Link: <a href="https://www.investopedia.com/terms/h/herbert-a-simon.asp" target="_blank" rel="noopener noreferrer nofollow">https://www.investopedia.com/terms/h/herbert-a-simon.asp</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Simon’s work challenged traditional economic views of a fully rational &quot;economic man&quot; and emphasized the social and institutional constra...</p></details>
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UK The Green Book – UK government guidance on appraisal  
-   Link:<a href="https://assets.publishing.service.gov.uk/media/698dbcd17da91680ad7f4308/The_Green_Book_2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/698dbcd17da91680ad7f4308/The_Green_Book_2026.pdf</a>  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/698dbcd17da91680ad7f4308/The_Green_Book_2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/698dbcd17da91680ad7f4308/The_Green_Book_2026.pdf</a>  
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: GOV.UK  
    Title: the green book appraisal and evaluation in central government  
-   Link:<a href="https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-government" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-government</a>  
+   Link: <a href="https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-government" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-government</a>  
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCDecision Fatigue: A Conceptual Analysis  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6119549/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6119549/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6119549/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6119549/</a>  
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: onlinelibrary.wiley.com  
-   Link:<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/mcda.70006" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1002/mcda.70006</a>  
+   Link: <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/mcda.70006" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1002/mcda.70006</a>  
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: onlinelibrary.wiley.com  
-   Link:<a href="https://onlinelibrary.wiley.com/doi/10.1111/ijcs.13029" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1111/ijcs.13029</a>  
+   Link: <a href="https://onlinelibrary.wiley.com/doi/10.1111/ijcs.13029" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1111/ijcs.13029</a>  
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: investopedia.com  
-   Link:<a href="https://www.investopedia.com/terms/o/opportunitycost.asp" target="_blank" rel="noopener noreferrer nofollow">https://www.investopedia.com/terms/o/opportunitycost.asp</a>  
+   Link: <a href="https://www.investopedia.com/terms/o/opportunitycost.asp" target="_blank" rel="noopener noreferrer nofollow">https://www.investopedia.com/terms/o/opportunitycost.asp</a>  
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: federalreserveeducation.org  
    Title: Federal Reserve Education Opportunity Cost  
-   Link:<a href="https://www.federalreserveeducation.org/resources/infographics/infographic--decision-making.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.federalreserveeducation.org/resources/infographics/infographic--decision-making.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Reserve EducationOpportunity CostMarch 2, 2026 — Opportunity cost is the value of the next best alternative when someone makes a...</p></details>
+   Link: <a href="https://www.federalreserveeducation.org/resources/infographics/infographic--decision-making.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.federalreserveeducation.org/resources/infographics/infographic--decision-making.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Reserve EducationOpportunity CostMarch 2, 2026 — Opportunity cost is the value of the next best alternative when someone makes a...</p></details>
    Published: March 2, 2026  
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11111947/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11111947/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11111947/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11111947/</a>  
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/12416921/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/12416921/</a>  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/12416921/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/12416921/</a>  
 
-12.<a id="endnote-12"></a>
+12. <a id="endnote-12"></a>
    Source: nice.org.uk  
-   Link:<a href="https://www.nice.org.uk/process/pmg36/chapter/economic-evaluation-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nice.org.uk/process/pmg36/chapter/economic-evaluation-2</a>  
+   Link: <a href="https://www.nice.org.uk/process/pmg36/chapter/economic-evaluation-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nice.org.uk/process/pmg36/chapter/economic-evaluation-2</a>  
 
-13.<a id="endnote-13"></a>
+13. <a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Bounded rationality  
-   Link:<a href="https://en.wikipedia.org/wiki/Bounded_rationality" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bounded_rationality</a>  
+   Link: <a href="https://en.wikipedia.org/wiki/Bounded_rationality" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bounded_rationality</a>  
 
-14.<a id="endnote-14"></a>
+14. <a id="endnote-14"></a>
    Source: Wikipedia  
-   Link:<a href="https://en.wikipedia.org/wiki/Satisficing" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Satisficing</a>  
+   Link: <a href="https://en.wikipedia.org/wiki/Satisficing" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Satisficing</a>  
 
-15.<a id="endnote-15"></a>
+15. <a id="endnote-15"></a>
    Source: federalreserveeducation.org  
-   Link:<a href="https://www.federalreserveeducation.org/teaching-resources/economics/scarcity/opportunity-cost" target="_blank" rel="noopener noreferrer nofollow">https://www.federalreserveeducation.org/teaching-resources/economics/scarcity/opportunity-cost</a>  
+   Link: <a href="https://www.federalreserveeducation.org/teaching-resources/economics/scarcity/opportunity-cost" target="_blank" rel="noopener noreferrer nofollow">https://www.federalreserveeducation.org/teaching-resources/economics/scarcity/opportunity-cost</a>  
 
-16.<a id="endnote-16"></a>
+16. <a id="endnote-16"></a>
    Source: federalreserveeducation.org  
-   Link:<a href="https://www.federalreserveeducation.org/teaching-resources/economics/scarcity/the-production-possibilities-frontier-increasing-opportunity-cost" target="_blank" rel="noopener noreferrer nofollow">https://www.federalreserveeducation.org/teaching-resources/economics/scarcity/the-production-possibilities-frontier-increasing-opportunity-cost</a>  
+   Link: <a href="https://www.federalreserveeducation.org/teaching-resources/economics/scarcity/the-production-possibilities-frontier-increasing-opportunity-cost" target="_blank" rel="noopener noreferrer nofollow">https://www.federalreserveeducation.org/teaching-resources/economics/scarcity/the-production-possibilities-frontier-increasing-opportunity-cost</a>  
 
-17.<a id="endnote-17"></a>
+17. <a id="endnote-17"></a>
    Source: federalreserveeducation.org  
-   Link:<a href="https://www.federalreserveeducation.org/teaching-resources/economics/scarcity/opportunity-cost-module" target="_blank" rel="noopener noreferrer nofollow">https://www.federalreserveeducation.org/teaching-resources/economics/scarcity/opportunity-cost-module</a>  
+   Link: <a href="https://www.federalreserveeducation.org/teaching-resources/economics/scarcity/opportunity-cost-module" target="_blank" rel="noopener noreferrer nofollow">https://www.federalreserveeducation.org/teaching-resources/economics/scarcity/opportunity-cost-module</a>  
 
-18.<a id="endnote-18"></a>
+18. <a id="endnote-18"></a>
    Source: federalreserveeducation.org  
-   Link:<a href="https://www.federalreserveeducation.org/teaching-resources/economics/scarcity/the-production-possibilities-frontier-scarcity-and-opportunity-cost" target="_blank" rel="noopener noreferrer nofollow">https://www.federalreserveeducation.org/teaching-resources/economics/scarcity/the-production-possibilities-frontier-scarcity-and-opportunity-cost</a>  
+   Link: <a href="https://www.federalreserveeducation.org/teaching-resources/economics/scarcity/the-production-possibilities-frontier-scarcity-and-opportunity-cost" target="_blank" rel="noopener noreferrer nofollow">https://www.federalreserveeducation.org/teaching-resources/economics/scarcity/the-production-possibilities-frontier-scarcity-and-opportunity-cost</a>  
 
-19.<a id="endnote-19"></a>
+19. <a id="endnote-19"></a>
    Source: valueinhealthjournal.com  
-   Link:<a href="https://www.valueinhealthjournal.com/article/S1098-3015%2816%2934130-4/pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.valueinhealthjournal.com/article/S1098-3015%2816%2934130-4/pdf</a>  
+   Link: <a href="https://www.valueinhealthjournal.com/article/S1098-3015%2816%2934130-4/pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.valueinhealthjournal.com/article/S1098-3015%2816%2934130-4/pdf</a>  
 
-20.<a id="endnote-20"></a>
+20. <a id="endnote-20"></a>
    Source: frontiersin.org  
-   Link:<a href="https://www.frontiersin.org/journals/cognition/articles/10.3389/fcogn.2025.1719312/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/cognition/articles/10.3389/fcogn.2025.1719312/full</a>  
+   Link: <a href="https://www.frontiersin.org/journals/cognition/articles/10.3389/fcogn.2025.1719312/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/cognition/articles/10.3389/fcogn.2025.1719312/full</a>  
 
-21.<a id="endnote-21"></a>
+21. <a id="endnote-21"></a>
    Source: medium.com  
    Title: Choice Overload  
-   Link:<a href="https://medium.com/%40jodiemshaw/choice-overload-6280f9b8bf29" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40jodiemshaw/choice-overload-6280f9b8bf29</a>  
+   Link: <a href="https://medium.com/%40jodiemshaw/choice-overload-6280f9b8bf29" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40jodiemshaw/choice-overload-6280f9b8bf29</a>  
 
-22.<a id="endnote-22"></a>
+22. <a id="endnote-22"></a>
    Source: monday.com  
    Title: decision matrix  
-   Link:<a href="https://monday.com/blog/project-management/decision-matrix/" target="_blank" rel="noopener noreferrer nofollow">https://monday.com/blog/project-management/decision-matrix/</a>  
+   Link: <a href="https://monday.com/blog/project-management/decision-matrix/" target="_blank" rel="noopener noreferrer nofollow">https://monday.com/blog/project-management/decision-matrix/</a>  
 
-23.<a id="endnote-23"></a>
+23. <a id="endnote-23"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/18767894/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/18767894/</a>  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/18767894/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/18767894/</a>  
 
 ### Additional References
 
-24.<a id="endnote-24"></a>
+24. <a id="endnote-24"></a>
    Source: thedecisionlab.com  
-   Link:<a href="https://thedecisionlab.com/reference-guide/psychology/decision-matrix" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/decision-matrix</a>  
+   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/decision-matrix" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/decision-matrix</a>  
 
-25.<a id="endnote-25"></a>
+25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: What Leaders Should Do When the Work Won't Fit [Agile]  
-   Link:<a href="https://www.youtube.com/watch?v=y-_a4AhEl9k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=y-_a4AhEl9k</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The video How to Make Complex Decisions: Multi-Criteria Decision Analysis (MCDA) provides an analytical framework for identifying and sco...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=y-_a4AhEl9k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=y-_a4AhEl9k</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The video How to Make Complex Decisions: Multi-Criteria Decision Analysis (MCDA) provides an analytical framework for identifying and sco...</p></details>
 
-26.<a id="endnote-26"></a>
+26. <a id="endnote-26"></a>
    Source: stlouisfed.org  
    Title: Federal Reserve Bank of St  
-   Link:<a href="https://www.stlouisfed.org/open-vault/2020/january/real-life-examples-opportunity-cost" target="_blank" rel="noopener noreferrer nofollow">https://www.stlouisfed.org/open-vault/2020/january/real-life-examples-opportunity-cost</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>LouisReal-Life Examples of Opportunity Cost | St. Louis Fed29 Jan 2020 — “Opportunity cost is the value of the next-best alternative when...</p></details>
+   Link: <a href="https://www.stlouisfed.org/open-vault/2020/january/real-life-examples-opportunity-cost" target="_blank" rel="noopener noreferrer nofollow">https://www.stlouisfed.org/open-vault/2020/january/real-life-examples-opportunity-cost</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>LouisReal-Life Examples of Opportunity Cost | St. Louis Fed29 Jan 2020 — “Opportunity cost is the value of the next-best alternative when...</p></details>
 
-27.<a id="endnote-27"></a>
+27. <a id="endnote-27"></a>
    Source: youtube.com  
    Title: How to Make Complex Decisions: Multi-Criteria Decision Analysis (MCDA)  
-   Link:<a href="https://www.youtube.com/watch?v=XtupFsSf4AM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XtupFsSf4AM</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Multi-Criteria Decision Analysis (MCDA) Explained With Real PMP Question...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=XtupFsSf4AM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XtupFsSf4AM</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Multi-Criteria Decision Analysis (MCDA) Explained With Real PMP Question...</p></details>
 
-28.<a id="endnote-28"></a>
+28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: Multi-Criteria Decision Analysis (MCDA) Explained With Real PMP Question  
-   Link:<a href="https://www.youtube.com/watch?v=XUXQaVi0XFU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XUXQaVi0XFU</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>What Leaders Should Do When the Work Won&#x27;t Fit [Agile]...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=XUXQaVi0XFU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XUXQaVi0XFU</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Leaders Should Do When the Work Won&#x27;t Fit [Agile]...</p></details>
 
-29.<a id="endnote-29"></a>
+29. <a id="endnote-29"></a>
    Source: jsbs.scholasticahq.com  
-   Link:<a href="https://jsbs.scholasticahq.com/article/36755-when-good-enough-is-not-enough-the-role-of-maximizing-or-satisficing-decision-making-styles-innovation-behavior-and-entrepreneurial-alertness-in" target="_blank" rel="noopener noreferrer nofollow">https://jsbs.scholasticahq.com/article/36755-when-good-enough-is-not-enough-the-role-of-maximizing-or-satisficing-decision-making-styles-innovation-behavior-and-entrepreneurial-alertness-in</a>  
+   Link: <a href="https://jsbs.scholasticahq.com/article/36755-when-good-enough-is-not-enough-the-role-of-maximizing-or-satisficing-decision-making-styles-innovation-behavior-and-entrepreneurial-alertness-in" target="_blank" rel="noopener noreferrer nofollow">https://jsbs.scholasticahq.com/article/36755-when-good-enough-is-not-enough-the-role-of-maximizing-or-satisficing-decision-making-styles-innovation-behavior-and-entrepreneurial-alertness-in</a>  
 
-30.<a id="endnote-30"></a>
+30. <a id="endnote-30"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/357695637_An_Analysis_on_the_Impact_of_Choice_Overload_to_Consumer_Decision_Paralysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/357695637_An_Analysis_on_the_Impact_of_Choice_Overload_to_Consumer_Decision_Paralysis</a>  
+   Link: <a href="https://www.researchgate.net/publication/357695637_An_Analysis_on_the_Impact_of_Choice_Overload_to_Consumer_Decision_Paralysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/357695637_An_Analysis_on_the_Impact_of_Choice_Overload_to_Consumer_Decision_Paralysis</a>  
 
-31.<a id="endnote-31"></a>
+31. <a id="endnote-31"></a>
    Source: pempal.org  
-   Link:<a href="https://www.pempal.org/sites/default/files/event/attachments/uk-green-book_eng.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.pempal.org/sites/default/files/event/attachments/uk-green-book_eng.pdf</a>  
+   Link: <a href="https://www.pempal.org/sites/default/files/event/attachments/uk-green-book_eng.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.pempal.org/sites/default/files/event/attachments/uk-green-book_eng.pdf</a>  
 
-32.<a id="endnote-32"></a>
+32. <a id="endnote-32"></a>
    Source: ijircst.org  
-   Link:<a href="https://www.ijircst.org/DOC/ebch_1461-22.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ijircst.org/DOC/ebch_1461-22.pdf</a>  
+   Link: <a href="https://www.ijircst.org/DOC/ebch_1461-22.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ijircst.org/DOC/ebch_1461-22.pdf</a>  
 
-33.<a id="endnote-33"></a>
+33. <a id="endnote-33"></a>
    Source: york.ac.uk  
-   Link:<a href="https://www.york.ac.uk/media/che/documents/papers/researchpapers/CHERP175_HTA_guidance_NICE.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.york.ac.uk/media/che/documents/papers/researchpapers/CHERP175_HTA_guidance_NICE.pdf</a>  
+   Link: <a href="https://www.york.ac.uk/media/che/documents/papers/researchpapers/CHERP175_HTA_guidance_NICE.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.york.ac.uk/media/che/documents/papers/researchpapers/CHERP175_HTA_guidance_NICE.pdf</a>  

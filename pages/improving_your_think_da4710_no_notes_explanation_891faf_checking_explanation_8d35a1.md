@@ -280,7 +280,7 @@ image: /assets/images/improving_your_think_da4710_no_notes_explanation_891faf_ch
 
 ## Introduction
 
-Explaining a concept from memory is only half of the exercise. The real improvement comes when you compare that explanation with a reliable source and identify exactly where it failed. Without this checking step, an explanation can sound coherent while quietly omitting essential steps, inventing causal links, or blending together related ideas. Research on [retrieval practice]({{ 'retrieval/' | relative_url }}), self-explanation and metacognition consistently shows that attempting an explanation and then checking it against authoritative material produces stronger learning than passive review because it exposes misconceptions rather than merely reinforcing familiarity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9008134/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCUnderstanding Is a Process</span><span class="citation-popover-snippet">It depends on learning, interpreting, generalizing, and acting upon information. No...Read more...</span></span></span>
+Explaining a concept from memory is only half of the exercise. The real improvement comes when you compare that explanation with a reliable source and identify exactly where it failed. Without this checking step, an explanation can sound coherent while quietly omitting essential steps, inventing causal links, or blending together related ideas. Research on [retrieval practice]({{ 'retrieval/' | relative_url }}), self-explanation and metacognition consistently shows that attempting an explanation and then checking it against authoritative material produces stronger learning than passive review because it exposes misconceptions rather than merely reinforcing familiarity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9008134/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCUnderstanding Is a Process</span><span class="citation-popover-snippet">It depends on learning, interpreting, generalizing, and acting upon information. No...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_no_notes_explanation_891faf_checking_explanation_8d35a1-Illustration-1-dark.svg" | relative_url }}" alt="Gap Check illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_no_notes_explanation_891faf_checking_explanation_8d35a1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_no_notes_explanation_891faf_checking_explanation_8d35a1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -290,7 +290,7 @@ The aim is not to count small factual errors. It is to diagnose weaknesses in yo
 
 Many explanations fail not because they contain obvious mistakes but because they leave out a step that makes the rest of the account impossible to understand.
 
-People often assume they understand a process until they are asked to reconstruct it in detail. This phenomenon, known as the illusion of explanatory depth, shows that familiarity with a subject is easily mistaken for genuine understanding. When people try to produce a full explanation, they frequently discover that they cannot describe how one stage leads to the next.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofcognition.org/articles/10.5334/joc.393" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofcognition.org">[Journal of Cognition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofcognition.org</span><span class="citation-popover-snippet">Journal of CognitionSubjective Understanding is Reduced by Mechanistic...by JC Zemla · 2024 · Cited by 1 — In two experiments, we found...</span></span></span>
+People often assume they understand a process until they are asked to reconstruct it in detail. This phenomenon, known as the illusion of explanatory depth, shows that familiarity with a subject is easily mistaken for genuine understanding. When people try to produce a full explanation, they frequently discover that they cannot describe how one stage leads to the next. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofcognition.org/articles/10.5334/joc.393" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofcognition.org">[Journal of Cognition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofcognition.org</span><span class="citation-popover-snippet">Journal of CognitionSubjective Understanding is Reduced by Mechanistic...by JC Zemla · 2024 · Cited by 1 — In two experiments, we found...</span></span></span>
 
 When comparing your explanation with a trusted source, look specifically for:
 
@@ -304,7 +304,7 @@ When comparing your explanation with a trusted source, look specifically for:
 
 </div>
 
-For example, imagine explaining retrieval practice simply as "testing yourself helps memory". A reliable source adds an essential mechanism: actively retrieving information strengthens later recall and also exposes knowledge gaps that passive rereading often hides. Without that mechanism, the explanation captures the outcome but not the reason it occurs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2023.1096257/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">error conditions, wrong answers, or bad decisions? Explicit Self-explanation has been shown to improve learning and understanding. This...</span></span></span>
+For example, imagine explaining retrieval practice simply as "testing yourself helps memory". A reliable source adds an essential mechanism: actively retrieving information strengthens later recall and also exposes knowledge gaps that passive rereading often hides. Without that mechanism, the explanation captures the outcome but not the reason it occurs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2023.1096257/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">error conditions, wrong answers, or bad decisions? Explicit Self-explanation has been shown to improve learning and understanding. This...</span></span></span>
 
 A productive comparison therefore asks not "Did I remember the main point?" but "Which indispensable links did the source include that I never mentioned?"
 
@@ -315,7 +315,7 @@ A productive comparison therefore asks not "Did I remember the main point?" but 
 
 An explanation can contain every important fact yet still be wrong because it connects those facts incorrectly.
 
-One of the most common failures is inventing a causal chain that feels plausible but is unsupported. Fluent explanations often encourage this error because a smooth narrative is psychologically satisfying even when its logic is incomplete. Research on understanding and metacognition emphasises that genuine understanding involves correctly grasping relationships, not merely recalling isolated facts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9008134/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCUnderstanding Is a Process</span><span class="citation-popover-snippet">It depends on learning, interpreting, generalizing, and acting upon information. No...Read more...</span></span></span>
+One of the most common failures is inventing a causal chain that feels plausible but is unsupported. Fluent explanations often encourage this error because a smooth narrative is psychologically satisfying even when its logic is incomplete. Research on understanding and metacognition emphasises that genuine understanding involves correctly grasping relationships, not merely recalling isolated facts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9008134/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCUnderstanding Is a Process</span><span class="citation-popover-snippet">It depends on learning, interpreting, generalizing, and acting upon information. No...Read more...</span></span></span>
 
 Common false links include:
 
@@ -330,7 +330,7 @@ Common false links include:
 
 </div>
 
-Suppose someone explains that retrieval practice improves learning because "students become more confident". Confidence may increase, but research attributes improved retention primarily to the act of successful retrieval and subsequent feedback, not to confidence itself. Here the explanation substitutes an appealing story for the supported mechanism.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2023.1096257/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">error conditions, wrong answers, or bad decisions? Explicit Self-explanation has been shown to improve learning and understanding. This...</span></span></span>
+Suppose someone explains that retrieval practice improves learning because "students become more confident". Confidence may increase, but research attributes improved retention primarily to the act of successful retrieval and subsequent feedback, not to confidence itself. Here the explanation substitutes an appealing story for the supported mechanism. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2023.1096257/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">error conditions, wrong answers, or bad decisions? Explicit Self-explanation has been shown to improve learning and understanding. This...</span></span></span>
 
 When reviewing your explanation, compare every "because", "therefore" and "leads to" with the source. Those connecting words often reveal mistaken reasoning more quickly than checking individual facts.
 
@@ -354,7 +354,7 @@ For example, in learning science:
 
 </div>
 
-Research on the illusion of explanatory depth demonstrates precisely this problem. People often confuse knowing what something is for knowing how it works. More recent work similarly suggests that drawing attention to mechanisms causes people to judge their own understanding more cautiously because they recognise distinctions they had previously overlooked.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofcognition.org/articles/10.5334/joc.393" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofcognition.org">[Journal of Cognition+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofcognition.org</span><span class="citation-popover-snippet">Journal of CognitionSubjective Understanding is Reduced by Mechanistic...by JC Zemla · 2024 · Cited by 1 — In two experiments, we found...</span></span></span>
+Research on the illusion of explanatory depth demonstrates precisely this problem. People often confuse knowing what something is for knowing how it works. More recent work similarly suggests that drawing attention to mechanisms causes people to judge their own understanding more cautiously because they recognise distinctions they had previously overlooked. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofcognition.org/articles/10.5334/joc.393" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofcognition.org">[Journal of Cognition+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofcognition.org</span><span class="citation-popover-snippet">Journal of CognitionSubjective Understanding is Reduced by Mechanistic...by JC Zemla · 2024 · Cited by 1 — In two experiments, we found...</span></span></span>
 
 When checking your explanation, ask:
 
@@ -406,197 +406,197 @@ The purpose of a gap check is not simply to correct today's explanation. It is t
 
 Analysis depends on building accurate causal models rather than persuasive narratives. Every time you identify a missing mechanism, remove a false causal link or sharpen a conceptual boundary, you refine the internal model you will use in future problems.
 
-This also reduces the illusion of explanatory depth. Studies repeatedly show that generating explanations, comparing them with accurate accounts and revising them produces more realistic judgments about what you genuinely know and what still requires study. Instead of reinforcing misplaced confidence, the checking process turns errors into reliable guides for further learning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofcognition.org/articles/10.5334/joc.393" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofcognition.org">[Journal of Cognition+2Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofcognition.org</span><span class="citation-popover-snippet">Journal of CognitionSubjective Understanding is Reduced by Mechanistic...by JC Zemla · 2024 · Cited by 1 — In two experiments, we found...</span></span></span>
+This also reduces the illusion of explanatory depth. Studies repeatedly show that generating explanations, comparing them with accurate accounts and revising them produces more realistic judgments about what you genuinely know and what still requires study. Instead of reinforcing misplaced confidence, the checking process turns errors into reliable guides for further learning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofcognition.org/articles/10.5334/joc.393" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofcognition.org">[Journal of Cognition+2Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofcognition.org</span><span class="citation-popover-snippet">Journal of CognitionSubjective Understanding is Reduced by Mechanistic...by JC Zemla · 2024 · Cited by 1 — In two experiments, we found...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to How to Check What Your Explanation Missed. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to How to Check What Your Explanation Missed. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-</h4>
-<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oneWAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+        </h4>
+        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-<p class="fr-book-desc">Explains retrieval practice, feedback, and correcting misconceptions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains retrieval practice, feedback, and correcting misconceptions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Mind+for+Numbers+by+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Mind for Numbers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Jv3YCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A Mind for Numbers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=A+Mind+for+Numbers+by+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Mind for Numbers">A Mind for Numbers</a>
-</h4>
-<p class="fr-book-author">By Barbara A. Oakley</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Mind+for+Numbers+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Mind for Numbers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Jv3YCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A Mind for Numbers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=A+Mind+for+Numbers+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Mind for Numbers">A Mind for Numbers</a>
+        </h4>
+        <p class="fr-book-author">By Barbara A. Oakley</p>
         
-<p class="fr-book-desc">Covers self-explanation and effective study habits.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=A+Mind+for+Numbers+by+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Covers self-explanation and effective study habits.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=A+Mind+for+Numbers+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+We+Learn+by+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How We Learn on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ncgJAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How We Learn" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=How+We+Learn+by+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How We Learn">How We Learn</a>
-</h4>
-<p class="fr-book-author">By Benedict Carey</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Learning+Josh+Waitzkin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Learning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XUwOtdcIWdkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Art of Learning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Art+of+Learning+Josh+Waitzkin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Learning">The Art of Learning</a>
+        </h4>
+        <p class="fr-book-author">By Josh Waitzkin</p>
         
-<p class="fr-book-desc">Discusses memory, feedback, and durable learning.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=How+We+Learn+by+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Emphasizes reflective improvement through feedback.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Art+of+Learning+Josh+Waitzkin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ultralearning+by+Scott+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ultralearning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d0IdvgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ultralearning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ultralearning">Ultralearning</a>
-</h4>
-<p class="fr-book-author">By Scott Young</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+We+Learn+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How We Learn on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=R9C2DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How We Learn" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=How+We+Learn+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How We Learn">How We Learn</a>
+        </h4>
+        <p class="fr-book-author">By Stanislas Dehaene</p>
         
-<p class="fr-book-desc">Encourages active testing and identifying knowledge gaps.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+Young&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Discusses memory, feedback, and durable learning.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=How+We+Learn+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Mind+for+Numbers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Mind for Numbers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+We+Learn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How We Learn</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Mind+for+Numbers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Mind for Numbers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Learning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Learning</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=your+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-what-your-explanation-missed-your-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your poster -book -books -dvd" data-ebay-reference="how-to-check-what-your-explanation-missed-your-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="https://i.ebayimg.com/images/g/TAMAAeSw3iFoo0of/s-l225.jpg" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=your+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-what-your-explanation-missed-your-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your poster -book -books -dvd" data-ebay-reference="how-to-check-what-your-explanation-missed-your-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=your+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-what-your-explanation-missed-your-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your poster -book -books -dvd" data-ebay-reference="how-to-check-what-your-explanation-missed-your-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for your poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: your poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=your+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-what-your-explanation-missed-your-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your poster -book -books -dvd" data-ebay-reference="how-to-check-what-your-explanation-missed-your-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=your+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-what-your-explanation-missed-your-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your poster -book -books -dvd" data-ebay-reference="how-to-check-what-your-explanation-missed-your-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="https://i.ebayimg.com/images/g/TAMAAeSw3iFoo0of/s-l225.jpg" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=your+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-what-your-explanation-missed-your-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your poster -book -books -dvd" data-ebay-reference="how-to-check-what-your-explanation-missed-your-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=your+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-what-your-explanation-missed-your-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your poster -book -books -dvd" data-ebay-reference="how-to-check-what-your-explanation-missed-your-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for your poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: your poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=your+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-what-your-explanation-missed-your-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your poster -book -books -dvd" data-ebay-reference="how-to-check-what-your-explanation-missed-your-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=your+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-what-your-explanation-missed-your-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your poster -book -books -dvd" data-ebay-reference="how-to-check-what-your-explanation-missed-your-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for YOUR PERSONALISED PHOTO ON SATIN PAPER FRAMED WALL ART POSTER PRINT 4 SIZES"><img src="https://i.ebayimg.com/images/g/R6kAAeSwB9Zp1~1K/s-l225.jpg" alt="Listing image for YOUR PERSONALISED PHOTO ON SATIN PAPER FRAMED WALL ART POSTER PRINT 4 SIZES" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=your+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-what-your-explanation-missed-your-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your poster -book -books -dvd" data-ebay-reference="how-to-check-what-your-explanation-missed-your-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">YOUR PERSONALISED PHOTO ON SATIN PAPER FRAMED WALL ART POSTER PRINT 4 SIZES</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=your+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-what-your-explanation-missed-your-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your poster -book -books -dvd" data-ebay-reference="how-to-check-what-your-explanation-missed-your-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for your poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: your poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=your+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-what-your-explanation-missed-your-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your poster -book -books -dvd" data-ebay-reference="how-to-check-what-your-explanation-missed-your-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=your+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-what-your-explanation-missed-your-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your poster -book -books -dvd" data-ebay-reference="how-to-check-what-your-explanation-missed-your-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for YOUR PERSONALISED PHOTO ON SATIN PAPER FRAMED WALL ART POSTER PRINT 4 SIZES"><img src="https://i.ebayimg.com/images/g/R6kAAeSwB9Zp1~1K/s-l225.jpg" alt="Listing image for YOUR PERSONALISED PHOTO ON SATIN PAPER FRAMED WALL ART POSTER PRINT 4 SIZES" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=your+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-what-your-explanation-missed-your-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your poster -book -books -dvd" data-ebay-reference="how-to-check-what-your-explanation-missed-your-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">YOUR PERSONALISED PHOTO ON SATIN PAPER FRAMED WALL ART POSTER PRINT 4 SIZES</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=your+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-what-your-explanation-missed-your-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your poster -book -books -dvd" data-ebay-reference="how-to-check-what-your-explanation-missed-your-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for your poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: your poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=your+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-what-your-explanation-missed-your-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your poster -book -books -dvd" data-ebay-reference="how-to-check-what-your-explanation-missed-your-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=your+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-what-your-explanation-missed-your-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your poster -book -books -dvd" data-ebay-reference="how-to-check-what-your-explanation-missed-your-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="https://i.ebayimg.com/images/g/XM8AAeSw3gJopJi8/s-l225.jpg" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=your+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-what-your-explanation-missed-your-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your poster -book -books -dvd" data-ebay-reference="how-to-check-what-your-explanation-missed-your-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=your+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-what-your-explanation-missed-your-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your poster -book -books -dvd" data-ebay-reference="how-to-check-what-your-explanation-missed-your-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for your poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: your poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=your+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-what-your-explanation-missed-your-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your poster -book -books -dvd" data-ebay-reference="how-to-check-what-your-explanation-missed-your-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=your+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-what-your-explanation-missed-your-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your poster -book -books -dvd" data-ebay-reference="how-to-check-what-your-explanation-missed-your-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="https://i.ebayimg.com/images/g/XM8AAeSw3gJopJi8/s-l225.jpg" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=your+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-what-your-explanation-missed-your-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your poster -book -books -dvd" data-ebay-reference="how-to-check-what-your-explanation-missed-your-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=your+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-what-your-explanation-missed-your-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your poster -book -books -dvd" data-ebay-reference="how-to-check-what-your-explanation-missed-your-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for your poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: your poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=your+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-what-your-explanation-missed-your-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your poster -book -books -dvd" data-ebay-reference="how-to-check-what-your-explanation-missed-your-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=your+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-what-your-explanation-missed-your-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your poster -book -books -dvd" data-ebay-reference="how-to-check-what-your-explanation-missed-your-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Poster Printing A4 A3 A2 A1 A0 Custom Size Full Colour Print your own Artwork"><img src="https://i.ebayimg.com/images/g/pd8AAOSwXuJixX76/s-l225.jpg" alt="Listing image for Poster Printing A4 A3 A2 A1 A0 Custom Size Full Colour Print your own Artwork" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=your+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-what-your-explanation-missed-your-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your poster -book -books -dvd" data-ebay-reference="how-to-check-what-your-explanation-missed-your-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Poster Printing A4 A3 A2 A1 A0 Custom Size Full Colour Print your own Artwork</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=your+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-what-your-explanation-missed-your-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your poster -book -books -dvd" data-ebay-reference="how-to-check-what-your-explanation-missed-your-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for your poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: your poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=your+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-what-your-explanation-missed-your-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your poster -book -books -dvd" data-ebay-reference="how-to-check-what-your-explanation-missed-your-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=your+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-what-your-explanation-missed-your-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your poster -book -books -dvd" data-ebay-reference="how-to-check-what-your-explanation-missed-your-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=your+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-what-your-explanation-missed-your-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your poster -book -books -dvd" data-ebay-reference="how-to-check-what-your-explanation-missed-your-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Poster Printing A4 A3 A2 A1 A0 Custom Size Full Colour Print your own Artwork"><img src="https://i.ebayimg.com/images/g/pd8AAOSwXuJixX76/s-l225.jpg" alt="Listing image for Poster Printing A4 A3 A2 A1 A0 Custom Size Full Colour Print your own Artwork" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=your+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-what-your-explanation-missed-your-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your poster -book -books -dvd" data-ebay-reference="how-to-check-what-your-explanation-missed-your-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Poster Printing A4 A3 A2 A1 A0 Custom Size Full Colour Print your own Artwork</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=your+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-what-your-explanation-missed-your-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your poster -book -books -dvd" data-ebay-reference="how-to-check-what-your-explanation-missed-your-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for your poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: your poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=your+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-what-your-explanation-missed-your-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your poster -book -books -dvd" data-ebay-reference="how-to-check-what-your-explanation-missed-your-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=your+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-what-your-explanation-missed-your-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your poster -book -books -dvd" data-ebay-reference="how-to-check-what-your-explanation-missed-your-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -612,7 +612,7 @@ This also reduces the illusion of explanatory depth. Studies repeatedly show tha
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -632,7 +632,7 @@ This also reduces the illusion of explanatory depth. Studies repeatedly show tha
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -664,7 +664,7 @@ This also reduces the illusion of explanatory depth. Studies repeatedly show tha
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -716,7 +716,7 @@ This also reduces the illusion of explanatory depth. Studies repeatedly show tha
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -761,7 +761,7 @@ This also reduces the illusion of explanatory depth. Studies repeatedly show tha
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -801,80 +801,80 @@ This also reduces the illusion of explanatory depth. Studies repeatedly show tha
 </section>
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCUnderstanding Is a Process  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9008134/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9008134/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>It depends on learning, interpreting, generalizing, and acting upon information. No...Read more...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9008134/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9008134/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>It depends on learning, interpreting, generalizing, and acting upon information. No...Read more...</p></details>
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Illusion of explanatory depth  
-   Link:<a href="https://en.wikipedia.org/wiki/Illusion_of_explanatory_depth" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Illusion_of_explanatory_depth</a>  
+   Link: <a href="https://en.wikipedia.org/wiki/Illusion_of_explanatory_depth" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Illusion_of_explanatory_depth</a>  
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: frontiersin.org  
-   Link:<a href="https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2023.1096257/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2023.1096257/full</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>error conditions, wrong answers, or bad decisions? Explicit Self-explanation has been shown to improve learning and understanding. This...</p></details>
+   Link: <a href="https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2023.1096257/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2023.1096257/full</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>error conditions, wrong answers, or bad decisions? Explicit Self-explanation has been shown to improve learning and understanding. This...</p></details>
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: journalofcognition.org  
-   Link:<a href="https://journalofcognition.org/articles/10.5334/joc.393" target="_blank" rel="noopener noreferrer nofollow">https://journalofcognition.org/articles/10.5334/joc.393</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of CognitionSubjective Understanding is Reduced by Mechanistic...by JC Zemla · 2024 · Cited by 1 — In two experiments, we found...</p></details>
+   Link: <a href="https://journalofcognition.org/articles/10.5334/joc.393" target="_blank" rel="noopener noreferrer nofollow">https://journalofcognition.org/articles/10.5334/joc.393</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of CognitionSubjective Understanding is Reduced by Mechanistic...by JC Zemla · 2024 · Cited by 1 — In two experiments, we found...</p></details>
 
 ### Additional References
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/398269382_Learning_Science_and_the_Illusion_of_Understanding_Exploring_the_Effects_of_Integrating_Learning_Tasks_after_Explainer_Videos" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/398269382_Learning_Science_and_the_Illusion_of_Understanding_Exploring_the_Effects_of_Integrating_Learning_Tasks_after_Explainer_Videos</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Learning Science and the Illusion of UnderstandingThis paper reports two experimental studies examining the immediate and long-term...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/398269382_Learning_Science_and_the_Illusion_of_Understanding_Exploring_the_Effects_of_Integrating_Learning_Tasks_after_Explainer_Videos" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/398269382_Learning_Science_and_the_Illusion_of_Understanding_Exploring_the_Effects_of_Integrating_Learning_Tasks_after_Explainer_Videos</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Learning Science and the Illusion of UnderstandingThis paper reports two experimental studies examining the immediate and long-term...</p></details>
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: youtube.com  
-   Link:<a href="https://www.youtube.com/watch?v=eVajQPuRmk8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eVajQPuRmk8</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>If you want to get even more strategies and tips on becoming a more productive, successful student, subscribe to my channel right here...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=eVajQPuRmk8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eVajQPuRmk8</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>If you want to get even more strategies and tips on becoming a more productive, successful student, subscribe to my channel right here...</p></details>
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: arxiv.org  
    Title: Why Do Explanations Fail?  
-   Link:<a href="https://arxiv.org/html/2405.13474v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2405.13474v2</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>A Typology and Discussion on...16 Oct 2025 — The typology decomposes system-specific explanation failures into two categories: (1) misle...</p></details>
+   Link: <a href="https://arxiv.org/html/2405.13474v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2405.13474v2</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Typology and Discussion on...16 Oct 2025 — The typology decomposes system-specific explanation failures into two categories: (1) misle...</p></details>
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: youtube.com  
    Title: The Feynman Technique — Stop Memorizing, Start Understanding  
-   Link:<a href="https://www.youtube.com/watch?v=NYSe2Ln0Tf4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NYSe2Ln0Tf4</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Illusion of Explanatory Depth: You Don&#x27;t Understand It Like You Think - YouTube The Illusion of Explanatory Depth: You Don&#x27;t Understa...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=NYSe2Ln0Tf4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NYSe2Ln0Tf4</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Illusion of Explanatory Depth: You Don&#x27;t Understand It Like You Think - YouTube The Illusion of Explanatory Depth: You Don&#x27;t Understa...</p></details>
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: link.springer.com  
-   Link:<a href="https://link.springer.com/article/10.1007/s42113-026-00271-1" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s42113-026-00271-1</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>of Understanding in the Sciences - Springer Natureby R Shiffrin · 2026 · Cited by 15 — Most often scientists believe they understand more...</p></details>
+   Link: <a href="https://link.springer.com/article/10.1007/s42113-026-00271-1" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s42113-026-00271-1</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>of Understanding in the Sciences - Springer Natureby R Shiffrin · 2026 · Cited by 15 — Most often scientists believe they understand more...</p></details>
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: gallerix.org  
-   Link:<a href="https://gallerix.org/tribune/psy--illyuziya-ponimaniya/" target="_blank" rel="noopener noreferrer nofollow">https://gallerix.org/tribune/psy--illyuziya-ponimaniya/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Illusion of Understanding: Why We Think We Know...The brain mistakenly interprets a sense of familiarity with an object as an unders...</p></details>
+   Link: <a href="https://gallerix.org/tribune/psy--illyuziya-ponimaniya/" target="_blank" rel="noopener noreferrer nofollow">https://gallerix.org/tribune/psy--illyuziya-ponimaniya/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Illusion of Understanding: Why We Think We Know...The brain mistakenly interprets a sense of familiarity with an object as an unders...</p></details>
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: The Illusion of Explanatory Depth: You Don't Understand It Like You Think  
-   Link:<a href="https://www.youtube.com/watch?v=yDJuCWUC5P8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yDJuCWUC5P8</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>You Don&#x27;t Know Anything - The Illusion of Explanatory Depth...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=yDJuCWUC5P8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yDJuCWUC5P8</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>You Don&#x27;t Know Anything - The Illusion of Explanatory Depth...</p></details>
 
-12.<a id="endnote-12"></a>
+12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: Videos you might want to watch next  
-   Link:<a href="https://www.youtube.com/watch?v=Q1y8c_MZYvE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Q1y8c_MZYvE</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;The Most Powerful Way to Remember What You Study: [https://www.youtube.com/watch?v=eVajQPuRmk8...&quot;](https://www.youtube.com/watch?v=eVajQPuRmk8...&quot;)...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=Q1y8c_MZYvE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Q1y8c_MZYvE</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;The Most Powerful Way to Remember What You Study: [https://www.youtube.com/watch?v=eVajQPuRmk8...&quot;](https://www.youtube.com/watch?v=eVajQPuRmk8...&quot;)...</p></details>
 
-13.<a id="endnote-13"></a>
+13. <a id="endnote-13"></a>
    Source: mdpi.com  
-   Link:<a href="https://www.mdpi.com/2078-2489/17/3/299" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2078-2489/17/3/299</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency Illusion: A Review on Influence of ChatGPT in...by S Kumar · 2026 · Cited by 3 — Drawing on research from cognitive psychology a...</p></details>
+   Link: <a href="https://www.mdpi.com/2078-2489/17/3/299" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2078-2489/17/3/299</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency Illusion: A Review on Influence of ChatGPT in...by S Kumar · 2026 · Cited by 3 — Drawing on research from cognitive psychology a...</p></details>
 
-14.<a id="endnote-14"></a>
+14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: How to Learn Faster with the Feynman Technique  
-   Link:<a href="https://www.youtube.com/watch?v=_f-qkGJBPts" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_f-qkGJBPts</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Feynman Technique — Stop Memorizing, Start Understanding...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=_f-qkGJBPts" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_f-qkGJBPts</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Feynman Technique — Stop Memorizing, Start Understanding...</p></details>

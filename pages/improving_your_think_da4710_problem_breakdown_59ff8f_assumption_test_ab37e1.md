@@ -278,7 +278,7 @@ Every plan depends on assumptions: beliefs about customers, costs, timing, techn
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_problem_breakdown_59ff8f_assumption_test_ab37e1-Illustration-1-dark.svg" | relative_url }}" alt="Assumption Test illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_problem_breakdown_59ff8f_assumption_test_ab37e1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_problem_breakdown_59ff8f_assumption_test_ab37e1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Stress-testing assumptions is therefore not about eliminating [uncertainty]({{ 'uncertainty/' | relative_url }}). It is about identifying which beliefs the plan cannot survive without, challenging them before committing resources, and preparing alternatives if they fail. This approach fits naturally within analytical thinking because it shifts attention from defending a preferred solution to examining the conditions that make the solution work. Research on assumption-based planning and strategic assumption testing consistently shows that many avoidable failures stem not from poor implementation but from hidden assumptions that were never made explicit or questioned.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rand.org/pubs/commercial_books/CB399.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-snippet">RAND CorporationAssumption-Based Planning: A Tool for Reducing...Assumption-based planning (ABP) is a tool for identifying as many of th...</span></span></span>
+Stress-testing assumptions is therefore not about eliminating [uncertainty]({{ 'uncertainty/' | relative_url }}). It is about identifying which beliefs the plan cannot survive without, challenging them before committing resources, and preparing alternatives if they fail. This approach fits naturally within analytical thinking because it shifts attention from defending a preferred solution to examining the conditions that make the solution work. Research on assumption-based planning and strategic assumption testing consistently shows that many avoidable failures stem not from poor implementation but from hidden assumptions that were never made explicit or questioned. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rand.org/pubs/commercial_books/CB399.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-snippet">RAND CorporationAssumption-Based Planning: A Tool for Reducing...Assumption-based planning (ABP) is a tool for identifying as many of th...</span></span></span>
 
 ## How hidden assumptions carry an argument
 
@@ -299,7 +299,7 @@ A visible statement might be, "We should launch in September." Beneath it sit se
 
 The recommendation appears to stand on evidence, but in reality it rests on these supporting beliefs. If even one critical assumption fails, the evidence may no longer justify the conclusion.
 
-This is why hidden assumptions are dangerous. Teams often debate conclusions while never discussing the beliefs supporting them. Once an assumption becomes familiar, it starts to feel like a fact rather than an informed guess. RAND's work on Assumption-Based Planning argues that many organisational surprises occur because decision-makers forget they were making assumptions at all. The purpose of assumption analysis is therefore to make those invisible supports visible before reality tests them instead.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rand.org/pubs/commercial_books/CB399.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-snippet">RAND CorporationAssumption-Based Planning: A Tool for Reducing...Assumption-based planning (ABP) is a tool for identifying as many of th...</span></span></span>
+This is why hidden assumptions are dangerous. Teams often debate conclusions while never discussing the beliefs supporting them. Once an assumption becomes familiar, it starts to feel like a fact rather than an informed guess. RAND's work on Assumption-Based Planning argues that many organisational surprises occur because decision-makers forget they were making assumptions at all. The purpose of assumption analysis is therefore to make those invisible supports visible before reality tests them instead. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rand.org/pubs/commercial_books/CB399.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-snippet">RAND CorporationAssumption-Based Planning: A Tool for Reducing...Assumption-based planning (ABP) is a tool for identifying as many of th...</span></span></span>
 
 A useful distinction is between:
 
@@ -344,7 +344,7 @@ Write:
 
 Once written this way, the assumption becomes testable rather than invisible.
 
-Strategic Assumption Surfacing and Testing (SAST) formalises this idea by encouraging participants to identify assumptions, deliberately challenge them from opposing viewpoints, and then integrate the strongest evidence into a revised plan. Rather than treating disagreement as an obstacle, it treats structured opposition as a way to improve decision quality.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifm.eng.cam.ac.uk/research/dstools/strategic-assumptions-surfacing-and-testing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifm.eng.cam.ac.uk">[ifm.eng.cam.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifm.eng.cam.ac.uk</span><span class="citation-popover-snippet">Strategic Assumptions Surfacing and TestingSAST is a process which reveals the underlying assumptions of a policy or plan and helps creat...</span></span></span>
+Strategic Assumption Surfacing and Testing (SAST) formalises this idea by encouraging participants to identify assumptions, deliberately challenge them from opposing viewpoints, and then integrate the strongest evidence into a revised plan. Rather than treating disagreement as an obstacle, it treats structured opposition as a way to improve decision quality. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifm.eng.cam.ac.uk/research/dstools/strategic-assumptions-surfacing-and-testing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifm.eng.cam.ac.uk">[ifm.eng.cam.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifm.eng.cam.ac.uk</span><span class="citation-popover-snippet">Strategic Assumptions Surfacing and TestingSAST is a process which reveals the underlying assumptions of a policy or plan and helps creat...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_problem_breakdown_59ff8f_assumption_test_ab37e1-Illustration-2-dark.svg" | relative_url }}" alt="Assumption Test illustration 2" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_problem_breakdown_59ff8f_assumption_test_ab37e1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_problem_breakdown_59ff8f_assumption_test_ab37e1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -367,7 +367,7 @@ Project risk guidance often recommends converting assumptions into explicit risk
 
 > **If this assumption proves false, then what happens?**
 
-This simple "if–then" [framing]({{ 'framing/' | relative_url }}) naturally combines likelihood with consequences and reveals which assumptions deserve active management.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.projectmanagement.com/blog-post/14114/Analysing-Assumptions---Constraints" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: projectmanagement.com">[projectmanagement.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">projectmanagement.com</span><span class="citation-popover-snippet">Analysing Assumptions &amp; ConstraintsThe IF side tests how likely the assumption is to be unsafe, and the THEN side tests whether it matters...</span></span></span>
+This simple "if–then" [framing]({{ 'framing/' | relative_url }}) naturally combines likelihood with consequences and reveals which assumptions deserve active management. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.projectmanagement.com/blog-post/14114/Analysing-Assumptions---Constraints" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: projectmanagement.com">[projectmanagement.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">projectmanagement.com</span><span class="citation-popover-snippet">Analysing Assumptions &amp; ConstraintsThe IF side tests how likely the assumption is to be unsafe, and the THEN side tests whether it matters...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/K2XQqXzkNTU" title="Why Most Strategies Fail — And How Assumption-Based Planning Fixes It" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=K2XQqXzkNTU" target="_blank" rel="noopener noreferrer">Why Most Strategies Fail — And How Assumption-Based Planning Fixes It</a></p><p class="youtube-embed-meta">Channel: Focused Booklover</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=K2XQqXzkNTU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=K2XQqXzkNTU">Open on YouTube</a></p></div></div></div>
@@ -391,7 +391,7 @@ Useful approaches include:
 
 For example, instead of assuming customers value a new feature, release a limited prototype or conduct structured user testing before investing in a full launch. The objective is to learn while mistakes are still inexpensive.
 
-RAND's Assumption-Based Planning extends this process further by identifying vulnerable assumptions, defining observable "signposts" that indicate when an assumption is weakening, and preparing both shaping actions (to influence events) and hedging actions (to reduce damage if the assumption fails). This transforms assumption testing from a one-time exercise into an ongoing monitoring process.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rand.org/pubs/commercial_books/CB399.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-snippet">RAND CorporationAssumption-Based Planning: A Tool for Reducing...Assumption-based planning (ABP) is a tool for identifying as many of th...</span></span></span>
+RAND's Assumption-Based Planning extends this process further by identifying vulnerable assumptions, defining observable "signposts" that indicate when an assumption is weakening, and preparing both shaping actions (to influence events) and hedging actions (to reduce damage if the assumption fails). This transforms assumption testing from a one-time exercise into an ongoing monitoring process. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rand.org/pubs/commercial_books/CB399.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-snippet">RAND CorporationAssumption-Based Planning: A Tool for Reducing...Assumption-based planning (ABP) is a tool for identifying as many of th...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_problem_breakdown_59ff8f_assumption_test_ab37e1-Illustration-3-dark.svg" | relative_url }}" alt="Assumption Test illustration 3" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_problem_breakdown_59ff8f_assumption_test_ab37e1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_problem_breakdown_59ff8f_assumption_test_ab37e1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -416,7 +416,7 @@ Stress-testing itself can become ineffective if several predictable errors occur
 
 A practical review begins by listing every important assumption, then scoring each using two simple questions:
 
-1. **How likely is this assumption to fail during the planning period?**<span class="citation-chip-wrap"><a class="citation-chip" href="https://thelaterallens.substack.com/p/assumption-based-planning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelaterallens.substack.com">[thelaterallens.substack.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelaterallens.substack.com</span><span class="citation-popover-title">assumption based planning</span><span class="citation-popover-snippet">substack.comAssumption-Based Planning - The Lateral LensAssumption-Based Planning, or ABP, is an approach to strategic planning originall...</span></span></span>
+1. **How likely is this assumption to fail during the planning period?** <span class="citation-chip-wrap"><a class="citation-chip" href="https://thelaterallens.substack.com/p/assumption-based-planning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelaterallens.substack.com">[thelaterallens.substack.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelaterallens.substack.com</span><span class="citation-popover-title">assumption based planning</span><span class="citation-popover-snippet">substack.comAssumption-Based Planning - The Lateral LensAssumption-Based Planning, or ABP, is an approach to strategic planning originall...</span></span></span>
 2. **If it fails, how much of the plan becomes invalid?**
 
 Those with both high likelihood and high consequences become the first candidates for evidence gathering, contingency planning or redesign.
@@ -434,178 +434,178 @@ This transforms assumptions from forgotten background beliefs into managed decis
 The most resilient plans are rarely those built on the most optimistic assumptions. They are the ones whose creators knew exactly which assumptions mattered, challenged them before committing fully, and prepared realistic alternatives for the ones most likely to fail.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Which assumption could break the plan?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Which assumption could break the plan?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
-</h4>
-<p class="fr-book-author">By Rolf Dobelli</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Decisive+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decisive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQmv39K-P54C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Decisive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Decisive+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decisive">Decisive</a>
+        </h4>
+        <p class="fr-book-author">By Chip Heath, Dan Heath</p>
         
-<p class="fr-book-desc">Helps readers identify flawed assumptions and cognitive biases that can undermine plans.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Introduces practical techniques for stress-testing options and challenging key assumptions before acting.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Decisive+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decisive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQmv39K-P54C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Decisive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decisive">Decisive</a>
-</h4>
-<p class="fr-book-author">By Chip Heath, Dan Heath</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Super+Thinking+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Super Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fi6qvAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Super Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Super+Thinking+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Super Thinking">Super Thinking</a>
+        </h4>
+        <p class="fr-book-author">By Gabriel Weinberg, Lauren McCann</p>
         
-<p class="fr-book-desc">Introduces practical techniques for stress-testing options and challenging key assumptions before acting.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides frameworks for testing assumptions and evaluating decision quality.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Super+Thinking+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-</h4>
-<p class="fr-book-author">By Daniel Kahneman</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+        </h4>
+        <p class="fr-book-author">By Daniel Kahneman</p>
         
-<p class="fr-book-desc">Explains systematic judgment errors that often hide inside planning assumptions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains systematic judgment errors that often hide inside planning assumptions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Super+Thinking+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Super Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fi6qvAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Super Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Super+Thinking+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Super Thinking">Super Thinking</a>
-</h4>
-<p class="fr-book-author">By Gabriel Weinberg, Lauren McCann</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
+        </h4>
+        <p class="fr-book-author">By Rolf Dobelli</p>
         
-<p class="fr-book-desc">Provides frameworks for testing assumptions and evaluating decision quality.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Super+Thinking+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Helps readers identify flawed assumptions and cognitive biases that can undermine plans.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Thinking Clearly</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Decisive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Decisive</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Decisive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Decisive</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Super+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Super Thinking</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+planning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-could-break-the-plan-strategy-planning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy planning kit" data-ebay-reference="which-assumption-could-break-the-plan-strategy-planning-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Strategic Planning Kit For Dummies—VG condition—Free shipping! (I1-64)"><img src="https://i.ebayimg.com/images/g/ylYAAeSwp1tpPno9/s-l225.jpg" alt="Listing image for Strategic Planning Kit For Dummies—VG condition—Free shipping! (I1-64)" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+planning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-could-break-the-plan-strategy-planning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy planning kit" data-ebay-reference="which-assumption-could-break-the-plan-strategy-planning-kit" target="_blank" rel="sponsored noopener noreferrer">Strategic Planning Kit For Dummies—VG condition—Free shipping! (I1-64)</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+planning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-could-break-the-plan-strategy-planning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy planning kit" data-ebay-reference="which-assumption-could-break-the-plan-strategy-planning-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for strategy planning kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: strategy planning kit</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+planning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-could-break-the-plan-strategy-planning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy planning kit" data-ebay-reference="which-assumption-could-break-the-plan-strategy-planning-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+planning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-could-break-the-plan-strategy-planning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy planning kit" data-ebay-reference="which-assumption-could-break-the-plan-strategy-planning-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Strategic Planning Kit For Dummies—VG condition—Free shipping! (I1-64)"><img src="https://i.ebayimg.com/images/g/ylYAAeSwp1tpPno9/s-l225.jpg" alt="Listing image for Strategic Planning Kit For Dummies—VG condition—Free shipping! (I1-64)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+planning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-could-break-the-plan-strategy-planning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy planning kit" data-ebay-reference="which-assumption-could-break-the-plan-strategy-planning-kit" target="_blank" rel="sponsored noopener noreferrer">Strategic Planning Kit For Dummies—VG condition—Free shipping! (I1-64)</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+planning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-could-break-the-plan-strategy-planning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy planning kit" data-ebay-reference="which-assumption-could-break-the-plan-strategy-planning-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for strategy planning kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: strategy planning kit</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+planning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-could-break-the-plan-strategy-planning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy planning kit" data-ebay-reference="which-assumption-could-break-the-plan-strategy-planning-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+planning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-could-break-the-plan-strategy-planning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy planning kit" data-ebay-reference="which-assumption-could-break-the-plan-strategy-planning-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tools for Strategy: A Starter Kit for..., Hakala, Henri"><img src="https://i.ebayimg.com/images/g/j94AAeSwO2dpPxe5/s-l225.jpg" alt="Listing image for Tools for Strategy: A Starter Kit for..., Hakala, Henri" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+planning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-could-break-the-plan-strategy-planning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy planning kit" data-ebay-reference="which-assumption-could-break-the-plan-strategy-planning-kit" target="_blank" rel="sponsored noopener noreferrer">Tools for Strategy: A Starter Kit for..., Hakala, Henri</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+planning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-could-break-the-plan-strategy-planning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy planning kit" data-ebay-reference="which-assumption-could-break-the-plan-strategy-planning-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for strategy planning kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: strategy planning kit</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+planning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-could-break-the-plan-strategy-planning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy planning kit" data-ebay-reference="which-assumption-could-break-the-plan-strategy-planning-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+planning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-could-break-the-plan-strategy-planning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy planning kit" data-ebay-reference="which-assumption-could-break-the-plan-strategy-planning-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tools for Strategy: A Starter Kit for..., Hakala, Henri"><img src="https://i.ebayimg.com/images/g/j94AAeSwO2dpPxe5/s-l225.jpg" alt="Listing image for Tools for Strategy: A Starter Kit for..., Hakala, Henri" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+planning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-could-break-the-plan-strategy-planning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy planning kit" data-ebay-reference="which-assumption-could-break-the-plan-strategy-planning-kit" target="_blank" rel="sponsored noopener noreferrer">Tools for Strategy: A Starter Kit for..., Hakala, Henri</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+planning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-could-break-the-plan-strategy-planning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy planning kit" data-ebay-reference="which-assumption-could-break-the-plan-strategy-planning-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for strategy planning kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: strategy planning kit</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+planning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-could-break-the-plan-strategy-planning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy planning kit" data-ebay-reference="which-assumption-could-break-the-plan-strategy-planning-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+planning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-could-break-the-plan-strategy-planning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy planning kit" data-ebay-reference="which-assumption-could-break-the-plan-strategy-planning-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Business Plan Template Bundle SBA Loan Ready Financial Projections Pitch Deck"><img src="https://i.ebayimg.com/images/g/4CUAAeSwIiFqGKlN/s-l225.jpg" alt="Listing image for Business Plan Template Bundle SBA Loan Ready Financial Projections Pitch Deck" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+planning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-could-break-the-plan-strategy-planning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy planning kit" data-ebay-reference="which-assumption-could-break-the-plan-strategy-planning-kit" target="_blank" rel="sponsored noopener noreferrer">Business Plan Template Bundle SBA Loan Ready Financial Projections Pitch Deck</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+planning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-could-break-the-plan-strategy-planning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy planning kit" data-ebay-reference="which-assumption-could-break-the-plan-strategy-planning-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for strategy planning kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: strategy planning kit</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+planning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-could-break-the-plan-strategy-planning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy planning kit" data-ebay-reference="which-assumption-could-break-the-plan-strategy-planning-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+planning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-could-break-the-plan-strategy-planning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy planning kit" data-ebay-reference="which-assumption-could-break-the-plan-strategy-planning-kit" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+planning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-could-break-the-plan-strategy-planning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy planning kit" data-ebay-reference="which-assumption-could-break-the-plan-strategy-planning-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Business Plan Template Bundle SBA Loan Ready Financial Projections Pitch Deck"><img src="https://i.ebayimg.com/images/g/4CUAAeSwIiFqGKlN/s-l225.jpg" alt="Listing image for Business Plan Template Bundle SBA Loan Ready Financial Projections Pitch Deck" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+planning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-could-break-the-plan-strategy-planning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy planning kit" data-ebay-reference="which-assumption-could-break-the-plan-strategy-planning-kit" target="_blank" rel="sponsored noopener noreferrer">Business Plan Template Bundle SBA Loan Ready Financial Projections Pitch Deck</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+planning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-could-break-the-plan-strategy-planning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy planning kit" data-ebay-reference="which-assumption-could-break-the-plan-strategy-planning-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for strategy planning kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: strategy planning kit</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+planning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-could-break-the-plan-strategy-planning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy planning kit" data-ebay-reference="which-assumption-could-break-the-plan-strategy-planning-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=strategy+planning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-could-break-the-plan-strategy-planning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="strategy planning kit" data-ebay-reference="which-assumption-could-break-the-plan-strategy-planning-kit" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -621,7 +621,7 @@ The most resilient plans are rarely those built on the most optimistic assumptio
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -641,7 +641,7 @@ The most resilient plans are rarely those built on the most optimistic assumptio
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -673,7 +673,7 @@ The most resilient plans are rarely those built on the most optimistic assumptio
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -725,7 +725,7 @@ The most resilient plans are rarely those built on the most optimistic assumptio
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -770,7 +770,7 @@ The most resilient plans are rarely those built on the most optimistic assumptio
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -810,86 +810,86 @@ The most resilient plans are rarely those built on the most optimistic assumptio
 </section>
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: rand.org  
-   Link:<a href="https://www.rand.org/pubs/commercial_books/CB399.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/pubs/commercial_books/CB399.html</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>RAND CorporationAssumption-Based Planning: A Tool for Reducing...Assumption-based planning (ABP) is a tool for identifying as many of th...</p></details>
+   Link: <a href="https://www.rand.org/pubs/commercial_books/CB399.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/pubs/commercial_books/CB399.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>RAND CorporationAssumption-Based Planning: A Tool for Reducing...Assumption-based planning (ABP) is a tool for identifying as many of th...</p></details>
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: ifm.eng.cam.ac.uk  
-   Link:<a href="https://www.ifm.eng.cam.ac.uk/research/dstools/strategic-assumptions-surfacing-and-testing/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifm.eng.cam.ac.uk/research/dstools/strategic-assumptions-surfacing-and-testing/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Strategic Assumptions Surfacing and TestingSAST is a process which reveals the underlying assumptions of a policy or plan and helps creat...</p></details>
+   Link: <a href="https://www.ifm.eng.cam.ac.uk/research/dstools/strategic-assumptions-surfacing-and-testing/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifm.eng.cam.ac.uk/research/dstools/strategic-assumptions-surfacing-and-testing/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Strategic Assumptions Surfacing and TestingSAST is a process which reveals the underlying assumptions of a policy or plan and helps creat...</p></details>
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: projectmanagement.com  
-   Link:<a href="https://www.projectmanagement.com/blog-post/14114/Analysing-Assumptions---Constraints" target="_blank" rel="noopener noreferrer nofollow">https://www.projectmanagement.com/blog-post/14114/Analysing-Assumptions---Constraints</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Analysing Assumptions &amp; ConstraintsThe IF side tests how likely the assumption is to be unsafe, and the THEN side tests whether it matters...</p></details>
+   Link: <a href="https://www.projectmanagement.com/blog-post/14114/Analysing-Assumptions---Constraints" target="_blank" rel="noopener noreferrer nofollow">https://www.projectmanagement.com/blog-post/14114/Analysing-Assumptions---Constraints</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysing Assumptions &amp; ConstraintsThe IF side tests how likely the assumption is to be unsafe, and the THEN side tests whether it matters...</p></details>
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Strategic assumption surfacing and testing  
-   Link:<a href="https://en.wikipedia.org/wiki/Strategic_assumption_surfacing_and_testing" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Strategic_assumption_surfacing_and_testing</a>  
+   Link: <a href="https://en.wikipedia.org/wiki/Strategic_assumption_surfacing_and_testing" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Strategic_assumption_surfacing_and_testing</a>  
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: thelaterallens.substack.com  
    Title: assumption based planning  
-   Link:<a href="https://thelaterallens.substack.com/p/assumption-based-planning" target="_blank" rel="noopener noreferrer nofollow">https://thelaterallens.substack.com/p/assumption-based-planning</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>substack.comAssumption-Based Planning - The Lateral LensAssumption-Based Planning, or ABP, is an approach to strategic planning originall...</p></details>
+   Link: <a href="https://thelaterallens.substack.com/p/assumption-based-planning" target="_blank" rel="noopener noreferrer nofollow">https://thelaterallens.substack.com/p/assumption-based-planning</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>substack.comAssumption-Based Planning - The Lateral LensAssumption-Based Planning, or ABP, is an approach to strategic planning originall...</p></details>
 
 ### Additional References
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: catdir.loc.gov  
-   Link:<a href="https://catdir.loc.gov/catdir/samples/cam033/2002073460.pdf" target="_blank" rel="noopener noreferrer nofollow">https://catdir.loc.gov/catdir/samples/cam033/2002073460.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Assumption-Based PlanningABP generates scenarios from broken load-bearing, vulnerable assumptions as a means of identifying hedging actio...</p></details>
+   Link: <a href="https://catdir.loc.gov/catdir/samples/cam033/2002073460.pdf" target="_blank" rel="noopener noreferrer nofollow">https://catdir.loc.gov/catdir/samples/cam033/2002073460.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Assumption-Based PlanningABP generates scenarios from broken load-bearing, vulnerable assumptions as a means of identifying hedging actio...</p></details>
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: betterevaluation.org  
-   Link:<a href="https://www.betterevaluation.org/sites/default/files/abp.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.betterevaluation.org/sites/default/files/abp.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Assumption-Based planning (ABP)Assumption-Based planning (ABP) is a planning method that helps an organisation to prepare to change its o...</p></details>
+   Link: <a href="https://www.betterevaluation.org/sites/default/files/abp.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.betterevaluation.org/sites/default/files/abp.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Assumption-Based planning (ABP)Assumption-Based planning (ABP) is a planning method that helps an organisation to prepare to change its o...</p></details>
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: linkedin.com  
-   Link:<a href="https://www.linkedin.com/pulse/reality-check-can-assumptions-your-strategic-plan-zcqxc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/reality-check-can-assumptions-your-strategic-plan-zcqxc</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Can the assumptions in your strategic plan survive a stress...The following framework is the one we use at FrontierView to stress-test t...</p></details>
+   Link: <a href="https://www.linkedin.com/pulse/reality-check-can-assumptions-your-strategic-plan-zcqxc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/reality-check-can-assumptions-your-strategic-plan-zcqxc</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Can the assumptions in your strategic plan survive a stress...The following framework is the one we use at FrontierView to stress-test t...</p></details>
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: pmi.org  
-   Link:<a href="https://www.pmi.org/learning/library/assumptions-based-planning-analyze-techniques-6582" target="_blank" rel="noopener noreferrer nofollow">https://www.pmi.org/learning/library/assumptions-based-planning-analyze-techniques-6582</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Management InstituteDon&#x27;t make an ass out of you and me--using assumptions...This paper will examine the various models of findi...</p></details>
+   Link: <a href="https://www.pmi.org/learning/library/assumptions-based-planning-analyze-techniques-6582" target="_blank" rel="noopener noreferrer nofollow">https://www.pmi.org/learning/library/assumptions-based-planning-analyze-techniques-6582</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Management InstituteDon&#x27;t make an ass out of you and me--using assumptions...This paper will examine the various models of findi...</p></details>
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: polgovpro.blog  
    Title: working with assumptions risky but necessary  
-   Link:<a href="https://polgovpro.blog/2023/05/03/working-with-assumptions-risky-but-necessary/" target="_blank" rel="noopener noreferrer nofollow">https://polgovpro.blog/2023/05/03/working-with-assumptions-risky-but-necessary/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Working with assumptions – risky but necessary3 May 2023 — Testing or validating assumptions is important to the extent that&#x27;s possible...</p></details>
+   Link: <a href="https://polgovpro.blog/2023/05/03/working-with-assumptions-risky-but-necessary/" target="_blank" rel="noopener noreferrer nofollow">https://polgovpro.blog/2023/05/03/working-with-assumptions-risky-but-necessary/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Working with assumptions – risky but necessary3 May 2023 — Testing or validating assumptions is important to the extent that&#x27;s possible...</p></details>
    Published: May 2023  
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: Why Most Strategies Fail — And How Assumption-Based Planning Fixes It  
-   Link:<a href="https://www.youtube.com/watch?v=K2XQqXzkNTU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=K2XQqXzkNTU</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Lead Growth When Strategy Can&#x27;t Keep up with Change...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=K2XQqXzkNTU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=K2XQqXzkNTU</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Lead Growth When Strategy Can&#x27;t Keep up with Change...</p></details>
 
-12.<a id="endnote-12"></a>
+12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: FPA Insights Scenario Analysis and Planning  
-   Link:<a href="https://www.youtube.com/watch?v=1oFoNG7S8-Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1oFoNG7S8-Y</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Using Data Modelling to Test Business Assumptions...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=1oFoNG7S8-Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1oFoNG7S8-Y</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Using Data Modelling to Test Business Assumptions...</p></details>
 
-13.<a id="endnote-13"></a>
+13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: Navigating Uncertainty with David Bland  
-   Link:<a href="https://www.youtube.com/watch?v=jogqhWte88k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jogqhWte88k</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>FPA Insights Scenario Analysis and Planning...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=jogqhWte88k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jogqhWte88k</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>FPA Insights Scenario Analysis and Planning...</p></details>
 
-14.<a id="endnote-14"></a>
+14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: How to Lead Growth When Strategy Can't Keep up with Change  
-   Link:<a href="https://www.youtube.com/watch?v=QbR9uuJeaMw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QbR9uuJeaMw</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Navigating Uncertainty with David Bland...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=QbR9uuJeaMw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QbR9uuJeaMw</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Navigating Uncertainty with David Bland...</p></details>
 
-15.<a id="endnote-15"></a>
+15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: Using Data Modelling to Test Business Assumptions  
-   Link:<a href="https://www.youtube.com/watch?v=iUFxPMA8SdE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iUFxPMA8SdE</a>  
+   Link: <a href="https://www.youtube.com/watch?v=iUFxPMA8SdE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iUFxPMA8SdE</a>  

@@ -284,7 +284,7 @@ Putting a numerical probability on a prediction changes confidence from a feelin
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_feedback_calibration_8a35f0_probabilistic_foreca_98ad52-Illustration-1-dark.svg" | relative_url }}" alt="Forecast Scores illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_feedback_calibration_8a35f0_probabilistic_foreca_98ad52-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_feedback_calibration_8a35f0_probabilistic_foreca_98ad52-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This shift from vague language to explicit [probabilities]({{ 'probabilities/' | relative_url }}) is one of the most effective feedback mechanisms for improving analytical thinking. It allows confidence itself—not just whether a prediction happened to be right or wrong—to become measurable. Forecasting research, decision science and weather forecasting have all shown that repeated probabilistic [predictions]({{ 'predictions/' | relative_url }}) make it possible to distinguish genuine judgement from overconfidence, underconfidence and luck.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://goodjudgment.com/wp-content/uploads/2022/10/Superforecaster-Accuracy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goodjudgment.com">[Good Judgment+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goodjudgment.com</span><span class="citation-popover-title">Good Judgment Superforecaster-Accuracy.pdf</span><span class="citation-popover-snippet">Good Judgment measures accuracy using the Brier score, a score that shows how far a forecast fell from the.Read more...</span></span></span>
+This shift from vague language to explicit [probabilities]({{ 'probabilities/' | relative_url }}) is one of the most effective feedback mechanisms for improving analytical thinking. It allows confidence itself—not just whether a prediction happened to be right or wrong—to become measurable. Forecasting research, decision science and weather forecasting have all shown that repeated probabilistic [predictions]({{ 'predictions/' | relative_url }}) make it possible to distinguish genuine judgement from overconfidence, underconfidence and luck. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://goodjudgment.com/wp-content/uploads/2022/10/Superforecaster-Accuracy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goodjudgment.com">[Good Judgment+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goodjudgment.com</span><span class="citation-popover-title">Good Judgment Superforecaster-Accuracy.pdf</span><span class="citation-popover-snippet">Good Judgment measures accuracy using the Brier score, a score that shows how far a forecast fell from the.Read more...</span></span></span>
 
 ## Why vague forecasts are hard to learn from
 
@@ -292,7 +292,7 @@ Natural language is surprisingly imprecise. Different people attach different me
 
 Imagine two analysts who both describe a policy outcome as "likely". One secretly means about 60%; the other means 90%. If the event happens, both appear equally correct. If it fails, both appear equally mistaken. There is no way to discover whether either person's confidence matched reality.
 
-Probabilities solve this problem because they preserve information that would otherwise disappear. Instead of recording only whether a prediction succeeded, they record how strongly the forecaster expected each outcome. This richer record supports much better feedback over dozens or hundreds of predictions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Brier_score" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Brier score</span><span class="citation-popover-snippet">Brier score</span></span></span>
+Probabilities solve this problem because they preserve information that would otherwise disappear. Instead of recording only whether a prediction succeeded, they record how strongly the forecaster expected each outcome. This richer record supports much better feedback over dozens or hundreds of predictions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Brier_score" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Brier score</span><span class="citation-popover-snippet">Brier score</span></span></span>
 
 ## How probability estimates reveal calibration over time
 
@@ -309,11 +309,11 @@ For example:
 
 </div>
 
-No individual forecast can verify calibration because chance still plays a role. A 90% prediction can fail, just as a 10% prediction can succeed. Calibration only becomes visible when forecasts are grouped into confidence bands and compared with what actually happened.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://goodjudgment.com/wp-content/uploads/2022/10/Superforecaster-Accuracy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goodjudgment.com">[Good Judgment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goodjudgment.com</span><span class="citation-popover-title">Good Judgment Superforecaster-Accuracy.pdf</span><span class="citation-popover-snippet">Good Judgment measures accuracy using the Brier score, a score that shows how far a forecast fell from the.Read more...</span></span></span>
+No individual forecast can verify calibration because chance still plays a role. A 90% prediction can fail, just as a 10% prediction can succeed. Calibration only becomes visible when forecasts are grouped into confidence bands and compared with what actually happened. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://goodjudgment.com/wp-content/uploads/2022/10/Superforecaster-Accuracy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goodjudgment.com">[Good Judgment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goodjudgment.com</span><span class="citation-popover-title">Good Judgment Superforecaster-Accuracy.pdf</span><span class="citation-popover-snippet">Good Judgment measures accuracy using the Brier score, a score that shows how far a forecast fell from the.Read more...</span></span></span>
 
 A well-calibrated forecaster therefore does not avoid [uncertainty]({{ 'uncertainty/' | relative_url }}). Instead, they express uncertainty honestly and consistently enough that their long-run confidence matches reality.
 
-This is a different quality from simply being accurate. Someone could always predict "50%" and avoid looking overconfident, yet provide little useful discrimination between likely and unlikely events. Good forecasting requires both calibration and the ability to distinguish stronger from weaker evidence. Proper scoring methods reward both qualities together.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2209.04892" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv&quot;Calibeating&quot;: Beating Forecasters at Their Own Game</span><span class="citation-popover-snippet">September 11, 2022...</span><span class="citation-popover-meta">Published: September 11, 2022</span></span></span>
+This is a different quality from simply being accurate. Someone could always predict "50%" and avoid looking overconfident, yet provide little useful discrimination between likely and unlikely events. Good forecasting requires both calibration and the ability to distinguish stronger from weaker evidence. Proper scoring methods reward both qualities together. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2209.04892" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv&quot;Calibeating&quot;: Beating Forecasters at Their Own Game</span><span class="citation-popover-snippet">September 11, 2022...</span><span class="citation-popover-meta">Published: September 11, 2022</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jXnaN0k6oYo" title="How Accurate are Weather Forecasts, Anyway? | SDG Decision Education Center" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jXnaN0k6oYo" target="_blank" rel="noopener noreferrer">How Accurate are Weather Forecasts, Anyway? | SDG Decision Education Center</a></p><p class="youtube-embed-meta">Channel: Strategic Decisions Group</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jXnaN0k6oYo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jXnaN0k6oYo">Open on YouTube</a></p></div></div></div>
@@ -334,9 +334,9 @@ Consider two forecasters making the same binary prediction:
 
 If the event occurs, both are technically correct. Yet Forecaster B expressed vastly greater confidence.
 
-Proper scoring rules recognise this difference. One of the most widely used is the **Brier score**, introduced by Glenn Brier in 1950. It measures the squared difference between the predicted probability and the observed outcome. Lower scores indicate better probabilistic forecasting because they reward assigning high probability only when justified and penalise unwarranted certainty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Brier_score" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Brier score</span><span class="citation-popover-snippet">Brier score</span></span></span>
+Proper scoring rules recognise this difference. One of the most widely used is the **Brier score**, introduced by Glenn Brier in 1950. It measures the squared difference between the predicted probability and the observed outcome. Lower scores indicate better probabilistic forecasting because they reward assigning high probability only when justified and penalise unwarranted certainty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Brier_score" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Brier score</span><span class="citation-popover-snippet">Brier score</span></span></span>
 
-The Brier score is known as a *proper scoring rule*, meaning that the mathematically optimal strategy is to report your genuine probability estimate rather than exaggerating or hedging. This property makes it especially useful for improving judgement because it discourages gaming the feedback system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Brier_score" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Brier score</span><span class="citation-popover-snippet">Brier score</span></span></span>
+The Brier score is known as a *proper scoring rule*, meaning that the mathematically optimal strategy is to report your genuine probability estimate rather than exaggerating or hedging. This property makes it especially useful for improving judgement because it discourages gaming the feedback system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Brier_score" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Brier score</span><span class="citation-popover-snippet">Brier score</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_feedback_calibration_8a35f0_probabilistic_foreca_98ad52-Illustration-2-dark.svg" | relative_url }}" alt="Forecast Scores illustration 2" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_feedback_calibration_8a35f0_probabilistic_foreca_98ad52-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_feedback_calibration_8a35f0_probabilistic_foreca_98ad52-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -354,7 +354,7 @@ Several findings stand out:
 * Training people to think probabilistically produced measurable improvements in forecasting accuracy.
 * The best performers continually updated probabilities as new evidence appeared rather than defending their initial views.
 * Performance remained relatively stable across many questions, suggesting that good probabilistic judgement is a learnable skill rather than repeated luck.
-* Teams of skilled forecasters, combined using statistical aggregation, often outperformed even the strongest individuals.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/277087515_Identifying_and_Cultivating_Superforecasters_as_a_Method_of_Improving_Probabilistic_Predictions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[Wikipedia+3ResearchGate+3Good Judgment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Identifying and Cultivating Superforecasters as a...25 May 2015 — Across a wide range of tasks, research has shown tha...</span><span class="citation-popover-meta">Published: May 2015</span></span></span>
+* Teams of skilled forecasters, combined using statistical aggregation, often outperformed even the strongest individuals. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/277087515_Identifying_and_Cultivating_Superforecasters_as_a_Method_of_Improving_Probabilistic_Predictions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[Wikipedia+3ResearchGate+3Good Judgment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Identifying and Cultivating Superforecasters as a...25 May 2015 — Across a wide range of tasks, research has shown tha...</span><span class="citation-popover-meta">Published: May 2015</span></span></span>
 
 </div>
 
@@ -397,7 +397,7 @@ People new to probabilistic forecasting often make predictable errors.
 
 **Judging calibration from a handful of forecasts.** Random variation dominates small samples. Reliable feedback requires many independent predictions.
 
-**Confusing calibration with usefulness.** A forecaster who predicts 50% for everything may appear reasonably calibrated over time but offers little practical value because they fail to separate likely from unlikely outcomes. Proper scoring rules therefore reward both accurate confidence and informative discrimination.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2209.04892" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv&quot;Calibeating&quot;: Beating Forecasters at Their Own Game</span><span class="citation-popover-snippet">September 11, 2022...</span><span class="citation-popover-meta">Published: September 11, 2022</span></span></span>
+**Confusing calibration with usefulness.** A forecaster who predicts 50% for everything may appear reasonably calibrated over time but offers little practical value because they fail to separate likely from unlikely outcomes. Proper scoring rules therefore reward both accurate confidence and informative discrimination. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2209.04892" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv&quot;Calibeating&quot;: Beating Forecasters at Their Own Game</span><span class="citation-popover-snippet">September 11, 2022...</span><span class="citation-popover-meta">Published: September 11, 2022</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sL39bKyHcLI" title="371 :: Improve Your Decision-Making with Your Own Brier Score" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sL39bKyHcLI" target="_blank" rel="noopener noreferrer">371 :: Improve Your Decision-Making with Your Own Brier Score</a></p><p class="youtube-embed-meta">Channel: Bradley Hartmann &amp; Co.</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sL39bKyHcLI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sL39bKyHcLI">Open on YouTube</a></p></div></div></div>
@@ -411,178 +411,178 @@ That discipline creates a feedback loop unavailable with vague language. After e
 For anyone trying to improve analytical skill, that is the central advantage of probabilistic forecasting. Confidence stops being an impression and becomes evidence that can be scored, reviewed and gradually calibrated.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Saying 70 Percent Changes Feedback. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Saying 70 Percent Changes Feedback. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ckOQEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
-</h4>
-<p class="fr-book-author">By Nate Silver</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking+in+Bets+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking in Bets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hOZFDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Thinking in Bets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Thinking+in+Bets+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking in Bets">Thinking in Bets</a>
+        </h4>
+        <p class="fr-book-author">By Annie Duke</p>
         
-<p class="fr-book-desc">Directly explains probabilistic forecasting, calibration, feedback, and improving prediction accuracy.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Encourages probabilistic thinking and separating confidence from outcomes.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Thinking+in+Bets+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking+in+Bets+by+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking in Bets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VcouDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking in Bets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Thinking+in+Bets+by+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking in Bets">Thinking in Bets</a>
-</h4>
-<p class="fr-book-author">By Annie Duke</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+        </h4>
+        <p class="fr-book-author">By Nate Silver</p>
         
-<p class="fr-book-desc">Encourages probabilistic thinking and separating confidence from outcomes.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Thinking+in+Bets+by+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explores probability, forecasting, uncertainty, and evaluating predictive judgments.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Measure Anything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CBAh4eM-g3AC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Measure Anything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Measure Anything">How to Measure Anything</a>
-</h4>
-<p class="fr-book-author">By Douglas W. Hubbard</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Measure+Anything+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Measure Anything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CBAh4eM-g3AC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Measure Anything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=How+to+Measure+Anything+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Measure Anything">How to Measure Anything</a>
+        </h4>
+        <p class="fr-book-author">By Douglas W. Hubbard</p>
         
-<p class="fr-book-desc">Shows how uncertainty can be quantified and measured using probabilistic methods.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Shows how uncertainty can be quantified and measured using probabilistic methods.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=How+to+Measure+Anything+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Black+Swan+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Black Swan on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=R79HVyegzoQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Black Swan" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Black+Swan+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Black Swan">The Black Swan</a>
-</h4>
-<p class="fr-book-author">By Nassim Nicholas Taleb</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Superforecasting%3A+The+Art+and+Science+of+Prediction+Philip+E.+Tetlock+and+Dan+Gardner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting: The Art and Science of Prediction on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Superforecasting%3A+The+Art+and+Science+of+Prediction+Philip+E.+Tetlock+and+Dan+Gardner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting: The Art and Science of Prediction">Superforecasting: The Art and Science of Prediction</a>
+        </h4>
+        <p class="fr-book-author">By Philip E. Tetlock and Dan Gardner</p>
         
-<p class="fr-book-desc">Provides important context on uncertainty, overconfidence, and limits of prediction.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Black+Swan+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly explains probabilistic forecasting, calibration, feedback, and improving prediction accuracy.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Superforecasting%3A+The+Art+and+Science+of+Prediction+Philip+E.+Tetlock+and+Dan+Gardner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking+in+Bets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking in Bets</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Measure+Anything&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Measure Anything</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking+in+Bets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking in Bets</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Measure+Anything&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Measure Anything</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=changes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forecast-scores-why-saying-70-percent-changes-feedback-improving-your-think-changes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="changes memorabilia -book -books -dvd" data-ebay-reference="forecast-scores-why-saying-70-percent-changes-feedback-improving-your-think-changes-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Badge David Bowie Changes Music Official Black Band Memorabilia"><img src="{{ '/assets/images/marketplace-covers/81408b074f084e19f7b7.jpg' | relative_url }}" alt="Listing image for Badge David Bowie Changes Music Official Black Band Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=changes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forecast-scores-why-saying-70-percent-changes-feedback-improving-your-think-changes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="changes memorabilia -book -books -dvd" data-ebay-reference="forecast-scores-why-saying-70-percent-changes-feedback-improving-your-think-changes-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Badge David Bowie Changes Music Official Black Band Memorabilia</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=changes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forecast-scores-why-saying-70-percent-changes-feedback-improving-your-think-changes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="changes memorabilia -book -books -dvd" data-ebay-reference="forecast-scores-why-saying-70-percent-changes-feedback-improving-your-think-changes-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for changes memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: changes memorabilia</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=changes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forecast-scores-why-saying-70-percent-changes-feedback-improving-your-think-changes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="changes memorabilia -book -books -dvd" data-ebay-reference="forecast-scores-why-saying-70-percent-changes-feedback-improving-your-think-changes-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=changes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forecast-scores-why-saying-70-percent-changes-feedback-improving-your-think-changes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="changes memorabilia -book -books -dvd" data-ebay-reference="forecast-scores-why-saying-70-percent-changes-feedback-improving-your-think-changes-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Badge David Bowie Changes Music Official Black Band Memorabilia"><img src="{{ '/assets/images/marketplace-covers/81408b074f084e19f7b7.jpg' | relative_url }}" alt="Listing image for Badge David Bowie Changes Music Official Black Band Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=changes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forecast-scores-why-saying-70-percent-changes-feedback-improving-your-think-changes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="changes memorabilia -book -books -dvd" data-ebay-reference="forecast-scores-why-saying-70-percent-changes-feedback-improving-your-think-changes-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Badge David Bowie Changes Music Official Black Band Memorabilia</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=changes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forecast-scores-why-saying-70-percent-changes-feedback-improving-your-think-changes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="changes memorabilia -book -books -dvd" data-ebay-reference="forecast-scores-why-saying-70-percent-changes-feedback-improving-your-think-changes-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for changes memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: changes memorabilia</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=changes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forecast-scores-why-saying-70-percent-changes-feedback-improving-your-think-changes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="changes memorabilia -book -books -dvd" data-ebay-reference="forecast-scores-why-saying-70-percent-changes-feedback-improving-your-think-changes-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=changes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forecast-scores-why-saying-70-percent-changes-feedback-improving-your-think-changes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="changes memorabilia -book -books -dvd" data-ebay-reference="forecast-scores-why-saying-70-percent-changes-feedback-improving-your-think-changes-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Take That Jacket (1994) - Everything Changes Tour. Collectable. Memorabilia."><img src="{{ '/assets/images/marketplace-covers/187335f0c037eadbf8b0.jpg' | relative_url }}" alt="Listing image for Take That Jacket (1994) - Everything Changes Tour. Collectable. Memorabilia." loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=changes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forecast-scores-why-saying-70-percent-changes-feedback-improving-your-think-changes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="changes memorabilia -book -books -dvd" data-ebay-reference="forecast-scores-why-saying-70-percent-changes-feedback-improving-your-think-changes-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Take That Jacket (1994) - Everything Changes Tour. Collectable. Memorabilia.</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=changes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forecast-scores-why-saying-70-percent-changes-feedback-improving-your-think-changes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="changes memorabilia -book -books -dvd" data-ebay-reference="forecast-scores-why-saying-70-percent-changes-feedback-improving-your-think-changes-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for changes memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: changes memorabilia</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=changes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forecast-scores-why-saying-70-percent-changes-feedback-improving-your-think-changes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="changes memorabilia -book -books -dvd" data-ebay-reference="forecast-scores-why-saying-70-percent-changes-feedback-improving-your-think-changes-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=changes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forecast-scores-why-saying-70-percent-changes-feedback-improving-your-think-changes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="changes memorabilia -book -books -dvd" data-ebay-reference="forecast-scores-why-saying-70-percent-changes-feedback-improving-your-think-changes-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Take That Jacket (1994) - Everything Changes Tour. Collectable. Memorabilia."><img src="{{ '/assets/images/marketplace-covers/187335f0c037eadbf8b0.jpg' | relative_url }}" alt="Listing image for Take That Jacket (1994) - Everything Changes Tour. Collectable. Memorabilia." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=changes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forecast-scores-why-saying-70-percent-changes-feedback-improving-your-think-changes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="changes memorabilia -book -books -dvd" data-ebay-reference="forecast-scores-why-saying-70-percent-changes-feedback-improving-your-think-changes-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Take That Jacket (1994) - Everything Changes Tour. Collectable. Memorabilia.</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=changes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forecast-scores-why-saying-70-percent-changes-feedback-improving-your-think-changes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="changes memorabilia -book -books -dvd" data-ebay-reference="forecast-scores-why-saying-70-percent-changes-feedback-improving-your-think-changes-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for changes memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: changes memorabilia</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=changes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forecast-scores-why-saying-70-percent-changes-feedback-improving-your-think-changes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="changes memorabilia -book -books -dvd" data-ebay-reference="forecast-scores-why-saying-70-percent-changes-feedback-improving-your-think-changes-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=changes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forecast-scores-why-saying-70-percent-changes-feedback-improving-your-think-changes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="changes memorabilia -book -books -dvd" data-ebay-reference="forecast-scores-why-saying-70-percent-changes-feedback-improving-your-think-changes-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MEMORABILIA ,MORT&#x27;S DOCK , BALMAIN , ORIGINS AND CHANGES by PETER REYNOLDS BKLT"><img src="{{ '/assets/images/marketplace-covers/6b6a64975093866ae83f.jpg' | relative_url }}" alt="Listing image for MEMORABILIA ,MORT&#x27;S DOCK , BALMAIN , ORIGINS AND CHANGES by PETER REYNOLDS BKLT" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=changes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forecast-scores-why-saying-70-percent-changes-feedback-improving-your-think-changes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="changes memorabilia -book -books -dvd" data-ebay-reference="forecast-scores-why-saying-70-percent-changes-feedback-improving-your-think-changes-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">MEMORABILIA ,MORT&#x27;S DOCK , BALMAIN , ORIGINS AND CHANGES by PETER REYNOLDS BKLT</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=changes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forecast-scores-why-saying-70-percent-changes-feedback-improving-your-think-changes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="changes memorabilia -book -books -dvd" data-ebay-reference="forecast-scores-why-saying-70-percent-changes-feedback-improving-your-think-changes-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for changes memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: changes memorabilia</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=changes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forecast-scores-why-saying-70-percent-changes-feedback-improving-your-think-changes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="changes memorabilia -book -books -dvd" data-ebay-reference="forecast-scores-why-saying-70-percent-changes-feedback-improving-your-think-changes-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=changes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forecast-scores-why-saying-70-percent-changes-feedback-improving-your-think-changes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="changes memorabilia -book -books -dvd" data-ebay-reference="forecast-scores-why-saying-70-percent-changes-feedback-improving-your-think-changes-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=changes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forecast-scores-why-saying-70-percent-changes-feedback-improving-your-think-changes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="changes memorabilia -book -books -dvd" data-ebay-reference="forecast-scores-why-saying-70-percent-changes-feedback-improving-your-think-changes-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MEMORABILIA ,MORT&#x27;S DOCK , BALMAIN , ORIGINS AND CHANGES by PETER REYNOLDS BKLT"><img src="{{ '/assets/images/marketplace-covers/6b6a64975093866ae83f.jpg' | relative_url }}" alt="Listing image for MEMORABILIA ,MORT&#x27;S DOCK , BALMAIN , ORIGINS AND CHANGES by PETER REYNOLDS BKLT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=changes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forecast-scores-why-saying-70-percent-changes-feedback-improving-your-think-changes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="changes memorabilia -book -books -dvd" data-ebay-reference="forecast-scores-why-saying-70-percent-changes-feedback-improving-your-think-changes-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">MEMORABILIA ,MORT&#x27;S DOCK , BALMAIN , ORIGINS AND CHANGES by PETER REYNOLDS BKLT</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=changes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forecast-scores-why-saying-70-percent-changes-feedback-improving-your-think-changes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="changes memorabilia -book -books -dvd" data-ebay-reference="forecast-scores-why-saying-70-percent-changes-feedback-improving-your-think-changes-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for changes memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: changes memorabilia</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=changes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forecast-scores-why-saying-70-percent-changes-feedback-improving-your-think-changes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="changes memorabilia -book -books -dvd" data-ebay-reference="forecast-scores-why-saying-70-percent-changes-feedback-improving-your-think-changes-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=changes+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forecast-scores-why-saying-70-percent-changes-feedback-improving-your-think-changes-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="changes memorabilia -book -books -dvd" data-ebay-reference="forecast-scores-why-saying-70-percent-changes-feedback-improving-your-think-changes-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -598,7 +598,7 @@ For anyone trying to improve analytical skill, that is the central advantage of 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -618,7 +618,7 @@ For anyone trying to improve analytical skill, that is the central advantage of 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -650,7 +650,7 @@ For anyone trying to improve analytical skill, that is the central advantage of 
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -702,7 +702,7 @@ For anyone trying to improve analytical skill, that is the central advantage of 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -747,7 +747,7 @@ For anyone trying to improve analytical skill, that is the central advantage of 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -788,94 +788,94 @@ For anyone trying to improve analytical skill, that is the central advantage of 
 
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/277087515_Identifying_and_Cultivating_Superforecasters_as_a_Method_of_Improving_Probabilistic_Predictions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/277087515_Identifying_and_Cultivating_Superforecasters_as_a_Method_of_Improving_Probabilistic_Predictions</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Identifying and Cultivating Superforecasters as a...25 May 2015 — Across a wide range of tasks, research has shown tha...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/277087515_Identifying_and_Cultivating_Superforecasters_as_a_Method_of_Improving_Probabilistic_Predictions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/277087515_Identifying_and_Cultivating_Superforecasters_as_a_Method_of_Improving_Probabilistic_Predictions</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Identifying and Cultivating Superforecasters as a...25 May 2015 — Across a wide range of tasks, research has shown tha...</p></details>
    Published: May 2015  
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Brier score  
-   Link:<a href="https://en.wikipedia.org/wiki/Brier_score" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Brier_score</a>  
+   Link: <a href="https://en.wikipedia.org/wiki/Brier_score" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Brier_score</a>  
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv"Calibeating": Beating Forecasters at Their Own Game  
-   Link:<a href="https://arxiv.org/abs/2209.04892" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2209.04892</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>September 11, 2022...</p></details>
+   Link: <a href="https://arxiv.org/abs/2209.04892" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2209.04892</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>September 11, 2022...</p></details>
    Published: September 11, 2022  
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Philip E. Tetlock  
-   Link:<a href="https://en.wikipedia.org/wiki/Philip_E._Tetlock" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Philip_E._Tetlock</a>  
+   Link: <a href="https://en.wikipedia.org/wiki/Philip_E._Tetlock" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Philip_E._Tetlock</a>  
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv Metrics of calibration for probabilistic predictions  
-   Link:<a href="https://arxiv.org/abs/2205.09680" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2205.09680</a>  
+   Link: <a href="https://arxiv.org/abs/2205.09680" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2205.09680</a>  
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: The Good Judgment Project  
-   Link:<a href="https://en.wikipedia.org/wiki/The_Good_Judgment_Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Good_Judgment_Project</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Good Judgment ProjectPredictions are scored using Brier scores.... The top forecasters in GJP are &quot;reportedly 30% better than int...</p></details>
+   Link: <a href="https://en.wikipedia.org/wiki/The_Good_Judgment_Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Good_Judgment_Project</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Good Judgment ProjectPredictions are scored using Brier scores.... The top forecasters in GJP are &quot;reportedly 30% better than int...</p></details>
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: goodjudgment.com  
    Title: Good Judgment Superforecaster-Accuracy.pdf  
-   Link:<a href="https://goodjudgment.com/wp-content/uploads/2022/10/Superforecaster-Accuracy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://goodjudgment.com/wp-content/uploads/2022/10/Superforecaster-Accuracy.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Good Judgment measures accuracy using the Brier score, a score that shows how far a forecast fell from the.Read more...</p></details>
+   Link: <a href="https://goodjudgment.com/wp-content/uploads/2022/10/Superforecaster-Accuracy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://goodjudgment.com/wp-content/uploads/2022/10/Superforecaster-Accuracy.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Good Judgment measures accuracy using the Brier score, a score that shows how far a forecast fell from the.Read more...</p></details>
 
 ### Additional References
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: aiimpacts.org  
-   Link:<a href="https://aiimpacts.org/evidence-on-good-forecasting-practices-from-the-good-judgment-project/" target="_blank" rel="noopener noreferrer nofollow">https://aiimpacts.org/evidence-on-good-forecasting-practices-from-the-good-judgment-project/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Brier scores mean less accuracy, so negative correlations are good. “Ravens” is...Read more...</p></details>
+   Link: <a href="https://aiimpacts.org/evidence-on-good-forecasting-practices-from-the-good-judgment-project/" target="_blank" rel="noopener noreferrer nofollow">https://aiimpacts.org/evidence-on-good-forecasting-practices-from-the-good-judgment-project/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Brier scores mean less accuracy, so negative correlations are good. “Ravens” is...Read more...</p></details>
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: principus.si  
    Title: philip tetlock dan gardner superforecasting  
-   Link:<a href="https://principus.si/2022/11/23/philip-tetlock-dan-gardner-superforecasting/" target="_blank" rel="noopener noreferrer nofollow">https://principus.si/2022/11/23/philip-tetlock-dan-gardner-superforecasting/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Philip Tetlock, Dan Gardner: Superforecasting23 Nov 2022 — At the end of the first year, Doug&#x27;s overall Brier score was 0.22, putting him...</p></details>
+   Link: <a href="https://principus.si/2022/11/23/philip-tetlock-dan-gardner-superforecasting/" target="_blank" rel="noopener noreferrer nofollow">https://principus.si/2022/11/23/philip-tetlock-dan-gardner-superforecasting/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Philip Tetlock, Dan Gardner: Superforecasting23 Nov 2022 — At the end of the first year, Doug&#x27;s overall Brier score was 0.22, putting him...</p></details>
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: commoncog.com  
    Title: how do you evaluate your own predictions  
-   Link:<a href="https://commoncog.com/how-do-you-evaluate-your-own-predictions/" target="_blank" rel="noopener noreferrer nofollow">https://commoncog.com/how-do-you-evaluate-your-own-predictions/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>?17 Dec 2019 — This post provides a comprehensive summary of the technique that Tetlock and Gardner presents in Superforecasting.Read more...</p></details>
+   Link: <a href="https://commoncog.com/how-do-you-evaluate-your-own-predictions/" target="_blank" rel="noopener noreferrer nofollow">https://commoncog.com/how-do-you-evaluate-your-own-predictions/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>?17 Dec 2019 — This post provides a comprehensive summary of the technique that Tetlock and Gardner presents in Superforecasting.Read more...</p></details>
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10189590/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10189590/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>improves forecasting - PMC - NIHby DN Ferreiro · 2023 · Cited by 4 — Because higher Brier scores indicate lower prediction accuracy we re...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10189590/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10189590/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>improves forecasting - PMC - NIHby DN Ferreiro · 2023 · Cited by 4 — Because higher Brier scores indicate lower prediction accuracy we re...</p></details>
 
-12.<a id="endnote-12"></a>
+12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: Superforecasting by Philip E. Tetlock: 7 Minute  
-   Link:<a href="https://www.youtube.com/watch?v=IZ8b_fAVFnw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IZ8b_fAVFnw</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>How Accurate are Weather Forecasts, Anyway? | SDG Decision Education Center...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=IZ8b_fAVFnw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IZ8b_fAVFnw</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Accurate are Weather Forecasts, Anyway? | SDG Decision Education Center...</p></details>
 
-13.<a id="endnote-13"></a>
+13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: Improve Your Decision-Making with Your Own Brier Score  
-   Link:<a href="https://www.youtube.com/watch?v=sL39bKyHcLI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sL39bKyHcLI</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Superforecasting by Philip E. Tetlock: 7 Minute Summary...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=sL39bKyHcLI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sL39bKyHcLI</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Superforecasting by Philip E. Tetlock: 7 Minute Summary...</p></details>
 
-14.<a id="endnote-14"></a>
+14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: Model Calibration  
-   Link:<a href="https://www.youtube.com/watch?v=BiaebXlgfNQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BiaebXlgfNQ</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Predictions Fail | Use Probabilities Instead of Certainty...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=BiaebXlgfNQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BiaebXlgfNQ</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Predictions Fail | Use Probabilities Instead of Certainty...</p></details>
 
-15.<a id="endnote-15"></a>
+15. <a id="endnote-15"></a>
    Source: forum.effectivealtruism.org  
-   Link:<a href="https://forum.effectivealtruism.org/posts/pnpnqA4hijnr59p7d/efforts-to-improve-the-accuracy-of-our-judgments-and" target="_blank" rel="noopener noreferrer nofollow">https://forum.effectivealtruism.org/posts/pnpnqA4hijnr59p7d/efforts-to-improve-the-accuracy-of-our-judgments-and</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>In one...Read more...</p></details>
+   Link: <a href="https://forum.effectivealtruism.org/posts/pnpnqA4hijnr59p7d/efforts-to-improve-the-accuracy-of-our-judgments-and" target="_blank" rel="noopener noreferrer nofollow">https://forum.effectivealtruism.org/posts/pnpnqA4hijnr59p7d/efforts-to-improve-the-accuracy-of-our-judgments-and</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>In one...Read more...</p></details>
 
-16.<a id="endnote-16"></a>
+16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: How Accurate are Weather Forecasts, Anyway? | SDG Decision Education Center  
-   Link:<a href="https://www.youtube.com/watch?v=jXnaN0k6oYo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jXnaN0k6oYo</a>  
+   Link: <a href="https://www.youtube.com/watch?v=jXnaN0k6oYo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jXnaN0k6oYo</a>  

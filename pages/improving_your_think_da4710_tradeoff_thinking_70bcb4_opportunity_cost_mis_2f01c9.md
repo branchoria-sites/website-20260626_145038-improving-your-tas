@@ -280,7 +280,7 @@ image: /assets/images/improving_your_think_da4710_tradeoff_thinking_70bcb4_oppor
 
 ## Introduction
 
-Every choice has a visible cost, such as money spent or time used, and a hidden cost: what that same money, time or attention could have achieved elsewhere. Economists call this hidden cost **opportunity cost**—the value of the next-best alternative you give up when making a choice. Thinking in terms of opportunity cost improves analytical skills because it shifts attention from "What does this cost?" to "What am I giving up?"<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stlouisfed.org/open-vault/2020/january/real-life-examples-opportunity-cost" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stlouisfed.org">[Federal Reserve Bank of St. Louis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stlouisfed.org</span><span class="citation-popover-title">Federal Reserve Bank of St</span><span class="citation-popover-snippet">LouisReal-Life Examples of Opportunity Cost &#124; St. Louis FedJune 3, 2026 — 29 Jan 2020 — “Opportunity cost is the value of the next-best a...</span><span class="citation-popover-meta">Published: June 3, 2026</span></span></span>
+Every choice has a visible cost, such as money spent or time used, and a hidden cost: what that same money, time or attention could have achieved elsewhere. Economists call this hidden cost **opportunity cost**—the value of the next-best alternative you give up when making a choice. Thinking in terms of opportunity cost improves analytical skills because it shifts attention from "What does this cost?" to "What am I giving up?" <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stlouisfed.org/open-vault/2020/january/real-life-examples-opportunity-cost" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stlouisfed.org">[Federal Reserve Bank of St. Louis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stlouisfed.org</span><span class="citation-popover-title">Federal Reserve Bank of St</span><span class="citation-popover-snippet">LouisReal-Life Examples of Opportunity Cost &#124; St. Louis FedJune 3, 2026 — 29 Jan 2020 — “Opportunity cost is the value of the next-best a...</span><span class="citation-popover-meta">Published: June 3, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_tradeoff_thinking_70bcb4_opportunity_cost_mis_2f01c9-Illustration-1-dark.svg" | relative_url }}" alt="Hidden Costs illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_tradeoff_thinking_70bcb4_opportunity_cost_mis_2f01c9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_tradeoff_thinking_70bcb4_opportunity_cost_mis_2f01c9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -301,7 +301,7 @@ For example:
 
 </div>
 
-This explains why two choices with identical price tags can have very different real costs. The question is never simply "What am I pay?" but "Compared with my next-best option, what am I losing?" Federal Reserve Bank of St. Louis+2Econlib<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stlouisfed.org/open-vault/2020/january/real-life-examples-opportunity-cost" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stlouisfed.org">[stlouisfed.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stlouisfed.org</span><span class="citation-popover-title">Federal Reserve Bank of St</span><span class="citation-popover-snippet">LouisReal-Life Examples of Opportunity Cost &#124; St. Louis FedJune 3, 2026 — 29 Jan 2020 — “Opportunity cost is the value of the next-best a...</span><span class="citation-popover-meta">Published: June 3, 2026</span></span></span>
+This explains why two choices with identical price tags can have very different real costs. The question is never simply "What am I pay?" but "Compared with my next-best option, what am I losing?" Federal Reserve Bank of St. Louis+2Econlib <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stlouisfed.org/open-vault/2020/january/real-life-examples-opportunity-cost" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stlouisfed.org">[stlouisfed.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stlouisfed.org</span><span class="citation-popover-title">Federal Reserve Bank of St</span><span class="citation-popover-snippet">LouisReal-Life Examples of Opportunity Cost &#124; St. Louis FedJune 3, 2026 — 29 Jan 2020 — “Opportunity cost is the value of the next-best a...</span><span class="citation-popover-meta">Published: June 3, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BQQ1HFobVPQ" title="Opportunity Cost: The Hidden Cost of Everything" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BQQ1HFobVPQ" target="_blank" rel="noopener noreferrer">Opportunity Cost: The Hidden Cost of Everything</a></p><p class="youtube-embed-meta">Channel: Sprouts</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BQQ1HFobVPQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BQQ1HFobVPQ">Open on YouTube</a></p></div></div></div>
@@ -316,7 +316,7 @@ Several common mistakes illustrate this mechanism.
 
 **Focusing on discounts instead of usefulness.** Buying something because it is 50% off encourages comparison with the original price rather than with alternative uses of the money. A product that remains unused is often more expensive than not buying it at all because it displaced a better use of the same budget.
 
-**Ignoring the cost of small interruptions.** A short interruption rarely appears significant in isolation. However, repeated meetings, messages and context switching reduce the time available for uninterrupted work. The visible interruption may be only minutes long, while the opportunity cost includes lost concentration and delayed completion of more valuable tasks. Research on mental effort has argued that people often experience demanding activities as costly partly because they prevent pursuit of other worthwhile activities competing for attention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3856320/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAn opportunity cost model of subjective effort and task</span><span class="citation-popover-snippet">by R Kurzban · 2013 · Cited by 1825 — Feeding at the current patch carries opportunity costs – that is, the value of the next-best alt...</span></span></span>
+**Ignoring the cost of small interruptions.** A short interruption rarely appears significant in isolation. However, repeated meetings, messages and context switching reduce the time available for uninterrupted work. The visible interruption may be only minutes long, while the opportunity cost includes lost concentration and delayed completion of more valuable tasks. Research on mental effort has argued that people often experience demanding activities as costly partly because they prevent pursuit of other worthwhile activities competing for attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3856320/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAn opportunity cost model of subjective effort and task</span><span class="citation-popover-snippet">by R Kurzban · 2013 · Cited by 1825 — Feeding at the current patch carries opportunity costs – that is, the value of the next-best alt...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ng-cgKDJg0k" title="What Is Opportunity Cost And Why It Controls Every Decision You Make" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ng-cgKDJg0k" target="_blank" rel="noopener noreferrer">What Is Opportunity Cost And Why It Controls Every Decision You Make</a></p><p class="youtube-embed-meta">Channel: Fast Track Faculty</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ng-cgKDJg0k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ng-cgKDJg0k">Open on YouTube</a></p></div></div></div>
@@ -369,17 +369,17 @@ For example:
 
 This exercise forces hidden costs into view. Even when the final decision stays the same, it becomes a conscious tradeoff rather than an accidental one.
 
-It also prevents comparing a real option with an unrealistic fantasy. Opportunity cost concerns the **best available alternative**, not every imaginable possibility. Economists define it as the value of the next-best choice that is actually available under current constraints.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stlouisfed.org/open-vault/2020/january/real-life-examples-opportunity-cost" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stlouisfed.org">[Federal Reserve Bank of St. Louis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stlouisfed.org</span><span class="citation-popover-title">Federal Reserve Bank of St</span><span class="citation-popover-snippet">LouisReal-Life Examples of Opportunity Cost &#124; St. Louis FedJune 3, 2026 — 29 Jan 2020 — “Opportunity cost is the value of the next-best a...</span><span class="citation-popover-meta">Published: June 3, 2026</span></span></span>
+It also prevents comparing a real option with an unrealistic fantasy. Opportunity cost concerns the **best available alternative**, not every imaginable possibility. Economists define it as the value of the next-best choice that is actually available under current constraints. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stlouisfed.org/open-vault/2020/january/real-life-examples-opportunity-cost" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stlouisfed.org">[Federal Reserve Bank of St. Louis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stlouisfed.org</span><span class="citation-popover-title">Federal Reserve Bank of St</span><span class="citation-popover-snippet">LouisReal-Life Examples of Opportunity Cost &#124; St. Louis FedJune 3, 2026 — 29 Jan 2020 — “Opportunity cost is the value of the next-best a...</span><span class="citation-popover-meta">Published: June 3, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cM9jDPoBjuc" title="Opportunity Cost: Choices and Trade-Offs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cM9jDPoBjuc" target="_blank" rel="noopener noreferrer">Opportunity Cost: Choices and Trade-Offs</a></p><p class="youtube-embed-meta">Channel: Miacademy &amp; MiaPrep Learning Channel</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cM9jDPoBjuc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cM9jDPoBjuc">Open on YouTube</a></p></div></div></div>
 
 ## Common Misunderstandings
 
-Several ideas are frequently confused with opportunity cost.(#endnote-7 "Endnote 7")<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.federalreserveeducation.org/teaching-resources/economics/scarcity/opportunity-cost" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: federalreserveeducation.org">[federalreserveeducation.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">federalreserveeducation.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Several ideas are frequently confused with opportunity cost.(#endnote-7 "Endnote 7") <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.federalreserveeducation.org/teaching-resources/economics/scarcity/opportunity-cost" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: federalreserveeducation.org">[federalreserveeducation.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">federalreserveeducation.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 * **It is not the same as money spent.** Financial cost is only one component. Time, flexibility, attention and future opportunities can all be opportunity costs.
-* **It is not a sunk cost.** Money or effort already spent cannot be recovered and should not determine future choices. Opportunity cost looks forward to what could still be achieved instead.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.munich-business-school.de/en/l/business-studies-dictionary/financial-knowledge/opportunity-costs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: munich-business-school.de">[munich-business-school.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">munich-business-school.de</span><span class="citation-popover-title">► Opportunity Costs</span><span class="citation-popover-snippet">Simply ExplainedOpportunity costs, also known as alternative costs, are the potential benefits that are foregone if a decision is made in...</span></span></span>
+* **It is not a sunk cost.** Money or effort already spent cannot be recovered and should not determine future choices. Opportunity cost looks forward to what could still be achieved instead. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.munich-business-school.de/en/l/business-studies-dictionary/financial-knowledge/opportunity-costs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: munich-business-school.de">[munich-business-school.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">munich-business-school.de</span><span class="citation-popover-title">► Opportunity Costs</span><span class="citation-popover-snippet">Simply ExplainedOpportunity costs, also known as alternative costs, are the potential benefits that are foregone if a decision is made in...</span></span></span>
 * **It does not require perfect prediction.** You cannot know every future outcome with certainty. The goal is simply to compare realistic alternatives before deciding, not to forecast the future perfectly.
 
 ## A Better Question for Better Decisions
@@ -392,194 +392,194 @@ Before saying yes to a meeting, buying a bargain or accepting another commitment
 <img src="{{ "/assets/images/improving_your_think_da4710_tradeoff_thinking_70bcb4_opportunity_cost_mis_2f01c9-Illustration-3-dark.svg" | relative_url }}" alt="Hidden Costs illustration 3" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_tradeoff_thinking_70bcb4_opportunity_cost_mis_2f01c9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_tradeoff_thinking_70bcb4_opportunity_cost_mis_2f01c9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to What Are You Really Giving Up?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to What Are You Really Giving Up?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Basic+Economics+by+Thomas+Sowell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Basic Economics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6pNVStJrYFYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Basic Economics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Basic+Economics+by+Thomas+Sowell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Basic Economics">Basic Economics</a>
-</h4>
-<p class="fr-book-author">By Thomas Sowell</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Basic+Economics+Thomas+Sowell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Basic Economics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6pNVStJrYFYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Basic Economics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Basic+Economics+Thomas+Sowell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Basic Economics">Basic Economics</a>
+        </h4>
+        <p class="fr-book-author">By Thomas Sowell</p>
         
-<p class="fr-book-desc">Clearly explains opportunity cost and tradeoffs.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Basic+Economics+by+Thomas+Sowell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Clearly explains opportunity cost and tradeoffs.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Basic+Economics+Thomas+Sowell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Freakonomics+by+Stephen+J.+Dubner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Freakonomics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kxsQhM4D8uIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Freakonomics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Freakonomics+by+Stephen+J.+Dubner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Freakonomics">Freakonomics</a>
-</h4>
-<p class="fr-book-author">By Stephen J. Dubner, Steven D. Levitt</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Freakonomics+Stephen+J.+Dubner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Freakonomics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kxsQhM4D8uIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Freakonomics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Freakonomics+Stephen+J.+Dubner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Freakonomics">Freakonomics</a>
+        </h4>
+        <p class="fr-book-author">By Stephen J. Dubner, Steven D. Levitt</p>
         
-<p class="fr-book-desc">Encourages thinking about hidden costs and incentives.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Freakonomics+by+Stephen+J.+Dubner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Encourages thinking about hidden costs and incentives.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Freakonomics+Stephen+J.+Dubner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-</h4>
-<p class="fr-book-author">By Daniel Kahneman</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Naked+Economics+Charles+Wheelan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Naked Economics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RkbV8iSX_hoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Naked Economics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Naked+Economics+Charles+Wheelan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Naked Economics">Naked Economics</a>
+        </h4>
+        <p class="fr-book-author">By Charles Wheelan</p>
+        <p class="fr-book-popularity">Rating: 4.5/5 from 7 Google Books ratings</p>
+        <p class="fr-book-desc">Introduces core economic concepts including tradeoffs and scarcity.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Naked+Economics+Charles+Wheelan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Smart+Choices+John+S.+Hammond&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Smart Choices on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OlpkCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Smart Choices" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Smart+Choices+John+S.+Hammond&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Smart Choices">Smart Choices</a>
+        </h4>
+        <p class="fr-book-author">By John S. Hammond, Ralph L. Keeney et al.</p>
         
-<p class="fr-book-desc">Explains cognitive biases that obscure opportunity costs.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Helps readers account for alternatives forgone when choosing.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Smart+Choices+John+S.+Hammond&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Naked+Economics+by+Charles+Wheelan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Naked Economics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RkbV8iSX_hoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Naked Economics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Naked+Economics+by+Charles+Wheelan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Naked Economics">Naked Economics</a>
-</h4>
-<p class="fr-book-author">By Charles Wheelan</p>
-<p class="fr-book-popularity">Rating: 4.5/5 from 7 Google Books ratings</p>
-<p class="fr-book-desc">Introduces core economic concepts including tradeoffs and scarcity.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Naked+Economics+by+Charles+Wheelan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Basic+Economics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Basic Economics</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Freakonomics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Freakonomics</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Basic+Economics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Basic Economics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Freakonomics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Freakonomics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Naked+Economics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Naked Economics</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=really+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-giving-up-really-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really memorabilia -book -books -dvd" data-ebay-reference="what-are-you-really-giving-up-really-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VTG 1957 7 UP COOKBOOK You’re Really Cooking Advertising Soda Memorabilia"><img src="https://i.ebayimg.com/images/g/HJcAAeSwHFdnsVLx/s-l225.jpg" alt="Listing image for VTG 1957 7 UP COOKBOOK You’re Really Cooking Advertising Soda Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=really+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-giving-up-really-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really memorabilia -book -books -dvd" data-ebay-reference="what-are-you-really-giving-up-really-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">VTG 1957 7 UP COOKBOOK You’re Really Cooking Advertising Soda Memorabilia</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=really+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-giving-up-really-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really memorabilia -book -books -dvd" data-ebay-reference="what-are-you-really-giving-up-really-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for really memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: really memorabilia</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=really+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-giving-up-really-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really memorabilia -book -books -dvd" data-ebay-reference="what-are-you-really-giving-up-really-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=really+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-giving-up-really-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really memorabilia -book -books -dvd" data-ebay-reference="what-are-you-really-giving-up-really-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VTG 1957 7 UP COOKBOOK You’re Really Cooking Advertising Soda Memorabilia"><img src="https://i.ebayimg.com/images/g/HJcAAeSwHFdnsVLx/s-l225.jpg" alt="Listing image for VTG 1957 7 UP COOKBOOK You’re Really Cooking Advertising Soda Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=really+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-giving-up-really-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really memorabilia -book -books -dvd" data-ebay-reference="what-are-you-really-giving-up-really-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">VTG 1957 7 UP COOKBOOK You’re Really Cooking Advertising Soda Memorabilia</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=really+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-giving-up-really-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really memorabilia -book -books -dvd" data-ebay-reference="what-are-you-really-giving-up-really-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for really memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: really memorabilia</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=really+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-giving-up-really-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really memorabilia -book -books -dvd" data-ebay-reference="what-are-you-really-giving-up-really-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=really+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-giving-up-really-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really memorabilia -book -books -dvd" data-ebay-reference="what-are-you-really-giving-up-really-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BANANARAMA REALLY SAYING SOMETHING MEMORABILIA original music press advert from"><img src="https://i.ebayimg.com/images/g/bC0AAeSwNF5qDu20/s-l225.jpg" alt="Listing image for BANANARAMA REALLY SAYING SOMETHING MEMORABILIA original music press advert from" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=really+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-giving-up-really-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really memorabilia -book -books -dvd" data-ebay-reference="what-are-you-really-giving-up-really-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">BANANARAMA REALLY SAYING SOMETHING MEMORABILIA original music press advert from</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=really+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-giving-up-really-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really memorabilia -book -books -dvd" data-ebay-reference="what-are-you-really-giving-up-really-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for really memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: really memorabilia</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=really+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-giving-up-really-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really memorabilia -book -books -dvd" data-ebay-reference="what-are-you-really-giving-up-really-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=really+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-giving-up-really-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really memorabilia -book -books -dvd" data-ebay-reference="what-are-you-really-giving-up-really-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BANANARAMA REALLY SAYING SOMETHING MEMORABILIA original music press advert from"><img src="https://i.ebayimg.com/images/g/bC0AAeSwNF5qDu20/s-l225.jpg" alt="Listing image for BANANARAMA REALLY SAYING SOMETHING MEMORABILIA original music press advert from" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=really+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-giving-up-really-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really memorabilia -book -books -dvd" data-ebay-reference="what-are-you-really-giving-up-really-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">BANANARAMA REALLY SAYING SOMETHING MEMORABILIA original music press advert from</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=really+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-giving-up-really-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really memorabilia -book -books -dvd" data-ebay-reference="what-are-you-really-giving-up-really-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for really memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: really memorabilia</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=really+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-giving-up-really-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really memorabilia -book -books -dvd" data-ebay-reference="what-are-you-really-giving-up-really-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=really+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-giving-up-really-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really memorabilia -book -books -dvd" data-ebay-reference="what-are-you-really-giving-up-really-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MEMORABILIA ,YATES GARDEN GUIDE , 1944 , really nice condition"><img src="https://i.ebayimg.com/images/g/4RgAAOSwjrlmMcN-/s-l225.jpg" alt="Listing image for MEMORABILIA ,YATES GARDEN GUIDE , 1944 , really nice condition" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=really+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-giving-up-really-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really memorabilia -book -books -dvd" data-ebay-reference="what-are-you-really-giving-up-really-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">MEMORABILIA ,YATES GARDEN GUIDE , 1944 , really nice condition</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=really+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-giving-up-really-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really memorabilia -book -books -dvd" data-ebay-reference="what-are-you-really-giving-up-really-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for really memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: really memorabilia</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=really+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-giving-up-really-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really memorabilia -book -books -dvd" data-ebay-reference="what-are-you-really-giving-up-really-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=really+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-giving-up-really-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really memorabilia -book -books -dvd" data-ebay-reference="what-are-you-really-giving-up-really-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MEMORABILIA ,YATES GARDEN GUIDE , 1944 , really nice condition"><img src="https://i.ebayimg.com/images/g/4RgAAOSwjrlmMcN-/s-l225.jpg" alt="Listing image for MEMORABILIA ,YATES GARDEN GUIDE , 1944 , really nice condition" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=really+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-giving-up-really-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really memorabilia -book -books -dvd" data-ebay-reference="what-are-you-really-giving-up-really-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">MEMORABILIA ,YATES GARDEN GUIDE , 1944 , really nice condition</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=really+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-giving-up-really-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really memorabilia -book -books -dvd" data-ebay-reference="what-are-you-really-giving-up-really-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for really memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: really memorabilia</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=really+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-giving-up-really-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really memorabilia -book -books -dvd" data-ebay-reference="what-are-you-really-giving-up-really-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=really+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-giving-up-really-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really memorabilia -book -books -dvd" data-ebay-reference="what-are-you-really-giving-up-really-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MADONNA PRIVATE COLLECTION FOR SALE CD&#x27;S VINYL AND MEMORABILIA"><img src="https://i.ebayimg.com/images/g/ZPkAAOSwbKpnx0q4/s-l225.jpg" alt="Listing image for MADONNA PRIVATE COLLECTION FOR SALE CD&#x27;S VINYL AND MEMORABILIA" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=really+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-giving-up-really-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really memorabilia -book -books -dvd" data-ebay-reference="what-are-you-really-giving-up-really-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">MADONNA PRIVATE COLLECTION FOR SALE CD&#x27;S VINYL AND MEMORABILIA</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=really+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-giving-up-really-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really memorabilia -book -books -dvd" data-ebay-reference="what-are-you-really-giving-up-really-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for really memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: really memorabilia</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=really+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-giving-up-really-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really memorabilia -book -books -dvd" data-ebay-reference="what-are-you-really-giving-up-really-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=really+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-giving-up-really-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really memorabilia -book -books -dvd" data-ebay-reference="what-are-you-really-giving-up-really-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=really+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-giving-up-really-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really memorabilia -book -books -dvd" data-ebay-reference="what-are-you-really-giving-up-really-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MADONNA PRIVATE COLLECTION FOR SALE CD&#x27;S VINYL AND MEMORABILIA"><img src="https://i.ebayimg.com/images/g/ZPkAAOSwbKpnx0q4/s-l225.jpg" alt="Listing image for MADONNA PRIVATE COLLECTION FOR SALE CD&#x27;S VINYL AND MEMORABILIA" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=really+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-giving-up-really-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really memorabilia -book -books -dvd" data-ebay-reference="what-are-you-really-giving-up-really-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">MADONNA PRIVATE COLLECTION FOR SALE CD&#x27;S VINYL AND MEMORABILIA</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=really+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-giving-up-really-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really memorabilia -book -books -dvd" data-ebay-reference="what-are-you-really-giving-up-really-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for really memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: really memorabilia</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=really+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-giving-up-really-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really memorabilia -book -books -dvd" data-ebay-reference="what-are-you-really-giving-up-really-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=really+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-giving-up-really-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really memorabilia -book -books -dvd" data-ebay-reference="what-are-you-really-giving-up-really-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -595,7 +595,7 @@ Before saying yes to a meeting, buying a bargain or accepting another commitment
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -615,7 +615,7 @@ Before saying yes to a meeting, buying a bargain or accepting another commitment
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -647,7 +647,7 @@ Before saying yes to a meeting, buying a bargain or accepting another commitment
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -699,7 +699,7 @@ Before saying yes to a meeting, buying a bargain or accepting another commitment
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -744,7 +744,7 @@ Before saying yes to a meeting, buying a bargain or accepting another commitment
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -784,78 +784,78 @@ Before saying yes to a meeting, buying a bargain or accepting another commitment
 </section>
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: stlouisfed.org  
    Title: Federal Reserve Bank of St  
-   Link:<a href="https://www.stlouisfed.org/open-vault/2020/january/real-life-examples-opportunity-cost" target="_blank" rel="noopener noreferrer nofollow">https://www.stlouisfed.org/open-vault/2020/january/real-life-examples-opportunity-cost</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>LouisReal-Life Examples of Opportunity Cost | St. Louis FedJune 3, 2026 — 29 Jan 2020 — “Opportunity cost is the value of the next-best a...</p></details>
+   Link: <a href="https://www.stlouisfed.org/open-vault/2020/january/real-life-examples-opportunity-cost" target="_blank" rel="noopener noreferrer nofollow">https://www.stlouisfed.org/open-vault/2020/january/real-life-examples-opportunity-cost</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>LouisReal-Life Examples of Opportunity Cost | St. Louis FedJune 3, 2026 — 29 Jan 2020 — “Opportunity cost is the value of the next-best a...</p></details>
    Published: June 3, 2026  
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: econlib.org  
-   Link:<a href="https://www.econlib.org/library/Topics/College/opportunitycost.html" target="_blank" rel="noopener noreferrer nofollow">https://www.econlib.org/library/Topics/College/opportunitycost.html</a>  
+   Link: <a href="https://www.econlib.org/library/Topics/College/opportunitycost.html" target="_blank" rel="noopener noreferrer nofollow">https://www.econlib.org/library/Topics/College/opportunitycost.html</a>  
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAn opportunity cost model of subjective effort and task  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3856320/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3856320/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>by R Kurzban · 2013 · Cited by 1825 — Feeding at the current patch carries opportunity costs – that is, the value of the next-best alt...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3856320/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3856320/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by R Kurzban · 2013 · Cited by 1825 — Feeding at the current patch carries opportunity costs – that is, the value of the next-best alt...</p></details>
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: munich-business-school.de  
    Title: ► Opportunity Costs  
-   Link:<a href="https://www.munich-business-school.de/en/l/business-studies-dictionary/financial-knowledge/opportunity-costs" target="_blank" rel="noopener noreferrer nofollow">https://www.munich-business-school.de/en/l/business-studies-dictionary/financial-knowledge/opportunity-costs</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Simply ExplainedOpportunity costs, also known as alternative costs, are the potential benefits that are foregone if a decision is made in...</p></details>
+   Link: <a href="https://www.munich-business-school.de/en/l/business-studies-dictionary/financial-knowledge/opportunity-costs" target="_blank" rel="noopener noreferrer nofollow">https://www.munich-business-school.de/en/l/business-studies-dictionary/financial-knowledge/opportunity-costs</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Simply ExplainedOpportunity costs, also known as alternative costs, are the potential benefits that are foregone if a decision is made in...</p></details>
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: youtube.com  
-   Link:<a href="https://www.youtube.com/watch?v=2uJYrf43dMs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2uJYrf43dMs</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Opportunity Cost | Why Choices Have Hidden Costs?...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=2uJYrf43dMs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2uJYrf43dMs</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Opportunity Cost | Why Choices Have Hidden Costs?...</p></details>
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: youtube.com  
    Title: Opportunity Cost | Why Choices Have Hidden Costs?  
-   Link:<a href="https://www.youtube.com/watch?v=0_cKG6rT5hA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0_cKG6rT5hA</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Opportunity Cost: The Hidden Cost of Everything...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=0_cKG6rT5hA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0_cKG6rT5hA</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Opportunity Cost: The Hidden Cost of Everything...</p></details>
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: ebsco.com  
-   Link:<a href="https://www.ebsco.com/research-starters/economics/opportunity-cost" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/economics/opportunity-cost</a>  
+   Link: <a href="https://www.ebsco.com/research-starters/economics/opportunity-cost" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/economics/opportunity-cost</a>  
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: federalreserveeducation.org  
-   Link:<a href="https://www.federalreserveeducation.org/teaching-resources/economics/scarcity/opportunity-cost" target="_blank" rel="noopener noreferrer nofollow">https://www.federalreserveeducation.org/teaching-resources/economics/scarcity/opportunity-cost</a>  
+   Link: <a href="https://www.federalreserveeducation.org/teaching-resources/economics/scarcity/opportunity-cost" target="_blank" rel="noopener noreferrer nofollow">https://www.federalreserveeducation.org/teaching-resources/economics/scarcity/opportunity-cost</a>  
 
 ### Additional References
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: investopedia.com  
-   Link:<a href="https://www.investopedia.com/terms/o/opportunitycost.asp" target="_blank" rel="noopener noreferrer nofollow">https://www.investopedia.com/terms/o/opportunitycost.asp</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Opportunity Cost: Definition, Formula, and ExamplesOpportunity cost refers to the potential profit provided by a missed opportunity—the r...</p></details>
+   Link: <a href="https://www.investopedia.com/terms/o/opportunitycost.asp" target="_blank" rel="noopener noreferrer nofollow">https://www.investopedia.com/terms/o/opportunitycost.asp</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Opportunity Cost: Definition, Formula, and ExamplesOpportunity cost refers to the potential profit provided by a missed opportunity—the r...</p></details>
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: What Is Opportunity Cost And Why It Controls Every Decision You Make  
-   Link:<a href="https://www.youtube.com/watch?v=ng-cgKDJg0k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ng-cgKDJg0k</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Opportunity Cost: How to Make Better Decisions Every Time (personal and business)...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=ng-cgKDJg0k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ng-cgKDJg0k</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Opportunity Cost: How to Make Better Decisions Every Time (personal and business)...</p></details>
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: evansonslabs.com  
-   Link:<a href="https://evansonslabs.com/2025/10/03/concept-of-opportunity-costs/" target="_blank" rel="noopener noreferrer nofollow">https://evansonslabs.com/2025/10/03/concept-of-opportunity-costs/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Concept of Opportunity Costs | Behavioral Economicsby JE Njoroge — Opportunity cost is inherently relative: it measures what a decision-m...</p></details>
+   Link: <a href="https://evansonslabs.com/2025/10/03/concept-of-opportunity-costs/" target="_blank" rel="noopener noreferrer nofollow">https://evansonslabs.com/2025/10/03/concept-of-opportunity-costs/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Concept of Opportunity Costs | Behavioral Economicsby JE Njoroge — Opportunity cost is inherently relative: it measures what a decision-m...</p></details>
 
-12.<a id="endnote-12"></a>
+12. <a id="endnote-12"></a>
    Source: surface.syr.edu  
-   Link:<a href="https://surface.syr.edu/cgi/viewcontent.cgi?article=1180&amp;context=eli" target="_blank" rel="noopener noreferrer nofollow">https://surface.syr.edu/cgi/viewcontent.cgi?article=1180&amp;context=eli</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Louis, 2020. 1. 2. Why the opportunity cost and marginal benefit are important? It helps in the decision process of a choice and...Read...</p></details>
+   Link: <a href="https://surface.syr.edu/cgi/viewcontent.cgi?article=1180&amp;context=eli" target="_blank" rel="noopener noreferrer nofollow">https://surface.syr.edu/cgi/viewcontent.cgi?article=1180&amp;context=eli</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Louis, 2020. 1. 2. Why the opportunity cost and marginal benefit are important? It helps in the decision process of a choice and...Read...</p></details>
 
-13.<a id="endnote-13"></a>
+13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: Opportunity Cost: The Hidden Cost of Everything  
-   Link:<a href="https://www.youtube.com/watch?v=BQQ1HFobVPQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BQQ1HFobVPQ</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Opportunity Cost: Choices and Trade-Offs...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=BQQ1HFobVPQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BQQ1HFobVPQ</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Opportunity Cost: Choices and Trade-Offs...</p></details>
 
-14.<a id="endnote-14"></a>
+14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: Opportunity Cost: Choices and Trade-Offs  
-   Link:<a href="https://www.youtube.com/watch?v=cM9jDPoBjuc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cM9jDPoBjuc</a>  
+   Link: <a href="https://www.youtube.com/watch?v=cM9jDPoBjuc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cM9jDPoBjuc</a>  

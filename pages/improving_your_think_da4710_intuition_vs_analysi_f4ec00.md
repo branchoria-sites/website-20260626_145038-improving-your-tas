@@ -451,15 +451,15 @@ Good judgement in everyday decisions is not a contest between “gut instinct”
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_intuition_vs_analysi_f4ec00-overview.webp" | relative_url }}" alt="Overview image for Gut vs Analysis" loading="eager" decoding="sync" fetchpriority="high">
-The best evidence supports a middle path. Research on [expert intuition]({{ 'expert-gut/' | relative_url }}) suggests that fast judgement can be remarkably effective in environments with regular patterns and clear feedback, such as firefighting, chess, some clinical work and skilled trades. But the same feeling of confidence can be misleading in noisy settings where feedback is delayed, ambiguous or distorted by luck, such as hiring, investing, relationship conflict and long-term career choices. Kahneman and Klein’s influential comparison of heuristics-and-biases research with naturalistic decision-making reached a useful boundary: intuition deserves more trust when the environment is learnable and experience has been corrected by feedback.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/19739881/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Conditions for intuitive expertise: a failure to disagreeby D Kahneman · 2009 · Cited by 4045 — This article reports on an effort t...</span></span></span>
+The best evidence supports a middle path. Research on [expert intuition]({{ 'expert-gut/' | relative_url }}) suggests that fast judgement can be remarkably effective in environments with regular patterns and clear feedback, such as firefighting, chess, some clinical work and skilled trades. But the same feeling of confidence can be misleading in noisy settings where feedback is delayed, ambiguous or distorted by luck, such as hiring, investing, relationship conflict and long-term career choices. Kahneman and Klein’s influential comparison of heuristics-and-biases research with naturalistic decision-making reached a useful boundary: intuition deserves more trust when the environment is learnable and experience has been corrected by feedback. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/19739881/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Conditions for intuitive expertise: a failure to disagreeby D Kahneman · 2009 · Cited by 4045 — This article reports on an effort t...</span></span></span>
 
 For improving thinking and analytical skills, the everyday rule is simple: use intuition as an alert, not a verdict. Let it tell you “this matters” or “I have seen this before”, then use analysis to test the frame, compare alternatives, check assumptions and decide whether the stakes justify slowing down.
 
 ## Fast Recognition Versus Final Commitment
 
-Intuition often arrives as a feeling before it becomes a sentence. You sense that a colleague’s proposal is risky, that a route home will be slower than usual, that a purchase is not worth the price, or that a conversation is about to turn awkward. This is not mystical. Much of fast judgement is pattern recognition built from repeated exposure, emotion, memory and learnt cues. Dual-process accounts usually describe one cluster of thinking as fast, automatic and associative, and another as slower, more deliberate and reflective, though modern researchers warn against treating the two as completely separate machines inside the head.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11591345/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Information is processed rapidly and in parallel; processing is</span><span class="citation-popover-snippet">Beyond the Surface: A New Perspective on Dual-System...by G Hochman · 2024 · Cited by 26 — System 1 is based on preconscious, intuiti...</span></span></span>
+Intuition often arrives as a feeling before it becomes a sentence. You sense that a colleague’s proposal is risky, that a route home will be slower than usual, that a purchase is not worth the price, or that a conversation is about to turn awkward. This is not mystical. Much of fast judgement is pattern recognition built from repeated exposure, emotion, memory and learnt cues. Dual-process accounts usually describe one cluster of thinking as fast, automatic and associative, and another as slower, more deliberate and reflective, though modern researchers warn against treating the two as completely separate machines inside the head. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11591345/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Information is processed rapidly and in parallel; processing is</span><span class="citation-popover-snippet">Beyond the Surface: A New Perspective on Dual-System...by G Hochman · 2024 · Cited by 26 — System 1 is based on preconscious, intuiti...</span></span></span>
 
-The mistake is to treat speed as either proof of brilliance or proof of irrationality. Fast recognition can be an advantage when the situation has familiar structure. Gary Klein’s [recognition-primed]({{ 'pressure-calls/' | relative_url }}) decision model, developed from studies of people working under pressure, describes how experienced decision-makers often do not compare a long menu of options. They recognise a situation, generate a plausible course of action, mentally simulate whether it will work, and adjust if the simulation exposes a problem. That kind of intuition is not random impulse; it is compressed experience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cgsc.contentdm.oclc.org/digital/api/collection/p16040coll2/id/23/download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cgsc.contentdm.oclc.org">[CONTENTdm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cgsc.contentdm.oclc.org</span><span class="citation-popover-snippet">CONTENTdmRecognition-Primed Decision MakingNaturalistic decision- making strategies like RPD are useful for individual decision-making an...</span></span></span>
+The mistake is to treat speed as either proof of brilliance or proof of irrationality. Fast recognition can be an advantage when the situation has familiar structure. Gary Klein’s [recognition-primed]({{ 'pressure-calls/' | relative_url }}) decision model, developed from studies of people working under pressure, describes how experienced decision-makers often do not compare a long menu of options. They recognise a situation, generate a plausible course of action, mentally simulate whether it will work, and adjust if the simulation exposes a problem. That kind of intuition is not random impulse; it is compressed experience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cgsc.contentdm.oclc.org/digital/api/collection/p16040coll2/id/23/download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cgsc.contentdm.oclc.org">[CONTENTdm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cgsc.contentdm.oclc.org</span><span class="citation-popover-snippet">CONTENTdmRecognition-Primed Decision MakingNaturalistic decision- making strategies like RPD are useful for individual decision-making an...</span></span></span>
 
 Everyday life contains many small versions of this. An experienced cook adjusts heat before food burns. A parent hears a child’s cry and distinguishes frustration from injury. A driver notices a pedestrian’s posture and slows down before the person steps into the road. In these cases, slowing every judgement into a formal analysis would be clumsy and sometimes dangerous.
 
@@ -482,11 +482,11 @@ That last question is often missing. Many people remember vivid successes of int
 
 The strongest case for intuition comes from domains where people encounter many similar situations and receive corrective feedback. Fire commanders, nurses, mechanics, athletes, musicians, teachers and negotiators can all develop fast recognition because their environments offer recurring cues. The cue may be subtle: a smell, timing, tone of voice, physical resistance, a familiar sequence of errors, or a mismatch between what someone says and what usually happens next.
 
-Kahneman and Klein’s “failure to disagree” paper matters because the two research traditions had often seemed opposed. The heuristics-and-biases tradition showed that people make systematic errors; naturalistic decision-making showed that experts often make effective rapid decisions in real environments. Their common ground was conditional: intuition is more likely to be skilled when the world supplies valid cues and the learner receives timely feedback.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/19739881/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Conditions for intuitive expertise: a failure to disagreeby D Kahneman · 2009 · Cited by 4045 — This article reports on an effort t...</span></span></span>
+Kahneman and Klein’s “failure to disagree” paper matters because the two research traditions had often seemed opposed. The heuristics-and-biases tradition showed that people make systematic errors; naturalistic decision-making showed that experts often make effective rapid decisions in real environments. Their common ground was conditional: intuition is more likely to be skilled when the world supplies valid cues and the learner receives timely feedback. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/19739881/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Conditions for intuitive expertise: a failure to disagreeby D Kahneman · 2009 · Cited by 4045 — This article reports on an effort t...</span></span></span>
 
 This condition explains why everyday intuition is uneven. You may have excellent intuition about your own commute, your regular supermarket, a familiar team meeting, or the early signs that you are becoming tired. You may have much weaker intuition about a mortgage product, a medical risk, a legal dispute, a new technology, or a once-in-a-decade career move. The feeling of fluency can be similar in both cases, but the learning history behind it is not.
 
-Gerd Gigerenzer’s work on “fast and frugal” heuristics adds another useful correction: [simple rules]({{ 'simple-rules/' | relative_url }}) are not always inferior to complex calculation. A heuristic can be “ecologically rational” when it fits the structure of the environment. In plain English, a rule of thumb can work well when it uses the few cues that actually matter and ignores distracting detail.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://economics.northwestern.edu/docs/events/nemmers/2018/gigerenzer2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: economics.northwestern.edu">[Northwestern Economics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">economics.northwestern.edu</span><span class="citation-popover-title">Economics Heuristic Decision Making</span><span class="citation-popover-snippet">Economics Heuristic Decision Making</span></span></span>
+Gerd Gigerenzer’s work on “fast and frugal” heuristics adds another useful correction: [simple rules]({{ 'simple-rules/' | relative_url }}) are not always inferior to complex calculation. A heuristic can be “ecologically rational” when it fits the structure of the environment. In plain English, a rule of thumb can work well when it uses the few cues that actually matter and ignores distracting detail. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://economics.northwestern.edu/docs/events/nemmers/2018/gigerenzer2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: economics.northwestern.edu">[Northwestern Economics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">economics.northwestern.edu</span><span class="citation-popover-title">Economics Heuristic Decision Making</span><span class="citation-popover-snippet">Economics Heuristic Decision Making</span></span></span>
 
 Everyday examples include:
 
@@ -508,11 +508,11 @@ These are not anti-analytical habits. They are pre-built analysis: simple rules 
 
 Intuition becomes risky when it is fluent but untrained. Many everyday decisions feel familiar even when they are not. A new job offer may resemble a past success but differ in hidden incentives. A persuasive person may trigger trust because they speak confidently. A frightening news story may feel common because it is vivid, not because it is statistically likely. The mind is good at producing coherent impressions from incomplete evidence.
 
-The Cognitive Reflection Test, introduced by Shane Frederick, became famous because it captures one narrow but memorable failure mode: an intuitive answer can arrive quickly, feel right, and still be wrong. The test was designed to measure the tendency to resist the first answer that comes to mind and engage in further reflection. Frederick also found that scores related to choices in risk and time-preference tasks, which made the test influential in decision-making research.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeaweb.org/articles?id=10.1257%2F089533005775196732" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeaweb.org">[American Economic Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeaweb.org</span><span class="citation-popover-snippet">Open source on aeaweb.org.</span></span></span>
+The Cognitive Reflection Test, introduced by Shane Frederick, became famous because it captures one narrow but memorable failure mode: an intuitive answer can arrive quickly, feel right, and still be wrong. The test was designed to measure the tendency to resist the first answer that comes to mind and engage in further reflection. Frederick also found that scores related to choices in risk and time-preference tasks, which made the test influential in decision-making research. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aeaweb.org/articles?id=10.1257%2F089533005775196732" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeaweb.org">[American Economic Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeaweb.org</span><span class="citation-popover-snippet">Open source on aeaweb.org.</span></span></span>
 
 That does not mean every intuitive answer is bad, or that reflection always wins. It means some problems are traps for first impressions. Everyday versions include mental arithmetic, subscription costs, probability, negotiation anchors, social media headlines and emotionally charged disagreements. When the first answer is easy and satisfying, that is exactly when a short pause can matter.
 
-The evidence around “unconscious thought” is a cautionary tale. Early work suggested that distracting yourself after absorbing information might improve [complex choices]({{ 'complex-choices/' | relative_url }}), such as choosing between cars with many attributes. This became popular because it seemed to vindicate gut feeling for hard decisions. Later reviews and [replication]({{ 'replication/' | relative_url }}) attempts were more sceptical, finding that the claimed advantage was not robust enough to support a broad rule that unconscious thought beats conscious analysis for complex choices.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/journals/judgment-and-decision-making/article/on-making-the-right-choice-a-metaanalysis-and-largescale-replication-attempt-of-the-unconscious-thought-advantage/A31405A97BC221C10153E9CF78A94DB6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Open source on cambridge.org.</span></span></span>
+The evidence around “unconscious thought” is a cautionary tale. Early work suggested that distracting yourself after absorbing information might improve [complex choices]({{ 'complex-choices/' | relative_url }}), such as choosing between cars with many attributes. This became popular because it seemed to vindicate gut feeling for hard decisions. Later reviews and [replication]({{ 'replication/' | relative_url }}) attempts were more sceptical, finding that the claimed advantage was not robust enough to support a broad rule that unconscious thought beats conscious analysis for complex choices. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/journals/judgment-and-decision-making/article/on-making-the-right-choice-a-metaanalysis-and-largescale-replication-attempt-of-the-unconscious-thought-advantage/A31405A97BC221C10153E9CF78A94DB6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Open source on cambridge.org.</span></span></span>
 
 The better lesson is narrower. When a decision has too many attributes, analysis can become performative: you stare at details without knowing how to weight them. But the answer is not to abandon thinking. It is to analyse the structure first: identify the few criteria that matter, remove options that fail minimum standards, then let preference and judgement work within a cleaner choice set.
 
@@ -551,7 +551,7 @@ When a story feels complete too early, force at least two rival explanations. Th
 
 Social pressure changes thinking speed. In meetings, families and group chats, people often commit before they have privately reasoned. They anchor on the first confident speaker, soften doubts to preserve harmony, or defend an initial position because changing it would feel embarrassing.
 
-Research and practice around decision hygiene emphasise independent judgement for this reason. If people form views separately before discussion, groups are less likely to converge prematurely on the loudest or highest-status opinion. Kahneman, Sibony and Sunstein popularised “noise” as unwanted variability in judgement and argued for procedures such as independent assessments, structured comparison and delayed holistic judgement to reduce inconsistency.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Noise%3A_A_Flaw_in_Human_Judgment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Noise: A Flaw in Human Judgment</span><span class="citation-popover-snippet">Noise: A Flaw in Human Judgment</span></span></span>
+Research and practice around decision hygiene emphasise independent judgement for this reason. If people form views separately before discussion, groups are less likely to converge prematurely on the loudest or highest-status opinion. Kahneman, Sibony and Sunstein popularised “noise” as unwanted variability in judgement and argued for procedures such as independent assessments, structured comparison and delayed holistic judgement to reduce inconsistency. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Noise%3A_A_Flaw_in_Human_Judgment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Noise: A Flaw in Human Judgment</span><span class="citation-popover-snippet">Noise: A Flaw in Human Judgment</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_intuition_vs_analysi_f4ec00-Illustration-2-dark.svg" | relative_url }}" alt="Gut vs Analysis illustration 2" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_intuition_vs_analysi_f4ec00-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_intuition_vs_analysi_f4ec00-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -571,7 +571,7 @@ Use a short checklist. Clarify the goal, compare two or three options, identify 
 
 **Slow: high-stakes, irreversible, uncertain, or socially consequential.**
 
-Use structured analysis. Write down assumptions, seek outside views, separate facts from interpretations, consider base rates, run a premortem, and sleep on the decision when possible. Gary Klein’s premortem technique asks a team to imagine that a project has failed and then generate plausible reasons for the failure. This legitimises doubt before people become publicly committed to success.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hbr.org/2007/09/performing-a-project-premortem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-title">Harvard Business Review Performing a Project Premortem</span><span class="citation-popover-snippet">Harvard Business Review Performing a Project Premortem</span></span></span>
+Use structured analysis. Write down assumptions, seek outside views, separate facts from interpretations, consider base rates, run a premortem, and sleep on the decision when possible. Gary Klein’s premortem technique asks a team to imagine that a project has failed and then generate plausible reasons for the failure. This legitimises doubt before people become publicly committed to success. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hbr.org/2007/09/performing-a-project-premortem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-title">Harvard Business Review Performing a Project Premortem</span><span class="citation-popover-snippet">Harvard Business Review Performing a Project Premortem</span></span></span>
 
 The point is not that every large decision needs a spreadsheet. Some personal choices cannot be optimised mathematically. But they can still be protected from avoidable errors: missing options, hidden constraints, wishful forecasts, social pressure and failure to ask what would make the decision look foolish later.
 
@@ -605,11 +605,11 @@ For a high-stakes decision, add a premortem and an outside view. The premortem a
 <img src="{{ "/assets/images/improving_your_think_da4710_intuition_vs_analysi_f4ec00-Illustration-3-dark.svg" | relative_url }}" alt="Gut vs Analysis illustration 3" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_intuition_vs_analysi_f4ec00-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_intuition_vs_analysi_f4ec00-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Historical Tension: Bias Research and Skilled Intuition
 
-The modern debate over intuition and analysis is shaped by two traditions that corrected each other. Kahneman and Tversky’s work on judgement under uncertainty showed that people often rely on heuristics that produce systematic errors, especially with probability, risk and prediction. This challenged the idea that ordinary judgement naturally behaves like rational calculation. Kahneman’s later public work made the “fast and slow” contrast widely known, and his obituary summaries rightly emphasised how this research reshaped psychology, economics and public policy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/science/2024/apr/04/daniel-kahneman-obituary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Daniel Kahneman obituary</span><span class="citation-popover-snippet">The Guardian Daniel Kahneman obituary</span></span></span>
+The modern debate over intuition and analysis is shaped by two traditions that corrected each other. Kahneman and Tversky’s work on judgement under uncertainty showed that people often rely on heuristics that produce systematic errors, especially with probability, risk and prediction. This challenged the idea that ordinary judgement naturally behaves like rational calculation. Kahneman’s later public work made the “fast and slow” contrast widely known, and his obituary summaries rightly emphasised how this research reshaped psychology, economics and public policy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/science/2024/apr/04/daniel-kahneman-obituary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Daniel Kahneman obituary</span><span class="citation-popover-snippet">The Guardian Daniel Kahneman obituary</span></span></span>
 
-The naturalistic decision-making tradition pushed back against an overly negative picture of intuition. Researchers such as Klein studied firefighters, military personnel, nurses and other professionals making real decisions under time pressure. They found that skilled people often made good decisions without formal comparison of options, because experience allowed them to recognise situations and mentally test actions quickly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/319770380_Naturalistic_decision_making" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
+The naturalistic decision-making tradition pushed back against an overly negative picture of intuition. Researchers such as Klein studied firefighters, military personnel, nurses and other professionals making real decisions under time pressure. They found that skilled people often made good decisions without formal comparison of options, because experience allowed them to recognise situations and mentally test actions quickly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/319770380_Naturalistic_decision_making" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
 
-Gigerenzer and colleagues added another challenge: heuristics are not merely defective shortcuts. In some environments, simple rules can outperform complex optimisation because they ignore noise, reduce overfitting and match the available information. This is especially relevant to everyday life, where people rarely have complete data, stable [probabilities]({{ 'probabilities/' | relative_url }}) or unlimited time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://economics.northwestern.edu/docs/events/nemmers/2018/gigerenzer2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: economics.northwestern.edu">[Northwestern Economics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">economics.northwestern.edu</span><span class="citation-popover-title">Economics Heuristic Decision Making</span><span class="citation-popover-snippet">Economics Heuristic Decision Making</span></span></span>
+Gigerenzer and colleagues added another challenge: heuristics are not merely defective shortcuts. In some environments, simple rules can outperform complex optimisation because they ignore noise, reduce overfitting and match the available information. This is especially relevant to everyday life, where people rarely have complete data, stable [probabilities]({{ 'probabilities/' | relative_url }}) or unlimited time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://economics.northwestern.edu/docs/events/nemmers/2018/gigerenzer2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: economics.northwestern.edu">[Northwestern Economics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">economics.northwestern.edu</span><span class="citation-popover-title">Economics Heuristic Decision Making</span><span class="citation-popover-snippet">Economics Heuristic Decision Making</span></span></span>
 
 The practical synthesis is stronger than either slogan. “Trust your gut” is too broad. “Always be analytical” is too slow and sometimes unrealistic. A better rule is: trust intuition most where you have earned it, and protect it most where you have not.
 
@@ -653,194 +653,194 @@ A good rule for everyday decisions is:
 That rule keeps the value of experience without romanticising gut feeling. It also keeps the value of analysis without turning every choice into a research project. The more familiar, low-cost and reversible the decision, the more you can rely on fast judgement. The more unfamiliar, consequential, emotional or hard to reverse it is, the more you should slow down, compare alternatives and make your reasoning visible.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to When to Slow Down Your Thinking. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to When to Slow Down Your Thinking. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-</h4>
-<p class="fr-book-author">By Daniel Kahneman</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+        </h4>
+        <p class="fr-book-author">By Daniel Kahneman</p>
         
-<p class="fr-book-desc">Directly explains intuitive System 1 thinking, analytical System 2 thinking, biases, confidence, and decision safeguards.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly explains intuitive System 1 thinking, analytical System 2 thinking, biases, confidence, and decision safeguards.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Sources+of+Power+by+Gary+A.+Klein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sources of Power on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NWkGhHiOQQEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sources of Power" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Sources+of+Power+by+Gary+A.+Klein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sources of Power">Sources of Power</a>
-</h4>
-<p class="fr-book-author">By Gary A. Klein</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sources+of+Power+Gary+A.+Klein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sources of Power on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KZ7uDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Sources of Power" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Sources+of+Power+Gary+A.+Klein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sources of Power">Sources of Power</a>
+        </h4>
+        <p class="fr-book-author">By Gary A. Klein</p>
         
-<p class="fr-book-desc">Shows how experienced professionals use recognition-based decision-making in real environments.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Sources+of+Power+by+Gary+A.+Klein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Shows how experienced professionals use recognition-based decision-making in real environments.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Sources+of+Power+Gary+A.+Klein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decisive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aECTEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Decisive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decisive">Decisive</a>
-</h4>
-<p class="fr-book-author">By Chip Heath, Dan Heath</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Decisive+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decisive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aECTEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Decisive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Decisive+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decisive">Decisive</a>
+        </h4>
+        <p class="fr-book-author">By Chip Heath, Dan Heath</p>
         
-<p class="fr-book-desc">Gives safeguards for knowing when to slow down, widen options, and test first impressions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Gives safeguards for knowing when to slow down, widen options, and test first impressions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Decisive+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
-</h4>
-<p class="fr-book-author">By Rolf Dobelli</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Blink%3A+The+Power+of+Thinking+Without+Thinking+Malcolm+Gladwell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Blink: The Power of Thinking Without Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Blink%3A+The+Power+of+Thinking+Without+Thinking+Malcolm+Gladwell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Blink: The Power of Thinking Without Thinking">Blink: The Power of Thinking Without Thinking</a>
+        </h4>
+        <p class="fr-book-author">By Malcolm Gladwell</p>
         
-<p class="fr-book-desc">Explains common traps that make intuitive answers feel persuasive even when they are unreliable.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explores when snap judgements can work and when they fail, matching the page&#x27;s intuition-versus-analysis theme.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Blink%3A+The+Power+of+Thinking+Without+Thinking+Malcolm+Gladwell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Sources+of+Power&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sources of Power</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Decisive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Decisive</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sources+of+Power&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sources of Power</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Decisive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Decisive</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=down+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="down memorabilia -book -books -dvd" data-ebay-reference="gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CYPRESS HILL WHEN THE SHXX GOES DOWN MEMORABILIA Original music press advert fro"><img src="{{ '/assets/images/marketplace-covers/10abce051c7a8f7004b2.jpg' | relative_url }}" alt="Listing image for CYPRESS HILL WHEN THE SHXX GOES DOWN MEMORABILIA Original music press advert fro" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=down+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="down memorabilia -book -books -dvd" data-ebay-reference="gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">CYPRESS HILL WHEN THE SHXX GOES DOWN MEMORABILIA Original music press advert fro</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=down+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="down memorabilia -book -books -dvd" data-ebay-reference="gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for down memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: down memorabilia</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=down+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="down memorabilia -book -books -dvd" data-ebay-reference="gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=down+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="down memorabilia -book -books -dvd" data-ebay-reference="gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CYPRESS HILL WHEN THE SHXX GOES DOWN MEMORABILIA Original music press advert fro"><img src="{{ '/assets/images/marketplace-covers/10abce051c7a8f7004b2.jpg' | relative_url }}" alt="Listing image for CYPRESS HILL WHEN THE SHXX GOES DOWN MEMORABILIA Original music press advert fro" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=down+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="down memorabilia -book -books -dvd" data-ebay-reference="gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">CYPRESS HILL WHEN THE SHXX GOES DOWN MEMORABILIA Original music press advert fro</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=down+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="down memorabilia -book -books -dvd" data-ebay-reference="gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for down memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: down memorabilia</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=down+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="down memorabilia -book -books -dvd" data-ebay-reference="gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=down+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="down memorabilia -book -books -dvd" data-ebay-reference="gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for System of a down prints Collection Concert Wall Art Memorabilia A5,A4,A3"><img src="{{ '/assets/images/marketplace-covers/21e65d3bb9ae244becee.jpg' | relative_url }}" alt="Listing image for System of a down prints Collection Concert Wall Art Memorabilia A5,A4,A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=down+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="down memorabilia -book -books -dvd" data-ebay-reference="gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">System of a down prints Collection Concert Wall Art Memorabilia A5,A4,A3</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=down+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="down memorabilia -book -books -dvd" data-ebay-reference="gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for down memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: down memorabilia</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=down+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="down memorabilia -book -books -dvd" data-ebay-reference="gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=down+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="down memorabilia -book -books -dvd" data-ebay-reference="gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for System of a down prints Collection Concert Wall Art Memorabilia A5,A4,A3"><img src="{{ '/assets/images/marketplace-covers/21e65d3bb9ae244becee.jpg' | relative_url }}" alt="Listing image for System of a down prints Collection Concert Wall Art Memorabilia A5,A4,A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=down+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="down memorabilia -book -books -dvd" data-ebay-reference="gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">System of a down prints Collection Concert Wall Art Memorabilia A5,A4,A3</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=down+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="down memorabilia -book -books -dvd" data-ebay-reference="gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for down memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: down memorabilia</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=down+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="down memorabilia -book -books -dvd" data-ebay-reference="gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=down+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="down memorabilia -book -books -dvd" data-ebay-reference="gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DOWNLOAD 2017 AEROSMITH/BIFFY CLYRO/SYSTEM OF A DOWN MEMORABILIA original music"><img src="{{ '/assets/images/marketplace-covers/874a7b4d3073ebdf9cb6.jpg' | relative_url }}" alt="Listing image for DOWNLOAD 2017 AEROSMITH/BIFFY CLYRO/SYSTEM OF A DOWN MEMORABILIA original music" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=down+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="down memorabilia -book -books -dvd" data-ebay-reference="gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">DOWNLOAD 2017 AEROSMITH/BIFFY CLYRO/SYSTEM OF A DOWN MEMORABILIA original music</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=down+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="down memorabilia -book -books -dvd" data-ebay-reference="gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for down memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: down memorabilia</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=down+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="down memorabilia -book -books -dvd" data-ebay-reference="gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=down+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="down memorabilia -book -books -dvd" data-ebay-reference="gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DOWNLOAD 2017 AEROSMITH/BIFFY CLYRO/SYSTEM OF A DOWN MEMORABILIA original music"><img src="{{ '/assets/images/marketplace-covers/874a7b4d3073ebdf9cb6.jpg' | relative_url }}" alt="Listing image for DOWNLOAD 2017 AEROSMITH/BIFFY CLYRO/SYSTEM OF A DOWN MEMORABILIA original music" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=down+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="down memorabilia -book -books -dvd" data-ebay-reference="gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">DOWNLOAD 2017 AEROSMITH/BIFFY CLYRO/SYSTEM OF A DOWN MEMORABILIA original music</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=down+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="down memorabilia -book -books -dvd" data-ebay-reference="gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for down memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: down memorabilia</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=down+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="down memorabilia -book -books -dvd" data-ebay-reference="gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=down+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="down memorabilia -book -books -dvd" data-ebay-reference="gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Copy Signed LP Vinyl - System Of A Down - Memorabilia Gift | PGR"><img src="{{ '/assets/images/marketplace-covers/ac70c8bea3818d5da066.jpg' | relative_url }}" alt="Listing image for Copy Signed LP Vinyl - System Of A Down - Memorabilia Gift | PGR" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=down+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="down memorabilia -book -books -dvd" data-ebay-reference="gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Copy Signed LP Vinyl - System Of A Down - Memorabilia Gift | PGR</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=down+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="down memorabilia -book -books -dvd" data-ebay-reference="gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for down memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: down memorabilia</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=down+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="down memorabilia -book -books -dvd" data-ebay-reference="gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=down+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="down memorabilia -book -books -dvd" data-ebay-reference="gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=down+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="down memorabilia -book -books -dvd" data-ebay-reference="gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Copy Signed LP Vinyl - System Of A Down - Memorabilia Gift | PGR"><img src="{{ '/assets/images/marketplace-covers/ac70c8bea3818d5da066.jpg' | relative_url }}" alt="Listing image for Copy Signed LP Vinyl - System Of A Down - Memorabilia Gift | PGR" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=down+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="down memorabilia -book -books -dvd" data-ebay-reference="gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Copy Signed LP Vinyl - System Of A Down - Memorabilia Gift | PGR</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=down+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="down memorabilia -book -books -dvd" data-ebay-reference="gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for down memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: down memorabilia</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=down+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="down memorabilia -book -books -dvd" data-ebay-reference="gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=down+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="down memorabilia -book -books -dvd" data-ebay-reference="gut-vs-analysis-when-to-slow-down-your-thinking-improving-your-think-down-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -856,7 +856,7 @@ That rule keeps the value of experience without romanticising gut feeling. It al
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -876,7 +876,7 @@ That rule keeps the value of experience without romanticising gut feeling. It al
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -908,7 +908,7 @@ That rule keeps the value of experience without romanticising gut feeling. It al
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -960,7 +960,7 @@ That rule keeps the value of experience without romanticising gut feeling. It al
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1005,7 +1005,7 @@ That rule keeps the value of experience without romanticising gut feeling. It al
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1046,210 +1046,210 @@ That rule keeps the value of experience without romanticising gut feeling. It al
 
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/319770380_Naturalistic_decision_making" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/319770380_Naturalistic_decision_making</a>  
+   Link: <a href="https://www.researchgate.net/publication/319770380_Naturalistic_decision_making" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/319770380_Naturalistic_decision_making</a>  
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Information is processed rapidly and in parallel; processing is  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11591345/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11591345/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Beyond the Surface: A New Perspective on Dual-System...by G Hochman · 2024 · Cited by 26 — System 1 is based on preconscious, intuiti...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11591345/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11591345/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Beyond the Surface: A New Perspective on Dual-System...by G Hochman · 2024 · Cited by 26 — System 1 is based on preconscious, intuiti...</p></details>
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8979207/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8979207/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Dual Process Theory: Embodied and Predictive - PMC - NIHby SC Bellini-Leite · 2022 · Cited by 96 — One cluster describes a fast and in...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8979207/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8979207/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dual Process Theory: Embodied and Predictive - PMC - NIHby SC Bellini-Leite · 2022 · Cited by 96 — One cluster describes a fast and in...</p></details>
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: economics.northwestern.edu  
    Title: Economics Heuristic Decision Making  
-   Link:<a href="https://economics.northwestern.edu/docs/events/nemmers/2018/gigerenzer2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://economics.northwestern.edu/docs/events/nemmers/2018/gigerenzer2.pdf</a>  
+   Link: <a href="https://economics.northwestern.edu/docs/events/nemmers/2018/gigerenzer2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://economics.northwestern.edu/docs/events/nemmers/2018/gigerenzer2.pdf</a>  
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/228509269_Fast_and_frugal_heuristics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228509269_Fast_and_frugal_heuristics</a>  
+   Link: <a href="https://www.researchgate.net/publication/228509269_Fast_and_frugal_heuristics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228509269_Fast_and_frugal_heuristics</a>  
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: cambridge.org  
-   Link:<a href="https://www.cambridge.org/core/journals/judgment-and-decision-making/article/on-making-the-right-choice-a-metaanalysis-and-largescale-replication-attempt-of-the-unconscious-thought-advantage/A31405A97BC221C10153E9CF78A94DB6" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/judgment-and-decision-making/article/on-making-the-right-choice-a-metaanalysis-and-largescale-replication-attempt-of-the-unconscious-thought-advantage/A31405A97BC221C10153E9CF78A94DB6</a>  
+   Link: <a href="https://www.cambridge.org/core/journals/judgment-and-decision-making/article/on-making-the-right-choice-a-metaanalysis-and-largescale-replication-attempt-of-the-unconscious-thought-advantage/A31405A97BC221C10153E9CF78A94DB6" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/judgment-and-decision-making/article/on-making-the-right-choice-a-metaanalysis-and-largescale-replication-attempt-of-the-unconscious-thought-advantage/A31405A97BC221C10153E9CF78A94DB6</a>  
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Noise: A Flaw in Human Judgment  
-   Link:<a href="https://en.wikipedia.org/wiki/Noise%3A_A_Flaw_in_Human_Judgment" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Noise%3A_A_Flaw_in_Human_Judgment</a>  
+   Link: <a href="https://en.wikipedia.org/wiki/Noise%3A_A_Flaw_in_Human_Judgment" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Noise%3A_A_Flaw_in_Human_Judgment</a>  
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: researchgate.net  
    Title: 26798603 Conditions for Intuitive Expertise  
-   Link:<a href="https://www.researchgate.net/publication/26798603_Conditions_for_Intuitive_Expertise" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/26798603_Conditions_for_Intuitive_Expertise</a>  
+   Link: <a href="https://www.researchgate.net/publication/26798603_Conditions_for_Intuitive_Expertise" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/26798603_Conditions_for_Intuitive_Expertise</a>  
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/235418838_A_Recognition_Primed_Decision_RPD_Model_of_Rapid_Decision_Making" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/235418838_A_Recognition_Primed_Decision_RPD_Model_of_Rapid_Decision_Making</a>  
+   Link: <a href="https://www.researchgate.net/publication/235418838_A_Recognition_Primed_Decision_RPD_Model_of_Rapid_Decision_Making" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/235418838_A_Recognition_Primed_Decision_RPD_Model_of_Rapid_Decision_Making</a>  
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: researchgate.net  
    Title: 374499756 System 1 vs System 2 Thinking  
-   Link:<a href="https://www.researchgate.net/publication/374499756_System_1_vs_System_2_Thinking" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374499756_System_1_vs_System_2_Thinking</a>  
+   Link: <a href="https://www.researchgate.net/publication/374499756_System_1_vs_System_2_Thinking" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374499756_System_1_vs_System_2_Thinking</a>  
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/326134901_The_Cognitive_Reflection_Test_A_Measure_of_IntuitionReflection_Numeracy_and_Insight_Problem_Solving_and_the_Implications_for_Understanding_Real-World_Judgments_and_Beliefs" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/326134901_The_Cognitive_Reflection_Test_A_Measure_of_IntuitionReflection_Numeracy_and_Insight_Problem_Solving_and_the_Implications_for_Understanding_Real-World_Judgments_and_Beliefs</a>  
+   Link: <a href="https://www.researchgate.net/publication/326134901_The_Cognitive_Reflection_Test_A_Measure_of_IntuitionReflection_Numeracy_and_Insight_Problem_Solving_and_the_Implications_for_Understanding_Real-World_Judgments_and_Beliefs" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/326134901_The_Cognitive_Reflection_Test_A_Measure_of_IntuitionReflection_Numeracy_and_Insight_Problem_Solving_and_the_Implications_for_Understanding_Real-World_Judgments_and_Beliefs</a>  
 
-12.<a id="endnote-12"></a>
+12. <a id="endnote-12"></a>
    Source: researchgate.net  
    Title: 398819815 Cognitive biases and decision making  
-   Link:<a href="https://www.researchgate.net/publication/398819815_Cognitive_biases_and_decision_making" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/398819815_Cognitive_biases_and_decision_making</a>  
+   Link: <a href="https://www.researchgate.net/publication/398819815_Cognitive_biases_and_decision_making" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/398819815_Cognitive_biases_and_decision_making</a>  
 
-13.<a id="endnote-13"></a>
+13. <a id="endnote-13"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/3229642_Performing_a_Project_Premortem" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/3229642_Performing_a_Project_Premortem</a>  
+   Link: <a href="https://www.researchgate.net/publication/3229642_Performing_a_Project_Premortem" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/3229642_Performing_a_Project_Premortem</a>  
 
-14.<a id="endnote-14"></a>
+14. <a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Dual process theory  
-   Link:<a href="https://en.wikipedia.org/wiki/Dual_process_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dual_process_theory</a>  
+   Link: <a href="https://en.wikipedia.org/wiki/Dual_process_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dual_process_theory</a>  
 
-15.<a id="endnote-15"></a>
+15. <a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Recognition (sociology)  
-   Link:<a href="https://en.wikipedia.org/wiki/Recognition_%28sociology%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Recognition_%28sociology%29</a>  
+   Link: <a href="https://en.wikipedia.org/wiki/Recognition_%28sociology%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Recognition_%28sociology%29</a>  
 
-16.<a id="endnote-16"></a>
+16. <a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Naturalistic decision making  
-   Link:<a href="https://en.wikipedia.org/wiki/Naturalistic_decision-making" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Naturalistic_decision-making</a>  
+   Link: <a href="https://en.wikipedia.org/wiki/Naturalistic_decision-making" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Naturalistic_decision-making</a>  
 
-17.<a id="endnote-17"></a>
+17. <a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Cognitive reflection test  
-   Link:<a href="https://en.wikipedia.org/wiki/Cognitive_reflection_test" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cognitive_reflection_test</a>  
+   Link: <a href="https://en.wikipedia.org/wiki/Cognitive_reflection_test" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cognitive_reflection_test</a>  
 
-18.<a id="endnote-18"></a>
+18. <a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Unconscious thought theory  
-   Link:<a href="https://en.wikipedia.org/wiki/Unconscious_thought_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unconscious_thought_theory</a>  
+   Link: <a href="https://en.wikipedia.org/wiki/Unconscious_thought_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unconscious_thought_theory</a>  
 
-19.<a id="endnote-19"></a>
+19. <a id="endnote-19"></a>
    Source: gerd-gigerenzer.com  
-   Link:<a href="https://www.gerd-gigerenzer.com/books" target="_blank" rel="noopener noreferrer nofollow">https://www.gerd-gigerenzer.com/books</a>  
+   Link: <a href="https://www.gerd-gigerenzer.com/books" target="_blank" rel="noopener noreferrer nofollow">https://www.gerd-gigerenzer.com/books</a>  
 
-20.<a id="endnote-20"></a>
+20. <a id="endnote-20"></a>
    Source: cambridge.org  
-   Link:<a href="https://www.cambridge.org/core/books/cambridge-handbook-of-cognitive-development/reasoning-bias-and-dual-process-theory/CFCDC254050CD44DE832BA9649DFA6C0" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/cambridge-handbook-of-cognitive-development/reasoning-bias-and-dual-process-theory/CFCDC254050CD44DE832BA9649DFA6C0</a>  
+   Link: <a href="https://www.cambridge.org/core/books/cambridge-handbook-of-cognitive-development/reasoning-bias-and-dual-process-theory/CFCDC254050CD44DE832BA9649DFA6C0" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/cambridge-handbook-of-cognitive-development/reasoning-bias-and-dual-process-theory/CFCDC254050CD44DE832BA9649DFA6C0</a>  
 
-21.<a id="endnote-21"></a>
+21. <a id="endnote-21"></a>
    Source: gary-klein.com  
-   Link:<a href="https://www.gary-klein.com/rpd" target="_blank" rel="noopener noreferrer nofollow">https://www.gary-klein.com/rpd</a>  
+   Link: <a href="https://www.gary-klein.com/rpd" target="_blank" rel="noopener noreferrer nofollow">https://www.gary-klein.com/rpd</a>  
 
-22.<a id="endnote-22"></a>
+22. <a id="endnote-22"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/19739881/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/19739881/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Conditions for intuitive expertise: a failure to disagreeby D Kahneman · 2009 · Cited by 4045 — This article reports on an effort t...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/19739881/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/19739881/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Conditions for intuitive expertise: a failure to disagreeby D Kahneman · 2009 · Cited by 4045 — This article reports on an effort t...</p></details>
 
-23.<a id="endnote-23"></a>
+23. <a id="endnote-23"></a>
    Source: cgsc.contentdm.oclc.org  
-   Link:<a href="https://cgsc.contentdm.oclc.org/digital/api/collection/p16040coll2/id/23/download" target="_blank" rel="noopener noreferrer nofollow">https://cgsc.contentdm.oclc.org/digital/api/collection/p16040coll2/id/23/download</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>CONTENTdmRecognition-Primed Decision MakingNaturalistic decision- making strategies like RPD are useful for individual decision-making an...</p></details>
+   Link: <a href="https://cgsc.contentdm.oclc.org/digital/api/collection/p16040coll2/id/23/download" target="_blank" rel="noopener noreferrer nofollow">https://cgsc.contentdm.oclc.org/digital/api/collection/p16040coll2/id/23/download</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>CONTENTdmRecognition-Primed Decision MakingNaturalistic decision- making strategies like RPD are useful for individual decision-making an...</p></details>
 
-24.<a id="endnote-24"></a>
+24. <a id="endnote-24"></a>
    Source: aeaweb.org  
-   Link:<a href="https://www.aeaweb.org/articles?id=10.1257%2F089533005775196732" target="_blank" rel="noopener noreferrer nofollow">https://www.aeaweb.org/articles?id=10.1257%2F089533005775196732</a>  
+   Link: <a href="https://www.aeaweb.org/articles?id=10.1257%2F089533005775196732" target="_blank" rel="noopener noreferrer nofollow">https://www.aeaweb.org/articles?id=10.1257%2F089533005775196732</a>  
 
-25.<a id="endnote-25"></a>
+25. <a id="endnote-25"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4436803/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4436803/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4436803/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4436803/</a>  
 
-26.<a id="endnote-26"></a>
+26. <a id="endnote-26"></a>
    Source: hbr.org  
    Title: Harvard Business Review Performing a Project Premortem  
-   Link:<a href="https://hbr.org/2007/09/performing-a-project-premortem" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2007/09/performing-a-project-premortem</a>  
+   Link: <a href="https://hbr.org/2007/09/performing-a-project-premortem" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2007/09/performing-a-project-premortem</a>  
 
-27.<a id="endnote-27"></a>
+27. <a id="endnote-27"></a>
    Source: theguardian.com  
    Title: The Guardian Daniel Kahneman obituary  
-   Link:<a href="https://www.theguardian.com/science/2024/apr/04/daniel-kahneman-obituary" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2024/apr/04/daniel-kahneman-obituary</a>  
+   Link: <a href="https://www.theguardian.com/science/2024/apr/04/daniel-kahneman-obituary" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2024/apr/04/daniel-kahneman-obituary</a>  
 
-28.<a id="endnote-28"></a>
+28. <a id="endnote-28"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5344059/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5344059/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5344059/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5344059/</a>  
 
-29.<a id="endnote-29"></a>
+29. <a id="endnote-29"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/18689053/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/18689053/</a>  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/18689053/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/18689053/</a>  
 
-30.<a id="endnote-30"></a>
+30. <a id="endnote-30"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11643215/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11643215/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11643215/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11643215/</a>  
 
-31.<a id="endnote-31"></a>
+31. <a id="endnote-31"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4519675/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4519675/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4519675/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4519675/</a>  
 
-32.<a id="endnote-32"></a>
+32. <a id="endnote-32"></a>
    Source: facebook.com  
-   Link:<a href="https://www.facebook.com/groups/1208389760578176/posts/1295969445153540/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1208389760578176/posts/1295969445153540/</a>  
+   Link: <a href="https://www.facebook.com/groups/1208389760578176/posts/1295969445153540/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1208389760578176/posts/1295969445153540/</a>  
 
-33.<a id="endnote-33"></a>
+33. <a id="endnote-33"></a>
    Source: souldriver.com.au  
-   Link:<a href="https://souldriver.com.au/report/how-do-cognitive-biases-secretly-influence-every-decision-we-make/pdf" target="_blank" rel="noopener noreferrer nofollow">https://souldriver.com.au/report/how-do-cognitive-biases-secretly-influence-every-decision-we-make/pdf</a>  
+   Link: <a href="https://souldriver.com.au/report/how-do-cognitive-biases-secretly-influence-every-decision-we-make/pdf" target="_blank" rel="noopener noreferrer nofollow">https://souldriver.com.au/report/how-do-cognitive-biases-secretly-influence-every-decision-we-make/pdf</a>  
 
-34.<a id="endnote-34"></a>
+34. <a id="endnote-34"></a>
    Source: mospace.umsystem.edu  
-   Link:<a href="https://mospace.umsystem.edu/bitstreams/878dd101-a441-4504-8eeb-b77e61fcca58/download" target="_blank" rel="noopener noreferrer nofollow">https://mospace.umsystem.edu/bitstreams/878dd101-a441-4504-8eeb-b77e61fcca58/download</a>  
+   Link: <a href="https://mospace.umsystem.edu/bitstreams/878dd101-a441-4504-8eeb-b77e61fcca58/download" target="_blank" rel="noopener noreferrer nofollow">https://mospace.umsystem.edu/bitstreams/878dd101-a441-4504-8eeb-b77e61fcca58/download</a>  
 
-35.<a id="endnote-35"></a>
+35. <a id="endnote-35"></a>
    Source: humanbenchmark.now  
    Title: Cognitive Reflection Test  
-   Link:<a href="https://humanbenchmark.now/tests/cognitive-reflection" target="_blank" rel="noopener noreferrer nofollow">https://humanbenchmark.now/tests/cognitive-reflection</a>  
+   Link: <a href="https://humanbenchmark.now/tests/cognitive-reflection" target="_blank" rel="noopener noreferrer nofollow">https://humanbenchmark.now/tests/cognitive-reflection</a>  
 
 ### Additional References
 
-36.<a id="endnote-36"></a>
+36. <a id="endnote-36"></a>
    Source: youtube.com  
    Title: Episode 4 − Intuition and Rationality: Thinking fast and slow  
-   Link:<a href="https://www.youtube.com/watch?v=LTQ-7mvpEs0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LTQ-7mvpEs0</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Thinking Fast and Slow - Daniel Kahneman in conversation with Richard Layard...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=LTQ-7mvpEs0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LTQ-7mvpEs0</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thinking Fast and Slow - Daniel Kahneman in conversation with Richard Layard...</p></details>
 
-37.<a id="endnote-37"></a>
+37. <a id="endnote-37"></a>
    Source: youtube.com  
    Title: Thinking Fast and Slow  
-   Link:<a href="https://www.youtube.com/watch?v=i_UVDD7ErJ4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i_UVDD7ErJ4</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Decision-Making Psychology - Intuition versus Logic...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=i_UVDD7ErJ4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i_UVDD7ErJ4</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Decision-Making Psychology - Intuition versus Logic...</p></details>
 
-38.<a id="endnote-38"></a>
+38. <a id="endnote-38"></a>
    Source: youtube.com  
    Title: Intuition Is Experience Speaking — with Gary Klein  
-   Link:<a href="https://www.youtube.com/watch?v=BR3kfG6STZI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BR3kfG6STZI</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Improving Tactical Decision Making with Dr. Gary Klein...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=BR3kfG6STZI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BR3kfG6STZI</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Improving Tactical Decision Making with Dr. Gary Klein...</p></details>
 
-39.<a id="endnote-39"></a>
+39. <a id="endnote-39"></a>
    Source: youtube.com  
    Title: Decision-Making Psychology  
-   Link:<a href="https://www.youtube.com/watch?v=QNLwI0igJLc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QNLwI0igJLc</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Intuition Is Experience Speaking — with Gary Klein...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=QNLwI0igJLc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QNLwI0igJLc</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Intuition Is Experience Speaking — with Gary Klein...</p></details>
 
-40.<a id="endnote-40"></a>
+40. <a id="endnote-40"></a>
    Source: linkedin.com  
-   Link:<a href="https://www.linkedin.com/posts/yuliia-drobot_pdf-conditions-for-intuitive-expertise-activity-7137409442857259008-4_mX" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/yuliia-drobot_pdf-conditions-for-intuitive-expertise-activity-7137409442857259008-4_mX</a>  
+   Link: <a href="https://www.linkedin.com/posts/yuliia-drobot_pdf-conditions-for-intuitive-expertise-activity-7137409442857259008-4_mX" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/yuliia-drobot_pdf-conditions-for-intuitive-expertise-activity-7137409442857259008-4_mX</a>  
 
-41.<a id="endnote-41"></a>
+41. <a id="endnote-41"></a>
    Source: linkedin.com  
-   Link:<a href="https://www.linkedin.com/posts/gary-klein-90b0a915_a-primer-on-recognition-primed-decision-making-activity-7340806779615735810-HyPo" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/gary-klein-90b0a915_a-primer-on-recognition-primed-decision-making-activity-7340806779615735810-HyPo</a>  
+   Link: <a href="https://www.linkedin.com/posts/gary-klein-90b0a915_a-primer-on-recognition-primed-decision-making-activity-7340806779615735810-HyPo" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/gary-klein-90b0a915_a-primer-on-recognition-primed-decision-making-activity-7340806779615735810-HyPo</a>  
 
-42.<a id="endnote-42"></a>
+42. <a id="endnote-42"></a>
    Source: fs.blog  
-   Link:<a href="https://fs.blog/before-you-make-that-big-decision/" target="_blank" rel="noopener noreferrer nofollow">https://fs.blog/before-you-make-that-big-decision/</a>  
+   Link: <a href="https://fs.blog/before-you-make-that-big-decision/" target="_blank" rel="noopener noreferrer nofollow">https://fs.blog/before-you-make-that-big-decision/</a>  
 
-43.<a id="endnote-43"></a>
+43. <a id="endnote-43"></a>
    Source: sabeconomics.org  
-   Link:<a href="https://sabeconomics.org/wordpress/wp-content/uploads/JBEP-6-1-BR3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sabeconomics.org/wordpress/wp-content/uploads/JBEP-6-1-BR3.pdf</a>  
+   Link: <a href="https://sabeconomics.org/wordpress/wp-content/uploads/JBEP-6-1-BR3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sabeconomics.org/wordpress/wp-content/uploads/JBEP-6-1-BR3.pdf</a>  
 
-44.<a id="endnote-44"></a>
+44. <a id="endnote-44"></a>
    Source: barrons.com  
-   Link:<a href="https://www.barrons.com/articles/economist-daniel-kahneman-says-noise-is-wrecking-your-judgment-heres-why-and-what-to-do-about-it-51622228892" target="_blank" rel="noopener noreferrer nofollow">https://www.barrons.com/articles/economist-daniel-kahneman-says-noise-is-wrecking-your-judgment-heres-why-and-what-to-do-about-it-51622228892</a>  
+   Link: <a href="https://www.barrons.com/articles/economist-daniel-kahneman-says-noise-is-wrecking-your-judgment-heres-why-and-what-to-do-about-it-51622228892" target="_blank" rel="noopener noreferrer nofollow">https://www.barrons.com/articles/economist-daniel-kahneman-says-noise-is-wrecking-your-judgment-heres-why-and-what-to-do-about-it-51622228892</a>  
 
-45.<a id="endnote-45"></a>
+45. <a id="endnote-45"></a>
    Source: suebehaviouraldesign.com  
-   Link:<a href="https://www.suebehaviouraldesign.com/assets/downloads/cognitive-bias-checklist-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.suebehaviouraldesign.com/assets/downloads/cognitive-bias-checklist-en.pdf</a>  
+   Link: <a href="https://www.suebehaviouraldesign.com/assets/downloads/cognitive-bias-checklist-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.suebehaviouraldesign.com/assets/downloads/cognitive-bias-checklist-en.pdf</a>  

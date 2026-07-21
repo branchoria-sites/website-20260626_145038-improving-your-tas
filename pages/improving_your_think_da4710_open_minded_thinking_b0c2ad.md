@@ -447,17 +447,17 @@ image: /assets/images/improving_your_think_da4710_open_minded_thinking_b0c2ad-ov
 
 ## Introduction
 
-Actively open-minded thinking in real disagreements means giving serious alternatives a fair test without pretending that every view is equally well supported. It is not passive tolerance, automatic compromise, or a performance of politeness. It is a disciplined way of asking: “What would I notice if the other side were partly right, and what standards should both sides have to meet?” Research on actively open-minded thinking describes it as a disposition to seek disconfirming information, tolerate ambiguity, delay premature closure, and act for good reasons rather than for comfort or tribal loyalty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9966223/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCActively Open-Minded Thinking and Its Measurement</span><span class="citation-popover-snippet">by KE Stanovich · 2023 · Cited by 118 — In Stanovich and West (1997), we conceptualized AOT as a thinking disposition encompassing the...</span></span></span>
+Actively open-minded thinking in real disagreements means giving serious alternatives a fair test without pretending that every view is equally well supported. It is not passive tolerance, automatic compromise, or a performance of politeness. It is a disciplined way of asking: “What would I notice if the other side were partly right, and what standards should both sides have to meet?” Research on actively open-minded thinking describes it as a disposition to seek disconfirming information, tolerate ambiguity, delay premature closure, and act for good reasons rather than for comfort or tribal loyalty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9966223/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCActively Open-Minded Thinking and Its Measurement</span><span class="citation-popover-snippet">by KE Stanovich · 2023 · Cited by 118 — In Stanovich and West (1997), we conceptualized AOT as a thinking disposition encompassing the...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_open_minded_thinking_b0c2ad-overview.webp" | relative_url }}" alt="Overview image for Open Mind" loading="eager" decoding="sync" fetchpriority="high">
-This matters most when disagreement is real: when the issue affects identity, money, politics, relationships, professional judgement or moral standing. In those moments, people often do not simply “lack information”. They may evaluate the same information differently, scrutinising hostile evidence more harshly than friendly evidence. Classic and later research on myside bias shows why open-mindedness has to be active: intelligence alone does not reliably protect people from reasoning in favour of their existing side.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/232555483_Biased_assimilation_and_attitude_polarization_The_effects_of_prior_theories_on_subsequently_considered_evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
+This matters most when disagreement is real: when the issue affects identity, money, politics, relationships, professional judgement or moral standing. In those moments, people often do not simply “lack information”. They may evaluate the same information differently, scrutinising hostile evidence more harshly than friendly evidence. Classic and later research on myside bias shows why open-mindedness has to be active: intelligence alone does not reliably protect people from reasoning in favour of their existing side. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/232555483_Biased_assimilation_and_attitude_polarization_The_effects_of_prior_theories_on_subsequently_considered_evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
 
 ## Fairness is not false balance
 
 The first trap is confusing open-mindedness with giving every position equal weight. In a real disagreement, fairness means applying the [same standards]({{ 'same-standard/' | relative_url }}) of evidence, logic and relevance to each side. It does not mean splitting the difference between a strong case and a weak one, or treating fringe claims as equal to a broad expert consensus.
 
-This distinction is especially clear in science communication. Research on “[false balance]({{ 'false-balance/' | relative_url }})” finds that presenting consensus-backed science and poorly supported denial as if they deserve equal space can spread misinformation under the appearance of neutrality. A better approach is a “weight-of-evidence” strategy: acknowledge that different claims exist, but give each claim prominence in proportion to the evidence behind it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofcognition.org/articles/10.5334/joc.125" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofcognition.org">[Journal of Cognition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofcognition.org</span><span class="citation-popover-snippet">Open source on journalofcognition.org.</span></span></span>
+This distinction is especially clear in science communication. Research on “[false balance]({{ 'false-balance/' | relative_url }})” finds that presenting consensus-backed science and poorly supported denial as if they deserve equal space can spread misinformation under the appearance of neutrality. A better approach is a “weight-of-evidence” strategy: acknowledge that different claims exist, but give each claim prominence in proportion to the evidence behind it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofcognition.org/articles/10.5334/joc.125" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofcognition.org">[Journal of Cognition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofcognition.org</span><span class="citation-popover-snippet">Open source on journalofcognition.org.</span></span></span>
 
 The same principle applies outside science. In a workplace disagreement, one person may have detailed operational data while another has a strong hunch. In a family disagreement, one person may have direct experience while another is relying on assumptions. In a political argument, one side may be citing a careful study while another is sharing a viral anecdote. Open-minded thinking asks you to hear the alternative, but then to test it according to its evidential strength.
 
@@ -480,9 +480,9 @@ This is why actively open-minded thinking is a mechanism, not just a virtue. It 
 
 </div>
 
-The classic death-penalty study by Lord, Ross and Lepper showed how people with opposing prior beliefs could examine mixed evidence and come away more confident in their original position. The problem was not simply that they ignored evidence; it was that they accepted friendly evidence more easily and found flaws more readily in unfriendly evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fbaum.unc.edu/teaching/articles/jpsp-1979-Lord-Ross-Lepper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbaum.unc.edu">[Frank Baumgartner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbaum.unc.edu</span><span class="citation-popover-title">Frank Baumgartner Biased Assimilation and Attitude Polarization: The Effects</span><span class="citation-popover-snippet">Frank Baumgartner Biased Assimilation and Attitude Polarization: The Effects</span></span></span>
+The classic death-penalty study by Lord, Ross and Lepper showed how people with opposing prior beliefs could examine mixed evidence and come away more confident in their original position. The problem was not simply that they ignored evidence; it was that they accepted friendly evidence more easily and found flaws more readily in unfriendly evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fbaum.unc.edu/teaching/articles/jpsp-1979-Lord-Ross-Lepper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbaum.unc.edu">[Frank Baumgartner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbaum.unc.edu</span><span class="citation-popover-title">Frank Baumgartner Biased Assimilation and Attitude Polarization: The Effects</span><span class="citation-popover-snippet">Frank Baumgartner Biased Assimilation and Attitude Polarization: The Effects</span></span></span>
 
-That pattern is why the instruction “be unbiased” is often too weak. A more effective move is to deliberately **consider the opposite**: ask what would be true, visible or expected if your current view were wrong. In experiments by Lord, Lepper and Preston, inducing people to consider the opposite reduced bias more effectively than simply telling them to be fair and unbiased.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/16669522_Considering_the_Opposite_A_Corrective_Strategy_for_Social_Judgment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Considering the Opposite: A Corrective Strategy for Social</span><span class="citation-popover-snippet">Research Gate Considering the Opposite: A Corrective Strategy for Social</span></span></span>
+That pattern is why the instruction “be unbiased” is often too weak. A more effective move is to deliberately **consider the opposite**: ask what would be true, visible or expected if your current view were wrong. In experiments by Lord, Lepper and Preston, inducing people to consider the opposite reduced bias more effectively than simply telling them to be fair and unbiased. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/16669522_Considering_the_Opposite_A_Corrective_Strategy_for_Social_Judgment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Considering the Opposite: A Corrective Strategy for Social</span><span class="citation-popover-snippet">Research Gate Considering the Opposite: A Corrective Strategy for Social</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O7pgSZyU4_g" title="False Balance explained (explainity® explainer video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O7pgSZyU4_g" target="_blank" rel="noopener noreferrer">False Balance explained (explainity® explainer video)</a></p><p class="youtube-embed-meta">Channel: explainitychannel</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O7pgSZyU4_g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O7pgSZyU4_g">Open on YouTube</a></p></div></div></div>
@@ -504,7 +504,7 @@ There are three different [outcomes]({{ 'outcomes/' | relative_url }}) after a s
 
 All three can be open-minded. The key is whether the disagreement had a real chance to affect your thinking. If no possible objection, example, source or argument could move you even slightly, then the conversation is not a test; it is a defence ritual.
 
-This is where intellectual humility helps. Psychologists often define intellectual humility as recognising that your beliefs may be fallible and that your information or reasoning may be limited. Reviews of the research link it with better learning, less dogmatism, lower susceptibility to conspiracy beliefs, and more constructive handling of conflict.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9244574/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPredictors and consequences of intellectual humility</span><span class="citation-popover-snippet">PMCPredictors and consequences of intellectual humility</span></span></span>
+This is where intellectual humility helps. Psychologists often define intellectual humility as recognising that your beliefs may be fallible and that your information or reasoning may be limited. Reviews of the research link it with better learning, less dogmatism, lower susceptibility to conspiracy beliefs, and more constructive handling of conflict. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9244574/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPredictors and consequences of intellectual humility</span><span class="citation-popover-snippet">PMCPredictors and consequences of intellectual humility</span></span></span>
 
 Humility, however, is not the same as surrender. A doctor should not treat a patient’s internet rumour as equal to clinical evidence. A manager should not treat every complaint as accurate before checking facts. A citizen should not treat a confident claim as credible merely because it is passionately expressed. The open-minded move is to ask, “What is the best version of this challenge, and what would count as a good answer?”
 
@@ -512,7 +512,7 @@ Humility, however, is not the same as surrender. A doctor should not treat a pat
 <img src="{{ "/assets/images/improving_your_think_da4710_open_minded_thinking_b0c2ad-Illustration-2-dark.svg" | relative_url }}" alt="Open Mind illustration 2" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_open_minded_thinking_b0c2ad-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_open_minded_thinking_b0c2ad-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to listen without pretending to agree
 
-In real disagreements, people often care as much about whether they have been understood as whether they have been defeated. Research on conversational receptiveness studies the language people use to show willingness to engage thoughtfully with opposing views. It finds that receptiveness is not just a private attitude; it is communicated through concrete behaviours such as acknowledging the other person’s point before disagreeing, using less dismissive phrasing, and making space for complexity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mikeyeomans.info/papers/receptiveness.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mikeyeomans.info">[mikeyeomans.info]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mikeyeomans.info</span><span class="citation-popover-title">Conversational receptiveness</span><span class="citation-popover-snippet">Conversational receptiveness</span></span></span>
+In real disagreements, people often care as much about whether they have been understood as whether they have been defeated. Research on conversational receptiveness studies the language people use to show willingness to engage thoughtfully with opposing views. It finds that receptiveness is not just a private attitude; it is communicated through concrete behaviours such as acknowledging the other person’s point before disagreeing, using less dismissive phrasing, and making space for complexity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mikeyeomans.info/papers/receptiveness.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mikeyeomans.info">[mikeyeomans.info]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mikeyeomans.info</span><span class="citation-popover-title">Conversational receptiveness</span><span class="citation-popover-snippet">Conversational receptiveness</span></span></span>
 
 This does not mean covering disagreement in soft language until nothing clear remains. It means separating two tasks that people often collapse:
 
@@ -521,7 +521,7 @@ This does not mean covering disagreement in soft language until nothing clear re
 
 Many arguments fail because evaluation arrives before understanding. The listener hears one sentence, maps it onto a disliked category, and begins rebutting the category rather than the person’s actual claim. Actively open-minded thinking slows that jump. It asks you to paraphrase the view, identify the strongest evidence for it, and only then explain where you think it fails.
 
-Deep-canvassing research gives a concrete example of this mechanism in contentious political settings. In field experiments, non-judgemental exchanges of personal narratives reduced exclusionary attitudes more durably than argument-only conversations, including effects lasting for months in studies on immigration and transphobia.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3532688" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Open source on ssrn.com.</span></span></span>
+Deep-canvassing research gives a concrete example of this mechanism in contentious political settings. In field experiments, non-judgemental exchanges of personal narratives reduced exclusionary attitudes more durably than argument-only conversations, including effects lasting for months in studies on immigration and transphobia. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3532688" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Open source on ssrn.com.</span></span></span>
 
 The lesson is not that facts do not matter. It is that people often become more able to consider facts after threat, contempt and identity defence have been lowered. Listening is not a substitute for evidence; it is often the condition that lets evidence be heard.
 
@@ -552,7 +552,7 @@ This is the everyday implementation of actively open-minded thinking. It protect
 
 Open-mindedness also includes judgement about which disagreements are worth sustained engagement. Some alternatives deserve a fair test; others have already failed repeated tests, rely on bad-faith tactics, or impose unreasonable costs on the people asked to debate them.
 
-This is where false balance becomes personally relevant. You do not owe equal attention to every claim merely because someone asserts it. A fair test can be brief when a claim lacks evidence, contradicts well-established facts, or depends on unfalsifiable moves. In expert-heavy topics, open-mindedness may mean checking the state of evidence and the distribution of expert judgement rather than trying to personally adjudicate every technical detail. The Royal Society and US National Academy of Sciences, for example, describe good public science guidance as distinguishing what is well established, where consensus is growing, and where [uncertainty]({{ 'uncertainty/' | relative_url }}) remains.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://royalsociety.org/news-resources/projects/climate-change-evidence-causes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsociety.org">[Royal Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsociety.org</span><span class="citation-popover-snippet">Open source on royalsociety.org.</span></span></span>
+This is where false balance becomes personally relevant. You do not owe equal attention to every claim merely because someone asserts it. A fair test can be brief when a claim lacks evidence, contradicts well-established facts, or depends on unfalsifiable moves. In expert-heavy topics, open-mindedness may mean checking the state of evidence and the distribution of expert judgement rather than trying to personally adjudicate every technical detail. The Royal Society and US National Academy of Sciences, for example, describe good public science guidance as distinguishing what is well established, where consensus is growing, and where [uncertainty]({{ 'uncertainty/' | relative_url }}) remains. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://royalsociety.org/news-resources/projects/climate-change-evidence-causes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsociety.org">[Royal Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsociety.org</span><span class="citation-popover-snippet">Open source on royalsociety.org.</span></span></span>
 
 A useful boundary is: **be open to evidence, not endlessly available to assertion.** If someone brings a serious objection, engage it. If they repeat a debunked claim without improving it, the open-minded response may be to stop treating repetition as new evidence.
 
@@ -571,194 +571,194 @@ That is the practical standard: not “Did I win?” and not “Did I agree?” 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to What Open Minded Thinking Actually Requires. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to What Open-Minded Thinking Actually Requires. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-</h4>
-<p class="fr-book-author">By Daniel Kahneman</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=45OmCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Superforecasting+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
+        </h4>
+        <p class="fr-book-author">By Philip Tetlock, Dan Gardner</p>
         
-<p class="fr-book-desc">Explains the biases and mental habits that actively open-minded thinking seeks to overcome.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Shows how disciplined thinking, calibration, and evidence improve judgments.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Superforecasting+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
-</h4>
-<p class="fr-book-author">By Julia Galef</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+        </h4>
+        <p class="fr-book-author">By Daniel Kahneman</p>
         
-<p class="fr-book-desc">Directly addresses updating beliefs, seeking evidence, and avoiding motivated reasoning.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains the biases and mental habits that actively open-minded thinking seeks to overcome.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ICgWrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
-</h4>
-<p class="fr-book-author">By Philip Eyrikson Tetlock, Dan Gardner</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
+        </h4>
+        <p class="fr-book-author">By Julia Galef</p>
         
-<p class="fr-book-desc">Shows how disciplined thinking, calibration, and evidence improve judgments.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly addresses updating beliefs, seeking evidence, and avoiding motivated reasoning.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A1NYvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
-</h4>
-<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
-        
-<p class="fr-book-desc">Explains why people resist changing their minds and how to recognize that tendency.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+        </h4>
+        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+        <p class="fr-book-desc">Promotes evidence-based thinking while remaining genuinely open to new evidence.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scout Mindset</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scout Mindset</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-open-minded-thinking-actually-requires-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="what-open-minded-thinking-actually-requires-debate-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Debatable: Compact and Fun Debate Game for 3-16 Players - Win Every Argument!"><img src="https://i.ebayimg.com/images/g/tMkAAeSwcLZqIFsz/s-l225.jpg" alt="Listing image for Debatable: Compact and Fun Debate Game for 3-16 Players - Win Every Argument!" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-open-minded-thinking-actually-requires-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="what-open-minded-thinking-actually-requires-debate-card-game" target="_blank" rel="sponsored noopener noreferrer">Debatable: Compact and Fun Debate Game for 3-16 Players - Win Every Argument!</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-open-minded-thinking-actually-requires-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="what-open-minded-thinking-actually-requires-debate-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate card game">Search<span data-ebay-domain-label>eBay.co.uk</span>: debate card game</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-open-minded-thinking-actually-requires-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="what-open-minded-thinking-actually-requires-debate-card-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-open-minded-thinking-actually-requires-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="what-open-minded-thinking-actually-requires-debate-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Debatable: Compact and Fun Debate Game for 3-16 Players - Win Every Argument!"><img src="https://i.ebayimg.com/images/g/tMkAAeSwcLZqIFsz/s-l225.jpg" alt="Listing image for Debatable: Compact and Fun Debate Game for 3-16 Players - Win Every Argument!" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-open-minded-thinking-actually-requires-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="what-open-minded-thinking-actually-requires-debate-card-game" target="_blank" rel="sponsored noopener noreferrer">Debatable: Compact and Fun Debate Game for 3-16 Players - Win Every Argument!</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-open-minded-thinking-actually-requires-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="what-open-minded-thinking-actually-requires-debate-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate card game">Search <span data-ebay-domain-label>eBay.co.uk</span>: debate card game</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-open-minded-thinking-actually-requires-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="what-open-minded-thinking-actually-requires-debate-card-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-open-minded-thinking-actually-requires-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="what-open-minded-thinking-actually-requires-debate-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Debate It! - Sparking Conversations - Card Game For Family Friends And Kids"><img src="https://i.ebayimg.com/images/g/opcAAOSwxAhgdDLf/s-l225.jpg" alt="Listing image for Debate It! - Sparking Conversations - Card Game For Family Friends And Kids" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-open-minded-thinking-actually-requires-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="what-open-minded-thinking-actually-requires-debate-card-game" target="_blank" rel="sponsored noopener noreferrer">Debate It! - Sparking Conversations - Card Game For Family Friends And Kids</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-open-minded-thinking-actually-requires-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="what-open-minded-thinking-actually-requires-debate-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate card game">Search<span data-ebay-domain-label>eBay.co.uk</span>: debate card game</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-open-minded-thinking-actually-requires-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="what-open-minded-thinking-actually-requires-debate-card-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-open-minded-thinking-actually-requires-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="what-open-minded-thinking-actually-requires-debate-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Debate It! - Sparking Conversations - Card Game For Family Friends And Kids"><img src="https://i.ebayimg.com/images/g/opcAAOSwxAhgdDLf/s-l225.jpg" alt="Listing image for Debate It! - Sparking Conversations - Card Game For Family Friends And Kids" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-open-minded-thinking-actually-requires-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="what-open-minded-thinking-actually-requires-debate-card-game" target="_blank" rel="sponsored noopener noreferrer">Debate It! - Sparking Conversations - Card Game For Family Friends And Kids</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-open-minded-thinking-actually-requires-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="what-open-minded-thinking-actually-requires-debate-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate card game">Search <span data-ebay-domain-label>eBay.co.uk</span>: debate card game</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-open-minded-thinking-actually-requires-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="what-open-minded-thinking-actually-requires-debate-card-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-open-minded-thinking-actually-requires-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="what-open-minded-thinking-actually-requires-debate-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Great Debate Multiplayer Card Game"><img src="https://i.ebayimg.com/images/g/g0wAAeSwziRqIefT/s-l225.jpg" alt="Listing image for The Great Debate Multiplayer Card Game" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-open-minded-thinking-actually-requires-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="what-open-minded-thinking-actually-requires-debate-card-game" target="_blank" rel="sponsored noopener noreferrer">The Great Debate Multiplayer Card Game</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-open-minded-thinking-actually-requires-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="what-open-minded-thinking-actually-requires-debate-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate card game">Search<span data-ebay-domain-label>eBay.co.uk</span>: debate card game</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-open-minded-thinking-actually-requires-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="what-open-minded-thinking-actually-requires-debate-card-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-open-minded-thinking-actually-requires-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="what-open-minded-thinking-actually-requires-debate-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Great Debate Multiplayer Card Game"><img src="https://i.ebayimg.com/images/g/g0wAAeSwziRqIefT/s-l225.jpg" alt="Listing image for The Great Debate Multiplayer Card Game" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-open-minded-thinking-actually-requires-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="what-open-minded-thinking-actually-requires-debate-card-game" target="_blank" rel="sponsored noopener noreferrer">The Great Debate Multiplayer Card Game</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-open-minded-thinking-actually-requires-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="what-open-minded-thinking-actually-requires-debate-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate card game">Search <span data-ebay-domain-label>eBay.co.uk</span>: debate card game</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-open-minded-thinking-actually-requires-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="what-open-minded-thinking-actually-requires-debate-card-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-open-minded-thinking-actually-requires-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="what-open-minded-thinking-actually-requires-debate-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Educational Debate Cards for Family Fun &amp; Skill Building - 52 Question Game"><img src="https://i.ebayimg.com/images/g/MiwAAeSwY8FqHkzz/s-l225.jpg" alt="Listing image for Educational Debate Cards for Family Fun &amp; Skill Building - 52 Question Game" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-open-minded-thinking-actually-requires-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="what-open-minded-thinking-actually-requires-debate-card-game" target="_blank" rel="sponsored noopener noreferrer">Educational Debate Cards for Family Fun &amp; Skill Building - 52 Question Game</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-open-minded-thinking-actually-requires-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="what-open-minded-thinking-actually-requires-debate-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate card game">Search<span data-ebay-domain-label>eBay.co.uk</span>: debate card game</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-open-minded-thinking-actually-requires-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="what-open-minded-thinking-actually-requires-debate-card-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-open-minded-thinking-actually-requires-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="what-open-minded-thinking-actually-requires-debate-card-game" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-open-minded-thinking-actually-requires-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="what-open-minded-thinking-actually-requires-debate-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Educational Debate Cards for Family Fun &amp; Skill Building - 52 Question Game"><img src="https://i.ebayimg.com/images/g/MiwAAeSwY8FqHkzz/s-l225.jpg" alt="Listing image for Educational Debate Cards for Family Fun &amp; Skill Building - 52 Question Game" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-open-minded-thinking-actually-requires-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="what-open-minded-thinking-actually-requires-debate-card-game" target="_blank" rel="sponsored noopener noreferrer">Educational Debate Cards for Family Fun &amp; Skill Building - 52 Question Game</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-open-minded-thinking-actually-requires-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="what-open-minded-thinking-actually-requires-debate-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate card game">Search <span data-ebay-domain-label>eBay.co.uk</span>: debate card game</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-open-minded-thinking-actually-requires-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="what-open-minded-thinking-actually-requires-debate-card-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-open-minded-thinking-actually-requires-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="what-open-minded-thinking-actually-requires-debate-card-game" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -774,7 +774,7 @@ That is the practical standard: not “Did I win?” and not “Did I agree?” 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -794,7 +794,7 @@ That is the practical standard: not “Did I win?” and not “Did I agree?” 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -826,7 +826,7 @@ That is the practical standard: not “Did I win?” and not “Did I agree?” 
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -878,7 +878,7 @@ That is the practical standard: not “Did I win?” and not “Did I agree?” 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -923,7 +923,7 @@ That is the practical standard: not “Did I win?” and not “Did I agree?” 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -963,202 +963,202 @@ That is the practical standard: not “Did I win?” and not “Did I agree?” 
 </section>
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCActively Open-Minded Thinking and Its Measurement  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9966223/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9966223/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>by KE Stanovich · 2023 · Cited by 118 — In Stanovich and West (1997), we conceptualized AOT as a thinking disposition encompassing the...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9966223/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9966223/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by KE Stanovich · 2023 · Cited by 118 — In Stanovich and West (1997), we conceptualized AOT as a thinking disposition encompassing the...</p></details>
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/232555483_Biased_assimilation_and_attitude_polarization_The_effects_of_prior_theories_on_subsequently_considered_evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232555483_Biased_assimilation_and_attitude_polarization_The_effects_of_prior_theories_on_subsequently_considered_evidence</a>  
+   Link: <a href="https://www.researchgate.net/publication/232555483_Biased_assimilation_and_attitude_polarization_The_effects_of_prior_theories_on_subsequently_considered_evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232555483_Biased_assimilation_and_attitude_polarization_The_effects_of_prior_theories_on_subsequently_considered_evidence</a>  
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCWeight-of-Evidence Strategies to Mitigate the Influence  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7528676/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7528676/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7528676/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7528676/</a>  
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: researchgate.net  
    Title: Research Gate Considering the Opposite: A Corrective Strategy for Social  
-   Link:<a href="https://www.researchgate.net/publication/16669522_Considering_the_Opposite_A_Corrective_Strategy_for_Social_Judgment" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/16669522_Considering_the_Opposite_A_Corrective_Strategy_for_Social_Judgment</a>  
+   Link: <a href="https://www.researchgate.net/publication/16669522_Considering_the_Opposite_A_Corrective_Strategy_for_Social_Judgment" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/16669522_Considering_the_Opposite_A_Corrective_Strategy_for_Social_Judgment</a>  
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCPredictors and consequences of intellectual humility  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9244574/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9244574/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9244574/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9244574/</a>  
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: mikeyeomans.info  
    Title: Conversational receptiveness  
-   Link:<a href="https://www.mikeyeomans.info/papers/receptiveness.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mikeyeomans.info/papers/receptiveness.pdf</a>  
+   Link: <a href="https://www.mikeyeomans.info/papers/receptiveness.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mikeyeomans.info/papers/receptiveness.pdf</a>  
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: papers.ssrn.com  
-   Link:<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3532688" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3532688</a>  
+   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3532688" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3532688</a>  
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: actively.ai  
-   Link:<a href="https://www.actively.ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.actively.ai/</a>  
+   Link: <a href="https://www.actively.ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.actively.ai/</a>  
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/285693848_Actively_open-minded_thinking" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/285693848_Actively_open-minded_thinking</a>  
+   Link: <a href="https://www.researchgate.net/publication/285693848_Actively_open-minded_thinking" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/285693848_Actively_open-minded_thinking</a>  
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/220040826_Reasoning_independently_of_prior_belief_and_individual_differences_in_actively_open-minded_thinking" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/220040826_Reasoning_independently_of_prior_belief_and_individual_differences_in_actively_open-minded_thinking</a>  
+   Link: <a href="https://www.researchgate.net/publication/220040826_Reasoning_independently_of_prior_belief_and_individual_differences_in_actively_open-minded_thinking" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/220040826_Reasoning_independently_of_prior_belief_and_individual_differences_in_actively_open-minded_thinking</a>  
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: researchgate.net  
    Title: 340734090 Psychometric Properties of the Actively Open Minded Thinking Scale  
-   Link:<a href="https://www.researchgate.net/publication/340734090_Psychometric_Properties_of_the_Actively_Open-Minded_Thinking_Scale" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/340734090_Psychometric_Properties_of_the_Actively_Open-Minded_Thinking_Scale</a>  
+   Link: <a href="https://www.researchgate.net/publication/340734090_Psychometric_Properties_of_the_Actively_Open-Minded_Thinking_Scale" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/340734090_Psychometric_Properties_of_the_Actively_Open-Minded_Thinking_Scale</a>  
 
-12.<a id="endnote-12"></a>
+12. <a id="endnote-12"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/390843764_The_Puzzle_of_Myside_Bias_and_Actively_Open-Minded_Thinking_in_the_Conceptualization_of_Critical_Thinking" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/390843764_The_Puzzle_of_Myside_Bias_and_Actively_Open-Minded_Thinking_in_the_Conceptualization_of_Critical_Thinking</a>  
+   Link: <a href="https://www.researchgate.net/publication/390843764_The_Puzzle_of_Myside_Bias_and_Actively_Open-Minded_Thinking_in_the_Conceptualization_of_Critical_Thinking" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/390843764_The_Puzzle_of_Myside_Bias_and_Actively_Open-Minded_Thinking_in_the_Conceptualization_of_Critical_Thinking</a>  
 
-13.<a id="endnote-13"></a>
+13. <a id="endnote-13"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/241633729_Natural_myside_bias_is_independent_of_cognitive_ability" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/241633729_Natural_myside_bias_is_independent_of_cognitive_ability</a>  
+   Link: <a href="https://www.researchgate.net/publication/241633729_Natural_myside_bias_is_independent_of_cognitive_ability" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/241633729_Natural_myside_bias_is_independent_of_cognitive_ability</a>  
 
-14.<a id="endnote-14"></a>
+14. <a id="endnote-14"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/343370606_The_Art_and_Science_of_Disagreeing_How_to_Create_More_Effective_Conversations_About_Opposing_Views" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/343370606_The_Art_and_Science_of_Disagreeing_How_to_Create_More_Effective_Conversations_About_Opposing_Views</a>  
+   Link: <a href="https://www.researchgate.net/publication/343370606_The_Art_and_Science_of_Disagreeing_How_to_Create_More_Effective_Conversations_About_Opposing_Views" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/343370606_The_Art_and_Science_of_Disagreeing_How_to_Create_More_Effective_Conversations_About_Opposing_Views</a>  
 
-15.<a id="endnote-15"></a>
+15. <a id="endnote-15"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/366087836_The_Value_of_Open-Mindedness_and_Intellectual_Humility_for_Interdisciplinary_Research" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/366087836_The_Value_of_Open-Mindedness_and_Intellectual_Humility_for_Interdisciplinary_Research</a>  
+   Link: <a href="https://www.researchgate.net/publication/366087836_The_Value_of_Open-Mindedness_and_Intellectual_Humility_for_Interdisciplinary_Research" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/366087836_The_Value_of_Open-Mindedness_and_Intellectual_Humility_for_Interdisciplinary_Research</a>  
 
-16.<a id="endnote-16"></a>
+16. <a id="endnote-16"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/374663322_Considering_the_opposite_A_corrective_strategy_for_social_judgment" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374663322_Considering_the_opposite_A_corrective_strategy_for_social_judgment</a>  
+   Link: <a href="https://www.researchgate.net/publication/374663322_Considering_the_opposite_A_corrective_strategy_for_social_judgment" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374663322_Considering_the_opposite_A_corrective_strategy_for_social_judgment</a>  
 
-17.<a id="endnote-17"></a>
+17. <a id="endnote-17"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/339002651_Reducing_Exclusionary_Attitudes_through_Interpersonal_Conversation_Evidence_from_Three_Field_Experiments" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/339002651_Reducing_Exclusionary_Attitudes_through_Interpersonal_Conversation_Evidence_from_Three_Field_Experiments</a>  
+   Link: <a href="https://www.researchgate.net/publication/339002651_Reducing_Exclusionary_Attitudes_through_Interpersonal_Conversation_Evidence_from_Three_Field_Experiments" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/339002651_Reducing_Exclusionary_Attitudes_through_Interpersonal_Conversation_Evidence_from_Three_Field_Experiments</a>  
 
-18.<a id="endnote-18"></a>
+18. <a id="endnote-18"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/341097783_Conversational_receptiveness_Improving_engagement_with_opposing_views" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/341097783_Conversational_receptiveness_Improving_engagement_with_opposing_views</a>  
+   Link: <a href="https://www.researchgate.net/publication/341097783_Conversational_receptiveness_Improving_engagement_with_opposing_views" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/341097783_Conversational_receptiveness_Improving_engagement_with_opposing_views</a>  
 
-19.<a id="endnote-19"></a>
+19. <a id="endnote-19"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/299997389_Durably_reducing_transphobia_A_field_experiment_on_door-to-door_canvassing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/299997389_Durably_reducing_transphobia_A_field_experiment_on_door-to-door_canvassing</a>  
+   Link: <a href="https://www.researchgate.net/publication/299997389_Durably_reducing_transphobia_A_field_experiment_on_door-to-door_canvassing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/299997389_Durably_reducing_transphobia_A_field_experiment_on_door-to-door_canvassing</a>  
 
-20.<a id="endnote-20"></a>
+20. <a id="endnote-20"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/397015425_Not_every_story_has_two_sides_the_effect_of_false_balance_on_perceived_scientific_consensus" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397015425_Not_every_story_has_two_sides_the_effect_of_false_balance_on_perceived_scientific_consensus</a>  
+   Link: <a href="https://www.researchgate.net/publication/397015425_Not_every_story_has_two_sides_the_effect_of_false_balance_on_perceived_scientific_consensus" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397015425_Not_every_story_has_two_sides_the_effect_of_false_balance_on_perceived_scientific_consensus</a>  
 
-21.<a id="endnote-21"></a>
+21. <a id="endnote-21"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/231754935_When_Experts_Disagree" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/231754935_When_Experts_Disagree</a>  
+   Link: <a href="https://www.researchgate.net/publication/231754935_When_Experts_Disagree" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/231754935_When_Experts_Disagree</a>  
 
-22.<a id="endnote-22"></a>
+22. <a id="endnote-22"></a>
    Source: receptiveness.net  
-   Link:<a href="https://receptiveness.net/research.html" target="_blank" rel="noopener noreferrer nofollow">https://receptiveness.net/research.html</a>  
+   Link: <a href="https://receptiveness.net/research.html" target="_blank" rel="noopener noreferrer nofollow">https://receptiveness.net/research.html</a>  
 
-23.<a id="endnote-23"></a>
+23. <a id="endnote-23"></a>
    Source: papers.ssrn.com  
-   Link:<a href="https://papers.ssrn.com/sol3/Delivery.cfm/4982518.pdf?abstractid=4982518&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/4982518.pdf?abstractid=4982518&amp;mirid=1</a>  
+   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/4982518.pdf?abstractid=4982518&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/4982518.pdf?abstractid=4982518&amp;mirid=1</a>  
 
-24.<a id="endnote-24"></a>
+24. <a id="endnote-24"></a>
    Source: journalofcognition.org  
-   Link:<a href="https://journalofcognition.org/articles/10.5334/joc.125" target="_blank" rel="noopener noreferrer nofollow">https://journalofcognition.org/articles/10.5334/joc.125</a>  
+   Link: <a href="https://journalofcognition.org/articles/10.5334/joc.125" target="_blank" rel="noopener noreferrer nofollow">https://journalofcognition.org/articles/10.5334/joc.125</a>  
 
-25.<a id="endnote-25"></a>
+25. <a id="endnote-25"></a>
    Source: fbaum.unc.edu  
    Title: Frank Baumgartner [Biased Assimilation](&#123;&#123; 'mixed-evidence-accf68/' | relative_url &#125;&#125;) and Attitude Polarization: The Effects  
-   Link:<a href="https://fbaum.unc.edu/teaching/articles/jpsp-1979-Lord-Ross-Lepper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fbaum.unc.edu/teaching/articles/jpsp-1979-Lord-Ross-Lepper.pdf</a>  
+   Link: <a href="https://fbaum.unc.edu/teaching/articles/jpsp-1979-Lord-Ross-Lepper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fbaum.unc.edu/teaching/articles/jpsp-1979-Lord-Ross-Lepper.pdf</a>  
 
-26.<a id="endnote-26"></a>
+26. <a id="endnote-26"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/6527215/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/6527215/</a>  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/6527215/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/6527215/</a>  
 
-27.<a id="endnote-27"></a>
+27. <a id="endnote-27"></a>
    Source: royalsociety.org  
-   Link:<a href="https://royalsociety.org/news-resources/projects/climate-change-evidence-causes/" target="_blank" rel="noopener noreferrer nofollow">https://royalsociety.org/news-resources/projects/climate-change-evidence-causes/</a>  
+   Link: <a href="https://royalsociety.org/news-resources/projects/climate-change-evidence-causes/" target="_blank" rel="noopener noreferrer nofollow">https://royalsociety.org/news-resources/projects/climate-change-evidence-causes/</a>  
 
-28.<a id="endnote-28"></a>
+28. <a id="endnote-28"></a>
    Source: dictionary.cambridge.org  
-   Link:<a href="https://dictionary.cambridge.org/us/dictionary/english/actively" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english/actively</a>  
+   Link: <a href="https://dictionary.cambridge.org/us/dictionary/english/actively" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english/actively</a>  
 
-29.<a id="endnote-29"></a>
+29. <a id="endnote-29"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11873821/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11873821/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11873821/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11873821/</a>  
 
-30.<a id="endnote-30"></a>
+30. <a id="endnote-30"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9038198/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9038198/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9038198/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9038198/</a>  
 
-31.<a id="endnote-31"></a>
+31. <a id="endnote-31"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/27124458/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/27124458/</a>  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/27124458/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/27124458/</a>  
 
-32.<a id="endnote-32"></a>
+32. <a id="endnote-32"></a>
    Source: theguardian.com  
    Title: royal society climate change guide  
-   Link:<a href="https://www.theguardian.com/environment/2010/sep/30/royal-society-climate-change-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/environment/2010/sep/30/royal-society-climate-change-guide</a>  
+   Link: <a href="https://www.theguardian.com/environment/2010/sep/30/royal-society-climate-change-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/environment/2010/sep/30/royal-society-climate-change-guide</a>  
 
-33.<a id="endnote-33"></a>
+33. <a id="endnote-33"></a>
    Source: vocabulary.com  
-   Link:<a href="https://www.vocabulary.com/dictionary/actively" target="_blank" rel="noopener noreferrer nofollow">https://www.vocabulary.com/dictionary/actively</a>  
+   Link: <a href="https://www.vocabulary.com/dictionary/actively" target="_blank" rel="noopener noreferrer nofollow">https://www.vocabulary.com/dictionary/actively</a>  
 
-34.<a id="endnote-34"></a>
+34. <a id="endnote-34"></a>
    Source: Wikipedia  
    Title: False balance  
-   Link:<a href="https://en.wikipedia.org/wiki/False_balance" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/False_balance</a>  
+   Link: <a href="https://en.wikipedia.org/wiki/False_balance" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/False_balance</a>  
 
-35.<a id="endnote-35"></a>
+35. <a id="endnote-35"></a>
    Source: iphils.uj.edu.pl  
-   Link:<a href="https://iphils.uj.edu.pl/~a.trybus/classes/logic/cs/12.Stanovich.Myside.Bias.pdf" target="_blank" rel="noopener noreferrer nofollow">https://iphils.uj.edu.pl/~a.trybus/classes/logic/cs/12.Stanovich.Myside.Bias.pdf</a>  
+   Link: <a href="https://iphils.uj.edu.pl/~a.trybus/classes/logic/cs/12.Stanovich.Myside.Bias.pdf" target="_blank" rel="noopener noreferrer nofollow">https://iphils.uj.edu.pl/~a.trybus/classes/logic/cs/12.Stanovich.Myside.Bias.pdf</a>  
 
-36.<a id="endnote-36"></a>
+36. <a id="endnote-36"></a>
    Source: plato.stanford.edu  
-   Link:<a href="https://plato.stanford.edu/entries/disagreement/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/disagreement/</a>  
+   Link: <a href="https://plato.stanford.edu/entries/disagreement/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/disagreement/</a>  
 
 ### Additional References
 
-37.<a id="endnote-37"></a>
+37. <a id="endnote-37"></a>
    Source: youtube.com  
    Title: Disagreeing Better: Research-backed Tools for Navigating Conflict  
-   Link:<a href="https://www.youtube.com/watch?v=IqqFx2JeZhM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IqqFx2JeZhM</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>False Balance explained (explainity® explainer video)...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=IqqFx2JeZhM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IqqFx2JeZhM</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>False Balance explained (explainity® explainer video)...</p></details>
 
-38.<a id="endnote-38"></a>
+38. <a id="endnote-38"></a>
    Source: youtube.com  
    Title: False Balance explained (explainity® explainer video)  
-   Link:<a href="https://www.youtube.com/watch?v=O7pgSZyU4_g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O7pgSZyU4_g</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Have Difficult Conversations: Keep an Open Mind...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=O7pgSZyU4_g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O7pgSZyU4_g</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Have Difficult Conversations: Keep an Open Mind...</p></details>
 
-39.<a id="endnote-39"></a>
+39. <a id="endnote-39"></a>
    Source: academia.edu  
-   Link:<a href="https://www.academia.edu/21797047/Open_Mindedness_and_Intellectual_Humility" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/21797047/Open_Mindedness_and_Intellectual_Humility</a>  
+   Link: <a href="https://www.academia.edu/21797047/Open_Mindedness_and_Intellectual_Humility" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/21797047/Open_Mindedness_and_Intellectual_Humility</a>  
 
-40.<a id="endnote-40"></a>
+40. <a id="endnote-40"></a>
    Source: linkedin.com  
-   Link:<a href="https://www.linkedin.com/company/actively-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/company/actively-ai</a>  
+   Link: <a href="https://www.linkedin.com/company/actively-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/company/actively-ai</a>  
 
-41.<a id="endnote-41"></a>
+41. <a id="endnote-41"></a>
    Source: sjdm.org  
-   Link:<a href="https://sjdm.org/dmidi/Actively_Open-Minded_Thinking_Beliefs.html" target="_blank" rel="noopener noreferrer nofollow">https://sjdm.org/dmidi/Actively_Open-Minded_Thinking_Beliefs.html</a>  
+   Link: <a href="https://sjdm.org/dmidi/Actively_Open-Minded_Thinking_Beliefs.html" target="_blank" rel="noopener noreferrer nofollow">https://sjdm.org/dmidi/Actively_Open-Minded_Thinking_Beliefs.html</a>  
 
-42.<a id="endnote-42"></a>
+42. <a id="endnote-42"></a>
    Source: osf.io  
-   Link:<a href="https://osf.io/preprints/psyarxiv/g5jhp_v1" target="_blank" rel="noopener noreferrer nofollow">https://osf.io/preprints/psyarxiv/g5jhp_v1</a>  
+   Link: <a href="https://osf.io/preprints/psyarxiv/g5jhp_v1" target="_blank" rel="noopener noreferrer nofollow">https://osf.io/preprints/psyarxiv/g5jhp_v1</a>  
 
-43.<a id="endnote-43"></a>
+43. <a id="endnote-43"></a>
    Source: facebook.com  
-   Link:<a href="https://www.facebook.com/ThinkingPowers/posts/avoiding-bias-is-a-laudable-goal-but-there-arent-always-two-sides-to-every-story/1443180507806642/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThinkingPowers/posts/avoiding-bias-is-a-laudable-goal-but-there-arent-always-two-sides-to-every-story/1443180507806642/</a>  
+   Link: <a href="https://www.facebook.com/ThinkingPowers/posts/avoiding-bias-is-a-laudable-goal-but-there-arent-always-two-sides-to-every-story/1443180507806642/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThinkingPowers/posts/avoiding-bias-is-a-laudable-goal-but-there-arent-always-two-sides-to-every-story/1443180507806642/</a>  
 
-44.<a id="endnote-44"></a>
+44. <a id="endnote-44"></a>
    Source: cambridge.org  
-   Link:<a href="https://www.cambridge.org/core/books/cognitive-science-of-belief/building-better-beliefs-through-actively-openminded-thinking/140F5F32706B3B2CBC5A83CC99F174A4" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/cognitive-science-of-belief/building-better-beliefs-through-actively-openminded-thinking/140F5F32706B3B2CBC5A83CC99F174A4</a>  
+   Link: <a href="https://www.cambridge.org/core/books/cognitive-science-of-belief/building-better-beliefs-through-actively-openminded-thinking/140F5F32706B3B2CBC5A83CC99F174A4" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/cognitive-science-of-belief/building-better-beliefs-through-actively-openminded-thinking/140F5F32706B3B2CBC5A83CC99F174A4</a>  
 
-45.<a id="endnote-45"></a>
+45. <a id="endnote-45"></a>
    Source: facebook.com  
-   Link:<a href="https://www.facebook.com/groups/968580683281312/posts/3555914491214572/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/968580683281312/posts/3555914491214572/</a>  
+   Link: <a href="https://www.facebook.com/groups/968580683281312/posts/3555914491214572/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/968580683281312/posts/3555914491214572/</a>  
 
-46.<a id="endnote-46"></a>
+46. <a id="endnote-46"></a>
    Source: thedecisionlab.com  
-   Link:<a href="https://thedecisionlab.com/biases/confirmation-bias" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/confirmation-bias</a>  
+   Link: <a href="https://thedecisionlab.com/biases/confirmation-bias" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/confirmation-bias</a>  

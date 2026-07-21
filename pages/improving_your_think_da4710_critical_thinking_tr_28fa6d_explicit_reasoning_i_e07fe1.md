@@ -280,7 +280,7 @@ image: /assets/images/improving_your_think_da4710_critical_thinking_tr_28fa6d_ex
 
 ## Introduction
 
-[Critical thinking]({{ 'critical-skills/' | relative_url }}) becomes more reliable when the reasoning process is made explicit rather than assumed. Telling learners to “think harder”, “be more analytical”, or “show critical thinking” rarely explains what successful thinking actually looks like. Research instead suggests that people improve when teachers, trainers, or mentors identify the specific reasoning moves they expect, demonstrate those moves aloud, provide structured opportunities to practise them, and give feedback on the quality of the reasoning rather than only the final answer. This approach helps learners develop habits they can recognise and reuse beyond school, making critical thinking more transferable to workplaces, everyday decisions, and civic life.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://education.nsw.gov.au/content/dam/main-education/teaching-and-learning/education-for-a-changing-world/media/documents/How-to-teach-critical-thinking-Willingham.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.nsw.gov.au">[NSW Education+2EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.nsw.gov.au</span><span class="citation-popover-title">NSW Education How to Teach Critical Thinking</span><span class="citation-popover-snippet">Willingham earned his B.A. from Duke University in 1983 and his Ph.D. in. Cognitive Psychology from. Harvard University in 1990.Read more...</span></span></span>
+[Critical thinking]({{ 'critical-skills/' | relative_url }}) becomes more reliable when the reasoning process is made explicit rather than assumed. Telling learners to “think harder”, “be more analytical”, or “show critical thinking” rarely explains what successful thinking actually looks like. Research instead suggests that people improve when teachers, trainers, or mentors identify the specific reasoning moves they expect, demonstrate those moves aloud, provide structured opportunities to practise them, and give feedback on the quality of the reasoning rather than only the final answer. This approach helps learners develop habits they can recognise and reuse beyond school, making critical thinking more transferable to workplaces, everyday decisions, and civic life. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://education.nsw.gov.au/content/dam/main-education/teaching-and-learning/education-for-a-changing-world/media/documents/How-to-teach-critical-thinking-Willingham.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.nsw.gov.au">[NSW Education+2EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.nsw.gov.au</span><span class="citation-popover-title">NSW Education How to Teach Critical Thinking</span><span class="citation-popover-snippet">Willingham earned his B.A. from Duke University in 1983 and his Ph.D. in. Cognitive Psychology from. Harvard University in 1990.Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_critical_thinking_tr_28fa6d_explicit_reasoning_i_e07fe1-Illustration-1-dark.svg" | relative_url }}" alt="Explicit Teaching illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_critical_thinking_tr_28fa6d_explicit_reasoning_i_e07fe1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_critical_thinking_tr_28fa6d_explicit_reasoning_i_e07fe1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,9 +288,9 @@ image: /assets/images/improving_your_think_da4710_critical_thinking_tr_28fa6d_ex
 
 Advice such as "analyse more deeply" assumes that learners already know what analysing involves. In reality, novices often see only the finished product—a persuasive essay, a scientific conclusion, or a business recommendation—without seeing the sequence of decisions that produced it.
 
-Cognitive psychologist Daniel Willingham argues that critical thinking is not a single general-purpose skill that automatically develops through exposure to challenging tasks. Instead, it consists of identifiable processes that should be taught explicitly within particular subjects and contexts. Learners benefit when educators specify exactly which thinking operations matter—for example, distinguishing evidence from opinion, identifying assumptions, comparing competing explanations, or evaluating the credibility of a source.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://education.nsw.gov.au/content/dam/main-education/teaching-and-learning/education-for-a-changing-world/media/documents/How-to-teach-critical-thinking-Willingham.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.nsw.gov.au">[NSW Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.nsw.gov.au</span><span class="citation-popover-title">NSW Education How to Teach Critical Thinking</span><span class="citation-popover-snippet">Willingham earned his B.A. from Duke University in 1983 and his Ph.D. in. Cognitive Psychology from. Harvard University in 1990.Read more...</span></span></span>
+Cognitive psychologist Daniel Willingham argues that critical thinking is not a single general-purpose skill that automatically develops through exposure to challenging tasks. Instead, it consists of identifiable processes that should be taught explicitly within particular subjects and contexts. Learners benefit when educators specify exactly which thinking operations matter—for example, distinguishing evidence from opinion, identifying assumptions, comparing competing explanations, or evaluating the credibility of a source. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://education.nsw.gov.au/content/dam/main-education/teaching-and-learning/education-for-a-changing-world/media/documents/How-to-teach-critical-thinking-Willingham.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.nsw.gov.au">[NSW Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.nsw.gov.au</span><span class="citation-popover-title">NSW Education How to Teach Critical Thinking</span><span class="citation-popover-snippet">Willingham earned his B.A. from Duke University in 1983 and his Ph.D. in. Cognitive Psychology from. Harvard University in 1990.Read more...</span></span></span>
 
-The same principle appears in research on metacognition—the ability to plan, monitor and evaluate one's own thinking. The Education Endowment Foundation (EEF) concludes that learners make stronger progress when these strategies are explicitly taught rather than left to emerge incidentally. Simply assigning difficult work does not reliably produce better thinking unless students understand how expert reasoning proceeds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">EEFMetacognition and Self-Regulated LearningTeachers can use metacognitive and self-regulatory approaches to support pupils to think abou...</span></span></span>
+The same principle appears in research on metacognition—the ability to plan, monitor and evaluate one's own thinking. The Education Endowment Foundation (EEF) concludes that learners make stronger progress when these strategies are explicitly taught rather than left to emerge incidentally. Simply assigning difficult work does not reliably produce better thinking unless students understand how expert reasoning proceeds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">EEFMetacognition and Self-Regulated LearningTeachers can use metacognitive and self-regulatory approaches to support pupils to think abou...</span></span></span>
 
 This distinction explains why two classrooms covering identical content can produce different [outcomes]({{ 'outcomes/' | relative_url }}). In one, students complete tasks independently with occasional corrections. In the other, the teacher regularly names the thinking moves involved, models them openly, and discusses why particular decisions are stronger than alternatives. The second classroom makes reasoning visible enough to inspect, practise and improve.
 
@@ -314,7 +314,7 @@ One effective sequence is:
 
 These routines encourage learners to separate reasoning from intuition. Instead of responding immediately with agreement or disagreement, they work through observable steps that another person can examine and discuss.
 
-Research from Harvard's Project Zero has developed numerous "thinking routines" with the same purpose. Short [prompts]({{ 'prompts/' | relative_url }}) such as "What makes you say that?" or "Claim–Support–Question" encourage learners to externalise their reasoning, making it easier for both teachers and learners themselves to identify strengths and weaknesses. The goal is not mechanical compliance but repeated practice until the underlying habits become increasingly automatic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pz.harvard.edu/thinking-routines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pz.harvard.edu">[Project Zero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pz.harvard.edu</span><span class="citation-popover-snippet">Project ZeroPZ Thinking RoutinesWhat Is a Thinking Routine? A thinking routine is a set of questions or a brief sequence of steps used to...</span></span></span>
+Research from Harvard's Project Zero has developed numerous "thinking routines" with the same purpose. Short [prompts]({{ 'prompts/' | relative_url }}) such as "What makes you say that?" or "Claim–Support–Question" encourage learners to externalise their reasoning, making it easier for both teachers and learners themselves to identify strengths and weaknesses. The goal is not mechanical compliance but repeated practice until the underlying habits become increasingly automatic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pz.harvard.edu/thinking-routines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pz.harvard.edu">[Project Zero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pz.harvard.edu</span><span class="citation-popover-snippet">Project ZeroPZ Thinking RoutinesWhat Is a Thinking Routine? A thinking routine is a set of questions or a brief sequence of steps used to...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hxhbOvR2TGk" title="Evaluating Evidence: Crash Course Navigating Digital Information #6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hxhbOvR2TGk" target="_blank" rel="noopener noreferrer">Evaluating Evidence: Crash Course Navigating Digital Information #6</a></p><p class="youtube-embed-meta">Channel: CrashCourse</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hxhbOvR2TGk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hxhbOvR2TGk">Open on YouTube</a></p></div></div></div>
@@ -337,7 +337,7 @@ One widely supported technique is the "think aloud". Rather than simply solving 
 
 This modelling exposes processes that experts often perform automatically and therefore forget to explain.
 
-Educational guidance on explicit teaching emphasises deliberate modelling followed by gradual [transfer]({{ 'transfer/' | relative_url }}) of responsibility. Initially, learners observe the reasoning process. Next, they complete parts of it with support. Finally, they perform the routine independently while monitoring their own thinking. This progression helps students build metacognitive control rather than merely copying answers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.education.ky.gov/curriculum/standards/kyacadstand/Documents/EBIP_3_Explicit_Teaching_and_Modeling.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.ky.gov">[education.ky.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.ky.gov</span><span class="citation-popover-title">Explicit Teaching and Modeling</span><span class="citation-popover-snippet">August 4, 2023 — Deliberate, purposeful modeling is a powerful instructional strategy which makes learning visible by verbalizing the tea...</span><span class="citation-popover-meta">Published: August 4, 2023</span></span></span>
+Educational guidance on explicit teaching emphasises deliberate modelling followed by gradual [transfer]({{ 'transfer/' | relative_url }}) of responsibility. Initially, learners observe the reasoning process. Next, they complete parts of it with support. Finally, they perform the routine independently while monitoring their own thinking. This progression helps students build metacognitive control rather than merely copying answers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.education.ky.gov/curriculum/standards/kyacadstand/Documents/EBIP_3_Explicit_Teaching_and_Modeling.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.ky.gov">[education.ky.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.ky.gov</span><span class="citation-popover-title">Explicit Teaching and Modeling</span><span class="citation-popover-snippet">August 4, 2023 — Deliberate, purposeful modeling is a powerful instructional strategy which makes learning visible by verbalizing the tea...</span><span class="citation-popover-meta">Published: August 4, 2023</span></span></span>
 
 Importantly, modelling should include uncertainty. Expert thinkers rarely present reasoning as perfectly linear. Demonstrating moments of hesitation, reconsideration or evidence weighing shows learners that changing one's mind in response to better evidence is a normal feature of sound judgement rather than a sign of weakness.
 
@@ -362,7 +362,7 @@ Feedback is most useful when it addresses questions such as:
 
 This differs from marking only whether the final answer was correct. Two students may reach the same conclusion for entirely different reasons. One may have evaluated competing evidence carefully, while the other simply guessed correctly. Explicit feedback distinguishes these cases and reinforces better habits.
 
-The EEF's guidance recommends embedding planning, monitoring and evaluation into normal classroom activity rather than treating reflection as a separate exercise. Over time, learners begin asking these questions independently before submitting work or making decisions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">EEFMetacognition and Self-Regulated LearningTeachers can use metacognitive and self-regulatory approaches to support pupils to think abou...</span></span></span>
+The EEF's guidance recommends embedding planning, monitoring and evaluation into normal classroom activity rather than treating reflection as a separate exercise. Over time, learners begin asking these questions independently before submitting work or making decisions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">EEFMetacognition and Self-Regulated LearningTeachers can use metacognitive and self-regulatory approaches to support pupils to think abou...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vypkOQU1rq8" title="Critical Thinking Making evidence-based decisions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vypkOQU1rq8" target="_blank" rel="noopener noreferrer">Critical Thinking Making evidence-based decisions</a></p><p class="youtube-embed-meta">Channel: InstituteFA</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vypkOQU1rq8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vypkOQU1rq8">Open on YouTube</a></p></div></div></div>
@@ -373,7 +373,7 @@ One concern is that structured routines might encourage formulaic thinking. Rese
 
 The routine itself is not the objective. Instead, it provides a scaffold that allows learners to recognise recurring patterns across different situations. The same habit of identifying claims, weighing evidence and considering alternatives can appear in evaluating a medical headline, reviewing a workplace proposal or comparing financial products, even though the subject knowledge differs.
 
-Transfer remains difficult because every new domain requires relevant background knowledge. Explicit instruction does not remove that requirement. Instead, it increases the likelihood that learners will recognise when familiar reasoning strategies apply in a new setting and adapt them appropriately rather than relying on intuition alone. Willingham argues that successful transfer depends on repeatedly connecting thinking routines to meaningful subject knowledge rather than teaching generic critical thinking in isolation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://education.nsw.gov.au/content/dam/main-education/teaching-and-learning/education-for-a-changing-world/media/documents/How-to-teach-critical-thinking-Willingham.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.nsw.gov.au">[NSW Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.nsw.gov.au</span><span class="citation-popover-title">NSW Education How to Teach Critical Thinking</span><span class="citation-popover-snippet">Willingham earned his B.A. from Duke University in 1983 and his Ph.D. in. Cognitive Psychology from. Harvard University in 1990.Read more...</span></span></span>
+Transfer remains difficult because every new domain requires relevant background knowledge. Explicit instruction does not remove that requirement. Instead, it increases the likelihood that learners will recognise when familiar reasoning strategies apply in a new setting and adapt them appropriately rather than relying on intuition alone. Willingham argues that successful transfer depends on repeatedly connecting thinking routines to meaningful subject knowledge rather than teaching generic critical thinking in isolation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://education.nsw.gov.au/content/dam/main-education/teaching-and-learning/education-for-a-changing-world/media/documents/How-to-teach-critical-thinking-Willingham.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.nsw.gov.au">[NSW Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.nsw.gov.au</span><span class="citation-popover-title">NSW Education How to Teach Critical Thinking</span><span class="citation-popover-snippet">Willingham earned his B.A. from Duke University in 1983 and his Ph.D. in. Cognitive Psychology from. Harvard University in 1990.Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jbrAe9GSBjA" title="Critical Thinking; Evidence:- 21. #evidence #criticalthinking" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jbrAe9GSBjA" target="_blank" rel="noopener noreferrer">Critical Thinking; Evidence:- 21. #evidence #criticalthinking</a></p><p class="youtube-embed-meta">Channel: Ameen Academy</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jbrAe9GSBjA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jbrAe9GSBjA">Open on YouTube</a></p></div></div></div>
@@ -388,7 +388,7 @@ Schools and organisations sometimes adopt the language of critical thinking with
 
 **Focusing only on correct answers.** When [assessment]({{ 'assessment/' | relative_url }}) ignores reasoning quality, learners have little incentive to improve the thinking process.
 
-**Separating thinking skills from subject knowledge.** Generic exercises detached from meaningful content rarely transfer effectively because reasoning depends heavily on understanding the domain being analysed. NSW Education+2Tips for Teachers by Craig Barton<span class="citation-link-wrap"><a class="citation-inline-link" href="https://education.nsw.gov.au/content/dam/main-education/teaching-and-learning/education-for-a-changing-world/media/documents/How-to-teach-critical-thinking-Willingham.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.nsw.gov.au">[education.nsw.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.nsw.gov.au</span><span class="citation-popover-title">NSW Education How to Teach Critical Thinking</span><span class="citation-popover-snippet">Willingham earned his B.A. from Duke University in 1983 and his Ph.D. in. Cognitive Psychology from. Harvard University in 1990.Read more...</span></span></span>
+**Separating thinking skills from subject knowledge.** Generic exercises detached from meaningful content rarely transfer effectively because reasoning depends heavily on understanding the domain being analysed. NSW Education+2Tips for Teachers by Craig Barton <span class="citation-link-wrap"><a class="citation-inline-link" href="https://education.nsw.gov.au/content/dam/main-education/teaching-and-learning/education-for-a-changing-world/media/documents/How-to-teach-critical-thinking-Willingham.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.nsw.gov.au">[education.nsw.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.nsw.gov.au</span><span class="citation-popover-title">NSW Education How to Teach Critical Thinking</span><span class="citation-popover-snippet">Willingham earned his B.A. from Duke University in 1983 and his Ph.D. in. Cognitive Psychology from. Harvard University in 1990.Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_critical_thinking_tr_28fa6d_explicit_reasoning_i_e07fe1-Illustration-3-dark.svg" | relative_url }}" alt="Explicit Teaching illustration 3" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_critical_thinking_tr_28fa6d_explicit_reasoning_i_e07fe1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_critical_thinking_tr_28fa6d_explicit_reasoning_i_e07fe1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -396,197 +396,197 @@ Schools and organisations sometimes adopt the language of critical thinking with
 
 Explicit teaching makes critical thinking observable. Instead of assuming that learners will discover good reasoning through experience, it identifies the mental operations experts use, demonstrates them openly, provides repeated practice, and offers feedback on how well those operations were performed.
 
-That approach does more than improve classroom performance. It helps people develop routines for analysing claims, questioning assumptions, weighing evidence and revising conclusions—habits that remain useful long after formal education ends because they can be recognised, practised and adapted whenever new problems demand careful judgement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pz.harvard.edu/thinking-routines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pz.harvard.edu">[Project Zero+2EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pz.harvard.edu</span><span class="citation-popover-snippet">Project ZeroPZ Thinking RoutinesWhat Is a Thinking Routine? A thinking routine is a set of questions or a brief sequence of steps used to...</span></span></span>
+That approach does more than improve classroom performance. It helps people develop routines for analysing claims, questioning assumptions, weighing evidence and revising conclusions—habits that remain useful long after formal education ends because they can be recognised, practised and adapted whenever new problems demand careful judgement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pz.harvard.edu/thinking-routines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pz.harvard.edu">[Project Zero+2EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pz.harvard.edu</span><span class="citation-popover-snippet">Project ZeroPZ Thinking RoutinesWhat Is a Thinking Routine? A thinking routine is a set of questions or a brief sequence of steps used to...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to The Teaching Move That Makes Thinking Visible. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to The Teaching Move That Makes Thinking Visible. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Making+Thinking+Visible+by+Ron+Ritchhart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Making Thinking Visible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dv8QVX9CoOoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Making Thinking Visible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Making+Thinking+Visible+by+Ron+Ritchhart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Making Thinking Visible">Making Thinking Visible</a>
-</h4>
-<p class="fr-book-author">By Ron Ritchhart, Mark Church et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Making+Thinking+Visible+Ron+Ritchhart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Making Thinking Visible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dv8QVX9CoOoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Making Thinking Visible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Making+Thinking+Visible+Ron+Ritchhart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Making Thinking Visible">Making Thinking Visible</a>
+        </h4>
+        <p class="fr-book-author">By Ron Ritchhart, Mark Church et al.</p>
         
-<p class="fr-book-desc">Directly addresses routines that make reasoning explicit and visible in teaching.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Making+Thinking+Visible+by+Ron+Ritchhart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly addresses routines that make reasoning explicit and visible in teaching.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Making+Thinking+Visible+Ron+Ritchhart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-</h4>
-<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-<p class="fr-book-desc">Demonstrates practical critical thinking, evaluating evidence and questioning unsupported claims.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Teaching+for+Understanding+Guide+by+Tina+Blythe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Teaching for Understanding Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VAYmAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Teaching for Understanding Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Teaching+for+Understanding+Guide+by+Tina+Blythe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Teaching for Understanding Guide">The Teaching for Understanding Guide</a>
-</h4>
-<p class="fr-book-author">By Tina Blythe</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Teaching+for+Understanding+Guide+Tina+Blythe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Teaching for Understanding Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VAYmAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Teaching for Understanding Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Teaching+for+Understanding+Guide+Tina+Blythe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Teaching for Understanding Guide">The Teaching for Understanding Guide</a>
+        </h4>
+        <p class="fr-book-author">By Tina Blythe</p>
         
-<p class="fr-book-desc">Explains how to teach for understanding through explicit learning goals, performances, and feedback.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Teaching+for+Understanding+Guide+by+Tina+Blythe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains how to teach for understanding through explicit learning goals, performances, and feedback.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Teaching+for+Understanding+Guide+Tina+Blythe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DlMlEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
-</h4>
-<p class="fr-book-author">By Daniel T. Willingham</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DlMlEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
+        </h4>
+        <p class="fr-book-author">By Daniel T. Willingham</p>
         
-<p class="fr-book-desc">Explains how thinking and learning work, supporting explicit teaching of reasoning processes.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains how thinking and learning work, supporting explicit teaching of reasoning processes.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Making+Thinking+Visible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Making Thinking Visible</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Teaching+for+Understanding+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Teaching for Understanding books</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Embedded+Formative+Assessment+Dylan+Wiliam&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Embedded Formative Assessment on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=c3YXBwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Embedded Formative Assessment" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Embedded+Formative+Assessment+Dylan+Wiliam&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Embedded Formative Assessment">Embedded Formative Assessment</a>
+        </h4>
+        <p class="fr-book-author">By Dylan Wiliam</p>
+        
+        <p class="fr-book-desc">Strongly aligns with improving reasoning through structured feedback and iterative practice.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Embedded+Formative+Assessment+Dylan+Wiliam&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Making+Thinking+Visible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Making Thinking Visible</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Teaching+for+Understanding+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Teaching for Understanding books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Don&#x27;t Students Like School?</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes poster -book -books -dvd" data-ebay-reference="the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office"><img src="https://i.ebayimg.com/images/g/6MMAAeSwbd9pFhdt/s-l225.jpg" alt="Listing image for Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes poster -book -books -dvd" data-ebay-reference="the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes poster -book -books -dvd" data-ebay-reference="the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for makes poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: makes poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes poster -book -books -dvd" data-ebay-reference="the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes poster -book -books -dvd" data-ebay-reference="the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office"><img src="https://i.ebayimg.com/images/g/6MMAAeSwbd9pFhdt/s-l225.jpg" alt="Listing image for Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes poster -book -books -dvd" data-ebay-reference="the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes poster -book -books -dvd" data-ebay-reference="the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for makes poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: makes poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes poster -book -books -dvd" data-ebay-reference="the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes poster -book -books -dvd" data-ebay-reference="the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office"><img src="https://i.ebayimg.com/images/g/xcsAAeSwHzdpE64V/s-l225.jpg" alt="Listing image for Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes poster -book -books -dvd" data-ebay-reference="the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes poster -book -books -dvd" data-ebay-reference="the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for makes poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: makes poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes poster -book -books -dvd" data-ebay-reference="the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes poster -book -books -dvd" data-ebay-reference="the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office"><img src="https://i.ebayimg.com/images/g/xcsAAeSwHzdpE64V/s-l225.jpg" alt="Listing image for Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes poster -book -books -dvd" data-ebay-reference="the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes poster -book -books -dvd" data-ebay-reference="the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for makes poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: makes poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes poster -book -books -dvd" data-ebay-reference="the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes poster -book -books -dvd" data-ebay-reference="the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office"><img src="https://i.ebayimg.com/images/g/KZ0AAeSwsVtpEkBT/s-l225.jpg" alt="Listing image for Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes poster -book -books -dvd" data-ebay-reference="the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes poster -book -books -dvd" data-ebay-reference="the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for makes poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: makes poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes poster -book -books -dvd" data-ebay-reference="the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes poster -book -books -dvd" data-ebay-reference="the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office"><img src="https://i.ebayimg.com/images/g/KZ0AAeSwsVtpEkBT/s-l225.jpg" alt="Listing image for Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes poster -book -books -dvd" data-ebay-reference="the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes poster -book -books -dvd" data-ebay-reference="the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for makes poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: makes poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes poster -book -books -dvd" data-ebay-reference="the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes poster -book -books -dvd" data-ebay-reference="the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rowdy Makes Trouble With The Power Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/AWUAAeSwPIZp2SPE/s-l225.jpg" alt="Listing image for Rowdy Makes Trouble With The Power Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes poster -book -books -dvd" data-ebay-reference="the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Rowdy Makes Trouble With The Power Framed Wall Art Poster Canvas Print Picture</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes poster -book -books -dvd" data-ebay-reference="the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for makes poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: makes poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes poster -book -books -dvd" data-ebay-reference="the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes poster -book -books -dvd" data-ebay-reference="the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes poster -book -books -dvd" data-ebay-reference="the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rowdy Makes Trouble With The Power Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/AWUAAeSwPIZp2SPE/s-l225.jpg" alt="Listing image for Rowdy Makes Trouble With The Power Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes poster -book -books -dvd" data-ebay-reference="the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Rowdy Makes Trouble With The Power Framed Wall Art Poster Canvas Print Picture</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes poster -book -books -dvd" data-ebay-reference="the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for makes poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: makes poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes poster -book -books -dvd" data-ebay-reference="the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=makes+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="makes poster -book -books -dvd" data-ebay-reference="the-teaching-move-that-makes-thinking-visible-makes-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -602,7 +602,7 @@ That approach does more than improve classroom performance. It helps people deve
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -622,7 +622,7 @@ That approach does more than improve classroom performance. It helps people deve
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -654,7 +654,7 @@ That approach does more than improve classroom performance. It helps people deve
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -706,7 +706,7 @@ That approach does more than improve classroom performance. It helps people deve
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -751,7 +751,7 @@ That approach does more than improve classroom performance. It helps people deve
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -791,130 +791,130 @@ That approach does more than improve classroom performance. It helps people deve
 </section>
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: education.nsw.gov.au  
    Title: NSW Education How to Teach Critical Thinking  
-   Link:<a href="https://education.nsw.gov.au/content/dam/main-education/teaching-and-learning/education-for-a-changing-world/media/documents/How-to-teach-critical-thinking-Willingham.pdf" target="_blank" rel="noopener noreferrer nofollow">https://education.nsw.gov.au/content/dam/main-education/teaching-and-learning/education-for-a-changing-world/media/documents/How-to-teach-critical-thinking-Willingham.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Willingham earned his B.A. from Duke University in 1983 and his Ph.D. in. Cognitive Psychology from. Harvard University in 1990.Read more...</p></details>
+   Link: <a href="https://education.nsw.gov.au/content/dam/main-education/teaching-and-learning/education-for-a-changing-world/media/documents/How-to-teach-critical-thinking-Willingham.pdf" target="_blank" rel="noopener noreferrer nofollow">https://education.nsw.gov.au/content/dam/main-education/teaching-and-learning/education-for-a-changing-world/media/documents/How-to-teach-critical-thinking-Willingham.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Willingham earned his B.A. from Duke University in 1983 and his Ph.D. in. Cognitive Psychology from. Harvard University in 1990.Read more...</p></details>
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link:<a href="https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>EEFMetacognition and Self-Regulated LearningTeachers can use metacognitive and self-regulatory approaches to support pupils to think abou...</p></details>
+   Link: <a href="https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>EEFMetacognition and Self-Regulated LearningTeachers can use metacognitive and self-regulatory approaches to support pupils to think abou...</p></details>
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link:<a href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/metacognition-and-self-regulation" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/metacognition-and-self-regulation</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Metacognition and self-regulation | EEFMetacognition and self-regulation approaches to teaching support pupils to think about their own l...</p></details>
+   Link: <a href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/metacognition-and-self-regulation" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/metacognition-and-self-regulation</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Metacognition and self-regulation | EEFMetacognition and self-regulation approaches to teaching support pupils to think about their own l...</p></details>
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: pz.harvard.edu  
-   Link:<a href="https://pz.harvard.edu/thinking-routines" target="_blank" rel="noopener noreferrer nofollow">https://pz.harvard.edu/thinking-routines</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Project ZeroPZ Thinking RoutinesWhat Is a Thinking Routine? A thinking routine is a set of questions or a brief sequence of steps used to...</p></details>
+   Link: <a href="https://pz.harvard.edu/thinking-routines" target="_blank" rel="noopener noreferrer nofollow">https://pz.harvard.edu/thinking-routines</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project ZeroPZ Thinking RoutinesWhat Is a Thinking Routine? A thinking routine is a set of questions or a brief sequence of steps used to...</p></details>
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: education.ky.gov  
    Title: Explicit Teaching and Modeling  
-   Link:<a href="https://www.education.ky.gov/curriculum/standards/kyacadstand/Documents/EBIP_3_Explicit_Teaching_and_Modeling.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.education.ky.gov/curriculum/standards/kyacadstand/Documents/EBIP_3_Explicit_Teaching_and_Modeling.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>August 4, 2023 — Deliberate, purposeful modeling is a powerful instructional strategy which makes learning visible by verbalizing the tea...</p></details>
+   Link: <a href="https://www.education.ky.gov/curriculum/standards/kyacadstand/Documents/EBIP_3_Explicit_Teaching_and_Modeling.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.education.ky.gov/curriculum/standards/kyacadstand/Documents/EBIP_3_Explicit_Teaching_and_Modeling.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>August 4, 2023 — Deliberate, purposeful modeling is a powerful instructional strategy which makes learning visible by verbalizing the tea...</p></details>
    Published: August 4, 2023  
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: support-for-early-career-teachers.education.gov.uk  
    Title: education.gov.uk Evidence  
-   Link:<a href="https://support-for-early-career-teachers.education.gov.uk/education-development-trust/year-1-developing-effective-classroom-practice/spring-week-2-ect-evidence/" target="_blank" rel="noopener noreferrer nofollow">https://support-for-early-career-teachers.education.gov.uk/education-development-trust/year-1-developing-effective-classroom-practice/spring-week-2-ect-evidence/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Support for early career teachers - GOV.UKAccording to the Education Endowment Foundation (EEF), there is a strong body of research that...</p></details>
+   Link: <a href="https://support-for-early-career-teachers.education.gov.uk/education-development-trust/year-1-developing-effective-classroom-practice/spring-week-2-ect-evidence/" target="_blank" rel="noopener noreferrer nofollow">https://support-for-early-career-teachers.education.gov.uk/education-development-trust/year-1-developing-effective-classroom-practice/spring-week-2-ect-evidence/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Support for early career teachers - GOV.UKAccording to the Education Endowment Foundation (EEF), there is a strong body of research that...</p></details>
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: tipsforteachers.co.uk  
    Title: Tips for Teachers by Craig Barton Research: Critical thinking  
-   Link:<a href="https://tipsforteachers.co.uk/research-critical-thinking-why-is-it-so-hard-to-teach/" target="_blank" rel="noopener noreferrer nofollow">https://tipsforteachers.co.uk/research-critical-thinking-why-is-it-so-hard-to-teach/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Instead, it should be integrated into regular classroom instruction within specific subjects.Read more...</p></details>
+   Link: <a href="https://tipsforteachers.co.uk/research-critical-thinking-why-is-it-so-hard-to-teach/" target="_blank" rel="noopener noreferrer nofollow">https://tipsforteachers.co.uk/research-critical-thinking-why-is-it-so-hard-to-teach/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Instead, it should be integrated into regular classroom instruction within specific subjects.Read more...</p></details>
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: educationendowmentfoundation.org.uk  
    Title: how do we teach metacognition  
-   Link:<a href="https://educationendowmentfoundation.org.uk/news/how-do-we-teach-metacognition" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/how-do-we-teach-metacognition</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>We know that metacognition is important, but how do...25 Nov 2025 — Self-regulated learners, like Tanya, apply metacognitive strategies...</p></details>
+   Link: <a href="https://educationendowmentfoundation.org.uk/news/how-do-we-teach-metacognition" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/how-do-we-teach-metacognition</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>We know that metacognition is important, but how do...25 Nov 2025 — Self-regulated learners, like Tanya, apply metacognitive strategies...</p></details>
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: educationendowmentfoundation.org.uk  
    Title: updated eef guide to metacognition and self regulation  
-   Link:<a href="https://educationendowmentfoundation.org.uk/news/updated-eef-guide-to-metacognition-and-self-regulation" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/updated-eef-guide-to-metacognition-and-self-regulation</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The updated EEF guide to metacognition and self-regulation.14 Nov 2025 — Helping pupils plan, monitor, and evaluate learning through meta...</p></details>
+   Link: <a href="https://educationendowmentfoundation.org.uk/news/updated-eef-guide-to-metacognition-and-self-regulation" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/updated-eef-guide-to-metacognition-and-self-regulation</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The updated EEF guide to metacognition and self-regulation.14 Nov 2025 — Helping pupils plan, monitor, and evaluate learning through meta...</p></details>
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link:<a href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/metacognition-and-self-regulation/technical-appendix" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/metacognition-and-self-regulation/technical-appendix</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Metacognition and self-regulation: Technical AppendixMetacognition and self-regulation approaches to teaching support pupils to think abo...</p></details>
+   Link: <a href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/metacognition-and-self-regulation/technical-appendix" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/metacognition-and-self-regulation/technical-appendix</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Metacognition and self-regulation: Technical AppendixMetacognition and self-regulation approaches to teaching support pupils to think abo...</p></details>
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: educationendowmentfoundation.org.uk  
    Title: promoting metacognitive talk in the classroom  
-   Link:<a href="https://educationendowmentfoundation.org.uk/news/promoting-metacognitive-talk-in-the-classroom" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/promoting-metacognitive-talk-in-the-classroom</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>EEF4 Mar 2026 — Recommendation 4 of the EEF&#x27;s Metacognition and Self-regulated Learning guidance states: promote and develop metacognitiv...</p></details>
+   Link: <a href="https://educationendowmentfoundation.org.uk/news/promoting-metacognitive-talk-in-the-classroom" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/promoting-metacognitive-talk-in-the-classroom</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>EEF4 Mar 2026 — Recommendation 4 of the EEF&#x27;s Metacognition and Self-regulated Learning guidance states: promote and develop metacognitiv...</p></details>
 
-12.<a id="endnote-12"></a>
+12. <a id="endnote-12"></a>
    Source: educationendowmentfoundation.org.uk  
    Title: metacognition and self regulation guidance report  
-   Link:<a href="https://educationendowmentfoundation.org.uk/education-evidence/evidence-reviews/metacognition-and-self-regulation-guidance-report" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/evidence-reviews/metacognition-and-self-regulation-guidance-report</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Metacognition and self-regulation evidence review9 Sept 2024 — Review of the evidence commissioned by the EEF to inform the Metacognition...</p></details>
+   Link: <a href="https://educationendowmentfoundation.org.uk/education-evidence/evidence-reviews/metacognition-and-self-regulation-guidance-report" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/evidence-reviews/metacognition-and-self-regulation-guidance-report</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Metacognition and self-regulation evidence review9 Sept 2024 — Review of the evidence commissioned by the EEF to inform the Metacognition...</p></details>
 
-13.<a id="endnote-13"></a>
+13. <a id="endnote-13"></a>
    Source: educationendowmentfoundation.org.uk  
    Title: the metacognition lab explorations in student thinking for english resits  
-   Link:<a href="https://educationendowmentfoundation.org.uk/16-19/the-metacognition-lab-explorations-in-student-thinking-for-english-resits" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/16-19/the-metacognition-lab-explorations-in-student-thinking-for-english-resits</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Scott graduates his feedback to ensure learners can focus on manageable improvements over time.Read more...</p></details>
+   Link: <a href="https://educationendowmentfoundation.org.uk/16-19/the-metacognition-lab-explorations-in-student-thinking-for-english-resits" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/16-19/the-metacognition-lab-explorations-in-student-thinking-for-english-resits</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scott graduates his feedback to ensure learners can focus on manageable improvements over time.Read more...</p></details>
 
 ### Additional References
 
-14.<a id="endnote-14"></a>
+14. <a id="endnote-14"></a>
    Source: scribd.com  
-   Link:<a href="https://www.scribd.com/document/389837267/EEF-Metacognition-and-Self-regulated-Learning" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/389837267/EEF-Metacognition-and-Self-regulated-Learning</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>EEF Metacognition Guidance Report | PDFThe document provides guidance on developing students&#x27; metacognition and self-regulated learning a...</p></details>
+   Link: <a href="https://www.scribd.com/document/389837267/EEF-Metacognition-and-Self-regulated-Learning" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/389837267/EEF-Metacognition-and-Self-regulated-Learning</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>EEF Metacognition Guidance Report | PDFThe document provides guidance on developing students&#x27; metacognition and self-regulated learning a...</p></details>
 
-15.<a id="endnote-15"></a>
+15. <a id="endnote-15"></a>
    Source: linkedin.com  
-   Link:<a href="https://www.linkedin.com/posts/greenshaw-research-school_metacognition-and-self-regulated-learning-activity-7394674207554699264-oUQy" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/greenshaw-research-school_metacognition-and-self-regulated-learning-activity-7394674207554699264-oUQy</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>EEF updates guidance on metacognition and self-...The Education Endowment Foundation (EEF) has released updated guidance on Metacognitio...</p></details>
+   Link: <a href="https://www.linkedin.com/posts/greenshaw-research-school_metacognition-and-self-regulated-learning-activity-7394674207554699264-oUQy" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/greenshaw-research-school_metacognition-and-self-regulated-learning-activity-7394674207554699264-oUQy</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>EEF updates guidance on metacognition and self-...The Education Endowment Foundation (EEF) has released updated guidance on Metacognitio...</p></details>
 
-16.<a id="endnote-16"></a>
+16. <a id="endnote-16"></a>
    Source: linkedin.com  
-   Link:<a href="https://www.linkedin.com/posts/ammarmerhbi_how-to-teach-critical-thinking-activity-7299673833563709440-pPn6" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/ammarmerhbi_how-to-teach-critical-thinking-activity-7299673833563709440-pPn6</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Teach Critical Thinking in NSW SchoolsVery timely paper on &quot;How to Teach Critical Thinking&quot; by Daniel Willingham, a paper commissi...</p></details>
+   Link: <a href="https://www.linkedin.com/posts/ammarmerhbi_how-to-teach-critical-thinking-activity-7299673833563709440-pPn6" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/ammarmerhbi_how-to-teach-critical-thinking-activity-7299673833563709440-pPn6</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Teach Critical Thinking in NSW SchoolsVery timely paper on &quot;How to Teach Critical Thinking&quot; by Daniel Willingham, a paper commissi...</p></details>
 
-17.<a id="endnote-17"></a>
+17. <a id="endnote-17"></a>
    Source: my.chartered.college  
-   Link:<a href="https://my.chartered.college/impact_article/how-to-teach-critical-thinking/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/how-to-teach-critical-thinking/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>to teach critical thinkingby D Willingham · Cited by 153 — Teaching critical thinking for transfer across domains: Disposition, skills, s...</p></details>
+   Link: <a href="https://my.chartered.college/impact_article/how-to-teach-critical-thinking/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/how-to-teach-critical-thinking/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>to teach critical thinkingby D Willingham · Cited by 153 — Teaching critical thinking for transfer across domains: Disposition, skills, s...</p></details>
 
-18.<a id="endnote-18"></a>
+18. <a id="endnote-18"></a>
    Source: dera.ioe.ac.uk  
-   Link:<a href="https://dera.ioe.ac.uk/id/eprint/31617/1/EEF_Metacognition_and_self-regulated_learning.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dera.ioe.ac.uk/id/eprint/31617/1/EEF_Metacognition_and_self-regulated_learning.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Report METACOGNITION AND SELF-REGULATED...Effective metacognitive strategies get learners to think about their own learning more explici...</p></details>
+   Link: <a href="https://dera.ioe.ac.uk/id/eprint/31617/1/EEF_Metacognition_and_self-regulated_learning.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dera.ioe.ac.uk/id/eprint/31617/1/EEF_Metacognition_and_self-regulated_learning.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Report METACOGNITION AND SELF-REGULATED...Effective metacognitive strategies get learners to think about their own learning more explici...</p></details>
 
-19.<a id="endnote-19"></a>
+19. <a id="endnote-19"></a>
    Source: teaching.uchicago.edu  
-   Link:<a href="https://teaching.uchicago.edu/resources/make-learning-visible-thinking-routines" target="_blank" rel="noopener noreferrer nofollow">https://teaching.uchicago.edu/resources/make-learning-visible-thinking-routines</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Teaching at ChicagoMake Learning Visible with Thinking RoutinesThinking routines offer a practical and easy-to-implement series of steps...</p></details>
+   Link: <a href="https://teaching.uchicago.edu/resources/make-learning-visible-thinking-routines" target="_blank" rel="noopener noreferrer nofollow">https://teaching.uchicago.edu/resources/make-learning-visible-thinking-routines</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Teaching at ChicagoMake Learning Visible with Thinking RoutinesThinking routines offer a practical and easy-to-implement series of steps...</p></details>
 
-20.<a id="endnote-20"></a>
+20. <a id="endnote-20"></a>
    Source: danielwillingham.com  
-   Link:<a href="https://www.danielwillingham.com/uploads/5/0/0/7/5007325/willingham_2019_nsw_critical_thinking2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.danielwillingham.com/uploads/5/0/0/7/5007325/willingham_2019_nsw_critical_thinking2.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>elop a program to teach critical thinking: (1) identify a list of critical thinking skills for each subject...Read mo...</p></details>
+   Link: <a href="https://www.danielwillingham.com/uploads/5/0/0/7/5007325/willingham_2019_nsw_critical_thinking2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.danielwillingham.com/uploads/5/0/0/7/5007325/willingham_2019_nsw_critical_thinking2.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>elop a program to teach critical thinking: (1) identify a list of critical thinking skills for each subject...Read mo...</p></details>
 
-21.<a id="endnote-21"></a>
+21. <a id="endnote-21"></a>
    Source: eani.org.uk  
-   Link:<a href="https://www.eani.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.eani.org.uk/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Education AuthorityThe Education Authority is responsible for delivering education services across Northern Ireland · Admissions · Home t...</p></details>
+   Link: <a href="https://www.eani.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.eani.org.uk/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Education AuthorityThe Education Authority is responsible for delivering education services across Northern Ireland · Admissions · Home t...</p></details>
 
-22.<a id="endnote-22"></a>
+22. <a id="endnote-22"></a>
    Source: researchgate.net  
    Title: 242479451 Critical Thinking Why Is It So Hard to Teach  
-   Link:<a href="https://www.researchgate.net/publication/242479451_Critical_Thinking_Why_Is_It_So_Hard_to_Teach" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/242479451_Critical_Thinking_Why_Is_It_So_Hard_to_Teach</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Willingham (2008) Critical Thinking: Why Is It So Hard to Teach?, Arts Education Policy Review, 109:4, 21-32, DOI: 10.3200/AEPR.109.4.21...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/242479451_Critical_Thinking_Why_Is_It_So_Hard_to_Teach" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/242479451_Critical_Thinking_Why_Is_It_So_Hard_to_Teach</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Willingham (2008) Critical Thinking: Why Is It So Hard to Teach?, Arts Education Policy Review, 109:4, 21-32, DOI: 10.3200/AEPR.109.4.21...</p></details>
 
-23.<a id="endnote-23"></a>
+23. <a id="endnote-23"></a>
    Source: evidenceforlearning.org.au  
-   Link:<a href="https://evidenceforlearning.org.au/education-evidence/guidance-reports/metacognition" target="_blank" rel="noopener noreferrer nofollow">https://evidenceforlearning.org.au/education-evidence/guidance-reports/metacognition</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>elf-regulation can lead to learning gains of months over the course...Read more...</p></details>
+   Link: <a href="https://evidenceforlearning.org.au/education-evidence/guidance-reports/metacognition" target="_blank" rel="noopener noreferrer nofollow">https://evidenceforlearning.org.au/education-evidence/guidance-reports/metacognition</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>elf-regulation can lead to learning gains of months over the course...Read more...</p></details>

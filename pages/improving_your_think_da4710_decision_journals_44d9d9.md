@@ -451,17 +451,17 @@ A decision journal is a simple way to keep score on your own judgement. Before m
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_decision_journals_44d9d9-overview.webp" | relative_url }}" alt="Overview image for Decision Journal" loading="eager" decoding="sync" fetchpriority="high">
-This matters because many important choices give weak feedback. A hiring decision, investment, product launch, career move or policy change may look brilliant or foolish months later, but the outcome alone cannot tell you whether the judgement was sound. Research on [hindsight bias]({{ 'hindsight-bias/' | relative_url }}) shows that once people know an outcome, they tend to see it as more predictable than it was beforehand; research on outcome bias shows that people also judge decision quality too heavily by results, even when luck and uncertainty were involved. A decision journal is a practical intervention against both errors: it turns vague memory into a record that can be reviewed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://web.mit.edu/curhan/www/docs/Articles/biases/13_Org_Behavior_and_Human_Perf_13_1975_Fischhoff.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: web.mit.edu">[Massachusetts Institute of Technology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">web.mit.edu</span><span class="citation-popover-title">13 Org Behavior and Human Perf 13 1975 Fischhoff</span><span class="citation-popover-snippet">Massachusetts Institute of TechnologyI knew it would happen: Remembered probabilities of onceOctober 30, 2009 — Requests for reprints sho...</span><span class="citation-popover-meta">Published: October 30, 2009</span></span></span>
+This matters because many important choices give weak feedback. A hiring decision, investment, product launch, career move or policy change may look brilliant or foolish months later, but the outcome alone cannot tell you whether the judgement was sound. Research on [hindsight bias]({{ 'hindsight-bias/' | relative_url }}) shows that once people know an outcome, they tend to see it as more predictable than it was beforehand; research on outcome bias shows that people also judge decision quality too heavily by results, even when luck and uncertainty were involved. A decision journal is a practical intervention against both errors: it turns vague memory into a record that can be reviewed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://web.mit.edu/curhan/www/docs/Articles/biases/13_Org_Behavior_and_Human_Perf_13_1975_Fischhoff.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: web.mit.edu">[Massachusetts Institute of Technology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">web.mit.edu</span><span class="citation-popover-title">13 Org Behavior and Human Perf 13 1975 Fischhoff</span><span class="citation-popover-snippet">Massachusetts Institute of TechnologyI knew it would happen: Remembered probabilities of onceOctober 30, 2009 — Requests for reprints sho...</span><span class="citation-popover-meta">Published: October 30, 2009</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_decision_journals_44d9d9-Illustration-2-dark.svg" | relative_url }}" alt="Decision Journal illustration 2" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_decision_journals_44d9d9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_decision_journals_44d9d9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why real choices need a scorecard
 
-Most people review decisions informally. They ask, “Did it work?” and then build a story around the answer. That is understandable, but it is a poor learning system. A good outcome can come from a bad process, and a bad outcome can come from a good process exposed to bad luck. Poker player and decision writer Annie Duke calls the common error “resulting”: treating the result as proof that the choice was wise or stupid. Her broader point is especially relevant to everyday analytical skill: in uncertain situations, decision quality and outcome quality are related, but they are not the same thing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.marketwatch.com/story/hold-stocks-or-fold-em-former-world-series-of-poker-champion-annie-duke-tells-you-how-to-decide-6ded9e52" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marketwatch.com">[MarketWatch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marketwatch.com</span><span class="citation-popover-snippet">She introduces a three-step method for assessing speculative markets: establishing a historical base rate for context, assessing whether...</span></span></span>
+Most people review decisions informally. They ask, “Did it work?” and then build a story around the answer. That is understandable, but it is a poor learning system. A good outcome can come from a bad process, and a bad outcome can come from a good process exposed to bad luck. Poker player and decision writer Annie Duke calls the common error “resulting”: treating the result as proof that the choice was wise or stupid. Her broader point is especially relevant to everyday analytical skill: in uncertain situations, decision quality and outcome quality are related, but they are not the same thing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.marketwatch.com/story/hold-stocks-or-fold-em-former-world-series-of-poker-champion-annie-duke-tells-you-how-to-decide-6ded9e52" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marketwatch.com">[MarketWatch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marketwatch.com</span><span class="citation-popover-snippet">She introduces a three-step method for assessing speculative markets: establishing a historical base rate for context, assessing whether...</span></span></span>
 
-The classic evidence is not just anecdotal. Baruch Fischhoff’s early work on hindsight bias found that outcome knowledge changes how predictable events seem in retrospect. People who already know what happened tend to overestimate how knowable it was beforehand. Fischhoff’s later reflections describe hindsight bias as a persistent problem for learning from the past because it can make uncertainty disappear after the fact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://web.mit.edu/curhan/www/docs/Articles/biases/13_Org_Behavior_and_Human_Perf_13_1975_Fischhoff.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: web.mit.edu">[Massachusetts Institute of Technology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">web.mit.edu</span><span class="citation-popover-title">13 Org Behavior and Human Perf 13 1975 Fischhoff</span><span class="citation-popover-snippet">Massachusetts Institute of TechnologyI knew it would happen: Remembered probabilities of onceOctober 30, 2009 — Requests for reprints sho...</span><span class="citation-popover-meta">Published: October 30, 2009</span></span></span>
+The classic evidence is not just anecdotal. Baruch Fischhoff’s early work on hindsight bias found that outcome knowledge changes how predictable events seem in retrospect. People who already know what happened tend to overestimate how knowable it was beforehand. Fischhoff’s later reflections describe hindsight bias as a persistent problem for learning from the past because it can make uncertainty disappear after the fact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://web.mit.edu/curhan/www/docs/Articles/biases/13_Org_Behavior_and_Human_Perf_13_1975_Fischhoff.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: web.mit.edu">[Massachusetts Institute of Technology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">web.mit.edu</span><span class="citation-popover-title">13 Org Behavior and Human Perf 13 1975 Fischhoff</span><span class="citation-popover-snippet">Massachusetts Institute of TechnologyI knew it would happen: Remembered probabilities of onceOctober 30, 2009 — Requests for reprints sho...</span><span class="citation-popover-meta">Published: October 30, 2009</span></span></span>
 
-Outcome bias adds a second trap. Jonathan Baron and John Hershey’s 1988 studies found that people rated the quality of decisions differently when they knew whether the outcome was good or bad, even when they had the same information that was available to the original decision-maker. A 2023 [replication]({{ 'replication/' | relative_url }}) and extension again found that [outcomes]({{ 'outcomes/' | relative_url }}) affect evaluations of decision quality. This is exactly the confusion a decision journal is designed to interrupt: it preserves the ex ante view, meaning the view from before the result was known.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/3367280/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Outcome bias in decision evaluation</span><span class="citation-popover-snippet">Outcome bias in decision evaluation - PubMed - NIHby J Baron · 1988 · Cited by 1463 — In 5 studies, undergraduate subjects were giv...</span></span></span>
+Outcome bias adds a second trap. Jonathan Baron and John Hershey’s 1988 studies found that people rated the quality of decisions differently when they knew whether the outcome was good or bad, even when they had the same information that was available to the original decision-maker. A 2023 [replication]({{ 'replication/' | relative_url }}) and extension again found that [outcomes]({{ 'outcomes/' | relative_url }}) affect evaluations of decision quality. This is exactly the confusion a decision journal is designed to interrupt: it preserves the ex ante view, meaning the view from before the result was known. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/3367280/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Outcome bias in decision evaluation</span><span class="citation-popover-snippet">Outcome bias in decision evaluation - PubMed - NIHby J Baron · 1988 · Cited by 1463 — In 5 studies, undergraduate subjects were giv...</span></span></span>
 
 A useful decision journal therefore does two jobs. First, it improves the decision before commitment by making assumptions visible. Secondly, it improves learning after the fact by making the review fairer. It asks, “Given what I knew then, was this a good decision process?” before asking, “Did I like what happened?”
 
@@ -477,9 +477,9 @@ A useful decision journal therefore does two jobs. First, it improves the decisi
 <img src="{{ "/assets/images/improving_your_think_da4710_decision_journals_44d9d9-Illustration-1-dark.svg" | relative_url }}" alt="Decision Journal illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_decision_journals_44d9d9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_decision_journals_44d9d9-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What to record before deciding
 
-The journal entry should be short enough that you will actually use it, but specific enough that future-you cannot wriggle away from it. Farnam Street’s widely used decision-journal template frames the practice as “quality control” for thinking and recommends writing down the situation, the decision, the variables, the expected outcomes, [probabilities]({{ 'probabilities/' | relative_url }}) and later results. The most important design principle is precision: vague words create escape hatches, while clear [predictions]({{ 'predictions/' | relative_url }}) create reviewable evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fs.blog/decision-journal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fs.blog">[Farnam Street]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fs.blog</span><span class="citation-popover-title">Farnam Street Decision Journal: Template and Example Included</span><span class="citation-popover-snippet">Farnam Street Decision Journal: Template and Example Included</span></span></span>
+The journal entry should be short enough that you will actually use it, but specific enough that future-you cannot wriggle away from it. Farnam Street’s widely used decision-journal template frames the practice as “quality control” for thinking and recommends writing down the situation, the decision, the variables, the expected outcomes, [probabilities]({{ 'probabilities/' | relative_url }}) and later results. The most important design principle is precision: vague words create escape hatches, while clear [predictions]({{ 'predictions/' | relative_url }}) create reviewable evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fs.blog/decision-journal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fs.blog">[Farnam Street]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fs.blog</span><span class="citation-popover-title">Farnam Street Decision Journal: Template and Example Included</span><span class="citation-popover-snippet">Farnam Street Decision Journal: Template and Example Included</span></span></span>
 
-For consequential decisions, record these items before acting:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cognitivebiaslab.com/bias/bias-hindsight/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cognitivebiaslab.com">[cognitivebiaslab.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cognitivebiaslab.com</span><span class="citation-popover-title">Hindsight Bias</span><span class="citation-popover-snippet">Hindsight Bias</span></span></span>
+For consequential decisions, record these items before acting: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cognitivebiaslab.com/bias/bias-hindsight/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cognitivebiaslab.com">[cognitivebiaslab.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cognitivebiaslab.com</span><span class="citation-popover-title">Hindsight Bias</span><span class="citation-popover-snippet">Hindsight Bias</span></span></span>
 
 1. **The decision and deadline.** State the choice in a sentence: “Hire candidate A for the operations role,” “Continue the project for one more quarter,” or “Move savings from cash into a diversified index fund.” Include the date and the point at which the decision becomes hard to reverse.
 2. **The live alternatives.** List the serious options you rejected, not just the one you chose. This prevents the review from becoming a lazy comparison between the chosen path and an imaginary perfect path.
@@ -500,7 +500,7 @@ A strong entry does not need to be long. The habit works because it captures the
 Imagine a manager deciding whether to promote a strong individual contributor into a team-lead role. A weak review would simply ask six months later, “Did the promotion work?” If the person succeeds, the manager may remember the choice as obvious. If the person struggles, the manager may remember the warning signs as obvious. Neither memory is reliable.
 
 [A decision-journal entry would make the review sharper:](#endnote-7 "
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Hindsight Bias&quot;)...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hindsight Bias&quot;)...</p></details>
 
 **Decision:** Promote Maya to team lead from 1 September rather than hiring externally.
 
@@ -542,7 +542,7 @@ The review should end with one or two changes to future practice. For example: �
 Hindsight bias is powerful because it feels like understanding. Once an outcome is known, the mind can easily produce a story in which the clues were there all along. The problem is not that hindsight is useless; it is that hindsight must be disciplined. Outcome knowledge can contaminate memory of what was known, what was believed and what was realistically foreseeable. [Cambridge University Press & Assessment](https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/D1116404C680ED2CA1F9286FF1183483/9780511574894c4_p62-77_CBO.pdf/hindsight-bias.pdf)
 
 [A decision journal reduces that contamination in three ways.](#endnote-7 "
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Hindsight Bias&quot;)...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hindsight Bias&quot;)...</p></details>
 
 First, it **anchors memory**. Instead of asking, “What do I think I thought?”, you can see what you actually wrote. This is especially useful for decisions that unfold over months, where confidence and reasons change gradually.
 
@@ -592,178 +592,178 @@ It is especially useful in four settings:
 The best reason to keep one is not self-criticism. It is self-honesty. Better thinking depends on feedback, but real life rarely provides clean feedback by itself. A decision journal creates a small feedback loop around real choices: what you knew, what you expected, what happened, and what that should change next time.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Keep Score on Your Own Judgement. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Keep Score on Your Own Judgement. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking+in+Bets+by+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking in Bets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VcouDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking in Bets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Thinking+in+Bets+by+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking in Bets">Thinking in Bets</a>
-</h4>
-<p class="fr-book-author">By Annie Duke</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=45OmCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Superforecasting+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
+        </h4>
+        <p class="fr-book-author">By Philip Tetlock, Dan Gardner</p>
         
-<p class="fr-book-desc">Explains decision quality, uncertainty, resulting, and decision journals.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Thinking+in+Bets+by+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Focuses on tracking predictions, calibration, and improving judgment.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Superforecasting+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=45OmCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
-</h4>
-<p class="fr-book-author">By Philip Tetlock, Dan Gardner</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking+in+Bets+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking in Bets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hOZFDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Thinking in Bets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Thinking+in+Bets+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking in Bets">Thinking in Bets</a>
+        </h4>
+        <p class="fr-book-author">By Annie Duke</p>
         
-<p class="fr-book-desc">Focuses on tracking predictions, calibration, and improving judgment.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains decision quality, uncertainty, resulting, and decision journals.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Thinking+in+Bets+Annie+Duke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Noise+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_KujzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Noise+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Noise">Noise</a>
-</h4>
-<p class="fr-book-author">By Daniel Kahneman, Olivier Sibony et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+        </h4>
+        <p class="fr-book-author">By Daniel Kahneman</p>
         
-<p class="fr-book-desc">Covers decision quality, judgment errors, and better evaluation processes.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Noise+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides foundational concepts behind biases affecting decision reviews.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
-</h4>
-<p class="fr-book-author">By Nate Silver</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Noise+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_KujzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Noise+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Noise">Noise</a>
+        </h4>
+        <p class="fr-book-author">By Daniel Kahneman, Olivier Sibony et al.</p>
         
-<p class="fr-book-desc">Shows how probabilistic thinking improves real-world decisions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Covers decision quality, judgment errors, and better evaluation processes.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Noise+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking+in+Bets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking in Bets</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Noise</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking+in+Bets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking in Bets</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+journal+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=keep-score-on-your-own-judgement-decision-journal-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision journal notebook" data-ebay-reference="keep-score-on-your-own-judgement-decision-journal-notebook" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A Truly Amazing English Teacher Notebook // Journal Thank You Gift for Englis..."><img src="https://i.ebayimg.com/images/g/Zf0AAeSwVltpHNHj/s-l225.jpg" alt="Listing image for A Truly Amazing English Teacher Notebook // Journal Thank You Gift for Englis..." loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+journal+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=keep-score-on-your-own-judgement-decision-journal-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision journal notebook" data-ebay-reference="keep-score-on-your-own-judgement-decision-journal-notebook" target="_blank" rel="sponsored noopener noreferrer">A Truly Amazing English Teacher Notebook // Journal Thank You Gift for Englis...</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+journal+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=keep-score-on-your-own-judgement-decision-journal-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision journal notebook" data-ebay-reference="keep-score-on-your-own-judgement-decision-journal-notebook" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision journal notebook">Search<span data-ebay-domain-label>eBay.co.uk</span>: decision journal notebook</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+journal+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=keep-score-on-your-own-judgement-decision-journal-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision journal notebook" data-ebay-reference="keep-score-on-your-own-judgement-decision-journal-notebook" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+journal+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=keep-score-on-your-own-judgement-decision-journal-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision journal notebook" data-ebay-reference="keep-score-on-your-own-judgement-decision-journal-notebook" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A Truly Amazing English Teacher Notebook // Journal Thank You Gift for Englis..."><img src="https://i.ebayimg.com/images/g/Zf0AAeSwVltpHNHj/s-l225.jpg" alt="Listing image for A Truly Amazing English Teacher Notebook // Journal Thank You Gift for Englis..." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+journal+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=keep-score-on-your-own-judgement-decision-journal-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision journal notebook" data-ebay-reference="keep-score-on-your-own-judgement-decision-journal-notebook" target="_blank" rel="sponsored noopener noreferrer">A Truly Amazing English Teacher Notebook // Journal Thank You Gift for Englis...</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+journal+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=keep-score-on-your-own-judgement-decision-journal-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision journal notebook" data-ebay-reference="keep-score-on-your-own-judgement-decision-journal-notebook" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision journal notebook">Search <span data-ebay-domain-label>eBay.co.uk</span>: decision journal notebook</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+journal+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=keep-score-on-your-own-judgement-decision-journal-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision journal notebook" data-ebay-reference="keep-score-on-your-own-judgement-decision-journal-notebook" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+journal+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=keep-score-on-your-own-judgement-decision-journal-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision journal notebook" data-ebay-reference="keep-score-on-your-own-judgement-decision-journal-notebook" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Debate It! - Decision Journal | Make better decisions | Structured and logical"><img src="https://i.ebayimg.com/images/g/QMwAAOSwnShhuL2x/s-l225.jpg" alt="Listing image for Debate It! - Decision Journal | Make better decisions | Structured and logical" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+journal+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=keep-score-on-your-own-judgement-decision-journal-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision journal notebook" data-ebay-reference="keep-score-on-your-own-judgement-decision-journal-notebook" target="_blank" rel="sponsored noopener noreferrer">Debate It! - Decision Journal | Make better decisions | Structured and logical</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+journal+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=keep-score-on-your-own-judgement-decision-journal-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision journal notebook" data-ebay-reference="keep-score-on-your-own-judgement-decision-journal-notebook" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision journal notebook">Search<span data-ebay-domain-label>eBay.co.uk</span>: decision journal notebook</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+journal+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=keep-score-on-your-own-judgement-decision-journal-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision journal notebook" data-ebay-reference="keep-score-on-your-own-judgement-decision-journal-notebook" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+journal+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=keep-score-on-your-own-judgement-decision-journal-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision journal notebook" data-ebay-reference="keep-score-on-your-own-judgement-decision-journal-notebook" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Debate It! - Decision Journal | Make better decisions | Structured and logical"><img src="https://i.ebayimg.com/images/g/QMwAAOSwnShhuL2x/s-l225.jpg" alt="Listing image for Debate It! - Decision Journal | Make better decisions | Structured and logical" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+journal+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=keep-score-on-your-own-judgement-decision-journal-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision journal notebook" data-ebay-reference="keep-score-on-your-own-judgement-decision-journal-notebook" target="_blank" rel="sponsored noopener noreferrer">Debate It! - Decision Journal | Make better decisions | Structured and logical</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+journal+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=keep-score-on-your-own-judgement-decision-journal-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision journal notebook" data-ebay-reference="keep-score-on-your-own-judgement-decision-journal-notebook" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision journal notebook">Search <span data-ebay-domain-label>eBay.co.uk</span>: decision journal notebook</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+journal+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=keep-score-on-your-own-judgement-decision-journal-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision journal notebook" data-ebay-reference="keep-score-on-your-own-judgement-decision-journal-notebook" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+journal+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=keep-score-on-your-own-judgement-decision-journal-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision journal notebook" data-ebay-reference="keep-score-on-your-own-judgement-decision-journal-notebook" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A Truly Amazing English Teacher: Notebook // Journal: Thank You Gift for English"><img src="https://i.ebayimg.com/images/g/L1sAAOSwROlnJAR2/s-l225.jpg" alt="Listing image for A Truly Amazing English Teacher: Notebook // Journal: Thank You Gift for English" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+journal+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=keep-score-on-your-own-judgement-decision-journal-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision journal notebook" data-ebay-reference="keep-score-on-your-own-judgement-decision-journal-notebook" target="_blank" rel="sponsored noopener noreferrer">A Truly Amazing English Teacher: Notebook // Journal: Thank You Gift for English</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+journal+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=keep-score-on-your-own-judgement-decision-journal-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision journal notebook" data-ebay-reference="keep-score-on-your-own-judgement-decision-journal-notebook" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision journal notebook">Search<span data-ebay-domain-label>eBay.co.uk</span>: decision journal notebook</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+journal+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=keep-score-on-your-own-judgement-decision-journal-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision journal notebook" data-ebay-reference="keep-score-on-your-own-judgement-decision-journal-notebook" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+journal+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=keep-score-on-your-own-judgement-decision-journal-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision journal notebook" data-ebay-reference="keep-score-on-your-own-judgement-decision-journal-notebook" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+journal+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=keep-score-on-your-own-judgement-decision-journal-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision journal notebook" data-ebay-reference="keep-score-on-your-own-judgement-decision-journal-notebook" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A Truly Amazing English Teacher: Notebook // Journal: Thank You Gift for English"><img src="https://i.ebayimg.com/images/g/L1sAAOSwROlnJAR2/s-l225.jpg" alt="Listing image for A Truly Amazing English Teacher: Notebook // Journal: Thank You Gift for English" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+journal+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=keep-score-on-your-own-judgement-decision-journal-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision journal notebook" data-ebay-reference="keep-score-on-your-own-judgement-decision-journal-notebook" target="_blank" rel="sponsored noopener noreferrer">A Truly Amazing English Teacher: Notebook // Journal: Thank You Gift for English</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+journal+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=keep-score-on-your-own-judgement-decision-journal-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision journal notebook" data-ebay-reference="keep-score-on-your-own-judgement-decision-journal-notebook" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision journal notebook">Search <span data-ebay-domain-label>eBay.co.uk</span>: decision journal notebook</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+journal+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=keep-score-on-your-own-judgement-decision-journal-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision journal notebook" data-ebay-reference="keep-score-on-your-own-judgement-decision-journal-notebook" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+journal+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=keep-score-on-your-own-judgement-decision-journal-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision journal notebook" data-ebay-reference="keep-score-on-your-own-judgement-decision-journal-notebook" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -779,7 +779,7 @@ The best reason to keep one is not self-criticism. It is self-honesty. Better th
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -799,7 +799,7 @@ The best reason to keep one is not self-criticism. It is self-honesty. Better th
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -831,7 +831,7 @@ The best reason to keep one is not self-criticism. It is self-honesty. Better th
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -883,7 +883,7 @@ The best reason to keep one is not self-criticism. It is self-honesty. Better th
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -928,7 +928,7 @@ The best reason to keep one is not self-criticism. It is self-honesty. Better th
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -968,185 +968,185 @@ The best reason to keep one is not self-criticism. It is self-honesty. Better th
 </section>
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: marketwatch.com  
-   Link:<a href="https://www.marketwatch.com/story/hold-stocks-or-fold-em-former-world-series-of-poker-champion-annie-duke-tells-you-how-to-decide-6ded9e52" target="_blank" rel="noopener noreferrer nofollow">https://www.marketwatch.com/story/hold-stocks-or-fold-em-former-world-series-of-poker-champion-annie-duke-tells-you-how-to-decide-6ded9e52</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>She introduces a three-step method for assessing speculative markets: establishing a historical base rate for context, assessing whether...</p></details>
+   Link: <a href="https://www.marketwatch.com/story/hold-stocks-or-fold-em-former-world-series-of-poker-champion-annie-duke-tells-you-how-to-decide-6ded9e52" target="_blank" rel="noopener noreferrer nofollow">https://www.marketwatch.com/story/hold-stocks-or-fold-em-former-world-series-of-poker-champion-annie-duke-tells-you-how-to-decide-6ded9e52</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>She introduces a three-step method for assessing speculative markets: establishing a historical base rate for context, assessing whether...</p></details>
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: resolve.cambridge.org  
    Title: hindsight bias  
-   Link:<a href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/D1116404C680ED2CA1F9286FF1183483/9780511574894c4_p62-77_CBO.pdf/hindsight-bias.pdf" target="_blank" rel="noopener noreferrer nofollow">https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/D1116404C680ED2CA1F9286FF1183483/9780511574894c4_p62-77_CBO.pdf/hindsight-bias.pdf</a>  
+   Link: <a href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/D1116404C680ED2CA1F9286FF1183483/9780511574894c4_p62-77_CBO.pdf/hindsight-bias.pdf" target="_blank" rel="noopener noreferrer nofollow">https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/D1116404C680ED2CA1F9286FF1183483/9780511574894c4_p62-77_CBO.pdf/hindsight-bias.pdf</a>  
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: mckinsey.com  
    Title: Mc Kinsey & Company Bias Busters: Premortems: Being smart at the start  
-   Link:<a href="https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/bias-busters-premortems-being-smart-at-the-start" target="_blank" rel="noopener noreferrer nofollow">https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/bias-busters-premortems-being-smart-at-the-start</a>  
+   Link: <a href="https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/bias-busters-premortems-being-smart-at-the-start" target="_blank" rel="noopener noreferrer nofollow">https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/bias-busters-premortems-being-smart-at-the-start</a>  
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: execed.hkubs.hku.hk  
    Title: Before You Make That Big Decision  
-   Link:<a href="https://execed.hkubs.hku.hk/wp-content/uploads/2023/04/Harvard-Business-Review-Before-You-Make-That-Big-Decision.pdf" target="_blank" rel="noopener noreferrer nofollow">https://execed.hkubs.hku.hk/wp-content/uploads/2023/04/Harvard-Business-Review-Before-You-Make-That-Big-Decision.pdf</a>  
+   Link: <a href="https://execed.hkubs.hku.hk/wp-content/uploads/2023/04/Harvard-Business-Review-Before-You-Make-That-Big-Decision.pdf" target="_blank" rel="noopener noreferrer nofollow">https://execed.hkubs.hku.hk/wp-content/uploads/2023/04/Harvard-Business-Review-Before-You-Make-That-Big-Decision.pdf</a>  
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: mckinsey.de  
-   Link:<a href="https://www.mckinsey.de/~/media/McKinsey/Business%20Functions/Strategy%20and%20Corporate%20Finance/Our%20Insights/Making%20great%20decisions/Making%20great%20decisions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mckinsey.de/~/media/McKinsey/Business%20Functions/Strategy%20and%20Corporate%20Finance/Our%20Insights/Making%20great%20decisions/Making%20great%20decisions.pdf</a>  
+   Link: <a href="https://www.mckinsey.de/~/media/McKinsey/Business%20Functions/Strategy%20and%20Corporate%20Finance/Our%20Insights/Making%20great%20decisions/Making%20great%20decisions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mckinsey.de/~/media/McKinsey/Business%20Functions/Strategy%20and%20Corporate%20Finance/Our%20Insights/Making%20great%20decisions/Making%20great%20decisions.pdf</a>  
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: cambridge.org  
    Title: recalibrating probabilistic forecasts to improve theiraccuracy  
-   Link:<a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/5D8F0DFC90FC1E9B5C38C12992A6C6A7/S1930297500009049a.pdf/recalibrating_probabilistic_forecasts_to_improve_theiraccuracy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/services/aop-cambridge-core/content/view/5D8F0DFC90FC1E9B5C38C12992A6C6A7/S1930297500009049a.pdf/recalibrating_probabilistic_forecasts_to_improve_theiraccuracy.pdf</a>  
+   Link: <a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/5D8F0DFC90FC1E9B5C38C12992A6C6A7/S1930297500009049a.pdf/recalibrating_probabilistic_forecasts_to_improve_theiraccuracy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/services/aop-cambridge-core/content/view/5D8F0DFC90FC1E9B5C38C12992A6C6A7/S1930297500009049a.pdf/recalibrating_probabilistic_forecasts_to_improve_theiraccuracy.pdf</a>  
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: youtube.com  
    Title: KEEP A DECISION JOURNAL  
-   Link:<a href="https://www.youtube.com/watch?v=gsSkijSm0YE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gsSkijSm0YE</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Hindsight Bias...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=gsSkijSm0YE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gsSkijSm0YE</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hindsight Bias...</p></details>
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: web.mit.edu  
    Title: 13 Org Behavior and Human Perf 13 1975 Fischhoff  
-   Link:<a href="https://web.mit.edu/curhan/www/docs/Articles/biases/13_Org_Behavior_and_Human_Perf_13_1975_Fischhoff.pdf" target="_blank" rel="noopener noreferrer nofollow">https://web.mit.edu/curhan/www/docs/Articles/biases/13_Org_Behavior_and_Human_Perf_13_1975_Fischhoff.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Massachusetts Institute of TechnologyI knew it would happen: Remembered probabilities of onceOctober 30, 2009 — Requests for reprints sho...</p></details>
+   Link: <a href="https://web.mit.edu/curhan/www/docs/Articles/biases/13_Org_Behavior_and_Human_Perf_13_1975_Fischhoff.pdf" target="_blank" rel="noopener noreferrer nofollow">https://web.mit.edu/curhan/www/docs/Articles/biases/13_Org_Behavior_and_Human_Perf_13_1975_Fischhoff.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Massachusetts Institute of TechnologyI knew it would happen: Remembered probabilities of onceOctober 30, 2009 — Requests for reprints sho...</p></details>
    Published: October 30, 2009  
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med Outcome bias in decision evaluation  
-   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/3367280/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/3367280/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Outcome bias in decision evaluation - PubMed - NIHby J Baron · 1988 · Cited by 1463 — In 5 studies, undergraduate subjects were giv...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/3367280/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/3367280/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Outcome bias in decision evaluation - PubMed - NIHby J Baron · 1988 · Cited by 1463 — In 5 studies, undergraduate subjects were giv...</p></details>
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/39913490/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/39913490/</a>  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/39913490/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/39913490/</a>  
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: fs.blog  
    Title: Farnam Street Decision Journal: Template and Example Included  
-   Link:<a href="https://fs.blog/decision-journal/" target="_blank" rel="noopener noreferrer nofollow">https://fs.blog/decision-journal/</a>  
+   Link: <a href="https://fs.blog/decision-journal/" target="_blank" rel="noopener noreferrer nofollow">https://fs.blog/decision-journal/</a>  
 
-14.<a id="endnote-14"></a>
+14. <a id="endnote-14"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8763848/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8763848/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8763848/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8763848/</a>  
 
-15.<a id="endnote-15"></a>
+15. <a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/14645895/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/14645895/</a>  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/14645895/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/14645895/</a>  
 
-16.<a id="endnote-16"></a>
+16. <a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8763826/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8763826/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8763826/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8763826/</a>  
 
-17.<a id="endnote-17"></a>
+17. <a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12372742/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12372742/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12372742/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12372742/</a>  
 
-18.<a id="endnote-18"></a>
+18. <a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12818272/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12818272/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12818272/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12818272/</a>  
 
-19.<a id="endnote-19"></a>
+19. <a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10189590/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10189590/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10189590/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10189590/</a>  
 
-20.<a id="endnote-20"></a>
+20. <a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Outcome bias  
-   Link:<a href="https://en.wikipedia.org/wiki/Outcome_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Outcome_bias</a>  
+   Link: <a href="https://en.wikipedia.org/wiki/Outcome_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Outcome_bias</a>  
 
-21.<a id="endnote-21"></a>
+21. <a id="endnote-21"></a>
    Source: Wikipedia  
    Title: The Good Judgment Project  
-   Link:<a href="https://en.wikipedia.org/wiki/The_Good_Judgment_Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Good_Judgment_Project</a>  
+   Link: <a href="https://en.wikipedia.org/wiki/The_Good_Judgment_Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Good_Judgment_Project</a>  
 
-22.<a id="endnote-22"></a>
+22. <a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Brier score  
-   Link:<a href="https://en.wikipedia.org/wiki/Brier_score" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Brier_score</a>  
+   Link: <a href="https://en.wikipedia.org/wiki/Brier_score" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Brier_score</a>  
 
-23.<a id="endnote-23"></a>
+23. <a id="endnote-23"></a>
    Source: decision-mastery.com  
    Title: decision journal  
-   Link:<a href="https://www.decision-mastery.com/articles/decision-journal" target="_blank" rel="noopener noreferrer nofollow">https://www.decision-mastery.com/articles/decision-journal</a>  
+   Link: <a href="https://www.decision-mastery.com/articles/decision-journal" target="_blank" rel="noopener noreferrer nofollow">https://www.decision-mastery.com/articles/decision-journal</a>  
 
-24.<a id="endnote-24"></a>
+24. <a id="endnote-24"></a>
    Source: dataopsschool.com  
    Title: brier score  
-   Link:<a href="https://dataopsschool.com/blog/brier-score/" target="_blank" rel="noopener noreferrer nofollow">https://dataopsschool.com/blog/brier-score/</a>  
+   Link: <a href="https://dataopsschool.com/blog/brier-score/" target="_blank" rel="noopener noreferrer nofollow">https://dataopsschool.com/blog/brier-score/</a>  
 
-25.<a id="endnote-25"></a>
+25. <a id="endnote-25"></a>
    Source: fs.blog  
-   Link:<a href="https://fs.blog/smart-decisions/" target="_blank" rel="noopener noreferrer nofollow">https://fs.blog/smart-decisions/</a>  
+   Link: <a href="https://fs.blog/smart-decisions/" target="_blank" rel="noopener noreferrer nofollow">https://fs.blog/smart-decisions/</a>  
 
-26.<a id="endnote-26"></a>
+26. <a id="endnote-26"></a>
    Source: coopilots.io  
    Title: decision journal  
-   Link:<a href="https://www.coopilots.io/free-resources/decision-journal" target="_blank" rel="noopener noreferrer nofollow">https://www.coopilots.io/free-resources/decision-journal</a>  
+   Link: <a href="https://www.coopilots.io/free-resources/decision-journal" target="_blank" rel="noopener noreferrer nofollow">https://www.coopilots.io/free-resources/decision-journal</a>  
 
-27.<a id="endnote-27"></a>
+27. <a id="endnote-27"></a>
    Source: lesswrong.com  
    Title: hindsight bias  
-   Link:<a href="https://www.lesswrong.com/lw/il/hindsight_bias" target="_blank" rel="noopener noreferrer nofollow">https://www.lesswrong.com/lw/il/hindsight_bias</a>  
+   Link: <a href="https://www.lesswrong.com/lw/il/hindsight_bias" target="_blank" rel="noopener noreferrer nofollow">https://www.lesswrong.com/lw/il/hindsight_bias</a>  
 
-28.<a id="endnote-28"></a>
+28. <a id="endnote-28"></a>
    Source: atlassian.com  
    Title: decision journal  
-   Link:<a href="https://www.atlassian.com/blog/productivity/decision-journal" target="_blank" rel="noopener noreferrer nofollow">https://www.atlassian.com/blog/productivity/decision-journal</a>  
+   Link: <a href="https://www.atlassian.com/blog/productivity/decision-journal" target="_blank" rel="noopener noreferrer nofollow">https://www.atlassian.com/blog/productivity/decision-journal</a>  
 
-29.<a id="endnote-29"></a>
+29. <a id="endnote-29"></a>
    Source: elearningspecialist.com  
    Title: Premortem method  
-   Link:<a href="https://elearningspecialist.com/en/blog/premortem-method-a-simple-and-probably-effective-approach-to-strengthening-the-safety-culture/" target="_blank" rel="noopener noreferrer nofollow">https://elearningspecialist.com/en/blog/premortem-method-a-simple-and-probably-effective-approach-to-strengthening-the-safety-culture/</a>  
+   Link: <a href="https://elearningspecialist.com/en/blog/premortem-method-a-simple-and-probably-effective-approach-to-strengthening-the-safety-culture/" target="_blank" rel="noopener noreferrer nofollow">https://elearningspecialist.com/en/blog/premortem-method-a-simple-and-probably-effective-approach-to-strengthening-the-safety-culture/</a>  
 
-30.<a id="endnote-30"></a>
+30. <a id="endnote-30"></a>
    Source: cognitivebiaslab.com  
    Title: Hindsight Bias  
-   Link:<a href="https://www.cognitivebiaslab.com/bias/bias-hindsight/" target="_blank" rel="noopener noreferrer nofollow">https://www.cognitivebiaslab.com/bias/bias-hindsight/</a>  
+   Link: <a href="https://www.cognitivebiaslab.com/bias/bias-hindsight/" target="_blank" rel="noopener noreferrer nofollow">https://www.cognitivebiaslab.com/bias/bias-hindsight/</a>  
 
-31.<a id="endnote-31"></a>
+31. <a id="endnote-31"></a>
    Source: theinnovationshow.io  
    Title: Annie Duke  
-   Link:<a href="https://theinnovationshow.io/episode/annie-duke-thinking-in-bets/" target="_blank" rel="noopener noreferrer nofollow">https://theinnovationshow.io/episode/annie-duke-thinking-in-bets/</a>  
+   Link: <a href="https://theinnovationshow.io/episode/annie-duke-thinking-in-bets/" target="_blank" rel="noopener noreferrer nofollow">https://theinnovationshow.io/episode/annie-duke-thinking-in-bets/</a>  
 
 ### Additional References
 
-32.<a id="endnote-32"></a>
+32. <a id="endnote-32"></a>
    Source: gq.com  
-   Link:<a href="https://www.gq.com/story/annie-duke-thinking-in-bets-how-to-be-wrong-interview" target="_blank" rel="noopener noreferrer nofollow">https://www.gq.com/story/annie-duke-thinking-in-bets-how-to-be-wrong-interview</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Duke also discusses how humans struggle with probabilities and the concept of agency, as exemplified by the harsh criticisms of decision...</p></details>
+   Link: <a href="https://www.gq.com/story/annie-duke-thinking-in-bets-how-to-be-wrong-interview" target="_blank" rel="noopener noreferrer nofollow">https://www.gq.com/story/annie-duke-thinking-in-bets-how-to-be-wrong-interview</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Duke also discusses how humans struggle with probabilities and the concept of agency, as exemplified by the harsh criticisms of decision...</p></details>
 
-33.<a id="endnote-33"></a>
+33. <a id="endnote-33"></a>
    Source: psnet.ahrq.gov  
-   Link:<a href="https://psnet.ahrq.gov/issue/hindsight-foresight-effect-outcome-knowledge-judgment-under-uncertainty" target="_blank" rel="noopener noreferrer nofollow">https://psnet.ahrq.gov/issue/hindsight-foresight-effect-outcome-knowledge-judgment-under-uncertainty</a>  
+   Link: <a href="https://psnet.ahrq.gov/issue/hindsight-foresight-effect-outcome-knowledge-judgment-under-uncertainty" target="_blank" rel="noopener noreferrer nofollow">https://psnet.ahrq.gov/issue/hindsight-foresight-effect-outcome-knowledge-judgment-under-uncertainty</a>  
 
-34.<a id="endnote-34"></a>
+34. <a id="endnote-34"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/51453002_Before_you_make_that_big_decision" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/51453002_Before_you_make_that_big_decision</a>  
+   Link: <a href="https://www.researchgate.net/publication/51453002_Before_you_make_that_big_decision" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/51453002_Before_you_make_that_big_decision</a>  
 
-35.<a id="endnote-35"></a>
+35. <a id="endnote-35"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/316470642_Cognitive_Biases_in_Decision_Making_in_Post-Bureaucratic_Organizations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/316470642_Cognitive_Biases_in_Decision_Making_in_Post-Bureaucratic_Organizations</a>  
+   Link: <a href="https://www.researchgate.net/publication/316470642_Cognitive_Biases_in_Decision_Making_in_Post-Bureaucratic_Organizations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/316470642_Cognitive_Biases_in_Decision_Making_in_Post-Bureaucratic_Organizations</a>  
 
-36.<a id="endnote-36"></a>
+36. <a id="endnote-36"></a>
    Source: academia.edu  
-   Link:<a href="https://www.academia.edu/31130287/Investment_Decision_Making_and_Hindsight_Bias" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/31130287/Investment_Decision_Making_and_Hindsight_Bias</a>  
+   Link: <a href="https://www.academia.edu/31130287/Investment_Decision_Making_and_Hindsight_Bias" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/31130287/Investment_Decision_Making_and_Hindsight_Bias</a>  
 
-37.<a id="endnote-37"></a>
+37. <a id="endnote-37"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/3229642_Performing_a_Project_Premortem" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/3229642_Performing_a_Project_Premortem</a>  
+   Link: <a href="https://www.researchgate.net/publication/3229642_Performing_a_Project_Premortem" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/3229642_Performing_a_Project_Premortem</a>  
 
-38.<a id="endnote-38"></a>
+38. <a id="endnote-38"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/314081281_Reducing_Biases_of_Decision-Making_Processes_in_Complex_Organizations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/314081281_Reducing_Biases_of_Decision-Making_Processes_in_Complex_Organizations</a>  
+   Link: <a href="https://www.researchgate.net/publication/314081281_Reducing_Biases_of_Decision-Making_Processes_in_Complex_Organizations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/314081281_Reducing_Biases_of_Decision-Making_Processes_in_Complex_Organizations</a>  
 
-39.<a id="endnote-39"></a>
+39. <a id="endnote-39"></a>
    Source: openreview.net  
-   Link:<a href="https://openreview.net/forum?id=iFF-zKCgzS" target="_blank" rel="noopener noreferrer nofollow">https://openreview.net/forum?id=iFF-zKCgzS</a>  
+   Link: <a href="https://openreview.net/forum?id=iFF-zKCgzS" target="_blank" rel="noopener noreferrer nofollow">https://openreview.net/forum?id=iFF-zKCgzS</a>  
 
-40.<a id="endnote-40"></a>
+40. <a id="endnote-40"></a>
    Source: hbs.edu  
-   Link:<a href="https://www.hbs.edu/faculty/Pages/item.aspx?num=39958" target="_blank" rel="noopener noreferrer nofollow">https://www.hbs.edu/faculty/Pages/item.aspx?num=39958</a>  
+   Link: <a href="https://www.hbs.edu/faculty/Pages/item.aspx?num=39958" target="_blank" rel="noopener noreferrer nofollow">https://www.hbs.edu/faculty/Pages/item.aspx?num=39958</a>  
 
-41.<a id="endnote-41"></a>
+41. <a id="endnote-41"></a>
    Source: merriam-webster.com  
-   Link:<a href="https://www.merriam-webster.com/dictionary/decision" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/decision</a>  
+   Link: <a href="https://www.merriam-webster.com/dictionary/decision" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/decision</a>  

@@ -284,7 +284,7 @@ Writing a [prediction before]({{ 'predict-first/' | relative_url }}) a decision 
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_real_problem_practic_466932_prediction_notes_727267-Illustration-1-dark.svg" | relative_url }}" alt="Prediction Notes illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_real_problem_practic_466932_prediction_notes_727267-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_real_problem_practic_466932_prediction_notes_727267-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This practice matters because people are prone to [hindsight bias]({{ 'hindsight-bias/' | relative_url }})—the tendency to see outcomes as having been more predictable than they really were. A brief prediction note makes later review more objective, reveals recurring strengths and weaknesses in judgement, and provides material for improving future decisions. It is a practical habit that fits naturally into real-world decision-making rather than being a separate thinking exercise. Research on forecasting, confidence calibration and judgement consistently shows that structured [predictions]({{ 'predictions/' | relative_url }}) combined with feedback improve analytical performance over time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/0963721414534257" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals+2PubsOnline]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Forecasting Tournaments</span><span class="citation-popover-snippet">Tetlock, Barbara A....Aug 4, 2014 — Forecasting tournaments are level-playing-field competitions that reveal which individuals, teams, o...</span></span></span>
+This practice matters because people are prone to [hindsight bias]({{ 'hindsight-bias/' | relative_url }})—the tendency to see outcomes as having been more predictable than they really were. A brief prediction note makes later review more objective, reveals recurring strengths and weaknesses in judgement, and provides material for improving future decisions. It is a practical habit that fits naturally into real-world decision-making rather than being a separate thinking exercise. Research on forecasting, confidence calibration and judgement consistently shows that structured [predictions]({{ 'predictions/' | relative_url }}) combined with feedback improve analytical performance over time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/0963721414534257" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals+2PubsOnline]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Forecasting Tournaments</span><span class="citation-popover-snippet">Tetlock, Barbara A....Aug 4, 2014 — Forecasting tournaments are level-playing-field competitions that reveal which individuals, teams, o...</span></span></span>
 
 ## State the expected outcome clearly
 
@@ -304,7 +304,7 @@ Instead, describe the expected outcome in concrete terms. For example:
 
 Where possible, include measurable criteria or a deadline. Even when a decision concerns qualitative [outcomes]({{ 'outcomes/' | relative_url }}), define what success or failure would actually look like before events unfold.
 
-This approach resembles the discipline used in forecasting [tournaments]({{ 'tournaments/' | relative_url }}), where participants must commit to specific, testable predictions rather than broad opinions. That structure makes later scoring and learning possible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/0963721414534257" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Forecasting Tournaments</span><span class="citation-popover-snippet">Tetlock, Barbara A....Aug 4, 2014 — Forecasting tournaments are level-playing-field competitions that reveal which individuals, teams, o...</span></span></span>
+This approach resembles the discipline used in forecasting [tournaments]({{ 'tournaments/' | relative_url }}), where participants must commit to specific, testable predictions rather than broad opinions. That structure makes later scoring and learning possible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/0963721414534257" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Forecasting Tournaments</span><span class="citation-popover-snippet">Tetlock, Barbara A....Aug 4, 2014 — Forecasting tournaments are level-playing-field competitions that reveal which individuals, teams, o...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CDgfvQtnrUU" title="What are the Benefits of a Decision Journal? | Shane Parrish" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CDgfvQtnrUU" target="_blank" rel="noopener noreferrer">What are the Benefits of a Decision Journal? | Shane Parrish</a></p><p class="youtube-embed-meta">Channel: Farnam Street</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CDgfvQtnrUU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CDgfvQtnrUU">Open on YouTube</a></p></div></div></div>
@@ -333,7 +333,7 @@ For example:
 
 Assigning a confidence level is particularly valuable because it exposes overconfidence and underconfidence. If events you labelled "80% likely" occur only half the time, your confidence is poorly calibrated. Conversely, if outcomes you rated at 60% occur close to 60% of the time over many predictions, your judgement is becoming better calibrated.
 
-Studies of geopolitical forecasting have found that training, repeated prediction, and systematic feedback can substantially improve confidence calibration. Better forecasters do not merely become more accurate; they also become better at matching confidence to actual likelihood.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubsonline.informs.org/doi/10.1287/mnsc.2016.2525" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubsonline.informs.org">[PubsOnline+2Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubsonline.informs.org</span><span class="citation-popover-snippet">Confidence Calibration in a Multiyear Geopolitical Forecasting...by DA Moore · 2017 · Cited by 114 — This research examines th...</span></span></span>
+Studies of geopolitical forecasting have found that training, repeated prediction, and systematic feedback can substantially improve confidence calibration. Better forecasters do not merely become more accurate; they also become better at matching confidence to actual likelihood. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubsonline.informs.org/doi/10.1287/mnsc.2016.2525" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubsonline.informs.org">[PubsOnline+2Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubsonline.informs.org</span><span class="citation-popover-snippet">Confidence Calibration in a Multiyear Geopolitical Forecasting...by DA Moore · 2017 · Cited by 114 — This research examines th...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_real_problem_practic_466932_prediction_notes_727267-Illustration-2-dark.svg" | relative_url }}" alt="Prediction Notes illustration 2" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_real_problem_practic_466932_prediction_notes_727267-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_real_problem_practic_466932_prediction_notes_727267-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -357,7 +357,7 @@ Rather than asking "Was I right?", ask several more informative questions:
 
 The final question is particularly important because it separates the quality of the decision from the quality of the outcome. A sound decision can produce a poor result through chance, while a weak decision can occasionally succeed through luck.
 
-Keeping the original note visible discourages hindsight bias and motivated reasoning. Without a written record, people often remember having been "almost right" or having "known it all along." The written prediction makes those retrospective adjustments much harder. Research on preregistration in science reflects the same principle: recording expectations before results are known creates a transparent distinction between genuine prediction and explanations constructed afterwards.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Preregistration_%28science%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Preregistration (science</span><span class="citation-popover-snippet">Preregistration (science</span></span></span>
+Keeping the original note visible discourages hindsight bias and motivated reasoning. Without a written record, people often remember having been "almost right" or having "known it all along." The written prediction makes those retrospective adjustments much harder. Research on preregistration in science reflects the same principle: recording expectations before results are known creates a transparent distinction between genuine prediction and explanations constructed afterwards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Preregistration_%28science%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Preregistration (science</span><span class="citation-popover-snippet">Preregistration (science</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pedNak4S9IE" title="Superforecasting | Philip Tetlock" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pedNak4S9IE" target="_blank" rel="noopener noreferrer">Superforecasting | Philip Tetlock</a></p><p class="youtube-embed-meta">Channel: The Long Now Foundation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pedNak4S9IE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pedNak4S9IE">Open on YouTube</a></p></div></div></div>
@@ -397,197 +397,197 @@ Several habits reduce the value of prediction notes.
 
 Prediction notes transform ordinary decisions into structured learning opportunities. Every prediction creates a comparison between expectation and reality, allowing judgement to be refined through repeated feedback instead of relying on memory or intuition alone.
 
-Research from forecasting tournaments suggests that improvement comes not simply from making predictions, but from making explicit probability estimates, receiving feedback, revisiting earlier reasoning and gradually improving calibration. Combined with routine post-decision review, a simple prediction note becomes a practical tool for developing more accurate, transparent and accountable analytical thinking over time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/0963721414534257" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[aiimpacts.org+3Sage Journals+3PubsOnline]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Forecasting Tournaments</span><span class="citation-popover-snippet">Tetlock, Barbara A....Aug 4, 2014 — Forecasting tournaments are level-playing-field competitions that reveal which individuals, teams, o...</span></span></span>
+Research from forecasting tournaments suggests that improvement comes not simply from making predictions, but from making explicit probability estimates, receiving feedback, revisiting earlier reasoning and gradually improving calibration. Combined with routine post-decision review, a simple prediction note becomes a practical tool for developing more accurate, transparent and accountable analytical thinking over time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/0963721414534257" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[aiimpacts.org+3Sage Journals+3PubsOnline]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Forecasting Tournaments</span><span class="citation-popover-snippet">Tetlock, Barbara A....Aug 4, 2014 — Forecasting tournaments are level-playing-field competitions that reveal which individuals, teams, o...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Write predictions before the outcome arrives. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Write predictions before the outcome arrives. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ICgWrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
-</h4>
-<p class="fr-book-author">By Philip Eyrikson Tetlock, Dan Gardner</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+        </h4>
+        <p class="fr-book-author">By Daniel Kahneman</p>
         
-<p class="fr-book-desc">Directly teaches structured prediction, confidence calibration, and learning from feedback.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains hindsight bias, overconfidence, and judgement errors that prediction notes help expose.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-</h4>
-<p class="fr-book-author">By Daniel Kahneman</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+        </h4>
+        <p class="fr-book-author">By Nate Silver</p>
         
-<p class="fr-book-desc">Explains hindsight bias, overconfidence, and judgement errors that prediction notes help expose.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Covers probabilistic thinking, uncertainty, and evaluating predictions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
-</h4>
-<p class="fr-book-author">By Nate Silver</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Measure+Anything+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Measure Anything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CBAh4eM-g3AC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Measure Anything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=How+to+Measure+Anything+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Measure Anything">How to Measure Anything</a>
+        </h4>
+        <p class="fr-book-author">By Douglas W. Hubbard</p>
         
-<p class="fr-book-desc">Covers probabilistic thinking, uncertainty, and evaluating predictions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Encourages explicit estimates, probabilities, and measurable predictions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=How+to+Measure+Anything+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Measure Anything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CBAh4eM-g3AC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Measure Anything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Measure Anything">How to Measure Anything</a>
-</h4>
-<p class="fr-book-author">By Douglas W. Hubbard</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Superforecasting%3A+The+Art+and+Science+of+Prediction+Philip+E.+Tetlock+and+Dan+Gardner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting: The Art and Science of Prediction on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Superforecasting%3A+The+Art+and+Science+of+Prediction+Philip+E.+Tetlock+and+Dan+Gardner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting: The Art and Science of Prediction">Superforecasting: The Art and Science of Prediction</a>
+        </h4>
+        <p class="fr-book-author">By Philip E. Tetlock and Dan Gardner</p>
         
-<p class="fr-book-desc">Encourages explicit estimates, probabilities, and measurable predictions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly teaches structured prediction, confidence calibration, and learning from feedback.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Superforecasting%3A+The+Art+and+Science+of+Prediction+Philip+E.+Tetlock+and+Dan+Gardner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Measure+Anything&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Measure Anything</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=before+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="before poster -book -books -dvd" data-ebay-reference="prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Before Sunset Movie Film Poster Art Print"><img src="{{ '/assets/images/marketplace-covers/0a40e20127eb01457871.jpg' | relative_url }}" alt="Listing image for Before Sunset Movie Film Poster Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=before+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="before poster -book -books -dvd" data-ebay-reference="prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Before Sunset Movie Film Poster Art Print</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=before+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="before poster -book -books -dvd" data-ebay-reference="prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for before poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: before poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=before+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="before poster -book -books -dvd" data-ebay-reference="prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=before+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="before poster -book -books -dvd" data-ebay-reference="prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Before Sunset Movie Film Poster Art Print"><img src="{{ '/assets/images/marketplace-covers/0a40e20127eb01457871.jpg' | relative_url }}" alt="Listing image for Before Sunset Movie Film Poster Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=before+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="before poster -book -books -dvd" data-ebay-reference="prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Before Sunset Movie Film Poster Art Print</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=before+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="before poster -book -books -dvd" data-ebay-reference="prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for before poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: before poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=before+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="before poster -book -books -dvd" data-ebay-reference="prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=before+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="before poster -book -books -dvd" data-ebay-reference="prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Before Sunrise 1995 1 Movie Poster Art Print Statement Collector Soundtrack Neon"><img src="{{ '/assets/images/marketplace-covers/dbc94f12a8a0857a4d82.jpg' | relative_url }}" alt="Listing image for Before Sunrise 1995 1 Movie Poster Art Print Statement Collector Soundtrack Neon" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=before+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="before poster -book -books -dvd" data-ebay-reference="prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Before Sunrise 1995 1 Movie Poster Art Print Statement Collector Soundtrack Neon</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=before+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="before poster -book -books -dvd" data-ebay-reference="prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for before poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: before poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=before+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="before poster -book -books -dvd" data-ebay-reference="prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=before+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="before poster -book -books -dvd" data-ebay-reference="prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Before Sunrise 1995 1 Movie Poster Art Print Statement Collector Soundtrack Neon"><img src="{{ '/assets/images/marketplace-covers/dbc94f12a8a0857a4d82.jpg' | relative_url }}" alt="Listing image for Before Sunrise 1995 1 Movie Poster Art Print Statement Collector Soundtrack Neon" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=before+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="before poster -book -books -dvd" data-ebay-reference="prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Before Sunrise 1995 1 Movie Poster Art Print Statement Collector Soundtrack Neon</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=before+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="before poster -book -books -dvd" data-ebay-reference="prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for before poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: before poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=before+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="before poster -book -books -dvd" data-ebay-reference="prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=before+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="before poster -book -books -dvd" data-ebay-reference="prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Before I Fall 2017 1 Movie Poster Art Print Frame Hollywood Print Collection Enh"><img src="{{ '/assets/images/marketplace-covers/cfa8cec4c32c6f35295e.jpg' | relative_url }}" alt="Listing image for Before I Fall 2017 1 Movie Poster Art Print Frame Hollywood Print Collection Enh" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=before+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="before poster -book -books -dvd" data-ebay-reference="prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Before I Fall 2017 1 Movie Poster Art Print Frame Hollywood Print Collection Enh</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=before+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="before poster -book -books -dvd" data-ebay-reference="prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for before poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: before poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=before+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="before poster -book -books -dvd" data-ebay-reference="prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=before+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="before poster -book -books -dvd" data-ebay-reference="prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Before I Fall 2017 1 Movie Poster Art Print Frame Hollywood Print Collection Enh"><img src="{{ '/assets/images/marketplace-covers/cfa8cec4c32c6f35295e.jpg' | relative_url }}" alt="Listing image for Before I Fall 2017 1 Movie Poster Art Print Frame Hollywood Print Collection Enh" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=before+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="before poster -book -books -dvd" data-ebay-reference="prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Before I Fall 2017 1 Movie Poster Art Print Frame Hollywood Print Collection Enh</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=before+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="before poster -book -books -dvd" data-ebay-reference="prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for before poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: before poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=before+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="before poster -book -books -dvd" data-ebay-reference="prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=before+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="before poster -book -books -dvd" data-ebay-reference="prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Before Sunrise Movie Poster Print"><img src="{{ '/assets/images/marketplace-covers/d2c6a951e6d5f3332d0b.jpg' | relative_url }}" alt="Listing image for Before Sunrise Movie Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=before+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="before poster -book -books -dvd" data-ebay-reference="prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Before Sunrise Movie Poster Print</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=before+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="before poster -book -books -dvd" data-ebay-reference="prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for before poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: before poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=before+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="before poster -book -books -dvd" data-ebay-reference="prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=before+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="before poster -book -books -dvd" data-ebay-reference="prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=before+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="before poster -book -books -dvd" data-ebay-reference="prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Before Sunrise Movie Poster Print"><img src="{{ '/assets/images/marketplace-covers/d2c6a951e6d5f3332d0b.jpg' | relative_url }}" alt="Listing image for Before Sunrise Movie Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=before+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="before poster -book -books -dvd" data-ebay-reference="prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Before Sunrise Movie Poster Print</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=before+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="before poster -book -books -dvd" data-ebay-reference="prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for before poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: before poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=before+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="before poster -book -books -dvd" data-ebay-reference="prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=before+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="before poster -book -books -dvd" data-ebay-reference="prediction-notes-write-predictions-before-the-outcome-arrives-improving-your-think-before-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -603,7 +603,7 @@ Research from forecasting tournaments suggests that improvement comes not simply
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -623,7 +623,7 @@ Research from forecasting tournaments suggests that improvement comes not simply
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -655,7 +655,7 @@ Research from forecasting tournaments suggests that improvement comes not simply
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -707,7 +707,7 @@ Research from forecasting tournaments suggests that improvement comes not simply
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -752,7 +752,7 @@ Research from forecasting tournaments suggests that improvement comes not simply
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -793,86 +793,86 @@ Research from forecasting tournaments suggests that improvement comes not simply
 
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: cambridge.org  
-   Link:<a href="https://www.cambridge.org/core/journals/judgment-and-decision-making/article/developing-expert-political-judgment-the-impact-of-training-and-practice-on-judgmental-accuracy-in-geopolitical-forecasting-tournaments/123EB18425391D05FA6581FDBB3F309F" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/judgment-and-decision-making/article/developing-expert-political-judgment-the-impact-of-training-and-practice-on-judgmental-accuracy-in-geopolitical-forecasting-tournaments/123EB18425391D05FA6581FDBB3F309F</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentThe impact of training and practice on judgmental accuracy...by W Chang · 2016 · Cited by 147 — T...</p></details>
+   Link: <a href="https://www.cambridge.org/core/journals/judgment-and-decision-making/article/developing-expert-political-judgment-the-impact-of-training-and-practice-on-judgmental-accuracy-in-geopolitical-forecasting-tournaments/123EB18425391D05FA6581FDBB3F309F" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/judgment-and-decision-making/article/developing-expert-political-judgment-the-impact-of-training-and-practice-on-judgmental-accuracy-in-geopolitical-forecasting-tournaments/123EB18425391D05FA6581FDBB3F309F</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentThe impact of training and practice on judgmental accuracy...by W Chang · 2016 · Cited by 147 — T...</p></details>
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Preregistration (science)  
-   Link:<a href="https://en.wikipedia.org/wiki/Preregistration_%28science%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Preregistration_%28science%29</a>  
+   Link: <a href="https://en.wikipedia.org/wiki/Preregistration_%28science%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Preregistration_%28science%29</a>  
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: aiimpacts.org  
    Title: who are  
-   Link:<a href="https://aiimpacts.org/evidence-on-good-forecasting-practices-from-the-[good-judgment" target="_blank" rel="noopener noreferrer nofollow">https://aiimpacts.org/evidence-on-good-forecasting-practices-from-the-[good-judgment</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence on good forecasting practices from the...Tetlock&#x27;s point here is simply that you should use your judgment about whether to foll...</p></details>
+   Link: <a href="https://aiimpacts.org/evidence-on-good-forecasting-practices-from-the-[good-judgment" target="_blank" rel="noopener noreferrer nofollow">https://aiimpacts.org/evidence-on-good-forecasting-practices-from-the-[good-judgment</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence on good forecasting practices from the...Tetlock&#x27;s point here is simply that you should use your judgment about whether to foll...</p></details>
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: journals.sagepub.com  
    Title: Sage Journals Forecasting Tournaments  
-   Link:<a href="https://journals.sagepub.com/doi/10.1177/0963721414534257" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0963721414534257</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Tetlock, Barbara A....Aug 4, 2014 — Forecasting tournaments are level-playing-field competitions that reveal which individuals, teams, o...</p></details>
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/0963721414534257" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0963721414534257</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tetlock, Barbara A....Aug 4, 2014 — Forecasting tournaments are level-playing-field competitions that reveal which individuals, teams, o...</p></details>
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: pubsonline.informs.org  
-   Link:<a href="https://pubsonline.informs.org/doi/10.1287/mnsc.2016.2525" target="_blank" rel="noopener noreferrer nofollow">https://pubsonline.informs.org/doi/10.1287/mnsc.2016.2525</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Confidence Calibration in a Multiyear Geopolitical Forecasting...by DA Moore · 2017 · Cited by 114 — This research examines th...</p></details>
+   Link: <a href="https://pubsonline.informs.org/doi/10.1287/mnsc.2016.2525" target="_blank" rel="noopener noreferrer nofollow">https://pubsonline.informs.org/doi/10.1287/mnsc.2016.2525</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Confidence Calibration in a Multiyear Geopolitical Forecasting...by DA Moore · 2017 · Cited by 114 — This research examines th...</p></details>
 
 ### Additional References
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: forum.effectivealtruism.org  
-   Link:<a href="https://forum.effectivealtruism.org/posts/pnpnqA4hijnr59p7d/efforts-to-improve-the-accuracy-of-our-judgments-and" target="_blank" rel="noopener noreferrer nofollow">https://forum.effectivealtruism.org/posts/pnpnqA4hijnr59p7d/efforts-to-improve-the-accuracy-of-our-judgments-and</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>to Improve the Accuracy of Our Judgments and...25 Oct 2016 — Evidence indicates that the calibration of judgment can be substantially en...</p></details>
+   Link: <a href="https://forum.effectivealtruism.org/posts/pnpnqA4hijnr59p7d/efforts-to-improve-the-accuracy-of-our-judgments-and" target="_blank" rel="noopener noreferrer nofollow">https://forum.effectivealtruism.org/posts/pnpnqA4hijnr59p7d/efforts-to-improve-the-accuracy-of-our-judgments-and</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>to Improve the Accuracy of Our Judgments and...25 Oct 2016 — Evidence indicates that the calibration of judgment can be substantially en...</p></details>
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: youtube.com  
    Title: Hindsight Bias: Why Everything Looks Obvious After It Happens  
-   Link:<a href="http://www.youtube.com/watch?v=kyfmEIUoDTM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=kyfmEIUoDTM</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Hindsight bias&quot; decision making forecasting The Hindsight Bias: Understanding Why We Believe We Predicted It All Along Next Level Motiva...</p></details>
+   Link: <a href="http://www.youtube.com/watch?v=kyfmEIUoDTM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=kyfmEIUoDTM</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Hindsight bias&quot; decision making forecasting The Hindsight Bias: Understanding Why We Believe We Predicted It All Along Next Level Motiva...</p></details>
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: harry-cheslaw.medium.com  
    Title: super forecasting dd146e441c1c  
-   Link:<a href="https://harry-cheslaw.medium.com/super-forecasting-dd146e441c1c" target="_blank" rel="noopener noreferrer nofollow">https://harry-cheslaw.medium.com/super-forecasting-dd146e441c1c</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>medium.comSuper-Forecasting. By Philip Tetlock and Dan GardnerCalibration-If you predict something with a 70% accuracy then it will happe...</p></details>
+   Link: <a href="https://harry-cheslaw.medium.com/super-forecasting-dd146e441c1c" target="_blank" rel="noopener noreferrer nofollow">https://harry-cheslaw.medium.com/super-forecasting-dd146e441c1c</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>medium.comSuper-Forecasting. By Philip Tetlock and Dan GardnerCalibration-If you predict something with a 70% accuracy then it will happe...</p></details>
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: scattered-thoughts.net  
    Title: notes on superforecasting the art and science of prediction  
-   Link:<a href="https://www.scattered-thoughts.net/blog/2016/01/28/notes-on-superforecasting-the-art-and-science-of-prediction" target="_blank" rel="noopener noreferrer nofollow">https://www.scattered-thoughts.net/blog/2016/01/28/notes-on-superforecasting-the-art-and-science-of-prediction</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Tetlock ran the Good Judgment Project. With large numbers of similar predictions we can...</p></details>
+   Link: <a href="https://www.scattered-thoughts.net/blog/2016/01/28/notes-on-superforecasting-the-art-and-science-of-prediction" target="_blank" rel="noopener noreferrer nofollow">https://www.scattered-thoughts.net/blog/2016/01/28/notes-on-superforecasting-the-art-and-science-of-prediction</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tetlock ran the Good Judgment Project. With large numbers of similar predictions we can...</p></details>
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8074796/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8074796/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>survey of human judgement and quantitative forecasting...by M Zellner · 2021 · Cited by 125 — We survey literature on human judgement an...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8074796/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8074796/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>survey of human judgement and quantitative forecasting...by M Zellner · 2021 · Cited by 125 — We survey literature on human judgement an...</p></details>
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: onlinelibrary.wiley.com  
-   Link:<a href="https://onlinelibrary.wiley.com/doi/10.1111/risa.12776" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1111/risa.12776</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>of Superforecasting: The Art and Science...16 Mar 2017 — Review of Superforecasting: The Art and Science of Prediction. Philip, E. Tetlo...</p></details>
+   Link: <a href="https://onlinelibrary.wiley.com/doi/10.1111/risa.12776" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1111/risa.12776</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Superforecasting: The Art and Science...16 Mar 2017 — Review of Superforecasting: The Art and Science of Prediction. Philip, E. Tetlo...</p></details>
 
-12.<a id="endnote-12"></a>
+12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: What are the Benefits of a [Decision Journal](&#123;&#123; 'decision-journal/' | relative_url &#125;&#125;)? | Shane Parrish  
-   Link:<a href="http://www.youtube.com/watch?v=CDgfvQtnrUU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=CDgfvQtnrUU</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Ultimate Guide to Using a Decision Journal...</p></details>
+   Link: <a href="http://www.youtube.com/watch?v=CDgfvQtnrUU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=CDgfvQtnrUU</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ultimate Guide to Using a Decision Journal...</p></details>
 
-13.<a id="endnote-13"></a>
+13. <a id="endnote-13"></a>
    Source: conversationswithtyler.com  
    Title: Philip E  
-   Link:<a href="https://conversationswithtyler.com/episodes/philip-e-tetlock/" target="_blank" rel="noopener noreferrer nofollow">https://conversationswithtyler.com/episodes/philip-e-tetlock/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Tetlock on Forecasting and Foraging as a Fox (Ep....22 Apr 2020 — The best forecasters aren&#x27;t just intelligent, but fox-like integrative...</p></details>
+   Link: <a href="https://conversationswithtyler.com/episodes/philip-e-tetlock/" target="_blank" rel="noopener noreferrer nofollow">https://conversationswithtyler.com/episodes/philip-e-tetlock/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tetlock on Forecasting and Foraging as a Fox (Ep....22 Apr 2020 — The best forecasters aren&#x27;t just intelligent, but fox-like integrative...</p></details>
 
-14.<a id="endnote-14"></a>
+14. <a id="endnote-14"></a>
    Source: thedecisionlab.com  
-   Link:<a href="https://thedecisionlab.com/thinkers/political-science/philip-tetlock" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/thinkers/political-science/philip-tetlock</a>  
+   Link: <a href="https://thedecisionlab.com/thinkers/political-science/philip-tetlock" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/thinkers/political-science/philip-tetlock</a>  
 
-15.<a id="endnote-15"></a>
+15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: Decision Making Framework | Shane Parrish  
-   Link:<a href="http://www.youtube.com/watch?v=WBz7VB4vA1k" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=WBz7VB4vA1k</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Hindsight Bias: Why Everything Looks Obvious After It Happens...</p></details>
+   Link: <a href="http://www.youtube.com/watch?v=WBz7VB4vA1k" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=WBz7VB4vA1k</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hindsight Bias: Why Everything Looks Obvious After It Happens...</p></details>

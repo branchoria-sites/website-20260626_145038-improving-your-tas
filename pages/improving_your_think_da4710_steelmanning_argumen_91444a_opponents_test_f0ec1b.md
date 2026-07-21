@@ -280,7 +280,7 @@ image: /assets/images/improving_your_think_da4710_steelmanning_argumen_91444a_op
 
 ## Introduction
 
-The opponent's test is a simple but demanding standard for fair disagreement: **before you criticise an argument, ask whether a thoughtful advocate of that position would recognise your summary as accurate and fair**. If the answer is "no", you are probably arguing against a substitute rather than the real claim. This test is one of the most practical ways to apply [steelmanning]({{ 'steelmanning/' | relative_url }}) because it shifts attention from whether *you* think your summary is reasonable to whether the other side would say, "Yes, that is what I mean." Closely related ideas appear in the principle of charity, Rogerian argument, and Daniel Dennett's presentation of Anatol Rapoport's rules for constructive criticism, all of which treat faithful reconstruction as a prerequisite for meaningful rebuttal.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://themindcollection.com/rapoports-rules/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themindcollection.com">[The Mind Collection+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themindcollection.com</span><span class="citation-popover-title">The Mind Collection Rapoport&#x27;s Rules: How to Criticise Constructively</span><span class="citation-popover-snippet">The Mind CollectionRapoport&#x27;s Rules: How to Criticise ConstructivelyApril 28, 2023 — Rapoport&#x27;s Rules, also known as Dennett&#x27;s Rules, is...</span></span></span>
+The opponent's test is a simple but demanding standard for fair disagreement: **before you criticise an argument, ask whether a thoughtful advocate of that position would recognise your summary as accurate and fair**. If the answer is "no", you are probably arguing against a substitute rather than the real claim. This test is one of the most practical ways to apply [steelmanning]({{ 'steelmanning/' | relative_url }}) because it shifts attention from whether *you* think your summary is reasonable to whether the other side would say, "Yes, that is what I mean." Closely related ideas appear in the principle of charity, Rogerian argument, and Daniel Dennett's presentation of Anatol Rapoport's rules for constructive criticism, all of which treat faithful reconstruction as a prerequisite for meaningful rebuttal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://themindcollection.com/rapoports-rules/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themindcollection.com">[The Mind Collection+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themindcollection.com</span><span class="citation-popover-title">The Mind Collection Rapoport&#x27;s Rules: How to Criticise Constructively</span><span class="citation-popover-snippet">The Mind CollectionRapoport&#x27;s Rules: How to Criticise ConstructivelyApril 28, 2023 — Rapoport&#x27;s Rules, also known as Dennett&#x27;s Rules, is...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_steelmanning_argumen_91444a_opponents_test_f0ec1b-Illustration-1-dark.svg" | relative_url }}" alt="Opponent Test illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_steelmanning_argumen_91444a_opponents_test_f0ec1b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_steelmanning_argumen_91444a_opponents_test_f0ec1b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -299,7 +299,7 @@ A fair restatement should satisfy three conditions:
 
 </div>
 
-This standard reflects Dennett's version of Rapoport's rules, whose first requirement is to restate the opposing position so clearly and fairly that the other person could sincerely thank you for expressing it so well. Only after that recognition comes criticism.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://themindcollection.com/rapoports-rules/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themindcollection.com">[The Mind Collection]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themindcollection.com</span><span class="citation-popover-title">The Mind Collection Rapoport&#x27;s Rules: How to Criticise Constructively</span><span class="citation-popover-snippet">The Mind CollectionRapoport&#x27;s Rules: How to Criticise ConstructivelyApril 28, 2023 — Rapoport&#x27;s Rules, also known as Dennett&#x27;s Rules, is...</span></span></span>
+This standard reflects Dennett's version of Rapoport's rules, whose first requirement is to restate the opposing position so clearly and fairly that the other person could sincerely thank you for expressing it so well. Only after that recognition comes criticism. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://themindcollection.com/rapoports-rules/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themindcollection.com">[The Mind Collection]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themindcollection.com</span><span class="citation-popover-title">The Mind Collection Rapoport&#x27;s Rules: How to Criticise Constructively</span><span class="citation-popover-snippet">The Mind CollectionRapoport&#x27;s Rules: How to Criticise ConstructivelyApril 28, 2023 — Rapoport&#x27;s Rules, also known as Dennett&#x27;s Rules, is...</span></span></span>
 
 Importantly, recognition does not require agreement. An opponent may respond, "Yes, that's my position—and I still think you're wrong." That is success. The test concerns faithful representation, not persuasion.
 
@@ -307,7 +307,7 @@ Importantly, recognition does not require agreement. An opponent may respond, "Y
 
 ### Cartoon versions
 
-The most familiar failure is the classic straw man: replacing a nuanced argument with an exaggerated or simplistic version that is easier to defeat. Instead of engaging with the strongest available interpretation, the critic invents a weaker target. Philosophers of argument identify this distortion as the defining feature of the straw man fallacy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://global.oup.com/us/companion.websites/9780199331864/stu/supplement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: global.oup.com">[Oxford University Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">global.oup.com</span><span class="citation-popover-snippet">Oxford University PressSupplement: A Summary of the FallaciesStraw man fallacy A fallacy committed when an arguer (a) summarizes his oppo...</span></span></span>
+The most familiar failure is the classic straw man: replacing a nuanced argument with an exaggerated or simplistic version that is easier to defeat. Instead of engaging with the strongest available interpretation, the critic invents a weaker target. Philosophers of argument identify this distortion as the defining feature of the straw man fallacy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://global.oup.com/us/companion.websites/9780199331864/stu/supplement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: global.oup.com">[Oxford University Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">global.oup.com</span><span class="citation-popover-snippet">Oxford University PressSupplement: A Summary of the FallaciesStraw man fallacy A fallacy committed when an arguer (a) summarizes his oppo...</span></span></span>
 
 For example:
 
@@ -342,7 +342,7 @@ Examples include:
 
 </div>
 
-Motives can sometimes matter when evaluating credibility or conflicts of interest, but they do not automatically answer whether a claim is true. Argumentation texts identify dismissing claims solely by attacking motives as a form of ad hominem reasoning rather than engagement with the argument itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://open.maricopa.edu/english102open/chapter/logical-fallacy-master-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.maricopa.edu">[Maricopa Open Digital Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.maricopa.edu</span><span class="citation-popover-title">Open Digital Press Logical Fallacy Master List – English 102: Journey Into Open</span><span class="citation-popover-snippet">Maricopa Open Digital PressLogical Fallacy Master List – English 102: Journey Into OpenJanuary 8, 2021 — The Argument from Motives (also...</span><span class="citation-popover-meta">Published: January 8, 2021</span></span></span>
+Motives can sometimes matter when evaluating credibility or conflicts of interest, but they do not automatically answer whether a claim is true. Argumentation texts identify dismissing claims solely by attacking motives as a form of ad hominem reasoning rather than engagement with the argument itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://open.maricopa.edu/english102open/chapter/logical-fallacy-master-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.maricopa.edu">[Maricopa Open Digital Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.maricopa.edu</span><span class="citation-popover-title">Open Digital Press Logical Fallacy Master List – English 102: Journey Into Open</span><span class="citation-popover-snippet">Maricopa Open Digital PressLogical Fallacy Master List – English 102: Journey Into OpenJanuary 8, 2021 — The Argument from Motives (also...</span><span class="citation-popover-meta">Published: January 8, 2021</span></span></span>
 
 Under the opponent's test, someone should still recognise their reasoning after motives have been discussed. If your summary contains only motives and no actual argument, it has almost certainly failed.
 
@@ -367,7 +367,7 @@ make misunderstanding visible before disagreement escalates.
 
 Corrections should generally be welcomed rather than resisted. If the purpose is to evaluate the strongest version of the argument, improved accuracy benefits everyone involved, including the critic.
 
-This practice mirrors the communicative aim behind Rogerian argument and Rapoport's rules: demonstrating genuine understanding before attempting refutation reduces unnecessary defensiveness and keeps disagreement focused on substantive issues.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rogerian_argument" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rogerian argument</span><span class="citation-popover-snippet">Rogerian argument</span></span></span>
+This practice mirrors the communicative aim behind Rogerian argument and Rapoport's rules: demonstrating genuine understanding before attempting refutation reduces unnecessary defensiveness and keeps disagreement focused on substantive issues. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rogerian_argument" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rogerian argument</span><span class="citation-popover-snippet">Rogerian argument</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AOBEOsUuFBQ" title="Principle of Charity | Giving Reasons Ch 6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AOBEOsUuFBQ" target="_blank" rel="noopener noreferrer">Principle of Charity | Giving Reasons Ch 6</a></p><p class="youtube-embed-meta">Channel: Christopher Anadale &middot; Views: 2.2K &middot; Uploaded: February 2018 &middot; Length: 3 minutes 28 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AOBEOsUuFBQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AOBEOsUuFBQ">Open on YouTube</a></p></div></div></div>
@@ -435,178 +435,178 @@ If the answer to any of these questions is "no", the rebuttal is probably premat
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Would Your Opponent Accept Your Summary?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Would Your Opponent Accept Your Summary?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Have+Impossible+Conversations+by+Peter+Boghossian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Have Impossible Conversations on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=H62HDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Have Impossible Conversations" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=How+to+Have+Impossible+Conversations+by+Peter+Boghossian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Have Impossible Conversations">How to Have Impossible Conversations</a>
-</h4>
-<p class="fr-book-author">By Peter Boghossian, James Lindsay</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Think+Again+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Think Again on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FdjgDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Think Again" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Think+Again+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Think Again">Think Again</a>
+        </h4>
+        <p class="fr-book-author">By Adam Grant</p>
         
-<p class="fr-book-desc">Closely matches the opponent&#x27;s test concept.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=How+to+Have+Impossible+Conversations+by+Peter+Boghossian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Encourages understanding before criticizing.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Think+Again+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Think Again on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FdjgDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Think Again" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Think Again">Think Again</a>
-</h4>
-<p class="fr-book-author">By Adam Grant</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
+        </h4>
+        <p class="fr-book-author">By Julia Galef</p>
         
-<p class="fr-book-desc">Encourages understanding before criticizing.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Advocates accurate models of opposing positions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
-</h4>
-<p class="fr-book-author">By Julia Galef</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Have+Impossible+Conversations+Peter+Boghossian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Have Impossible Conversations on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=H62HDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Have Impossible Conversations" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=How+to+Have+Impossible+Conversations+Peter+Boghossian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Have Impossible Conversations">How to Have Impossible Conversations</a>
+        </h4>
+        <p class="fr-book-author">By Peter Boghossian, James Lindsay</p>
         
-<p class="fr-book-desc">Advocates accurate models of opposing positions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Closely matches the opponent&#x27;s test concept.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=How+to+Have+Impossible+Conversations+Peter+Boghossian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wlagzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
-</h4>
-<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A1NYvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
+        </h4>
+        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-<p class="fr-book-desc">Explains why people misrepresent opposing views.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains why people misrepresent opposing views.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Have+Impossible+Conversations&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Have Impossible Conversations</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Think+Again&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Think Again</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scout Mindset</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Think+Again&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Think Again</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scout Mindset</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Have+Impossible+Conversations&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Have Impossible Conversations</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=would-your-opponent-accept-your-summary-philosophy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="philosophy wall art" data-ebay-reference="would-your-opponent-accept-your-summary-philosophy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Philosophy Gustav Klimt Oil Painting reproduction Canvas Prints Hanging Wall Art"><img src="https://i.ebayimg.com/images/g/Yq0AAOSwmQJjzxGh/s-l225.jpg" alt="Listing image for Philosophy Gustav Klimt Oil Painting reproduction Canvas Prints Hanging Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=would-your-opponent-accept-your-summary-philosophy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="philosophy wall art" data-ebay-reference="would-your-opponent-accept-your-summary-philosophy-wall-art" target="_blank" rel="sponsored noopener noreferrer">Philosophy Gustav Klimt Oil Painting reproduction Canvas Prints Hanging Wall Art</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=would-your-opponent-accept-your-summary-philosophy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="philosophy wall art" data-ebay-reference="would-your-opponent-accept-your-summary-philosophy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: philosophy wall art</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=would-your-opponent-accept-your-summary-philosophy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="philosophy wall art" data-ebay-reference="would-your-opponent-accept-your-summary-philosophy-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=would-your-opponent-accept-your-summary-philosophy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="philosophy wall art" data-ebay-reference="would-your-opponent-accept-your-summary-philosophy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Philosophy Gustav Klimt Oil Painting reproduction Canvas Prints Hanging Wall Art"><img src="https://i.ebayimg.com/images/g/Yq0AAOSwmQJjzxGh/s-l225.jpg" alt="Listing image for Philosophy Gustav Klimt Oil Painting reproduction Canvas Prints Hanging Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=would-your-opponent-accept-your-summary-philosophy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="philosophy wall art" data-ebay-reference="would-your-opponent-accept-your-summary-philosophy-wall-art" target="_blank" rel="sponsored noopener noreferrer">Philosophy Gustav Klimt Oil Painting reproduction Canvas Prints Hanging Wall Art</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=would-your-opponent-accept-your-summary-philosophy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="philosophy wall art" data-ebay-reference="would-your-opponent-accept-your-summary-philosophy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: philosophy wall art</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=would-your-opponent-accept-your-summary-philosophy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="philosophy wall art" data-ebay-reference="would-your-opponent-accept-your-summary-philosophy-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=would-your-opponent-accept-your-summary-philosophy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="philosophy wall art" data-ebay-reference="would-your-opponent-accept-your-summary-philosophy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Stoicism Philosophy Quote Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/u6sAAeSwU0ZpwYg8/s-l225.jpg" alt="Listing image for Stoicism Philosophy Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=would-your-opponent-accept-your-summary-philosophy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="philosophy wall art" data-ebay-reference="would-your-opponent-accept-your-summary-philosophy-wall-art" target="_blank" rel="sponsored noopener noreferrer">Stoicism Philosophy Quote Framed Wall Art Poster Canvas Print Picture</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=would-your-opponent-accept-your-summary-philosophy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="philosophy wall art" data-ebay-reference="would-your-opponent-accept-your-summary-philosophy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: philosophy wall art</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=would-your-opponent-accept-your-summary-philosophy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="philosophy wall art" data-ebay-reference="would-your-opponent-accept-your-summary-philosophy-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=would-your-opponent-accept-your-summary-philosophy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="philosophy wall art" data-ebay-reference="would-your-opponent-accept-your-summary-philosophy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Stoicism Philosophy Quote Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/u6sAAeSwU0ZpwYg8/s-l225.jpg" alt="Listing image for Stoicism Philosophy Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=would-your-opponent-accept-your-summary-philosophy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="philosophy wall art" data-ebay-reference="would-your-opponent-accept-your-summary-philosophy-wall-art" target="_blank" rel="sponsored noopener noreferrer">Stoicism Philosophy Quote Framed Wall Art Poster Canvas Print Picture</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=would-your-opponent-accept-your-summary-philosophy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="philosophy wall art" data-ebay-reference="would-your-opponent-accept-your-summary-philosophy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: philosophy wall art</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=would-your-opponent-accept-your-summary-philosophy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="philosophy wall art" data-ebay-reference="would-your-opponent-accept-your-summary-philosophy-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=would-your-opponent-accept-your-summary-philosophy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="philosophy wall art" data-ebay-reference="would-your-opponent-accept-your-summary-philosophy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Confucius Quote Print We Have Two Lives Philosophy Quote Print Wall Art Unframed"><img src="https://i.ebayimg.com/images/g/tLQAAOSwn9VnRJ3u/s-l225.jpg" alt="Listing image for Confucius Quote Print We Have Two Lives Philosophy Quote Print Wall Art Unframed" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=would-your-opponent-accept-your-summary-philosophy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="philosophy wall art" data-ebay-reference="would-your-opponent-accept-your-summary-philosophy-wall-art" target="_blank" rel="sponsored noopener noreferrer">Confucius Quote Print We Have Two Lives Philosophy Quote Print Wall Art Unframed</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=would-your-opponent-accept-your-summary-philosophy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="philosophy wall art" data-ebay-reference="would-your-opponent-accept-your-summary-philosophy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: philosophy wall art</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=would-your-opponent-accept-your-summary-philosophy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="philosophy wall art" data-ebay-reference="would-your-opponent-accept-your-summary-philosophy-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=would-your-opponent-accept-your-summary-philosophy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="philosophy wall art" data-ebay-reference="would-your-opponent-accept-your-summary-philosophy-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=would-your-opponent-accept-your-summary-philosophy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="philosophy wall art" data-ebay-reference="would-your-opponent-accept-your-summary-philosophy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Confucius Quote Print We Have Two Lives Philosophy Quote Print Wall Art Unframed"><img src="https://i.ebayimg.com/images/g/tLQAAOSwn9VnRJ3u/s-l225.jpg" alt="Listing image for Confucius Quote Print We Have Two Lives Philosophy Quote Print Wall Art Unframed" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=would-your-opponent-accept-your-summary-philosophy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="philosophy wall art" data-ebay-reference="would-your-opponent-accept-your-summary-philosophy-wall-art" target="_blank" rel="sponsored noopener noreferrer">Confucius Quote Print We Have Two Lives Philosophy Quote Print Wall Art Unframed</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=would-your-opponent-accept-your-summary-philosophy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="philosophy wall art" data-ebay-reference="would-your-opponent-accept-your-summary-philosophy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for philosophy wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: philosophy wall art</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=would-your-opponent-accept-your-summary-philosophy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="philosophy wall art" data-ebay-reference="would-your-opponent-accept-your-summary-philosophy-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=philosophy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=would-your-opponent-accept-your-summary-philosophy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="philosophy wall art" data-ebay-reference="would-your-opponent-accept-your-summary-philosophy-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -622,7 +622,7 @@ If the answer to any of these questions is "no", the rebuttal is probably premat
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -642,7 +642,7 @@ If the answer to any of these questions is "no", the rebuttal is probably premat
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -674,7 +674,7 @@ If the answer to any of these questions is "no", the rebuttal is probably premat
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -726,7 +726,7 @@ If the answer to any of these questions is "no", the rebuttal is probably premat
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -771,7 +771,7 @@ If the answer to any of these questions is "no", the rebuttal is probably premat
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -811,82 +811,82 @@ If the answer to any of these questions is "no", the rebuttal is probably premat
 </section>
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Rogerian argument  
-   Link:<a href="https://en.wikipedia.org/wiki/Rogerian_argument" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rogerian_argument</a>  
+   Link: <a href="https://en.wikipedia.org/wiki/Rogerian_argument" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rogerian_argument</a>  
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: open.maricopa.edu  
    Title: Open Digital Press Logical Fallacy Master List – English 102: Journey Into Open  
-   Link:<a href="https://open.maricopa.edu/english102open/chapter/logical-fallacy-master-list/" target="_blank" rel="noopener noreferrer nofollow">https://open.maricopa.edu/english102open/chapter/logical-fallacy-master-list/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Maricopa Open Digital PressLogical Fallacy Master List – English 102: Journey Into OpenJanuary 8, 2021 — The Argument from Motives (also...</p></details>
+   Link: <a href="https://open.maricopa.edu/english102open/chapter/logical-fallacy-master-list/" target="_blank" rel="noopener noreferrer nofollow">https://open.maricopa.edu/english102open/chapter/logical-fallacy-master-list/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Maricopa Open Digital PressLogical Fallacy Master List – English 102: Journey Into OpenJanuary 8, 2021 — The Argument from Motives (also...</p></details>
    Published: January 8, 2021  
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Association fallacy  
-   Link:<a href="https://en.wikipedia.org/wiki/Association_fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Association_fallacy</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Association fallacyThe association fallacy is a formal fallacy in which it is assumed that if a concept, whether physical or abstract...</p></details>
+   Link: <a href="https://en.wikipedia.org/wiki/Association_fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Association_fallacy</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Association fallacyThe association fallacy is a formal fallacy in which it is assumed that if a concept, whether physical or abstract...</p></details>
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: youtube.com  
-   Link:<a href="https://www.youtube.com/watch?v=m8lRxZvRFIQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=m8lRxZvRFIQ</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Principle of Charity | Giving Reasons Ch 6...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=m8lRxZvRFIQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=m8lRxZvRFIQ</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Principle of Charity | Giving Reasons Ch 6...</p></details>
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: youtube.com  
    Title: Principle of Charity | Giving Reasons Ch 6  
-   Link:<a href="https://www.youtube.com/watch?v=AOBEOsUuFBQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AOBEOsUuFBQ</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Principle of Charity...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=AOBEOsUuFBQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AOBEOsUuFBQ</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Principle of Charity...</p></details>
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: youtube.com  
    Title: The Principle of Charity  
-   Link:<a href="https://www.youtube.com/watch?v=LZZ7tQnI2-M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LZZ7tQnI2-M</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>(Ninety Second Philosophy)...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=LZZ7tQnI2-M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LZZ7tQnI2-M</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>(Ninety Second Philosophy)...</p></details>
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: themindcollection.com  
    Title: The Mind Collection Rapoport's Rules: How to Criticise Constructively  
-   Link:<a href="https://themindcollection.com/[rapoports-rules" target="_blank" rel="noopener noreferrer nofollow">https://themindcollection.com/[rapoports-rules</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Mind CollectionRapoport&#x27;s Rules: How to Criticise ConstructivelyApril 28, 2023 — Rapoport&#x27;s Rules, also known as Dennett&#x27;s Rules, is...</p></details>
+   Link: <a href="https://themindcollection.com/[rapoports-rules" target="_blank" rel="noopener noreferrer nofollow">https://themindcollection.com/[rapoports-rules</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mind CollectionRapoport&#x27;s Rules: How to Criticise ConstructivelyApril 28, 2023 — Rapoport&#x27;s Rules, also known as Dennett&#x27;s Rules, is...</p></details>
    Published: April 28, 2023  
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: global.oup.com  
-   Link:<a href="https://global.oup.com/us/companion.websites/9780199331864/stu/supplement/" target="_blank" rel="noopener noreferrer nofollow">https://global.oup.com/us/companion.websites/9780199331864/stu/supplement/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Oxford University PressSupplement: A Summary of the FallaciesStraw man fallacy A fallacy committed when an arguer (a) summarizes his oppo...</p></details>
+   Link: <a href="https://global.oup.com/us/companion.websites/9780199331864/stu/supplement/" target="_blank" rel="noopener noreferrer nofollow">https://global.oup.com/us/companion.websites/9780199331864/stu/supplement/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Oxford University PressSupplement: A Summary of the FallaciesStraw man fallacy A fallacy committed when an arguer (a) summarizes his oppo...</p></details>
 
 ### Additional References
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: markmanson.net  
-   Link:<a href="https://markmanson.net/logical-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://markmanson.net/logical-fallacies</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>8 Logical Fallacies That Mess Us All UpThis is called the “straw man” fallacy because, like replacing a real person with a person made of...</p></details>
+   Link: <a href="https://markmanson.net/logical-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://markmanson.net/logical-fallacies</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>8 Logical Fallacies That Mess Us All UpThis is called the “straw man” fallacy because, like replacing a real person with a person made of...</p></details>
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: thinkingispower.com  
-   Link:<a href="https://thinkingispower.com/logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://thinkingispower.com/logical-fallacies/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Guide to the Most Common Logical FallaciesLogical fallacies are flaws in reasoning that weaken or invalidate an argument. Learning how to...</p></details>
+   Link: <a href="https://thinkingispower.com/logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://thinkingispower.com/logical-fallacies/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Guide to the Most Common Logical FallaciesLogical fallacies are flaws in reasoning that weaken or invalidate an argument. Learning how to...</p></details>
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: youtube.com  
-   Link:<a href="https://www.youtube.com/watch?v=mHkOk3W48gk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mHkOk3W48gk</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Steelmanning the gold bull case, etc.[https://www.youtube.com/watch?v=m8lRxZvRFIQ...&quot;](https://www.youtube.com/watch?v=m8lRxZvRFIQ...&quot;)...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=mHkOk3W48gk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mHkOk3W48gk</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Steelmanning the gold bull case, etc.[https://www.youtube.com/watch?v=m8lRxZvRFIQ...&quot;](https://www.youtube.com/watch?v=m8lRxZvRFIQ...&quot;)...</p></details>
 
-12.<a id="endnote-12"></a>
+12. <a id="endnote-12"></a>
    Source: courses.lumenlearning.com  
    Title: logical fallacies handlist  
-   Link:<a href="https://courses.lumenlearning.com/suny-jeffersoncc-englishcomp2kscopexmaster/chapter/logical-fallacies-handlist/" target="_blank" rel="noopener noreferrer nofollow">https://courses.lumenlearning.com/suny-jeffersoncc-englishcomp2kscopexmaster/chapter/logical-fallacies-handlist/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacies Handlist | Research and CompositionFallacies are statements that might sound reasonable or superficially true but are actually...</p></details>
+   Link: <a href="https://courses.lumenlearning.com/suny-jeffersoncc-englishcomp2kscopexmaster/chapter/logical-fallacies-handlist/" target="_blank" rel="noopener noreferrer nofollow">https://courses.lumenlearning.com/suny-jeffersoncc-englishcomp2kscopexmaster/chapter/logical-fallacies-handlist/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacies Handlist | Research and CompositionFallacies are statements that might sound reasonable or superficially true but are actually...</p></details>
 
-13.<a id="endnote-13"></a>
+13. <a id="endnote-13"></a>
    Source: quizlet.com  
-   Link:<a href="https://quizlet.com/591152032/32-fallacies-of-relevance-terminology-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/591152032/32-fallacies-of-relevance-terminology-flash-cards/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>ant to the conclusion.Read more...</p></details>
+   Link: <a href="https://quizlet.com/591152032/32-fallacies-of-relevance-terminology-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/591152032/32-fallacies-of-relevance-terminology-flash-cards/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ant to the conclusion.Read more...</p></details>
 
-14.<a id="endnote-14"></a>
+14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: The Principle of Charity (Ninety Second Philosophy)  
-   Link:<a href="https://www.youtube.com/watch?v=oPB0JOpvg_E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oPB0JOpvg_E</a>  
+   Link: <a href="https://www.youtube.com/watch?v=oPB0JOpvg_E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oPB0JOpvg_E</a>  

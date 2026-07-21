@@ -278,7 +278,7 @@ Many practical questions cannot be answered well until you decide **when** the a
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_question_design_1265c2_question_timeframes_0f38c9-Illustration-1-dark.svg" | relative_url }}" alt="Timeframes illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_question_design_1265c2_question_timeframes_0f38c9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_question_design_1265c2_question_timeframes_0f38c9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Thinking in explicit timeframes is a core part of analytical reasoning because many errors arise from comparing evidence measured over different periods. Short-term results often capture immediate reactions, whereas longer-term evidence reveals adaptation, maintenance, unintended consequences or delayed benefits. Choosing the wrong timeframe can make a correct answer appear false or a poor decision appear successful.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/375412867_A_systematic_review_of_risky-choice_framing_effects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate A systematic review of risky-choice framing effects</span><span class="citation-popover-snippet">This includes the characterization of different research designs used, the size and robustness...Read more...</span></span></span>
+Thinking in explicit timeframes is a core part of analytical reasoning because many errors arise from comparing evidence measured over different periods. Short-term results often capture immediate reactions, whereas longer-term evidence reveals adaptation, maintenance, unintended consequences or delayed benefits. Choosing the wrong timeframe can make a correct answer appear false or a poor decision appear successful. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/375412867_A_systematic_review_of_risky-choice_framing_effects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate A systematic review of risky-choice framing effects</span><span class="citation-popover-snippet">This includes the characterization of different research designs used, the size and robustness...Read more...</span></span></span>
 
 ## Why the Same Question Has Different Answers Over Time
 
@@ -310,7 +310,7 @@ The important analytical lesson is not that long-term thinking is always superio
 
 Many decisions involve trade-offs between immediate benefits and delayed consequences.
 
-Behavioural economists describe this as **intertemporal choice**—making decisions whose costs and benefits occur at different times. People frequently place disproportionately high value on immediate rewards, a tendency known as **temporal discounting**. Research links stronger temporal discounting with numerous real-world choices involving saving, health and other behaviours requiring delayed rewards.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3950931/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDoes temporal discounting explain unhealthy behavior</span><span class="citation-popover-snippet">by GW Story · 2014 · Cited by 407 — These studies reveal that high discount rates for money (and in some instances food or drug reward...</span></span></span>
+Behavioural economists describe this as **intertemporal choice**—making decisions whose costs and benefits occur at different times. People frequently place disproportionately high value on immediate rewards, a tendency known as **temporal discounting**. Research links stronger temporal discounting with numerous real-world choices involving saving, health and other behaviours requiring delayed rewards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3950931/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDoes temporal discounting explain unhealthy behavior</span><span class="citation-popover-snippet">by GW Story · 2014 · Cited by 407 — These studies reveal that high discount rates for money (and in some instances food or drug reward...</span></span></span>
 
 This explains why practical questions often change when the timeframe changes.
 
@@ -386,9 +386,9 @@ History repeatedly shows that early impressions can reverse.
 
 Large organisational changes frequently produce temporary declines in performance while people learn new systems. Judging the change during that adjustment period may wrongly label an ultimately successful reform as a failure.
 
-The reverse also occurs. Some interventions create impressive early results because of novelty, enthusiasm or unusually favourable circumstances before later returning to previous performance levels. Researchers therefore distinguish between immediate outcomes and sustained effects rather than assuming that early success predicts durable improvement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.york.ac.uk/inst/spru/pubs/pdf/decisionmaking.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: york.ac.uk">[University of York]</a><span class="citation-popover" role="note"><span class="citation-popover-source">york.ac.uk</span><span class="citation-popover-snippet">University of YorkUnderstanding the dynamics of decision-making and choiceby B Beresford · 2008 · Cited by 203 — To inform the Panel Stud...</span></span></span>
+The reverse also occurs. Some interventions create impressive early results because of novelty, enthusiasm or unusually favourable circumstances before later returning to previous performance levels. Researchers therefore distinguish between immediate outcomes and sustained effects rather than assuming that early success predicts durable improvement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.york.ac.uk/inst/spru/pubs/pdf/decisionmaking.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: york.ac.uk">[University of York]</a><span class="citation-popover" role="note"><span class="citation-popover-source">york.ac.uk</span><span class="citation-popover-snippet">University of YorkUnderstanding the dynamics of decision-making and choiceby B Beresford · 2008 · Cited by 203 — To inform the Panel Stud...</span></span></span>
 
-Even personal forecasting suffers from similar problems. Research on the planning fallacy shows that people consistently underestimate how long tasks will take, despite having experience with similar projects. Instead of asking how long comparable work actually required, people often imagine an unusually smooth future. Kahneman and Tversky argued that adopting an "[outside view]({{ 'outside-view/' | relative_url }})" based on previous comparable cases helps produce more realistic forecasts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://web.mit.edu/curhan/www/docs/Articles/biases/67_J_Personality_and_Social_Psychology_366%2C_1994.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: web.mit.edu">[Massachusetts Institute of Technology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">web.mit.edu</span><span class="citation-popover-snippet">Massachusetts Institute of TechnologyWhy People Underestimate Their Task Completion TimesOctober 7, 2004 — by R Buehler · 1994 · Cited by...</span><span class="citation-popover-meta">Published: October 7, 2004</span></span></span>
+Even personal forecasting suffers from similar problems. Research on the planning fallacy shows that people consistently underestimate how long tasks will take, despite having experience with similar projects. Instead of asking how long comparable work actually required, people often imagine an unusually smooth future. Kahneman and Tversky argued that adopting an "[outside view]({{ 'outside-view/' | relative_url }})" based on previous comparable cases helps produce more realistic forecasts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://web.mit.edu/curhan/www/docs/Articles/biases/67_J_Personality_and_Social_Psychology_366%2C_1994.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: web.mit.edu">[Massachusetts Institute of Technology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">web.mit.edu</span><span class="citation-popover-snippet">Massachusetts Institute of TechnologyWhy People Underestimate Their Task Completion TimesOctober 7, 2004 — by R Buehler · 1994 · Cited by...</span><span class="citation-popover-meta">Published: October 7, 2004</span></span></span>
 
 The broader lesson is that choosing an evaluation date is itself a reasoning decision. An answer judged too early may systematically favour options with immediate visibility while penalising those whose value emerges gradually.
 
@@ -447,194 +447,194 @@ The simple question, "When should this answer be judged?" often improves reasoni
 <img src="{{ "/assets/images/improving_your_think_da4710_question_design_1265c2_question_timeframes_0f38c9-Illustration-3-dark.svg" | relative_url }}" alt="Timeframes illustration 3" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_question_design_1265c2_question_timeframes_0f38c9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_question_design_1265c2_question_timeframes_0f38c9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to When Should the Answer Be Judged?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to When Should the Answer Be Judged?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ckOQEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
-</h4>
-<p class="fr-book-author">By Nate Silver</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ckOQEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+        </h4>
+        <p class="fr-book-author">By Nate Silver</p>
         
-<p class="fr-book-desc">Explains how forecasts should be evaluated against explicit time horizons and evolving evidence.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains how forecasts should be evaluated against explicit time horizons and evolving evidence.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-</h4>
-<p class="fr-book-author">By Daniel Kahneman</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+        </h4>
+        <p class="fr-book-author">By Daniel Kahneman</p>
         
-<p class="fr-book-desc">Provides the cognitive foundations for avoiding premature conclusions and evaluating evidence carefully.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides the cognitive foundations for avoiding premature conclusions and evaluating evidence carefully.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decisive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aECTEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Decisive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decisive">Decisive</a>
-</h4>
-<p class="fr-book-author">By Chip Heath, Dan Heath</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Decisive+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decisive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aECTEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Decisive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Decisive+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decisive">Decisive</a>
+        </h4>
+        <p class="fr-book-author">By Chip Heath, Dan Heath</p>
         
-<p class="fr-book-desc">Emphasizes testing decisions over appropriate timeframes and avoiding short-term thinking traps.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Emphasizes testing decisions over appropriate timeframes and avoiding short-term thinking traps.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Decisive+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
-</h4>
-<p class="fr-book-author">By Rolf Dobelli</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Superforecasting%3A+The+Art+and+Science+of+Prediction+Philip+E.+Tetlock+and+Dan+Gardner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting: The Art and Science of Prediction on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Superforecasting%3A+The+Art+and+Science+of+Prediction+Philip+E.+Tetlock+and+Dan+Gardner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting: The Art and Science of Prediction">Superforecasting: The Art and Science of Prediction</a>
+        </h4>
+        <p class="fr-book-author">By Philip E. Tetlock and Dan Gardner</p>
         
-<p class="fr-book-desc">Helps readers recognize biases that arise from focusing on the wrong evidence or time horizon.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains how forecasts should be evaluated against explicit time horizons and evolving evidence.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Superforecasting%3A+The+Art+and+Science+of+Prediction+Philip+E.+Tetlock+and+Dan+Gardner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Decisive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Decisive</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Decisive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Decisive</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=answer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="answer poster -book -books -dvd" data-ebay-reference="timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Answer 42 Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bdde2bf13017e4325c45.jpg' | relative_url }}" alt="Listing image for Answer 42 Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=answer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="answer poster -book -books -dvd" data-ebay-reference="timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Answer 42 Framed Wall Art Poster Canvas Print Picture</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=answer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="answer poster -book -books -dvd" data-ebay-reference="timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for answer poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: answer poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=answer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="answer poster -book -books -dvd" data-ebay-reference="timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=answer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="answer poster -book -books -dvd" data-ebay-reference="timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Answer 42 Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bdde2bf13017e4325c45.jpg' | relative_url }}" alt="Listing image for Answer 42 Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=answer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="answer poster -book -books -dvd" data-ebay-reference="timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Answer 42 Framed Wall Art Poster Canvas Print Picture</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=answer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="answer poster -book -books -dvd" data-ebay-reference="timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for answer poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: answer poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=answer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="answer poster -book -books -dvd" data-ebay-reference="timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=answer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="answer poster -book -books -dvd" data-ebay-reference="timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 42 is the Ultimate Answer Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f3f9e30b196eec08e4c8.jpg' | relative_url }}" alt="Listing image for 42 is the Ultimate Answer Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=answer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="answer poster -book -books -dvd" data-ebay-reference="timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">42 is the Ultimate Answer Framed Wall Art Poster Canvas Print Picture</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=answer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="answer poster -book -books -dvd" data-ebay-reference="timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for answer poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: answer poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=answer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="answer poster -book -books -dvd" data-ebay-reference="timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=answer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="answer poster -book -books -dvd" data-ebay-reference="timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 42 is the Ultimate Answer Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f3f9e30b196eec08e4c8.jpg' | relative_url }}" alt="Listing image for 42 is the Ultimate Answer Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=answer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="answer poster -book -books -dvd" data-ebay-reference="timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">42 is the Ultimate Answer Framed Wall Art Poster Canvas Print Picture</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=answer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="answer poster -book -books -dvd" data-ebay-reference="timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for answer poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: answer poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=answer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="answer poster -book -books -dvd" data-ebay-reference="timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=answer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="answer poster -book -books -dvd" data-ebay-reference="timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original UK Film Poster - Don&#x27;t Answer the Phone! / Angels Hard as They Come UK…"><img src="{{ '/assets/images/marketplace-covers/eecd16adef4c169914d8.jpg' | relative_url }}" alt="Listing image for Original UK Film Poster - Don&#x27;t Answer the Phone! / Angels Hard as They Come UK…" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=answer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="answer poster -book -books -dvd" data-ebay-reference="timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Original UK Film Poster - Don&#x27;t Answer the Phone! / Angels Hard as They Come UK…</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=answer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="answer poster -book -books -dvd" data-ebay-reference="timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for answer poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: answer poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=answer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="answer poster -book -books -dvd" data-ebay-reference="timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=answer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="answer poster -book -books -dvd" data-ebay-reference="timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original UK Film Poster - Don&#x27;t Answer the Phone! / Angels Hard as They Come UK…"><img src="{{ '/assets/images/marketplace-covers/eecd16adef4c169914d8.jpg' | relative_url }}" alt="Listing image for Original UK Film Poster - Don&#x27;t Answer the Phone! / Angels Hard as They Come UK…" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=answer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="answer poster -book -books -dvd" data-ebay-reference="timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Original UK Film Poster - Don&#x27;t Answer the Phone! / Angels Hard as They Come UK…</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=answer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="answer poster -book -books -dvd" data-ebay-reference="timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for answer poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: answer poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=answer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="answer poster -book -books -dvd" data-ebay-reference="timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=answer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="answer poster -book -books -dvd" data-ebay-reference="timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Allen Iverson - The Answer Framed A Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/3ab9a6c4f70606d5f8d6.jpg' | relative_url }}" alt="Listing image for Allen Iverson - The Answer Framed A Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=answer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="answer poster -book -books -dvd" data-ebay-reference="timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Allen Iverson - The Answer Framed A Framed Wall Art Poster Canvas Print Picture</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=answer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="answer poster -book -books -dvd" data-ebay-reference="timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for answer poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: answer poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=answer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="answer poster -book -books -dvd" data-ebay-reference="timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=answer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="answer poster -book -books -dvd" data-ebay-reference="timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=answer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="answer poster -book -books -dvd" data-ebay-reference="timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Allen Iverson - The Answer Framed A Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/3ab9a6c4f70606d5f8d6.jpg' | relative_url }}" alt="Listing image for Allen Iverson - The Answer Framed A Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=answer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="answer poster -book -books -dvd" data-ebay-reference="timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Allen Iverson - The Answer Framed A Framed Wall Art Poster Canvas Print Picture</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=answer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="answer poster -book -books -dvd" data-ebay-reference="timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for answer poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: answer poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=answer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="answer poster -book -books -dvd" data-ebay-reference="timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=answer+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="answer poster -book -books -dvd" data-ebay-reference="timeframes-when-should-the-answer-be-judged-improving-your-think-answer-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -650,7 +650,7 @@ The simple question, "When should this answer be judged?" often improves reasoni
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -670,7 +670,7 @@ The simple question, "When should this answer be judged?" often improves reasoni
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -702,7 +702,7 @@ The simple question, "When should this answer be judged?" often improves reasoni
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -754,7 +754,7 @@ The simple question, "When should this answer be judged?" often improves reasoni
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -799,7 +799,7 @@ The simple question, "When should this answer be judged?" often improves reasoni
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -840,65 +840,65 @@ The simple question, "When should this answer be judged?" often improves reasoni
 
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: researchgate.net  
    Title: Research Gate A systematic review of risky-choice [framing](&#123;&#123; 'framing/' | relative_url &#125;&#125;) effects  
-   Link:<a href="https://www.researchgate.net/publication/375412867_A_systematic_review_of_risky-choice_framing_effects" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/375412867_A_systematic_review_of_risky-choice_framing_effects</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>This includes the characterization of different research designs used, the size and robustness...Read more...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/375412867_A_systematic_review_of_risky-choice_framing_effects" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/375412867_A_systematic_review_of_risky-choice_framing_effects</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>This includes the characterization of different research designs used, the size and robustness...Read more...</p></details>
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCDoes temporal discounting explain unhealthy behavior  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3950931/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3950931/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>by GW Story · 2014 · Cited by 407 — These studies reveal that high discount rates for money (and in some instances food or drug reward...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3950931/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3950931/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by GW Story · 2014 · Cited by 407 — These studies reveal that high discount rates for money (and in some instances food or drug reward...</p></details>
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: york.ac.uk  
-   Link:<a href="https://www.york.ac.uk/inst/spru/pubs/pdf/decisionmaking.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.york.ac.uk/inst/spru/pubs/pdf/decisionmaking.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>University of YorkUnderstanding the dynamics of decision-making and choiceby B Beresford · 2008 · Cited by 203 — To inform the Panel Stud...</p></details>
+   Link: <a href="https://www.york.ac.uk/inst/spru/pubs/pdf/decisionmaking.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.york.ac.uk/inst/spru/pubs/pdf/decisionmaking.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>University of YorkUnderstanding the dynamics of decision-making and choiceby B Beresford · 2008 · Cited by 203 — To inform the Panel Stud...</p></details>
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: web.mit.edu  
-   Link:<a href="https://web.mit.edu/curhan/www/docs/Articles/biases/67_J_Personality_and_Social_Psychology_366%2C_1994.pdf" target="_blank" rel="noopener noreferrer nofollow">https://web.mit.edu/curhan/www/docs/Articles/biases/67_J_Personality_and_Social_Psychology_366%2C_1994.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Massachusetts Institute of TechnologyWhy People Underestimate Their Task Completion TimesOctober 7, 2004 — by R Buehler · 1994 · Cited by...</p></details>
+   Link: <a href="https://web.mit.edu/curhan/www/docs/Articles/biases/67_J_Personality_and_Social_Psychology_366%2C_1994.pdf" target="_blank" rel="noopener noreferrer nofollow">https://web.mit.edu/curhan/www/docs/Articles/biases/67_J_Personality_and_Social_Psychology_366%2C_1994.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Massachusetts Institute of TechnologyWhy People Underestimate Their Task Completion TimesOctober 7, 2004 — by R Buehler · 1994 · Cited by...</p></details>
    Published: October 7, 2004  
 
 ### Additional References
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: thedecisionlab.com  
-   Link:<a href="https://thedecisionlab.com/biases/planning-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/planning-fallacy</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabPlanning fallacyPlanning Fallacy is the tendency to be too optimistic about one&#x27;s estimates. As a result, the time needed...</p></details>
+   Link: <a href="https://thedecisionlab.com/biases/planning-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/planning-fallacy</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabPlanning fallacyPlanning Fallacy is the tendency to be too optimistic about one&#x27;s estimates. As a result, the time needed...</p></details>
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: youtube.com  
    Title: Why Second-Order Thinking Creates Smarter Decisions & Better Life Outcomes  
-   Link:<a href="https://www.youtube.com/watch?v=ERsOOYxBUQM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ERsOOYxBUQM</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Second order Thinking - Long term decisions - The Vanquish Podcast...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=ERsOOYxBUQM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ERsOOYxBUQM</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Second order Thinking - Long term decisions - The Vanquish Podcast...</p></details>
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link:<a href="https://arxiv.org/abs/1901.07024" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1901.07024</a>  
+   Link: <a href="https://arxiv.org/abs/1901.07024" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1901.07024</a>  
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: youtube.com  
    Title: Second order Thinking  
-   Link:<a href="https://www.youtube.com/watch?v=ZfoN_x3zyFw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZfoN_x3zyFw</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>What is 10/10/10 Rule | Explained in 2 min...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=ZfoN_x3zyFw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZfoN_x3zyFw</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>What is 10/10/10 Rule | Explained in 2 min...</p></details>
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: Move on From Mistakes with the 10-10-10 Rule  
-   Link:<a href="https://www.youtube.com/watch?v=yY61xdM4CX0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yY61xdM4CX0</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>A Decision-Making Framework That Removes Regret...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=yY61xdM4CX0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yY61xdM4CX0</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Decision-Making Framework That Removes Regret...</p></details>
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: What is 10/10/10 Rule | Explained in 2 min  
-   Link:<a href="https://www.youtube.com/watch?v=mAWzR9D0uXY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mAWzR9D0uXY</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Move on From Mistakes with the 10-10-10 Rule...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=mAWzR9D0uXY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mAWzR9D0uXY</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Move on From Mistakes with the 10-10-10 Rule...</p></details>
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: A Decision-Making Framework That Removes Regret  
-   Link:<a href="https://www.youtube.com/watch?v=zDwV2Q4PVpQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zDwV2Q4PVpQ</a>  
+   Link: <a href="https://www.youtube.com/watch?v=zDwV2Q4PVpQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zDwV2Q4PVpQ</a>  

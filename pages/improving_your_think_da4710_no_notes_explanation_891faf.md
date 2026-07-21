@@ -451,15 +451,15 @@ Explaining a concept without notes is a practical test of understanding: it show
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_no_notes_explanation_891faf-overview.webp" | relative_url }}" alt="Overview image for Explain It" loading="eager" decoding="sync" fetchpriority="high">
-The method is simple: pick one idea, close your materials, explain it aloud or in writing as if to a bright beginner, then compare your explanation with a trusted source. The value is not performance polish. It is diagnosis. Research on [retrieval practice]({{ 'retrieval/' | relative_url }}), self-explanation and metacognition all points in the same direction: trying to bring knowledge to mind, and then checking it, strengthens learning and exposes false confidence more effectively than passive review. psychology.ucsd.edu+2pubmed.ncbi.nlm.nih.gov<span class="citation-link-wrap"><a class="citation-inline-link" href="https://psychology.ucsd.edu/undergraduate-program/undergraduate-resources/academic-writing-resources/effective-studying/retrieval-practice.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychology.ucsd.edu">[psychology.ucsd.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychology.ucsd.edu</span><span class="citation-popover-snippet">Retrieval PracticeRetrieval practice involves recalling to-be-remembered information from memory. Retrieval practice – by itself and espe...</span></span></span>
+The method is simple: pick one idea, close your materials, explain it aloud or in writing as if to a bright beginner, then compare your explanation with a trusted source. The value is not performance polish. It is diagnosis. Research on [retrieval practice]({{ 'retrieval/' | relative_url }}), self-explanation and metacognition all points in the same direction: trying to bring knowledge to mind, and then checking it, strengthens learning and exposes false confidence more effectively than passive review. psychology.ucsd.edu+2pubmed.ncbi.nlm.nih.gov <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psychology.ucsd.edu/undergraduate-program/undergraduate-resources/academic-writing-resources/effective-studying/retrieval-practice.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychology.ucsd.edu">[psychology.ucsd.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychology.ucsd.edu</span><span class="citation-popover-snippet">Retrieval PracticeRetrieval practice involves recalling to-be-remembered information from memory. Retrieval practice – by itself and espe...</span></span></span>
 
 ## Why explanation exposes gaps
 
-A no-notes explanation is harder than recognition because it removes the cues that normally carry you through a page. When the textbook, slide deck or article is open, headings, [diagrams]({{ 'diagrams/' | relative_url }}) and familiar wording can create a feeling of fluency. You may know where the answer is on the page without being able to reconstruct the idea yourself. Retrieval practice reverses the direction: instead of putting information in again, you pull it out and inspect what actually comes back. UC San Diego’s learning guidance describes retrieval practice as recalling information from memory, especially followed by checking materials, and calls it one of the most effective learning methods discovered to date.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://psychology.ucsd.edu/undergraduate-program/undergraduate-resources/academic-writing-resources/effective-studying/retrieval-practice.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychology.ucsd.edu">[psychology.ucsd.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychology.ucsd.edu</span><span class="citation-popover-snippet">Retrieval PracticeRetrieval practice involves recalling to-be-remembered information from memory. Retrieval practice – by itself and espe...</span></span></span>
+A no-notes explanation is harder than recognition because it removes the cues that normally carry you through a page. When the textbook, slide deck or article is open, headings, [diagrams]({{ 'diagrams/' | relative_url }}) and familiar wording can create a feeling of fluency. You may know where the answer is on the page without being able to reconstruct the idea yourself. Retrieval practice reverses the direction: instead of putting information in again, you pull it out and inspect what actually comes back. UC San Diego’s learning guidance describes retrieval practice as recalling information from memory, especially followed by checking materials, and calls it one of the most effective learning methods discovered to date. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psychology.ucsd.edu/undergraduate-program/undergraduate-resources/academic-writing-resources/effective-studying/retrieval-practice.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychology.ucsd.edu">[psychology.ucsd.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychology.ucsd.edu</span><span class="citation-popover-snippet">Retrieval PracticeRetrieval practice involves recalling to-be-remembered information from memory. Retrieval practice – by itself and espe...</span></span></span>
 
-The same principle appears in the classic testing-effect literature. Roediger and Karpicke’s 2006 study found that taking a memory test does not merely measure what someone knows; it improves later retention. That matters for explanation because a no-notes explanation is a richer kind of self-test. It asks not only “Can I remember the term?” but “Can I rebuild the relationship between the terms?”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/16507066/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">taking memory tests improves long-term retentionby HL Roediger · 2006 · Cited by 4886 — Taking a memory test not only assesses what one k...</span></span></span>
+The same principle appears in the classic testing-effect literature. Roediger and Karpicke’s 2006 study found that taking a memory test does not merely measure what someone knows; it improves later retention. That matters for explanation because a no-notes explanation is a richer kind of self-test. It asks not only “Can I remember the term?” but “Can I rebuild the relationship between the terms?” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/16507066/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">taking memory tests improves long-term retentionby HL Roediger · 2006 · Cited by 4886 — Taking a memory test not only assesses what one k...</span></span></span>
 
-There is also a metacognitive benefit: explanation turns vague confidence into observable evidence. People often overestimate how well they understand [mechanisms]({{ 'mechanisms/' | relative_url }}) until asked to explain them. Rozenblit and Keil’s work on the “illusion of explanatory depth” argued that people’s limited knowledge, combined with misleading self-[assessment]({{ 'assessment/' | relative_url }}), can make everyday mechanisms seem better understood than they are. Later research on the same effect notes that attempting a causal explanation can expose the illusion by making missing steps visible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3062901/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by L Rozenblit · 2002 · Cited by 1507 — We argue here that people&#x27;s limited knowledge and their misleading intuitive epistemology comb...</span></span></span>
+There is also a metacognitive benefit: explanation turns vague confidence into observable evidence. People often overestimate how well they understand [mechanisms]({{ 'mechanisms/' | relative_url }}) until asked to explain them. Rozenblit and Keil’s work on the “illusion of explanatory depth” argued that people’s limited knowledge, combined with misleading self-[assessment]({{ 'assessment/' | relative_url }}), can make everyday mechanisms seem better understood than they are. Later research on the same effect notes that attempting a causal explanation can expose the illusion by making missing steps visible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3062901/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by L Rozenblit · 2002 · Cited by 1507 — We argue here that people&#x27;s limited knowledge and their misleading intuitive epistemology comb...</span></span></span>
 
 This is why “I understand it when I read it” is a weak standard. A stronger standard is: “I can explain the idea, define its key terms, show how the parts connect, give an example, and say what I am still unsure about.” That standard is demanding, but it is not about sounding clever. It is about finding the boundary between familiar wording and usable understanding.
 
@@ -478,7 +478,7 @@ A useful explanation is not a memorised speech. It is a structured reconstructio
 
 </div>
 
-This structure matters because self-explanation is most useful when it connects actions, rules, examples and principles, rather than merely paraphrasing. Chi, Bassok, Lewis, Reimann and Glaser’s influential study of students learning mechanics problems found that stronger learners generated explanations that refined the conditions for solution steps and related those steps to principles in the text. In other words, the better explanations did more than repeat procedures; they linked procedure to meaning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://asu.elsevierpure.com/en/publications/self-explanations-how-students-study-and-use-examples-in-learning/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asu.elsevierpure.com">[asu.elsevierpure.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asu.elsevierpure.com</span><span class="citation-popover-title">self explanations how students study and use examples in learning</span><span class="citation-popover-snippet">Self-explanations: How students study and use examples...by MTH Chi · 1989 · Cited by 5045 — The present paper analyzes the self-generat...</span></span></span>
+This structure matters because self-explanation is most useful when it connects actions, rules, examples and principles, rather than merely paraphrasing. Chi, Bassok, Lewis, Reimann and Glaser’s influential study of students learning mechanics problems found that stronger learners generated explanations that refined the conditions for solution steps and related those steps to principles in the text. In other words, the better explanations did more than repeat procedures; they linked procedure to meaning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://asu.elsevierpure.com/en/publications/self-explanations-how-students-study-and-use-examples-in-learning/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asu.elsevierpure.com">[asu.elsevierpure.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asu.elsevierpure.com</span><span class="citation-popover-title">self explanations how students study and use examples in learning</span><span class="citation-popover-snippet">Self-explanations: How students study and use examples...by MTH Chi · 1989 · Cited by 5045 — The present paper analyzes the self-generat...</span></span></span>
 
 For thinking skills, the contrast and limitation steps are especially valuable. They stop the exercise becoming a miniature lecture and turn it into analysis. For example, explaining “correlation does not imply [causation]({{ 'causation/' | relative_url }})” without notes should not stop at the slogan. A stronger explanation would say that two variables can move together because one causes the other, because a third factor influences both, because of selection effects, or because of chance. It would then give a concrete example and say what evidence would help distinguish the explanations.
 
@@ -500,7 +500,7 @@ Then compare your answer with a trusted source. Add only three corrections: one 
 
 Explain the idea as if speaking to someone intelligent but new to the subject. This does not mean dumbing it down. It means removing unexplained shorthand. If you cannot define the key words, you probably cannot yet use the concept reliably.
 
-This is the useful part of the popular “Feynman Technique”: explain an idea simply, identify where the explanation breaks, return to the material, and try again. The evidence base is better understood not as a special branded trick, but as a combination of retrieval practice, self-explanation and feedback. Dunlosky and colleagues’ review of learning techniques examined self-explanation, [practice testing]({{ 'practice-tests/' | relative_url }}) and other methods; it gave especially strong support to practice testing, while treating self-explanation as promising but more dependent on conditions and implementation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26173288/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+This is the useful part of the popular “Feynman Technique”: explain an idea simply, identify where the explanation breaks, return to the material, and try again. The evidence base is better understood not as a special branded trick, but as a combination of retrieval practice, self-explanation and feedback. Dunlosky and colleagues’ review of learning techniques examined self-explanation, [practice testing]({{ 'practice-tests/' | relative_url }}) and other methods; it gave especially strong support to practice testing, while treating self-explanation as promising but more dependent on conditions and implementation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26173288/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tjhhE_yLfbU" title="Learn Faster With the Feynman Notebook System" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tjhhE_yLfbU" target="_blank" rel="noopener noreferrer">Learn Faster With the Feynman Notebook System</a></p><p class="youtube-embed-meta">Channel: Dr. Erik Albinson | Learning &amp; Performance Coach</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tjhhE_yLfbU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tjhhE_yLfbU">Open on YouTube</a></p></div></div></div>
@@ -524,7 +524,7 @@ This loop is useful because many weak explanations contain a definition but no m
 
 For concepts with moving parts, draw a simple diagram from memory: arrows, stages, causes, categories, trade-offs or a small decision tree. Then explain the diagram aloud. This is not about artistic skill. It tests whether you understand the structure of the idea.
 
-The Education Endowment Foundation describes cognitive science in education as covering how knowledge is organised, including ideas such as retrieval practice, schemas, working memory and interleaving. A from-memory diagram is a small way to test whether knowledge is organised enough to be used, rather than stored as isolated phrases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://educationendowmentfoundation.org.uk/projects-and-evaluation/research-agenda-themes-priority-areas/research-agenda-theme-cognitive-science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">Open source on educationendowmentfoundation.org.uk.</span></span></span>
+The Education Endowment Foundation describes cognitive science in education as covering how knowledge is organised, including ideas such as retrieval practice, schemas, working memory and interleaving. A from-memory diagram is a small way to test whether knowledge is organised enough to be used, rather than stored as isolated phrases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://educationendowmentfoundation.org.uk/projects-and-evaluation/research-agenda-themes-priority-areas/research-agenda-theme-cognitive-science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">Open source on educationendowmentfoundation.org.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_no_notes_explanation_891faf-Illustration-2-dark.svg" | relative_url }}" alt="Explain It illustration 2" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_no_notes_explanation_891faf-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_no_notes_explanation_891faf-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -540,9 +540,9 @@ Start by looking for three kinds of miss:
 
 **Unclear boundaries.** Did you blur the concept with a neighbouring one? This is common in thinking skills: evidence versus opinion, explanation versus justification, confidence versus accuracy, validity versus truth, memory versus understanding.
 
-A good correction is specific. “Revise more” is too broad. “I need to explain the difference between retrieval strength and storage strength” is actionable. Bjork and Bjork’s work on desirable difficulties makes this distinction important: easy study can improve immediate performance, while more effortful conditions such as generation and retrieval can better support durable learning when the difficulty is appropriate to the learner’s current level.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/04/EBjork_RBjork_2011.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bjorklab.psych.ucla.edu">[Bjork Learning and Forgetting Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bjorklab.psych.ucla.edu</span><span class="citation-popover-snippet">Open source on ucla.edu.</span></span></span>
+A good correction is specific. “Revise more” is too broad. “I need to explain the difference between retrieval strength and storage strength” is actionable. Bjork and Bjork’s work on desirable difficulties makes this distinction important: easy study can improve immediate performance, while more effortful conditions such as generation and retrieval can better support durable learning when the difficulty is appropriate to the learner’s current level. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/04/EBjork_RBjork_2011.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bjorklab.psych.ucla.edu">[Bjork Learning and Forgetting Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bjorklab.psych.ucla.edu</span><span class="citation-popover-snippet">Open source on ucla.edu.</span></span></span>
 
-This is also where feedback protects against overconfidence. The EEF’s metacognition guidance describes effective learning in terms of planning, monitoring and evaluating progress. A no-notes explanation fits that cycle neatly: plan the concept to explain, monitor where you hesitate, then evaluate the attempt against a source, teacher, peer or worked example.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">Open source on educationendowmentfoundation.org.uk.</span></span></span>
+This is also where feedback protects against overconfidence. The EEF’s metacognition guidance describes effective learning in terms of planning, monitoring and evaluating progress. A no-notes explanation fits that cycle neatly: plan the concept to explain, monitor where you hesitate, then evaluate the attempt against a source, teacher, peer or worked example. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">Open source on educationendowmentfoundation.org.uk.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4mbRhYdu5gM" title="The Fastest Way To Understand Anything" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4mbRhYdu5gM" target="_blank" rel="noopener noreferrer">The Fastest Way To Understand Anything</a></p><p class="youtube-embed-meta">Channel: Dr David R Hamilton</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4mbRhYdu5gM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4mbRhYdu5gM">Open on YouTube</a></p></div></div></div>
@@ -551,7 +551,7 @@ This is also where feedback protects against overconfidence. The EEF’s metacog
 
 The method is powerful, but it is not magic. Used badly, it can reinforce errors or create unnecessary frustration.
 
-The first risk is **premature explanation**. If you have almost no background knowledge, forcing a full explanation may become guesswork. Desirable difficulties are only desirable when the learner has enough prior knowledge to make a serious attempt; otherwise the difficulty can become unproductive. Bjork and Bjork emphasise that the optimal level of difficulty varies with prior learning, and that unsupported difficulty can become undesirable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.waddesdonschool.com/wp-content/uploads/2021/02/Desriable-Difficulties-in-theory-and-practice-Bjork-Bjork-2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waddesdonschool.com">[Waddesdon School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waddesdonschool.com</span><span class="citation-popover-snippet">Open source on waddesdonschool.com.</span></span></span>
+The first risk is **premature explanation**. If you have almost no background knowledge, forcing a full explanation may become guesswork. Desirable difficulties are only desirable when the learner has enough prior knowledge to make a serious attempt; otherwise the difficulty can become unproductive. Bjork and Bjork emphasise that the optimal level of difficulty varies with prior learning, and that unsupported difficulty can become undesirable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.waddesdonschool.com/wp-content/uploads/2021/02/Desriable-Difficulties-in-theory-and-practice-Bjork-Bjork-2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waddesdonschool.com">[Waddesdon School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waddesdonschool.com</span><span class="citation-popover-snippet">Open source on waddesdonschool.com.</span></span></span>
 
 The second risk is **fluency theatre**. Some people become good at sounding coherent while staying vague. This is why examples, contrasts and limitations matter. An explanation that cannot survive “give me a case” or “what would prove this wrong?” is probably not yet analytical.
 
@@ -569,7 +569,7 @@ After reading an article or chapter, close it and explain the author’s argumen
 
 Before writing, explain your own argument aloud. If you cannot state the argument without notes, the draft will often become a collection of points rather than a line of reasoning.
 
-When learning a technical subject, alternate short explanations with practice problems. Research on learning techniques supports practice testing as a high-utility strategy and self-explanation as useful when applied well; together, they help you remember information and understand how to use it. pubmed.ncbi.nlm.nih.gov+2pubmed.ncbi.nlm.nih.gov<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26173288/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+When learning a technical subject, alternate short explanations with practice problems. Research on learning techniques supports practice testing as a high-utility strategy and self-explanation as useful when applied well; together, they help you remember information and understand how to use it. pubmed.ncbi.nlm.nih.gov+2pubmed.ncbi.nlm.nih.gov <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26173288/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
 A compact routine is enough:
 
@@ -600,178 +600,178 @@ A concept is becoming usable when you can explain it plainly, rebuild its struct
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Can You Explain It Without Notes?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Can You Explain It Without Notes?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-</h4>
-<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+We+Learn+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How We Learn on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=R9C2DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How We Learn" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=How+We+Learn+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How We Learn">How We Learn</a>
+        </h4>
+        <p class="fr-book-author">By Stanislas Dehaene</p>
         
-<p class="fr-book-desc">Supports explaining ideas from memory without notes.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains retrieval practice and self-testing.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=How+We+Learn+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+We+Learn+by+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How We Learn on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ncgJAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How We Learn" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=How+We+Learn+by+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How We Learn">How We Learn</a>
-</h4>
-<p class="fr-book-author">By Benedict Carey</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oneWAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+        </h4>
+        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-<p class="fr-book-desc">Explains retrieval practice and self-testing.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=How+We+Learn+by+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Supports explaining ideas from memory without notes.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DlMlEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
-</h4>
-<p class="fr-book-author">By Daniel T. Willingham</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DlMlEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
+        </h4>
+        <p class="fr-book-author">By Daniel T. Willingham</p>
         
-<p class="fr-book-desc">Links memory retrieval to understanding.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Links memory retrieval to understanding.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Teach+Yourself+How+to+Learn+by+Saundra+Yancy+McGuire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Teach Yourself How to Learn on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hA_JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Teach Yourself How to Learn" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Teach+Yourself+How+to+Learn+by+Saundra+Yancy+McGuire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Teach Yourself How to Learn">Teach Yourself How to Learn</a>
-</h4>
-<p class="fr-book-author">By Saundra Yancy McGuire</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ultralearning+Scott+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ultralearning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d0IdvgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ultralearning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ultralearning+Scott+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ultralearning">Ultralearning</a>
+        </h4>
+        <p class="fr-book-author">By Scott Young</p>
         
-<p class="fr-book-desc">Encourages explanation-based learning strategies.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Teach+Yourself+How+to+Learn+by+Saundra+Yancy+McGuire&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Promotes active mastery without reliance on notes.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ultralearning+Scott+Young&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+We+Learn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How We Learn</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Don&#x27;t Students Like School?</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+We+Learn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How We Learn</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Don&#x27;t Students Like School?</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+explain+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-explain-it-without-notes-you-explain-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you explain poster -book -books -dvd" data-ebay-reference="can-you-explain-it-without-notes-you-explain-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for If you can&#x27;t explain it to a six ye Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/lBYAAeSw16pp1~dl/s-l225.jpg" alt="Listing image for If you can&#x27;t explain it to a six ye Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+explain+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-explain-it-without-notes-you-explain-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you explain poster -book -books -dvd" data-ebay-reference="can-you-explain-it-without-notes-you-explain-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">If you can&#x27;t explain it to a six ye Framed Wall Art Poster Canvas Print Picture</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+explain+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-explain-it-without-notes-you-explain-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you explain poster -book -books -dvd" data-ebay-reference="can-you-explain-it-without-notes-you-explain-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for you explain poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: you explain poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+explain+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-explain-it-without-notes-you-explain-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you explain poster -book -books -dvd" data-ebay-reference="can-you-explain-it-without-notes-you-explain-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+explain+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-explain-it-without-notes-you-explain-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you explain poster -book -books -dvd" data-ebay-reference="can-you-explain-it-without-notes-you-explain-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for If you can&#x27;t explain it to a six ye Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/lBYAAeSw16pp1~dl/s-l225.jpg" alt="Listing image for If you can&#x27;t explain it to a six ye Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+explain+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-explain-it-without-notes-you-explain-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you explain poster -book -books -dvd" data-ebay-reference="can-you-explain-it-without-notes-you-explain-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">If you can&#x27;t explain it to a six ye Framed Wall Art Poster Canvas Print Picture</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+explain+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-explain-it-without-notes-you-explain-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you explain poster -book -books -dvd" data-ebay-reference="can-you-explain-it-without-notes-you-explain-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for you explain poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: you explain poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+explain+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-explain-it-without-notes-you-explain-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you explain poster -book -books -dvd" data-ebay-reference="can-you-explain-it-without-notes-you-explain-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+explain+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-explain-it-without-notes-you-explain-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you explain poster -book -books -dvd" data-ebay-reference="can-you-explain-it-without-notes-you-explain-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WAIT I WILL EXPLAIN YOU Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/p74AAeSw3uFp2SI0/s-l225.jpg" alt="Listing image for WAIT I WILL EXPLAIN YOU Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+explain+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-explain-it-without-notes-you-explain-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you explain poster -book -books -dvd" data-ebay-reference="can-you-explain-it-without-notes-you-explain-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">WAIT I WILL EXPLAIN YOU Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+explain+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-explain-it-without-notes-you-explain-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you explain poster -book -books -dvd" data-ebay-reference="can-you-explain-it-without-notes-you-explain-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for you explain poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: you explain poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+explain+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-explain-it-without-notes-you-explain-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you explain poster -book -books -dvd" data-ebay-reference="can-you-explain-it-without-notes-you-explain-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+explain+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-explain-it-without-notes-you-explain-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you explain poster -book -books -dvd" data-ebay-reference="can-you-explain-it-without-notes-you-explain-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WAIT I WILL EXPLAIN YOU Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/p74AAeSw3uFp2SI0/s-l225.jpg" alt="Listing image for WAIT I WILL EXPLAIN YOU Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+explain+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-explain-it-without-notes-you-explain-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you explain poster -book -books -dvd" data-ebay-reference="can-you-explain-it-without-notes-you-explain-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">WAIT I WILL EXPLAIN YOU Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+explain+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-explain-it-without-notes-you-explain-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you explain poster -book -books -dvd" data-ebay-reference="can-you-explain-it-without-notes-you-explain-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for you explain poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: you explain poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+explain+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-explain-it-without-notes-you-explain-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you explain poster -book -books -dvd" data-ebay-reference="can-you-explain-it-without-notes-you-explain-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+explain+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-explain-it-without-notes-you-explain-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you explain poster -book -books -dvd" data-ebay-reference="can-you-explain-it-without-notes-you-explain-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office"><img src="https://i.ebayimg.com/images/g/kCsAAeSwNsppEGeV/s-l225.jpg" alt="Listing image for Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+explain+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-explain-it-without-notes-you-explain-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you explain poster -book -books -dvd" data-ebay-reference="can-you-explain-it-without-notes-you-explain-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+explain+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-explain-it-without-notes-you-explain-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you explain poster -book -books -dvd" data-ebay-reference="can-you-explain-it-without-notes-you-explain-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for you explain poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: you explain poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+explain+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-explain-it-without-notes-you-explain-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you explain poster -book -books -dvd" data-ebay-reference="can-you-explain-it-without-notes-you-explain-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+explain+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-explain-it-without-notes-you-explain-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you explain poster -book -books -dvd" data-ebay-reference="can-you-explain-it-without-notes-you-explain-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+explain+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-explain-it-without-notes-you-explain-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you explain poster -book -books -dvd" data-ebay-reference="can-you-explain-it-without-notes-you-explain-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office"><img src="https://i.ebayimg.com/images/g/kCsAAeSwNsppEGeV/s-l225.jpg" alt="Listing image for Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+explain+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-explain-it-without-notes-you-explain-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you explain poster -book -books -dvd" data-ebay-reference="can-you-explain-it-without-notes-you-explain-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+explain+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-explain-it-without-notes-you-explain-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you explain poster -book -books -dvd" data-ebay-reference="can-you-explain-it-without-notes-you-explain-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for you explain poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: you explain poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+explain+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-explain-it-without-notes-you-explain-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you explain poster -book -books -dvd" data-ebay-reference="can-you-explain-it-without-notes-you-explain-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+explain+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-explain-it-without-notes-you-explain-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you explain poster -book -books -dvd" data-ebay-reference="can-you-explain-it-without-notes-you-explain-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -787,7 +787,7 @@ A concept is becoming usable when you can explain it plainly, rebuild its struct
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -807,7 +807,7 @@ A concept is becoming usable when you can explain it plainly, rebuild its struct
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -839,7 +839,7 @@ A concept is becoming usable when you can explain it plainly, rebuild its struct
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -891,7 +891,7 @@ A concept is becoming usable when you can explain it plainly, rebuild its struct
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -936,7 +936,7 @@ A concept is becoming usable when you can explain it plainly, rebuild its struct
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -976,183 +976,183 @@ A concept is becoming usable when you can explain it plainly, rebuild its struct
 </section>
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: psychology.ucsd.edu  
-   Link:<a href="https://psychology.ucsd.edu/undergraduate-program/undergraduate-resources/academic-writing-resources/effective-studying/retrieval-practice.html" target="_blank" rel="noopener noreferrer nofollow">https://psychology.ucsd.edu/undergraduate-program/undergraduate-resources/academic-writing-resources/effective-studying/retrieval-practice.html</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Retrieval PracticeRetrieval practice involves recalling to-be-remembered information from memory. Retrieval practice – by itself and espe...</p></details>
+   Link: <a href="https://psychology.ucsd.edu/undergraduate-program/undergraduate-resources/academic-writing-resources/effective-studying/retrieval-practice.html" target="_blank" rel="noopener noreferrer nofollow">https://psychology.ucsd.edu/undergraduate-program/undergraduate-resources/academic-writing-resources/effective-studying/retrieval-practice.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Retrieval PracticeRetrieval practice involves recalling to-be-remembered information from memory. Retrieval practice – by itself and espe...</p></details>
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/16507066/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/16507066/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>taking memory tests improves long-term retentionby HL Roediger · 2006 · Cited by 4886 — Taking a memory test not only assesses what one k...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/16507066/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/16507066/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>taking memory tests improves long-term retentionby HL Roediger · 2006 · Cited by 4886 — Taking a memory test not only assesses what one k...</p></details>
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: asu.elsevierpure.com  
    Title: self explanations how students study and use examples in learning  
-   Link:<a href="https://asu.elsevierpure.com/en/publications/self-explanations-how-students-study-and-use-examples-in-learning/" target="_blank" rel="noopener noreferrer nofollow">https://asu.elsevierpure.com/en/publications/self-explanations-how-students-study-and-use-examples-in-learning/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-explanations: How students study and use examples...by MTH Chi · 1989 · Cited by 5045 — The present paper analyzes the self-generat...</p></details>
+   Link: <a href="https://asu.elsevierpure.com/en/publications/self-explanations-how-students-study-and-use-examples-in-learning/" target="_blank" rel="noopener noreferrer nofollow">https://asu.elsevierpure.com/en/publications/self-explanations-how-students-study-and-use-examples-in-learning/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-explanations: How students study and use examples...by MTH Chi · 1989 · Cited by 5045 — The present paper analyzes the self-generat...</p></details>
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3062901/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3062901/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>by L Rozenblit · 2002 · Cited by 1507 — We argue here that people&#x27;s limited knowledge and their misleading intuitive epistemology comb...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3062901/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3062901/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by L Rozenblit · 2002 · Cited by 1507 — We argue here that people&#x27;s limited knowledge and their misleading intuitive epistemology comb...</p></details>
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/26173288/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26173288/</a>  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26173288/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26173288/</a>  
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link:<a href="https://educationendowmentfoundation.org.uk/projects-and-evaluation/research-agenda-themes-priority-areas/research-agenda-theme-cognitive-science" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/projects-and-evaluation/research-agenda-themes-priority-areas/research-agenda-theme-cognitive-science</a>  
+   Link: <a href="https://educationendowmentfoundation.org.uk/projects-and-evaluation/research-agenda-themes-priority-areas/research-agenda-theme-cognitive-science" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/projects-and-evaluation/research-agenda-themes-priority-areas/research-agenda-theme-cognitive-science</a>  
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link:<a href="https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition</a>  
+   Link: <a href="https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition</a>  
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link:<a href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/metacognition-and-self-regulation" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/metacognition-and-self-regulation</a>  
+   Link: <a href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/metacognition-and-self-regulation" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/metacognition-and-self-regulation</a>  
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9781761/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9781761/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9781761/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9781761/</a>  
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4477741/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4477741/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4477741/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4477741/</a>  
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6016031/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6016031/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6016031/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6016031/</a>  
 
-12.<a id="endnote-12"></a>
+12. <a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6289840/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6289840/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6289840/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6289840/</a>  
 
-13.<a id="endnote-13"></a>
+13. <a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12372469/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12372469/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12372469/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12372469/</a>  
 
-14.<a id="endnote-14"></a>
+14. <a id="endnote-14"></a>
    Source: education-ni.gov.uk  
-   Link:<a href="https://www.education-ni.gov.uk/sites/default/files/2025-04/May%20Newsletter%20-%20Retrieval%20Practice%20%20What%20it%20is%2C%20Why%20it%20Works%20and%20How%20to%20Do%20It%20Better.PDF" target="_blank" rel="noopener noreferrer nofollow">https://www.education-ni.gov.uk/sites/default/files/2025-04/May%20Newsletter%20-%20Retrieval%20Practice%20%20What%20it%20is%2C%20Why%20it%20Works%20and%20How%20to%20Do%20It%20Better.PDF</a>  
+   Link: <a href="https://www.education-ni.gov.uk/sites/default/files/2025-04/May%20Newsletter%20-%20Retrieval%20Practice%20%20What%20it%20is%2C%20Why%20it%20Works%20and%20How%20to%20Do%20It%20Better.PDF" target="_blank" rel="noopener noreferrer nofollow">https://www.education-ni.gov.uk/sites/default/files/2025-04/May%20Newsletter%20-%20Retrieval%20Practice%20%20What%20it%20is%2C%20Why%20it%20Works%20and%20How%20to%20Do%20It%20Better.PDF</a>  
 
-15.<a id="endnote-15"></a>
+15. <a id="endnote-15"></a>
    Source: support-for-early-career-teachers.education.gov.uk  
    Title: education.gov.uk Evidence  
-   Link:<a href="https://support-for-early-career-teachers.education.gov.uk/education-development-trust/year-2-deepening-assessment-feedback-and-questioning/summer-week-1-ect-evidence/" target="_blank" rel="noopener noreferrer nofollow">https://support-for-early-career-teachers.education.gov.uk/education-development-trust/year-2-deepening-assessment-feedback-and-questioning/summer-week-1-ect-evidence/</a>  
+   Link: <a href="https://support-for-early-career-teachers.education.gov.uk/education-development-trust/year-2-deepening-assessment-feedback-and-questioning/summer-week-1-ect-evidence/" target="_blank" rel="noopener noreferrer nofollow">https://support-for-early-career-teachers.education.gov.uk/education-development-trust/year-2-deepening-assessment-feedback-and-questioning/summer-week-1-ect-evidence/</a>  
 
-16.<a id="endnote-16"></a>
+16. <a id="endnote-16"></a>
    Source: education.asu.edu  
-   Link:<a href="https://education.asu.edu/lcl/publications/chi-m-t-h-bassok-m-lewis-m-reimann-p-glaser-r-1989-self-explanations-how-students" target="_blank" rel="noopener noreferrer nofollow">https://education.asu.edu/lcl/publications/chi-m-t-h-bassok-m-lewis-m-reimann-p-glaser-r-1989-self-explanations-how-students</a>  
+   Link: <a href="https://education.asu.edu/lcl/publications/chi-m-t-h-bassok-m-lewis-m-reimann-p-glaser-r-1989-self-explanations-how-students" target="_blank" rel="noopener noreferrer nofollow">https://education.asu.edu/lcl/publications/chi-m-t-h-bassok-m-lewis-m-reimann-p-glaser-r-1989-self-explanations-how-students</a>  
 
-17.<a id="endnote-17"></a>
+17. <a id="endnote-17"></a>
    Source: wolverhampton.gov.uk  
-   Link:<a href="https://www.wolverhampton.gov.uk/sites/default/files/2026-03/Unlocking-Potential-A-Guide-to-Metacognition-and-Self-Regulated-Learning.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.wolverhampton.gov.uk/sites/default/files/2026-03/Unlocking-Potential-A-Guide-to-Metacognition-and-Self-Regulated-Learning.pdf</a>  
+   Link: <a href="https://www.wolverhampton.gov.uk/sites/default/files/2026-03/Unlocking-Potential-A-Guide-to-Metacognition-and-Self-Regulated-Learning.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.wolverhampton.gov.uk/sites/default/files/2026-03/Unlocking-Potential-A-Guide-to-Metacognition-and-Self-Regulated-Learning.pdf</a>  
 
-18.<a id="endnote-18"></a>
+18. <a id="endnote-18"></a>
    Source: bjorklab.psych.ucla.edu  
-   Link:<a href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/04/EBjork_RBjork_2011.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/04/EBjork_RBjork_2011.pdf</a>  
+   Link: <a href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/04/EBjork_RBjork_2011.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/04/EBjork_RBjork_2011.pdf</a>  
 
-19.<a id="endnote-19"></a>
+19. <a id="endnote-19"></a>
    Source: waddesdonschool.com  
-   Link:<a href="https://www.waddesdonschool.com/wp-content/uploads/2021/02/Desriable-Difficulties-in-theory-and-practice-Bjork-Bjork-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.waddesdonschool.com/wp-content/uploads/2021/02/Desriable-Difficulties-in-theory-and-practice-Bjork-Bjork-2020.pdf</a>  
+   Link: <a href="https://www.waddesdonschool.com/wp-content/uploads/2021/02/Desriable-Difficulties-in-theory-and-practice-Bjork-Bjork-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.waddesdonschool.com/wp-content/uploads/2021/02/Desriable-Difficulties-in-theory-and-practice-Bjork-Bjork-2020.pdf</a>  
 
-20.<a id="endnote-20"></a>
+20. <a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Illusion of explanatory depth  
-   Link:<a href="https://en.wikipedia.org/wiki/Illusion_of_explanatory_depth" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Illusion_of_explanatory_depth</a>  
+   Link: <a href="https://en.wikipedia.org/wiki/Illusion_of_explanatory_depth" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Illusion_of_explanatory_depth</a>  
 
-21.<a id="endnote-21"></a>
+21. <a id="endnote-21"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link:<a href="https://educationendowmentfoundation.org.uk/education-evidence/evidence-reviews/cognitive-science-approaches-in-the-classroom" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/evidence-reviews/cognitive-science-approaches-in-the-classroom</a>  
+   Link: <a href="https://educationendowmentfoundation.org.uk/education-evidence/evidence-reviews/cognitive-science-approaches-in-the-classroom" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/evidence-reviews/cognitive-science-approaches-in-the-classroom</a>  
 
-22.<a id="endnote-22"></a>
+22. <a id="endnote-22"></a>
    Source: educationendowmentfoundation.org.uk  
    Title: does research on retrieval practice translate into classroom practice  
-   Link:<a href="https://educationendowmentfoundation.org.uk/news/does-research-on-retrieval-practice-translate-into-classroom-practice" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/does-research-on-retrieval-practice-translate-into-classroom-practice</a>  
+   Link: <a href="https://educationendowmentfoundation.org.uk/news/does-research-on-retrieval-practice-translate-into-classroom-practice" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/does-research-on-retrieval-practice-translate-into-classroom-practice</a>  
 
-23.<a id="endnote-23"></a>
+23. <a id="endnote-23"></a>
    Source: educationendowmentfoundation.org.uk  
    Title: updated eef guide to metacognition and self regulation  
-   Link:<a href="https://educationendowmentfoundation.org.uk/news/updated-eef-guide-to-metacognition-and-self-regulation" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/updated-eef-guide-to-metacognition-and-self-regulation</a>  
+   Link: <a href="https://educationendowmentfoundation.org.uk/news/updated-eef-guide-to-metacognition-and-self-regulation" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/updated-eef-guide-to-metacognition-and-self-regulation</a>  
 
-24.<a id="endnote-24"></a>
+24. <a id="endnote-24"></a>
    Source: educationendowmentfoundation.org.uk  
    Title: Guest Blog: Retrieval practice  
-   Link:<a href="https://educationendowmentfoundation.org.uk/news/guest-blog-retrieval-practice-a-common-good-or-just-commonplace" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/guest-blog-retrieval-practice-a-common-good-or-just-commonplace</a>  
+   Link: <a href="https://educationendowmentfoundation.org.uk/news/guest-blog-retrieval-practice-a-common-good-or-just-commonplace" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/guest-blog-retrieval-practice-a-common-good-or-just-commonplace</a>  
 
-25.<a id="endnote-25"></a>
+25. <a id="endnote-25"></a>
    Source: educationendowmentfoundation.org.uk  
    Title: eef blog making sense of metacognition  
-   Link:<a href="https://educationendowmentfoundation.org.uk/news/eef-blog-making-sense-of-metacognition" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/eef-blog-making-sense-of-metacognition</a>  
+   Link: <a href="https://educationendowmentfoundation.org.uk/news/eef-blog-making-sense-of-metacognition" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/eef-blog-making-sense-of-metacognition</a>  
 
-26.<a id="endnote-26"></a>
+26. <a id="endnote-26"></a>
    Source: cultofpedagogy.com  
    Title: retrieval practice  
-   Link:<a href="https://www.cultofpedagogy.com/retrieval-practice/" target="_blank" rel="noopener noreferrer nofollow">https://www.cultofpedagogy.com/retrieval-practice/</a>  
+   Link: <a href="https://www.cultofpedagogy.com/retrieval-practice/" target="_blank" rel="noopener noreferrer nofollow">https://www.cultofpedagogy.com/retrieval-practice/</a>  
 
-27.<a id="endnote-27"></a>
+27. <a id="endnote-27"></a>
    Source: mindomax.com  
    Title: desirable difficulties  
-   Link:<a href="https://www.mindomax.com/desirable-difficulties" target="_blank" rel="noopener noreferrer nofollow">https://www.mindomax.com/desirable-difficulties</a>  
+   Link: <a href="https://www.mindomax.com/desirable-difficulties" target="_blank" rel="noopener noreferrer nofollow">https://www.mindomax.com/desirable-difficulties</a>  
 
-28.<a id="endnote-28"></a>
+28. <a id="endnote-28"></a>
    Source: icarus.cs.weber.edu  
-   Link:<a href="https://icarus.cs.weber.edu/~gs35549/la2/learning.html" target="_blank" rel="noopener noreferrer nofollow">https://icarus.cs.weber.edu/~gs35549/la2/learning.html</a>  
+   Link: <a href="https://icarus.cs.weber.edu/~gs35549/la2/learning.html" target="_blank" rel="noopener noreferrer nofollow">https://icarus.cs.weber.edu/~gs35549/la2/learning.html</a>  
 
-29.<a id="endnote-29"></a>
+29. <a id="endnote-29"></a>
    Source: donaldclarkplanb.blogspot.com  
    Title: Roediger and Karpicke  
-   Link:<a href="https://donaldclarkplanb.blogspot.com/2021/10/roediger-and-karpicke-retrieval.html" target="_blank" rel="noopener noreferrer nofollow">https://donaldclarkplanb.blogspot.com/2021/10/roediger-and-karpicke-retrieval.html</a>  
+   Link: <a href="https://donaldclarkplanb.blogspot.com/2021/10/roediger-and-karpicke-retrieval.html" target="_blank" rel="noopener noreferrer nofollow">https://donaldclarkplanb.blogspot.com/2021/10/roediger-and-karpicke-retrieval.html</a>  
 
-30.<a id="endnote-30"></a>
+30. <a id="endnote-30"></a>
    Source: growthengineering.co.uk  
    Title: feynman technique  
-   Link:<a href="https://www.growthengineering.co.uk/feynman-technique/" target="_blank" rel="noopener noreferrer nofollow">https://www.growthengineering.co.uk/feynman-technique/</a>  
+   Link: <a href="https://www.growthengineering.co.uk/feynman-technique/" target="_blank" rel="noopener noreferrer nofollow">https://www.growthengineering.co.uk/feynman-technique/</a>  
 
 ### Additional References
 
-31.<a id="endnote-31"></a>
+31. <a id="endnote-31"></a>
    Source: youtube.com  
    Title: The Fastest Way To Understand Anything  
-   Link:<a href="https://www.youtube.com/watch?v=4mbRhYdu5gM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4mbRhYdu5gM</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>How to do free recall (AKA active recall) - Language learning demonstration...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=4mbRhYdu5gM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4mbRhYdu5gM</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to do free recall (AKA active recall) - Language learning demonstration...</p></details>
 
-32.<a id="endnote-32"></a>
+32. <a id="endnote-32"></a>
    Source: youtube.com  
    Title: Learn Faster With the Feynman Notebook System  
-   Link:<a href="https://www.youtube.com/watch?v=tjhhE_yLfbU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tjhhE_yLfbU</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Active Recall: Why the Best Study Method Feels Like the Worst...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=tjhhE_yLfbU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tjhhE_yLfbU</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Active Recall: Why the Best Study Method Feels Like the Worst...</p></details>
 
-33.<a id="endnote-33"></a>
+33. <a id="endnote-33"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/284097727_Making_things_hard_on_yourself_but_in_a_good_way_Creating_desirable_difficulties_to_enhance_learning" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/284097727_Making_things_hard_on_yourself_but_in_a_good_way_Creating_desirable_difficulties_to_enhance_learning</a>  
+   Link: <a href="https://www.researchgate.net/publication/284097727_Making_things_hard_on_yourself_but_in_a_good_way_Creating_desirable_difficulties_to_enhance_learning" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/284097727_Making_things_hard_on_yourself_but_in_a_good_way_Creating_desirable_difficulties_to_enhance_learning</a>  
 
-34.<a id="endnote-34"></a>
+34. <a id="endnote-34"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/361181135_Metacognitive_judgments_can_potentiate_new_learning_The_role_of_covert_retrieval" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/361181135_Metacognitive_judgments_can_potentiate_new_learning_The_role_of_covert_retrieval</a>  
+   Link: <a href="https://www.researchgate.net/publication/361181135_Metacognitive_judgments_can_potentiate_new_learning_The_role_of_covert_retrieval" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/361181135_Metacognitive_judgments_can_potentiate_new_learning_The_role_of_covert_retrieval</a>  
 
-35.<a id="endnote-35"></a>
+35. <a id="endnote-35"></a>
    Source: glasp.co  
-   Link:<a href="https://glasp.co/articles/desirable-difficulties" target="_blank" rel="noopener noreferrer nofollow">https://glasp.co/articles/desirable-difficulties</a>  
+   Link: <a href="https://glasp.co/articles/desirable-difficulties" target="_blank" rel="noopener noreferrer nofollow">https://glasp.co/articles/desirable-difficulties</a>  
 
-36.<a id="endnote-36"></a>
+36. <a id="endnote-36"></a>
    Source: d10a08pz293654.cloudfront.net  
-   Link:<a href="https://d10a08pz293654.cloudfront.net/production/documents/EEF-metacognition-and-self-regulated-learning-guidance-report_2020-12-28-201252.pdf" target="_blank" rel="noopener noreferrer nofollow">https://d10a08pz293654.cloudfront.net/production/documents/EEF-metacognition-and-self-regulated-learning-guidance-report_2020-12-28-201252.pdf</a>  
+   Link: <a href="https://d10a08pz293654.cloudfront.net/production/documents/EEF-metacognition-and-self-regulated-learning-guidance-report_2020-12-28-201252.pdf" target="_blank" rel="noopener noreferrer nofollow">https://d10a08pz293654.cloudfront.net/production/documents/EEF-metacognition-and-self-regulated-learning-guidance-report_2020-12-28-201252.pdf</a>  
 
-37.<a id="endnote-37"></a>
+37. <a id="endnote-37"></a>
    Source: revaldoai.com  
-   Link:<a href="https://revaldoai.com/feynman-technique-guide" target="_blank" rel="noopener noreferrer nofollow">https://revaldoai.com/feynman-technique-guide</a>  
+   Link: <a href="https://revaldoai.com/feynman-technique-guide" target="_blank" rel="noopener noreferrer nofollow">https://revaldoai.com/feynman-technique-guide</a>  
 
-38.<a id="endnote-38"></a>
+38. <a id="endnote-38"></a>
    Source: memo.cards  
-   Link:<a href="https://www.memo.cards/blog/feynman-technique" target="_blank" rel="noopener noreferrer nofollow">https://www.memo.cards/blog/feynman-technique</a>  
+   Link: <a href="https://www.memo.cards/blog/feynman-technique" target="_blank" rel="noopener noreferrer nofollow">https://www.memo.cards/blog/feynman-technique</a>  
 
-39.<a id="endnote-39"></a>
+39. <a id="endnote-39"></a>
    Source: facebook.com  
-   Link:<a href="https://www.facebook.com/groups/MontrealAI/posts/737724603356041/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/MontrealAI/posts/737724603356041/</a>  
+   Link: <a href="https://www.facebook.com/groups/MontrealAI/posts/737724603356041/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/MontrealAI/posts/737724603356041/</a>  
 
-40.<a id="endnote-40"></a>
+40. <a id="endnote-40"></a>
    Source: memorylab.nl  
-   Link:<a href="https://www.memorylab.nl/blogs/how-you-can-use-retrieval-practice-strategies-to-study-more-effectively/" target="_blank" rel="noopener noreferrer nofollow">https://www.memorylab.nl/blogs/how-you-can-use-retrieval-practice-strategies-to-study-more-effectively/</a>  
+   Link: <a href="https://www.memorylab.nl/blogs/how-you-can-use-retrieval-practice-strategies-to-study-more-effectively/" target="_blank" rel="noopener noreferrer nofollow">https://www.memorylab.nl/blogs/how-you-can-use-retrieval-practice-strategies-to-study-more-effectively/</a>  

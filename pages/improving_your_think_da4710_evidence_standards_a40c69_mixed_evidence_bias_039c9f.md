@@ -280,7 +280,7 @@ image: /assets/images/improving_your_think_da4710_evidence_standards_a40c69_mixe
 
 ## Introduction
 
-Mixed evidence should make us more cautious. Yet one of the most robust findings in psychology is that it can produce the opposite effect: people who begin with different beliefs often become **more** confident after seeing the same balanced evidence. This pattern is known as **[biased assimilation]({{ 'mixed-evidence-accf68/' | relative_url }})**. Instead of evaluating all findings by the [same standard]({{ 'same-standard/' | relative_url }}), we tend to accept supportive evidence with relatively little scrutiny while inspecting contradictory evidence for every possible flaw. The result is not simply confirmation bias in what we seek, but a deeper distortion in how we judge the quality of evidence once we have found it. Understanding this trap is an important part of improving analytical thinking because it shifts attention from *which* evidence you read to *whether you apply the same evidential standard regardless of which conclusion the evidence favours*.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fbaum.unc.edu/teaching/articles/jpsp-1979-Lord-Ross-Lepper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbaum.unc.edu">[Frank Baumgartner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbaum.unc.edu</span><span class="citation-popover-title">jpsp 1979 Lord Ross Lepper</span><span class="citation-popover-snippet">Frank BaumgartnerBiased Assimilation and Attitude Polarization: The Effects...by CG Lord · 1979 · Cited by 7332 — In the present experim...</span></span></span>
+Mixed evidence should make us more cautious. Yet one of the most robust findings in psychology is that it can produce the opposite effect: people who begin with different beliefs often become **more** confident after seeing the same balanced evidence. This pattern is known as **[biased assimilation]({{ 'mixed-evidence-accf68/' | relative_url }})**. Instead of evaluating all findings by the [same standard]({{ 'same-standard/' | relative_url }}), we tend to accept supportive evidence with relatively little scrutiny while inspecting contradictory evidence for every possible flaw. The result is not simply confirmation bias in what we seek, but a deeper distortion in how we judge the quality of evidence once we have found it. Understanding this trap is an important part of improving analytical thinking because it shifts attention from *which* evidence you read to *whether you apply the same evidential standard regardless of which conclusion the evidence favours*. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fbaum.unc.edu/teaching/articles/jpsp-1979-Lord-Ross-Lepper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbaum.unc.edu">[Frank Baumgartner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbaum.unc.edu</span><span class="citation-popover-title">jpsp 1979 Lord Ross Lepper</span><span class="citation-popover-snippet">Frank BaumgartnerBiased Assimilation and Attitude Polarization: The Effects...by CG Lord · 1979 · Cited by 7332 — In the present experim...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_evidence_standards_a40c69_mixed_evidence_bias_039c9f-Illustration-1-dark.svg" | relative_url }}" alt="Mixed Evidence illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_evidence_standards_a40c69_mixed_evidence_bias_039c9f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_evidence_standards_a40c69_mixed_evidence_bias_039c9f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -298,13 +298,13 @@ Biased assimilation changes that outcome. When confronted with competing finding
 
 </div>
 
-Because every study has imperfections, the hostile evaluation almost always discovers reasons for doubt. Meanwhile, the friendly evaluation leaves supportive evidence largely intact. After combining these unequal assessments, each person concludes that "the evidence favours my side", even though everyone reviewed the same material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fbaum.unc.edu/teaching/articles/jpsp-1979-Lord-Ross-Lepper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbaum.unc.edu">[Frank Baumgartner+2Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbaum.unc.edu</span><span class="citation-popover-title">jpsp 1979 Lord Ross Lepper</span><span class="citation-popover-snippet">Frank BaumgartnerBiased Assimilation and Attitude Polarization: The Effects...by CG Lord · 1979 · Cited by 7332 — In the present experim...</span></span></span>
+Because every study has imperfections, the hostile evaluation almost always discovers reasons for doubt. Meanwhile, the friendly evaluation leaves supportive evidence largely intact. After combining these unequal assessments, each person concludes that "the evidence favours my side", even though everyone reviewed the same material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fbaum.unc.edu/teaching/articles/jpsp-1979-Lord-Ross-Lepper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbaum.unc.edu">[Frank Baumgartner+2Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbaum.unc.edu</span><span class="citation-popover-title">jpsp 1979 Lord Ross Lepper</span><span class="citation-popover-snippet">Frank BaumgartnerBiased Assimilation and Attitude Polarization: The Effects...by CG Lord · 1979 · Cited by 7332 — In the present experim...</span></span></span>
 
-This is especially likely when issues are emotionally important, morally charged or connected to personal identity. The stronger the prior commitment, the greater the temptation to judge evidence asymmetrically rather than consistently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9038198/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHumans actively sample evidence to support prior beliefs</span><span class="citation-popover-snippet">by P Kaanders · 2022 · Cited by 68 — Confirmation bias is defined as the tendency of agents to seek out or overweight evidence that al...</span></span></span>
+This is especially likely when issues are emotionally important, morally charged or connected to personal identity. The stronger the prior commitment, the greater the temptation to judge evidence asymmetrically rather than consistently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9038198/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHumans actively sample evidence to support prior beliefs</span><span class="citation-popover-snippet">by P Kaanders · 2022 · Cited by 68 — Confirmation bias is defined as the tendency of agents to seek out or overweight evidence that al...</span></span></span>
 
 ## The Lord, Ross and Lepper capital punishment study
 
-The classic demonstration came from Charles Lord, Lee Ross and Mark Lepper's 1979 experiment on attitudes towards capital punishment. Participants who either strongly supported or strongly opposed the death penalty were presented with summaries of two fictional research programmes. One appeared to support deterrence, while the other appeared to show that capital punishment did not deter murder. Both studies contained plausible strengths and weaknesses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fbaum.unc.edu/teaching/articles/jpsp-1979-Lord-Ross-Lepper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbaum.unc.edu">[Frank Baumgartner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbaum.unc.edu</span><span class="citation-popover-title">jpsp 1979 Lord Ross Lepper</span><span class="citation-popover-snippet">Frank BaumgartnerBiased Assimilation and Attitude Polarization: The Effects...by CG Lord · 1979 · Cited by 7332 — In the present experim...</span></span></span>
+The classic demonstration came from Charles Lord, Lee Ross and Mark Lepper's 1979 experiment on attitudes towards capital punishment. Participants who either strongly supported or strongly opposed the death penalty were presented with summaries of two fictional research programmes. One appeared to support deterrence, while the other appeared to show that capital punishment did not deter murder. Both studies contained plausible strengths and weaknesses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fbaum.unc.edu/teaching/articles/jpsp-1979-Lord-Ross-Lepper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbaum.unc.edu">[Frank Baumgartner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbaum.unc.edu</span><span class="citation-popover-title">jpsp 1979 Lord Ross Lepper</span><span class="citation-popover-snippet">Frank BaumgartnerBiased Assimilation and Attitude Polarization: The Effects...by CG Lord · 1979 · Cited by 7332 — In the present experim...</span></span></span>
 
 The researchers found three striking patterns.
 
@@ -312,7 +312,7 @@ First, supporters rated the pro-deterrence study as methodologically stronger th
 
 Second, participants generated many more criticisms of studies that challenged their existing views than of studies that supported them.
 
-Third, instead of converging after seeing balanced evidence, both groups often became **more convinced** that their original position was correct. Exposure to mixed evidence therefore increased attitude polarisation rather than reducing disagreement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fbaum.unc.edu/teaching/articles/jpsp-1979-Lord-Ross-Lepper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbaum.unc.edu">[Frank Baumgartner+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbaum.unc.edu</span><span class="citation-popover-title">jpsp 1979 Lord Ross Lepper</span><span class="citation-popover-snippet">Frank BaumgartnerBiased Assimilation and Attitude Polarization: The Effects...by CG Lord · 1979 · Cited by 7332 — In the present experim...</span></span></span>
+Third, instead of converging after seeing balanced evidence, both groups often became **more convinced** that their original position was correct. Exposure to mixed evidence therefore increased attitude polarisation rather than reducing disagreement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fbaum.unc.edu/teaching/articles/jpsp-1979-Lord-Ross-Lepper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbaum.unc.edu">[Frank Baumgartner+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbaum.unc.edu</span><span class="citation-popover-title">jpsp 1979 Lord Ross Lepper</span><span class="citation-popover-snippet">Frank BaumgartnerBiased Assimilation and Attitude Polarization: The Effects...by CG Lord · 1979 · Cited by 7332 — In the present experim...</span></span></span>
 
 The importance of this experiment is not that it proves people never update their beliefs. Rather, it demonstrates that evaluating evidence is itself vulnerable to bias. If evidence quality is judged differently depending on whether the conclusion feels welcome, the appearance of objective reasoning can conceal a fundamentally uneven process.
 
@@ -348,7 +348,7 @@ If the second reaches the opposite conclusion, your thinking may shift automatic
 
 </div>
 
-Each criticism may be individually reasonable. The problem arises when comparable flaws in the supportive study receive little attention. The standard has silently changed depending on the result rather than the quality of the evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://compass.onlinelibrary.wiley.com/doi/10.1111/j.1751-9004.2009.00203.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: compass.onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">compass.onlinelibrary.wiley.com</span><span class="citation-popover-title">j.1751 9004.2009.00203.x</span><span class="citation-popover-snippet">Wiley Online LibraryBiased Assimilation: Effects of Assumptions and Expectations...23 Sept 2009 — Biased assimilation occurs when percep...</span></span></span>
+Each criticism may be individually reasonable. The problem arises when comparable flaws in the supportive study receive little attention. The standard has silently changed depending on the result rather than the quality of the evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://compass.onlinelibrary.wiley.com/doi/10.1111/j.1751-9004.2009.00203.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: compass.onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">compass.onlinelibrary.wiley.com</span><span class="citation-popover-title">j.1751 9004.2009.00203.x</span><span class="citation-popover-snippet">Wiley Online LibraryBiased Assimilation: Effects of Assumptions and Expectations...23 Sept 2009 — Biased assimilation occurs when percep...</span></span></span>
 
 This explains why intelligent people can honestly believe they are being highly critical while actually applying criticism selectively. The bias lies less in conscious dishonesty than in unequal cognitive effort.
 
@@ -356,9 +356,9 @@ This explains why intelligent people can honestly believe they are being highly 
 <img src="{{ "/assets/images/improving_your_think_da4710_evidence_standards_a40c69_mixed_evidence_bias_039c9f-Illustration-2-dark.svg" | relative_url }}" alt="Mixed Evidence illustration 2" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_evidence_standards_a40c69_mixed_evidence_bias_039c9f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_evidence_standards_a40c69_mixed_evidence_bias_039c9f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Later evidence: the pattern extends beyond one experiment
 
-The 1979 study became highly influential, but researchers have also debated how general its findings are. Some later work has found weaker or more variable attitude polarisation than the original experiment, suggesting that polarisation is not an inevitable outcome in every setting. Reviews have argued that factors such as issue importance, prior commitment and the way evidence is presented influence whether people become more divided or instead moderate their views.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/40062922" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">Effects of Evidence on Attitudes: Is Polarization the Norm?by D Kuhn · 1996 · Cited by 182 — Abstract-A 1979 study by Lord, Ross, an...</span></span></span>
+The 1979 study became highly influential, but researchers have also debated how general its findings are. Some later work has found weaker or more variable attitude polarisation than the original experiment, suggesting that polarisation is not an inevitable outcome in every setting. Reviews have argued that factors such as issue importance, prior commitment and the way evidence is presented influence whether people become more divided or instead moderate their views. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/40062922" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">Effects of Evidence on Attitudes: Is Polarization the Norm?by D Kuhn · 1996 · Cited by 182 — Abstract-A 1979 study by Lord, Ross, an...</span></span></span>
 
-Nevertheless, later research has repeatedly supported the broader phenomenon of biased evaluation. Studies on controversial topics have shown that believers and sceptics often rate identical evidence differently depending on whether it agrees with their expectations, and that confidence in one's position can increase even when the overall body of evidence remains mixed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3983102/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHow Biased Assimilation Increases the Perceived Gap</span><span class="citation-popover-snippet">by T Greitemeyer · 2014 · Cited by 56 — These results suggest that biased assimilation of new information leads believers and skeptics...</span></span></span>
+Nevertheless, later research has repeatedly supported the broader phenomenon of biased evaluation. Studies on controversial topics have shown that believers and sceptics often rate identical evidence differently depending on whether it agrees with their expectations, and that confidence in one's position can increase even when the overall body of evidence remains mixed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3983102/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHow Biased Assimilation Increases the Perceived Gap</span><span class="citation-popover-snippet">by T Greitemeyer · 2014 · Cited by 56 — These results suggest that biased assimilation of new information leads believers and skeptics...</span></span></span>
 
 This distinction matters. The strongest conclusion is not that mixed evidence always creates polarisation, but that prior beliefs often influence **how evidence is interpreted**, making objective evaluation more difficult than most people realise.
 
@@ -409,194 +409,194 @@ Improving thinking therefore depends less on finding perfectly unbiased evidence
 <img src="{{ "/assets/images/improving_your_think_da4710_evidence_standards_a40c69_mixed_evidence_bias_039c9f-Illustration-3-dark.svg" | relative_url }}" alt="Mixed Evidence illustration 3" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_evidence_standards_a40c69_mixed_evidence_bias_039c9f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_evidence_standards_a40c69_mixed_evidence_bias_039c9f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Mixed Evidence Can Make US More Certain. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Mixed Evidence Can Make Us More Certain. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
-</h4>
-<p class="fr-book-author">By Julia Galef</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
+        </h4>
+        <p class="fr-book-author">By Julia Galef</p>
         
-<p class="fr-book-desc">Directly addresses applying consistent evidential standards and avoiding motivated reasoning.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly addresses applying consistent evidential standards and avoiding motivated reasoning.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-</h4>
-<p class="fr-book-author">By Daniel Kahneman</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A1NYvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
+        </h4>
+        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-<p class="fr-book-desc">Explains confirmation bias, evidence evaluation, and the psychological mechanisms underlying biased assimilation.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explores self-justification, confirmation bias, and why people become more certain despite conflicting evidence.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A1NYvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
-</h4>
-<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+        </h4>
+        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+        <p class="fr-book-desc">Promotes consistent standards of evidence and critical evaluation of competing claims.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
+        </h4>
+        <p class="fr-book-author">By Rolf Dobelli</p>
         
-<p class="fr-book-desc">Explores self-justification, confirmation bias, and why people become more certain despite conflicting evidence.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Covers many reasoning errors that contribute to uneven evaluation of supporting and opposing evidence.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-</h4>
-<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-<p class="fr-book-desc">Promotes consistent standards of evidence and critical evaluation of competing claims.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scout Mindset</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me)</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scout Mindset</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me)</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking cards" data-ebay-reference="why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic street Preachers Critical Thinking With Signed Art Card"><img src="https://i.ebayimg.com/images/g/O9sAAeSwCgFnr3kR/s-l225.jpg" alt="Listing image for Manic street Preachers Critical Thinking With Signed Art Card" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking cards" data-ebay-reference="why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards" target="_blank" rel="sponsored noopener noreferrer">Manic street Preachers Critical Thinking With Signed Art Card</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking cards" data-ebay-reference="why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking cards">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking cards</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking cards" data-ebay-reference="why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking cards" data-ebay-reference="why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic street Preachers Critical Thinking With Signed Art Card"><img src="https://i.ebayimg.com/images/g/O9sAAeSwCgFnr3kR/s-l225.jpg" alt="Listing image for Manic street Preachers Critical Thinking With Signed Art Card" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking cards" data-ebay-reference="why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards" target="_blank" rel="sponsored noopener noreferrer">Manic street Preachers Critical Thinking With Signed Art Card</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking cards" data-ebay-reference="why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking cards</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking cards" data-ebay-reference="why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking cards" data-ebay-reference="why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Cards 24 Logical Fallacies 24 Cognitive Biases - NEW! Sealed"><img src="https://i.ebayimg.com/images/g/ckgAAeSwAdRqGx6B/s-l225.jpg" alt="Listing image for Critical Thinking Cards 24 Logical Fallacies 24 Cognitive Biases - NEW! Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking cards" data-ebay-reference="why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Cards 24 Logical Fallacies 24 Cognitive Biases - NEW! Sealed</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking cards" data-ebay-reference="why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking cards">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking cards</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking cards" data-ebay-reference="why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking cards" data-ebay-reference="why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Cards 24 Logical Fallacies 24 Cognitive Biases - NEW! Sealed"><img src="https://i.ebayimg.com/images/g/ckgAAeSwAdRqGx6B/s-l225.jpg" alt="Listing image for Critical Thinking Cards 24 Logical Fallacies 24 Cognitive Biases - NEW! Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking cards" data-ebay-reference="why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Cards 24 Logical Fallacies 24 Cognitive Biases - NEW! Sealed</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking cards" data-ebay-reference="why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking cards</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking cards" data-ebay-reference="why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking cards" data-ebay-reference="why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Guiness World Records Incredible Kids Critical Thinking Cards NEW SEALED"><img src="https://i.ebayimg.com/images/g/uH8AAOSwBpteZU~Y/s-l225.jpg" alt="Listing image for Guiness World Records Incredible Kids Critical Thinking Cards NEW SEALED" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking cards" data-ebay-reference="why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards" target="_blank" rel="sponsored noopener noreferrer">Guiness World Records Incredible Kids Critical Thinking Cards NEW SEALED</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking cards" data-ebay-reference="why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking cards">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking cards</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking cards" data-ebay-reference="why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking cards" data-ebay-reference="why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Guiness World Records Incredible Kids Critical Thinking Cards NEW SEALED"><img src="https://i.ebayimg.com/images/g/uH8AAOSwBpteZU~Y/s-l225.jpg" alt="Listing image for Guiness World Records Incredible Kids Critical Thinking Cards NEW SEALED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking cards" data-ebay-reference="why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards" target="_blank" rel="sponsored noopener noreferrer">Guiness World Records Incredible Kids Critical Thinking Cards NEW SEALED</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking cards" data-ebay-reference="why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking cards</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking cards" data-ebay-reference="why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking cards" data-ebay-reference="why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NEW Kitted Critical Thinking Tools Snares Deck 01 |58 Cards"><img src="https://i.ebayimg.com/images/g/pDUAAeSwg5tosGfC/s-l225.jpg" alt="Listing image for NEW Kitted Critical Thinking Tools Snares Deck 01 |58 Cards" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking cards" data-ebay-reference="why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards" target="_blank" rel="sponsored noopener noreferrer">NEW Kitted Critical Thinking Tools Snares Deck 01 |58 Cards</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking cards" data-ebay-reference="why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking cards">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking cards</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking cards" data-ebay-reference="why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking cards" data-ebay-reference="why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking cards" data-ebay-reference="why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NEW Kitted Critical Thinking Tools Snares Deck 01 |58 Cards"><img src="https://i.ebayimg.com/images/g/pDUAAeSwg5tosGfC/s-l225.jpg" alt="Listing image for NEW Kitted Critical Thinking Tools Snares Deck 01 |58 Cards" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking cards" data-ebay-reference="why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards" target="_blank" rel="sponsored noopener noreferrer">NEW Kitted Critical Thinking Tools Snares Deck 01 |58 Cards</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking cards" data-ebay-reference="why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking cards</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking cards" data-ebay-reference="why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking cards" data-ebay-reference="why-mixed-evidence-can-make-us-more-certain-critical-thinking-cards" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -612,7 +612,7 @@ Improving thinking therefore depends less on finding perfectly unbiased evidence
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -632,7 +632,7 @@ Improving thinking therefore depends less on finding perfectly unbiased evidence
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -664,7 +664,7 @@ Improving thinking therefore depends less on finding perfectly unbiased evidence
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -716,7 +716,7 @@ Improving thinking therefore depends less on finding perfectly unbiased evidence
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -761,7 +761,7 @@ Improving thinking therefore depends less on finding perfectly unbiased evidence
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -802,114 +802,114 @@ Improving thinking therefore depends less on finding perfectly unbiased evidence
 
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: compass.onlinelibrary.wiley.com  
    Title: j.1751 9004.2009.00203.x  
-   Link:<a href="https://compass.onlinelibrary.wiley.com/doi/10.1111/j.1751-9004.2009.00203.x" target="_blank" rel="noopener noreferrer nofollow">https://compass.onlinelibrary.wiley.com/doi/10.1111/j.1751-9004.2009.00203.x</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryBiased Assimilation: Effects of Assumptions and Expectations...23 Sept 2009 — Biased assimilation occurs when percep...</p></details>
+   Link: <a href="https://compass.onlinelibrary.wiley.com/doi/10.1111/j.1751-9004.2009.00203.x" target="_blank" rel="noopener noreferrer nofollow">https://compass.onlinelibrary.wiley.com/doi/10.1111/j.1751-9004.2009.00203.x</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryBiased Assimilation: Effects of Assumptions and Expectations...23 Sept 2009 — Biased assimilation occurs when percep...</p></details>
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCHumans actively sample evidence to support prior beliefs  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9038198/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9038198/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>by P Kaanders · 2022 · Cited by 68 — Confirmation bias is defined as the tendency of agents to seek out or overweight evidence that al...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9038198/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9038198/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by P Kaanders · 2022 · Cited by 68 — Confirmation bias is defined as the tendency of agents to seek out or overweight evidence that al...</p></details>
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/232555483_Biased_assimilation_and_attitude_polarization_The_effects_of_prior_theories_on_subsequently_considered_evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232555483_Biased_assimilation_and_attitude_polarization_The_effects_of_prior_theories_on_subsequently_considered_evidence</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Biased assimilation and attitude polarization: The effects of...Lord, Ross, and Lepper&#x27;s (1979) foundational study of biased...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/232555483_Biased_assimilation_and_attitude_polarization_The_effects_of_prior_theories_on_subsequently_considered_evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232555483_Biased_assimilation_and_attitude_polarization_The_effects_of_prior_theories_on_subsequently_considered_evidence</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Biased assimilation and attitude polarization: The effects of...Lord, Ross, and Lepper&#x27;s (1979) foundational study of biased...</p></details>
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: jstor.org  
-   Link:<a href="https://www.jstor.org/stable/40062922" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/40062922</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of Evidence on Attitudes: Is Polarization the Norm?by D Kuhn · 1996 · Cited by 182 — Abstract-A 1979 study by Lord, Ross, an...</p></details>
+   Link: <a href="https://www.jstor.org/stable/40062922" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/40062922</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of Evidence on Attitudes: Is Polarization the Norm?by D Kuhn · 1996 · Cited by 182 — Abstract-A 1979 study by Lord, Ross, an...</p></details>
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCHow Biased Assimilation Increases the Perceived Gap  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3983102/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3983102/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>by T Greitemeyer · 2014 · Cited by 56 — These results suggest that biased assimilation of new information leads believers and skeptics...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3983102/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3983102/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by T Greitemeyer · 2014 · Cited by 56 — These results suggest that biased assimilation of new information leads believers and skeptics...</p></details>
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/247689517_Biased_Assimilation_Effects_of_Assumptions_and_Expectations_on_the_Interpretation_of_New_Evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/247689517_Biased_Assimilation_Effects_of_Assumptions_and_Expectations_on_the_Interpretation_of_New_Evidence</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>way as to be assimilated into preexisting assumptions and expectations...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/247689517_Biased_Assimilation_Effects_of_Assumptions_and_Expectations_on_the_Interpretation_of_New_Evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/247689517_Biased_Assimilation_Effects_of_Assumptions_and_Expectations_on_the_Interpretation_of_New_Evidence</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>way as to be assimilated into preexisting assumptions and expectations...</p></details>
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: fbaum.unc.edu  
    Title: jpsp 1979 Lord Ross Lepper  
-   Link:<a href="https://fbaum.unc.edu/teaching/articles/jpsp-1979-Lord-Ross-Lepper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fbaum.unc.edu/teaching/articles/jpsp-1979-Lord-Ross-Lepper.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Frank BaumgartnerBiased Assimilation and Attitude Polarization: The Effects...by CG Lord · 1979 · Cited by 7332 — In the present experim...</p></details>
+   Link: <a href="https://fbaum.unc.edu/teaching/articles/jpsp-1979-Lord-Ross-Lepper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fbaum.unc.edu/teaching/articles/jpsp-1979-Lord-Ross-Lepper.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Frank BaumgartnerBiased Assimilation and Attitude Polarization: The Effects...by CG Lord · 1979 · Cited by 7332 — In the present experim...</p></details>
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: law.cornell.edu  
    Title: Legal Information Institutebiased assimilation | Wex  
-   Link:<a href="https://www.law.cornell.edu/wex/biased_assimilation" target="_blank" rel="noopener noreferrer nofollow">https://www.law.cornell.edu/wex/biased_assimilation</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>assimilation | Wex - Law.Cornell.EduBiased assimilation is the tendency to interpret information in a way that supports a desired conclus...</p></details>
+   Link: <a href="https://www.law.cornell.edu/wex/biased_assimilation" target="_blank" rel="noopener noreferrer nofollow">https://www.law.cornell.edu/wex/biased_assimilation</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>assimilation | Wex - Law.Cornell.EduBiased assimilation is the tendency to interpret information in a way that supports a desired conclus...</p></details>
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Confirmation bias  
-   Link:<a href="https://en.wikipedia.org/wiki/Confirmation_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Confirmation_bias</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Confirmation biasConfirmation bias is the tendency to search for, interpret, favor and recall information in a way that confirms or su...</p></details>
+   Link: <a href="https://en.wikipedia.org/wiki/Confirmation_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Confirmation_bias</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Confirmation biasConfirmation bias is the tendency to search for, interpret, favor and recall information in a way that confirms or su...</p></details>
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: bvanudgeconsulting.com  
    Title: confirmation bias  
-   Link:<a href="https://www.bvanudgeconsulting.com/bias-of-the-week/confirmation-bias/" target="_blank" rel="noopener noreferrer nofollow">https://www.bvanudgeconsulting.com/bias-of-the-week/confirmation-bias/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Lord, C. G., Ross, L., &amp;amp; Lepper, M. R. (1979). Biased assimilation and attitude polarization: The effects of prior theories on subseq...</p></details>
+   Link: <a href="https://www.bvanudgeconsulting.com/bias-of-the-week/confirmation-bias/" target="_blank" rel="noopener noreferrer nofollow">https://www.bvanudgeconsulting.com/bias-of-the-week/confirmation-bias/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lord, C. G., Ross, L., &amp;amp; Lepper, M. R. (1979). Biased assimilation and attitude polarization: The effects of prior theories on subseq...</p></details>
 
 ### Additional References
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: thedecisionlab.com  
-   Link:<a href="https://thedecisionlab.com/biases/confirmation-bias?adw=true&amp;gad_campaignid=12416110011&amp;gad_source=1&amp;gclid=Cj0KCQjwrJTGBhCbARIsANFBfgufBUlzke8kAJ1aphg8RjtY83eI7rcvenaOuU3kFLOq0-L6z2nwMWsaAi5OEALw_wcB&amp;hsa_acc=8441935193&amp;hsa_ad=500704987803&amp;hsa_cam=12416110011&amp;hsa_grp=121194112474&amp;hsa_kw=confirmation+bias&amp;hsa_mt=b&amp;hsa_net=adwords&amp;hsa_src=g&amp;hsa_tgt=kwd-468373051&amp;hsa_ver=3" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/confirmation-bias?adw=true&amp;gad_campaignid=12416110011&amp;gad_source=1&amp;gclid=Cj0KCQjwrJTGBhCbARIsANFBfgufBUlzke8kAJ1aphg8RjtY83eI7rcvenaOuU3kFLOq0-L6z2nwMWsaAi5OEALw_wcB&amp;hsa_acc=8441935193&amp;hsa_ad=500704987803&amp;hsa_cam=12416110011&amp;hsa_grp=121194112474&amp;hsa_kw=confirmation+bias&amp;hsa_mt=b&amp;hsa_net=adwords&amp;hsa_src=g&amp;hsa_tgt=kwd-468373051&amp;hsa_ver=3</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Confirmation BiasConfirmation bias describes our underlying tendency to notice, focus on, and give greater credence to evidence that alig...</p></details>
+   Link: <a href="https://thedecisionlab.com/biases/confirmation-bias?adw=true&amp;gad_campaignid=12416110011&amp;gad_source=1&amp;gclid=Cj0KCQjwrJTGBhCbARIsANFBfgufBUlzke8kAJ1aphg8RjtY83eI7rcvenaOuU3kFLOq0-L6z2nwMWsaAi5OEALw_wcB&amp;hsa_acc=8441935193&amp;hsa_ad=500704987803&amp;hsa_cam=12416110011&amp;hsa_grp=121194112474&amp;hsa_kw=confirmation+bias&amp;hsa_mt=b&amp;hsa_net=adwords&amp;hsa_src=g&amp;hsa_tgt=kwd-468373051&amp;hsa_ver=3" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/confirmation-bias?adw=true&amp;gad_campaignid=12416110011&amp;gad_source=1&amp;gclid=Cj0KCQjwrJTGBhCbARIsANFBfgufBUlzke8kAJ1aphg8RjtY83eI7rcvenaOuU3kFLOq0-L6z2nwMWsaAi5OEALw_wcB&amp;hsa_acc=8441935193&amp;hsa_ad=500704987803&amp;hsa_cam=12416110011&amp;hsa_grp=121194112474&amp;hsa_kw=confirmation+bias&amp;hsa_mt=b&amp;hsa_net=adwords&amp;hsa_src=g&amp;hsa_tgt=kwd-468373051&amp;hsa_ver=3</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Confirmation BiasConfirmation bias describes our underlying tendency to notice, focus on, and give greater credence to evidence that alig...</p></details>
 
-12.<a id="endnote-12"></a>
+12. <a id="endnote-12"></a>
    Source: karunapsychologicalservices.com  
-   Link:<a href="https://karunapsychologicalservices.com/confirmation-bias-relief/" target="_blank" rel="noopener noreferrer nofollow">https://karunapsychologicalservices.com/confirmation-bias-relief/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Confirmation Bias: Relieve Suffering Through AwarenessThe study demonstrated that the subjects in their experiment had a “biased assimila...</p></details>
+   Link: <a href="https://karunapsychologicalservices.com/confirmation-bias-relief/" target="_blank" rel="noopener noreferrer nofollow">https://karunapsychologicalservices.com/confirmation-bias-relief/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Confirmation Bias: Relieve Suffering Through AwarenessThe study demonstrated that the subjects in their experiment had a “biased assimila...</p></details>
 
-13.<a id="endnote-13"></a>
+13. <a id="endnote-13"></a>
    Source: scispace.com  
-   Link:<a href="https://scispace.com/pdf/a-theory-of-rational-attitude-polarization-42266r9opb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/a-theory-of-rational-attitude-polarization-42266r9opb.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>(1979) took two groups of subjects, one which believed in the deterrent effect of the death penalty and one which...Read more...</p></details>
+   Link: <a href="https://scispace.com/pdf/a-theory-of-rational-attitude-polarization-42266r9opb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/a-theory-of-rational-attitude-polarization-42266r9opb.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>(1979) took two groups of subjects, one which believed in the deterrent effect of the death penalty and one which...Read more...</p></details>
 
-14.<a id="endnote-14"></a>
+14. <a id="endnote-14"></a>
    Source: econ.tau.ac.il  
-   Link:<a href="https://econ.tau.ac.il/sites/economy.tau.ac.il/files/media_server/Economics/PDF/seminars2015/AttitudePolarizationFinal.pdf" target="_blank" rel="noopener noreferrer nofollow">https://econ.tau.ac.il/sites/economy.tau.ac.il/files/media_server/Economics/PDF/seminars2015/AttitudePolarizationFinal.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>(1979) took two groups of subjects, one which believed in the deterrent effect of the death penalty and one which...Read more...</p></details>
+   Link: <a href="https://econ.tau.ac.il/sites/economy.tau.ac.il/files/media_server/Economics/PDF/seminars2015/AttitudePolarizationFinal.pdf" target="_blank" rel="noopener noreferrer nofollow">https://econ.tau.ac.il/sites/economy.tau.ac.il/files/media_server/Economics/PDF/seminars2015/AttitudePolarizationFinal.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>(1979) took two groups of subjects, one which believed in the deterrent effect of the death penalty and one which...Read more...</p></details>
 
-15.<a id="endnote-15"></a>
+15. <a id="endnote-15"></a>
    Source: studocu.com  
-   Link:<a href="https://www.studocu.com/en-gb/document/university-college-london/introduction-to-psychology/jpsp-1979-lord-ross-lepper/21807450" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-gb/document/university-college-london/introduction-to-psychology/jpsp-1979-lord-ross-lepper/21807450</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Prior Theories on Subsequently Considered Evidence. Charles G. Lord, Lee Ross, and Mark R. Lepper.Read more...</p></details>
+   Link: <a href="https://www.studocu.com/en-gb/document/university-college-london/introduction-to-psychology/jpsp-1979-lord-ross-lepper/21807450" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-gb/document/university-college-london/introduction-to-psychology/jpsp-1979-lord-ross-lepper/21807450</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Prior Theories on Subsequently Considered Evidence. Charles G. Lord, Lee Ross, and Mark R. Lepper.Read more...</p></details>
 
-16.<a id="endnote-16"></a>
+16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: Cognitive biases in risk management  
-   Link:<a href="https://www.youtube.com/watch?v=P3GfC2mOgZI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P3GfC2mOgZI</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>This video by Arthur Schopenhauer explores the psychology of opinions, including Lord, Ross &amp; Lepper&#x27;s (1979) landmark study on biased as...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=P3GfC2mOgZI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P3GfC2mOgZI</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>This video by Arthur Schopenhauer explores the psychology of opinions, including Lord, Ross &amp; Lepper&#x27;s (1979) landmark study on biased as...</p></details>
 
-17.<a id="endnote-17"></a>
+17. <a id="endnote-17"></a>
    Source: aura.american.edu  
-   Link:<a href="https://aura.american.edu/articles/thesis/Consider_the_opposite_An_application_of_scientific_thinking_to_mitigate_assimilation_bias/23868252" target="_blank" rel="noopener noreferrer nofollow">https://aura.american.edu/articles/thesis/Consider_the_opposite_An_application_of_scientific_thinking_to_mitigate_assimilation_bias/23868252</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>the opposite: An application of scientific thinking...by DD Laughlin · 2001 · Cited by 1 — In 1979, Lord, Ross and Lepper identified a p...</p></details>
+   Link: <a href="https://aura.american.edu/articles/thesis/Consider_the_opposite_An_application_of_scientific_thinking_to_mitigate_assimilation_bias/23868252" target="_blank" rel="noopener noreferrer nofollow">https://aura.american.edu/articles/thesis/Consider_the_opposite_An_application_of_scientific_thinking_to_mitigate_assimilation_bias/23868252</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>the opposite: An application of scientific thinking...by DD Laughlin · 2001 · Cited by 1 — In 1979, Lord, Ross and Lepper identified a p...</p></details>
 
-18.<a id="endnote-18"></a>
+18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link:<a href="https://www.youtube.com/watch?v=cdxC_Ysy65s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cdxC_Ysy65s</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Yuan Chang Leong, PhD: An integrative view of motivated cognition...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=cdxC_Ysy65s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cdxC_Ysy65s</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Yuan Chang Leong, PhD: An integrative view of motivated cognition...</p></details>
 
-19.<a id="endnote-19"></a>
+19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Yuan Chang Leong, Ph D: An integrative view of motivated cognition  
-   Link:<a href="https://www.youtube.com/watch?v=Kz-_lqCa8oc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Kz-_lqCa8oc</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive biases in risk management - Confirmation bias - Alex Sidorenko...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=Kz-_lqCa8oc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Kz-_lqCa8oc</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive biases in risk management - Confirmation bias - Alex Sidorenko...</p></details>
 
-20.<a id="endnote-20"></a>
+20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Why Most People's Opinions Are Worthless — Arthur Schopenhauer  
-   Link:<a href="https://www.youtube.com/watch?v=WVHii535zb4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WVHii535zb4</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Why &quot;scout mindset&quot; is crucial to [good judgment](&amp;#123;&amp;#123; &#x27;good-judgment/&#x27; | relative_url &amp;#125;&amp;#125;) | Julia Galef | TEDxPSU...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=WVHii535zb4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WVHii535zb4</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why &quot;scout mindset&quot; is crucial to [good judgment](&amp;#123;&amp;#123; &#x27;good-judgment/&#x27; | relative_url &amp;#125;&amp;#125;) | Julia Galef | TEDxPSU...</p></details>

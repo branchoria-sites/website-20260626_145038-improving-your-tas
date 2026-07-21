@@ -290,7 +290,7 @@ This distinction helps avoid two common mistakes. The first is accepting claims 
 
 People often use credentials as a shortcut for judging reliability. This is understandable because expertise usually does increase the chances of being right. However, expertise is **domain-specific**, not universal.
 
-A person may have extensive training, years of experience and an impressive reputation while still lacking the knowledge needed for a different subject. Accepting a claim solely because it comes from a respected figure outside the relevant field is a classic form of misplaced authority. Logic texts describe this as an appeal to an unqualified authority rather than a legitimate use of expert testimony.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.co.uk/fallacy/the-appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.co.uk">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.co.uk</span><span class="citation-popover-title">Scribbr Appeal to Authority Fallacy &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">Appeal to Authority Fallacy &#124; Definition &amp; Examples - ScribbrJune 16, 2023 — 16 Jun 2023 — Appeal to authority fallacy occurs when...</span><span class="citation-popover-meta">Published: June 16, 2023</span></span></span>
+A person may have extensive training, years of experience and an impressive reputation while still lacking the knowledge needed for a different subject. Accepting a claim solely because it comes from a respected figure outside the relevant field is a classic form of misplaced authority. Logic texts describe this as an appeal to an unqualified authority rather than a legitimate use of expert testimony. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.co.uk/fallacy/the-appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.co.uk">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.co.uk</span><span class="citation-popover-title">Scribbr Appeal to Authority Fallacy &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">Appeal to Authority Fallacy &#124; Definition &amp; Examples - ScribbrJune 16, 2023 — 16 Jun 2023 — Appeal to authority fallacy occurs when...</span><span class="citation-popover-meta">Published: June 16, 2023</span></span></span>
 
 Instead of asking:
 
@@ -414,7 +414,7 @@ Relevant experts can still:
 
 </div>
 
-For that reason, expertise should be treated as one part of source evaluation rather than the final answer. Good analysis also considers the quality of evidence, transparency about methods, acknowledgement of uncertainty and whether other independent experts working in the same field reach similar conclusions. Journalism guidance similarly emphasises evaluating whether a source is genuinely in a position to know while recognising that reporters must still judge credibility, evidence and accountability rather than relying on credentials alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://reutersinstitute.politics.ox.ac.uk/new-vocabulary-journalisms-growing-problem-expertise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersinstitute.politics.ox.ac.uk">[reutersinstitute.politics.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersinstitute.politics.ox.ac.uk</span><span class="citation-popover-title">new vocabulary journalisms growing problem expertise</span><span class="citation-popover-snippet">A new vocabulary for journalism&#x27;s growing problem with...20 Jan 2026 — Journalists are structurally epistemically inferior to the expert...</span></span></span>
+For that reason, expertise should be treated as one part of source evaluation rather than the final answer. Good analysis also considers the quality of evidence, transparency about methods, acknowledgement of uncertainty and whether other independent experts working in the same field reach similar conclusions. Journalism guidance similarly emphasises evaluating whether a source is genuinely in a position to know while recognising that reporters must still judge credibility, evidence and accountability rather than relying on credentials alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://reutersinstitute.politics.ox.ac.uk/new-vocabulary-journalisms-growing-problem-expertise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersinstitute.politics.ox.ac.uk">[reutersinstitute.politics.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersinstitute.politics.ox.ac.uk</span><span class="citation-popover-title">new vocabulary journalisms growing problem expertise</span><span class="citation-popover-snippet">A new vocabulary for journalism&#x27;s growing problem with...20 Jan 2026 — Journalists are structurally epistemically inferior to the expert...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_mEfVIftnR0" title="Appeal to Unqualified Authority (Logical Fallacy)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_mEfVIftnR0" target="_blank" rel="noopener noreferrer">Appeal to Unqualified Authority (Logical Fallacy)</a></p><p class="youtube-embed-meta">Channel: Carneades.org</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_mEfVIftnR0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_mEfVIftnR0">Open on YouTube</a></p></div></div></div>
@@ -437,194 +437,194 @@ When evaluating an expert source, work through these questions in order:
 This approach keeps attention on the connection between the source and the claim instead of being distracted by reputation alone. The result is a more reliable way of judging information—one that values the **right expertise**, not simply the most impressive-looking expert.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to The Wrong Expert Can Still Sound Right. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to The Wrong Expert Can Still Sound Right. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Death+of+Expertise+by+Tom+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Death of Expertise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-KP_DQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Death of Expertise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Death+of+Expertise+by+Tom+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Death of Expertise">The Death of Expertise</a>
-</h4>
-<p class="fr-book-author">By Tom Nichols</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Death+of+Expertise+Tom+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Death of Expertise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-KP_DQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Death of Expertise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Death+of+Expertise+Tom+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Death of Expertise">The Death of Expertise</a>
+        </h4>
+        <p class="fr-book-author">By Tom Nichols</p>
         
-<p class="fr-book-desc">Directly addresses misuse, dismissal, and misunderstanding of expertise in public reasoning.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Death+of+Expertise+by+Tom+Nichols&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly addresses misuse, dismissal, and misunderstanding of expertise in public reasoning.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Death+of+Expertise+Tom+Nichols&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-</h4>
-<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-<p class="fr-book-desc">Promotes evidence-based reasoning, source scrutiny, and intellectual humility.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rw-PEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
-</h4>
-<p class="fr-book-author">By Philip E. Tetlock, Dan Gardner</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y-bvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+        </h4>
+        <p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
         
-<p class="fr-book-desc">Explains how to evaluate judgement quality rather than relying on status or confident credentials.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Helps readers test whether impressive claims are supported by evidence and relevant competence.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Expert+Political+Judgment+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Expert Political Judgment on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=pXGYDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Expert Political Judgment" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Expert+Political+Judgment+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Expert Political Judgment">Expert Political Judgment</a>
-</h4>
-<p class="fr-book-author">By Philip E. Tetlock</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
+        </h4>
+        <p class="fr-book-author">By Julia Galef</p>
         
-<p class="fr-book-desc">Shows that expert judgement depends on domain fit, methods, feedback, and intellectual style.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Expert+Political+Judgment+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Encourages judging claims by evidence and fit rather than prestige, identity, or comfort.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Death+of+Expertise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Death of Expertise</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Expert+Political+Judgment+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Expert Political Judgment on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=pXGYDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Expert Political Judgment" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Expert+Political+Judgment+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Expert Political Judgment">Expert Political Judgment</a>
+        </h4>
+        <p class="fr-book-author">By Philip E. Tetlock</p>
+        
+        <p class="fr-book-desc">Shows that expert judgement depends on domain fit, methods, feedback, and intellectual style.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Expert+Political+Judgment+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Death+of+Expertise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Death of Expertise</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scout Mindset</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="still poster -book -books -dvd" data-ebay-reference="the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Iconic Horror Movie Posters Classic Scary Film Cinema Wall Art Poster Prints"><img src="https://i.ebayimg.com/images/g/yE4AAOSwnpxnP3Mh/s-l225.jpg" alt="Listing image for Iconic Horror Movie Posters Classic Scary Film Cinema Wall Art Poster Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="still poster -book -books -dvd" data-ebay-reference="the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Iconic Horror Movie Posters Classic Scary Film Cinema Wall Art Poster Prints</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="still poster -book -books -dvd" data-ebay-reference="the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for still poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: still poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="still poster -book -books -dvd" data-ebay-reference="the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="still poster -book -books -dvd" data-ebay-reference="the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Iconic Horror Movie Posters Classic Scary Film Cinema Wall Art Poster Prints"><img src="https://i.ebayimg.com/images/g/yE4AAOSwnpxnP3Mh/s-l225.jpg" alt="Listing image for Iconic Horror Movie Posters Classic Scary Film Cinema Wall Art Poster Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="still poster -book -books -dvd" data-ebay-reference="the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Iconic Horror Movie Posters Classic Scary Film Cinema Wall Art Poster Prints</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="still poster -book -books -dvd" data-ebay-reference="the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for still poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: still poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="still poster -book -books -dvd" data-ebay-reference="the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="still poster -book -books -dvd" data-ebay-reference="the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ICONIC HORROR MOVIE POSTERS CLASSIC SCARY FILM CINEMA WALL ART POSTER PRINTS"><img src="https://i.ebayimg.com/images/g/sPYAAeSwx-5pi1Jl/s-l225.jpg" alt="Listing image for ICONIC HORROR MOVIE POSTERS CLASSIC SCARY FILM CINEMA WALL ART POSTER PRINTS" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="still poster -book -books -dvd" data-ebay-reference="the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">ICONIC HORROR MOVIE POSTERS CLASSIC SCARY FILM CINEMA WALL ART POSTER PRINTS</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="still poster -book -books -dvd" data-ebay-reference="the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for still poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: still poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="still poster -book -books -dvd" data-ebay-reference="the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="still poster -book -books -dvd" data-ebay-reference="the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ICONIC HORROR MOVIE POSTERS CLASSIC SCARY FILM CINEMA WALL ART POSTER PRINTS"><img src="https://i.ebayimg.com/images/g/sPYAAeSwx-5pi1Jl/s-l225.jpg" alt="Listing image for ICONIC HORROR MOVIE POSTERS CLASSIC SCARY FILM CINEMA WALL ART POSTER PRINTS" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="still poster -book -books -dvd" data-ebay-reference="the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">ICONIC HORROR MOVIE POSTERS CLASSIC SCARY FILM CINEMA WALL ART POSTER PRINTS</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="still poster -book -books -dvd" data-ebay-reference="the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for still poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: still poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="still poster -book -books -dvd" data-ebay-reference="the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="still poster -book -books -dvd" data-ebay-reference="the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &quot;you&#x27;re still up?&quot; Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/li8AAeSwvsRp2SG0/s-l225.jpg" alt="Listing image for &quot;you&#x27;re still up?&quot; Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="still poster -book -books -dvd" data-ebay-reference="the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">&quot;you&#x27;re still up?&quot; Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="still poster -book -books -dvd" data-ebay-reference="the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for still poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: still poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="still poster -book -books -dvd" data-ebay-reference="the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="still poster -book -books -dvd" data-ebay-reference="the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &quot;you&#x27;re still up?&quot; Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/li8AAeSwvsRp2SG0/s-l225.jpg" alt="Listing image for &quot;you&#x27;re still up?&quot; Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="still poster -book -books -dvd" data-ebay-reference="the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">&quot;you&#x27;re still up?&quot; Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="still poster -book -books -dvd" data-ebay-reference="the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for still poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: still poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="still poster -book -books -dvd" data-ebay-reference="the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="still poster -book -books -dvd" data-ebay-reference="the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Collier Vanitas Still Life Crown Gold Painting Canvas Wall Art Print Poster"><img src="https://i.ebayimg.com/images/g/fQ8AAOSwatdnR4lj/s-l225.jpg" alt="Listing image for Collier Vanitas Still Life Crown Gold Painting Canvas Wall Art Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="still poster -book -books -dvd" data-ebay-reference="the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Collier Vanitas Still Life Crown Gold Painting Canvas Wall Art Print Poster</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="still poster -book -books -dvd" data-ebay-reference="the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for still poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: still poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="still poster -book -books -dvd" data-ebay-reference="the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="still poster -book -books -dvd" data-ebay-reference="the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="still poster -book -books -dvd" data-ebay-reference="the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Collier Vanitas Still Life Crown Gold Painting Canvas Wall Art Print Poster"><img src="https://i.ebayimg.com/images/g/fQ8AAOSwatdnR4lj/s-l225.jpg" alt="Listing image for Collier Vanitas Still Life Crown Gold Painting Canvas Wall Art Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="still poster -book -books -dvd" data-ebay-reference="the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Collier Vanitas Still Life Crown Gold Painting Canvas Wall Art Print Poster</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="still poster -book -books -dvd" data-ebay-reference="the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for still poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: still poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="still poster -book -books -dvd" data-ebay-reference="the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="still poster -book -books -dvd" data-ebay-reference="the-wrong-expert-can-still-sound-right-still-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -640,7 +640,7 @@ This approach keeps attention on the connection between the source and the claim
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -660,7 +660,7 @@ This approach keeps attention on the connection between the source and the claim
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -692,7 +692,7 @@ This approach keeps attention on the connection between the source and the claim
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -744,7 +744,7 @@ This approach keeps attention on the connection between the source and the claim
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -789,7 +789,7 @@ This approach keeps attention on the connection between the source and the claim
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -829,73 +829,73 @@ This approach keeps attention on the connection between the source and the claim
 </section>
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: scribbr.co.uk  
    Title: Scribbr Appeal to Authority Fallacy | Definition & Examples  
-   Link:<a href="https://www.scribbr.co.uk/fallacy/the-appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/fallacy/the-appeal-to-authority-fallacy/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Authority Fallacy | Definition &amp; Examples - ScribbrJune 16, 2023 — 16 Jun 2023 — Appeal to authority fallacy occurs when...</p></details>
+   Link: <a href="https://www.scribbr.co.uk/fallacy/the-appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/fallacy/the-appeal-to-authority-fallacy/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Authority Fallacy | Definition &amp; Examples - ScribbrJune 16, 2023 — 16 Jun 2023 — Appeal to authority fallacy occurs when...</p></details>
    Published: June 16, 2023  
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
    Title: new vocabulary journalisms growing problem expertise  
-   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/new-vocabulary-journalisms-growing-problem-expertise" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/new-vocabulary-journalisms-growing-problem-expertise</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>A new vocabulary for journalism&#x27;s growing problem with...20 Jan 2026 — Journalists are structurally epistemically inferior to the expert...</p></details>
+   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/new-vocabulary-journalisms-growing-problem-expertise" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/new-vocabulary-journalisms-growing-problem-expertise</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A new vocabulary for journalism&#x27;s growing problem with...20 Jan 2026 — Journalists are structurally epistemically inferior to the expert...</p></details>
 
 ### Additional References
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: thinkingispower.com  
-   Link:<a href="https://thinkingispower.com/logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://thinkingispower.com/logical-fallacies/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Guide to the Most Common Logical FallaciesLogical fallacies are flaws in reasoning that weaken or invalidate an argument. Learning how to...</p></details>
+   Link: <a href="https://thinkingispower.com/logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://thinkingispower.com/logical-fallacies/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Guide to the Most Common Logical FallaciesLogical fallacies are flaws in reasoning that weaken or invalidate an argument. Learning how to...</p></details>
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: yourlogicalfallacyis.com  
-   Link:<a href="https://yourlogicalfallacyis.com/appeal-to-authority" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/appeal-to-authority</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Your logical fallacy is appeal to authorityAppeals to authority are not valid arguments, but nor is it reasonable to disregard the claims...</p></details>
+   Link: <a href="https://yourlogicalfallacyis.com/appeal-to-authority" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/appeal-to-authority</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Your logical fallacy is appeal to authorityAppeals to authority are not valid arguments, but nor is it reasonable to disregard the claims...</p></details>
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: yourlocalepidemiologist.substack.com  
-   Link:<a href="https://yourlocalepidemiologist.substack.com/p/5-more-logical-fallacies-in-the-era" target="_blank" rel="noopener noreferrer nofollow">https://yourlocalepidemiologist.substack.com/p/5-more-logical-fallacies-in-the-era</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>substack.com5 (more) logical fallacies in the era of RFK Jr.The appeal to authority fallacy says that authority figures (experts) are alw...</p></details>
+   Link: <a href="https://yourlocalepidemiologist.substack.com/p/5-more-logical-fallacies-in-the-era" target="_blank" rel="noopener noreferrer nofollow">https://yourlocalepidemiologist.substack.com/p/5-more-logical-fallacies-in-the-era</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>substack.com5 (more) logical fallacies in the era of RFK Jr.The appeal to authority fallacy says that authority figures (experts) are alw...</p></details>
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: facebook.com  
    Title: Why some people think our chart is from Harvard (it's not)  
-   Link:<a href="https://www.facebook.com/adfontesmedia/posts/why-some-people-think-our-chart-is-from-harvard-its-not-and-what-that-can-teach-/1225779949570420/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/adfontesmedia/posts/why-some-people-think-our-chart-is-from-harvard-its-not-and-what-that-can-teach-/1225779949570420/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>citing an authority&#x27;s expertise to support a claim isn&#x27;t a logical fallacy. These are known as legitimate appeals to authority. The post...</p></details>
+   Link: <a href="https://www.facebook.com/adfontesmedia/posts/why-some-people-think-our-chart-is-from-harvard-its-not-and-what-that-can-teach-/1225779949570420/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/adfontesmedia/posts/why-some-people-think-our-chart-is-from-harvard-its-not-and-what-that-can-teach-/1225779949570420/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>citing an authority&#x27;s expertise to support a claim isn&#x27;t a logical fallacy. These are known as legitimate appeals to authority. The post...</p></details>
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Argument from authority  
-   Link:<a href="https://en.wikipedia.org/wiki/Argument_from_authority" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Argument_from_authority</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Argument from authorityAn argument from authority is a form of argument in which the opinion of an authority figure (or figures) is us...</p></details>
+   Link: <a href="https://en.wikipedia.org/wiki/Argument_from_authority" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Argument_from_authority</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Argument from authorityAn argument from authority is a form of argument in which the opinion of an authority figure (or figures) is us...</p></details>
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: read.aupress.ca  
    Title: Chapter 16  
-   Link:<a href="https://read.aupress.ca/read/critical-thinking-logic-and-argument/section/37569f83-38fb-40e0-9575-ede2c97e5753" target="_blank" rel="noopener noreferrer nofollow">https://read.aupress.ca/read/critical-thinking-logic-and-argument/section/37569f83-38fb-40e0-9575-ede2c97e5753</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacies of Expertise | Critical Thinking, Logic...The appeal to authority is a fallacy where we take something as fact just because an...</p></details>
+   Link: <a href="https://read.aupress.ca/read/critical-thinking-logic-and-argument/section/37569f83-38fb-40e0-9575-ede2c97e5753" target="_blank" rel="noopener noreferrer nofollow">https://read.aupress.ca/read/critical-thinking-logic-and-argument/section/37569f83-38fb-40e0-9575-ede2c97e5753</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacies of Expertise | Critical Thinking, Logic...The appeal to authority is a fallacy where we take something as fact just because an...</p></details>
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: Critical Thinking: The Fallacy of Argument From Authority  
-   Link:<a href="https://www.youtube.com/watch?v=RsbG04ki2iA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RsbG04ki2iA</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Unqualified Authority (Logical Fallacy)...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=RsbG04ki2iA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RsbG04ki2iA</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Unqualified Authority (Logical Fallacy)...</p></details>
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: Ballantyne: Epistemic Trespassing  
-   Link:<a href="https://www.youtube.com/watch?v=cvTnw6nu4rs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cvTnw6nu4rs</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating Sources: Understanding Authority...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=cvTnw6nu4rs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cvTnw6nu4rs</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating Sources: Understanding Authority...</p></details>
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: Appeal to Unqualified Authority (Logical Fallacy)  
-   Link:<a href="https://www.youtube.com/watch?v=_mEfVIftnR0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_mEfVIftnR0</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Ballantyne: Epistemic Trespassing...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=_mEfVIftnR0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_mEfVIftnR0</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ballantyne: Epistemic Trespassing...</p></details>
 
-12.<a id="endnote-12"></a>
+12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: Evaluating Sources: Understanding Authority  
-   Link:<a href="https://www.youtube.com/watch?v=1WddY_ppllM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1WddY_ppllM</a>  
+   Link: <a href="https://www.youtube.com/watch?v=1WddY_ppllM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1WddY_ppllM</a>  

@@ -274,7 +274,7 @@ image: /assets/images/improving_your_think_da4710_question_design_1265c2_right_c
 
 ## Introduction
 
-Good thinking begins before you search for evidence. One of the most common mistakes is asking whether something is "good", "worth it", or "effective" without first deciding what it is supposed to be better than. Evidence only becomes meaningful against a comparison. A study showing that a new method improves performance tells you little if the real alternative is another method that performs even better, costs less, or carries fewer risks. Defining the comparison before searching prevents wasted effort, reduces misleading conclusions, and makes it much easier to recognise genuinely relevant evidence. This is why evidence-based research frameworks such as [PICO]({{ 'pico/' | relative_url }}) explicitly require a comparator rather than treating it as an optional detail.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-02" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochrane.org">[Cochrane+2Innovation Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochrane.org</span><span class="citation-popover-snippet">Chapter 2: Determining the scope of the review and...The review PICO defines the broad scope of the review, and the PICO for com...</span></span></span>
+Good thinking begins before you search for evidence. One of the most common mistakes is asking whether something is "good", "worth it", or "effective" without first deciding what it is supposed to be better than. Evidence only becomes meaningful against a comparison. A study showing that a new method improves performance tells you little if the real alternative is another method that performs even better, costs less, or carries fewer risks. Defining the comparison before searching prevents wasted effort, reduces misleading conclusions, and makes it much easier to recognise genuinely relevant evidence. This is why evidence-based research frameworks such as [PICO]({{ 'pico/' | relative_url }}) explicitly require a comparator rather than treating it as an optional detail. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-02" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochrane.org">[Cochrane+2Innovation Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochrane.org</span><span class="citation-popover-snippet">Chapter 2: Determining the scope of the review and...The review PICO defines the broad scope of the review, and the PICO for com...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_question_design_1265c2_right_comparison_bef_2f5f47-Illustration-1-dark.svg" | relative_url }}" alt="Comparisons illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_question_design_1265c2_right_comparison_bef_2f5f47-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_question_design_1265c2_right_comparison_bef_2f5f47-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -293,7 +293,7 @@ Many everyday questions hide an unstated comparison.
 
 These questions appear simple but actually contain several different decision problems. Searching before identifying the live alternative often produces evidence that answers a different question from the one you actually face.
 
-This is why systematic review methods insist on defining the comparator before searching the literature. The comparison determines which evidence is relevant and which studies should be excluded. Without that discipline, researchers risk combining findings that answer different questions entirely.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-02" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochrane.org">[Cochrane+2Innovation Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochrane.org</span><span class="citation-popover-snippet">Chapter 2: Determining the scope of the review and...The review PICO defines the broad scope of the review, and the PICO for com...</span></span></span>
+This is why systematic review methods insist on defining the comparator before searching the literature. The comparison determines which evidence is relevant and which studies should be excluded. Without that discipline, researchers risk combining findings that answer different questions entirely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-02" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochrane.org">[Cochrane+2Innovation Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochrane.org</span><span class="citation-popover-snippet">Chapter 2: Determining the scope of the review and...The review PICO defines the broad scope of the review, and the PICO for com...</span></span></span>
 
 ## Why Isolated Pros and Cons Mislead
 
@@ -342,7 +342,7 @@ A practical way to uncover the real comparison is to ask:
 
 These questions narrow attention to decisions that are genuinely available rather than hypothetical ideals.
 
-Evidence-based search frameworks formalise this idea. In the PICO structure, the comparator is intended to represent current practice, another intervention or another realistic option, ensuring that searches retrieve studies capable of answering the actual decision rather than a loosely related one.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://innovation.nhs.uk/innovation-guides/evidence/population-intervention-comparator-and-outcomes-framework/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: innovation.nhs.uk">[Innovation Service+2NCCMT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">innovation.nhs.uk</span><span class="citation-popover-snippet">Innovation ServiceThe population, intervention, comparator and outcomes...The population, intervention, comparator and outcomes (PICO) f...</span></span></span>
+Evidence-based search frameworks formalise this idea. In the PICO structure, the comparator is intended to represent current practice, another intervention or another realistic option, ensuring that searches retrieve studies capable of answering the actual decision rather than a loosely related one. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://innovation.nhs.uk/innovation-guides/evidence/population-intervention-comparator-and-outcomes-framework/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: innovation.nhs.uk">[Innovation Service+2NCCMT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">innovation.nhs.uk</span><span class="citation-popover-snippet">Innovation ServiceThe population, intervention, comparator and outcomes...The population, intervention, comparator and outcomes (PICO) f...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_question_design_1265c2_right_comparison_bef_2f5f47-Illustration-2-dark.svg" | relative_url }}" alt="Comparisons illustration 2" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_question_design_1265c2_right_comparison_bef_2f5f47-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_question_design_1265c2_right_comparison_bef_2f5f47-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -381,7 +381,7 @@ If instead you ask:
 
 The search becomes dramatically more focused because the comparator has been specified.
 
-Research on question formulation consistently shows that structured questions improve the relevance and precision of evidence [retrieval]({{ 'retrieval/' | relative_url }}) by making the search strategy more specific. The comparator is a central part of that improvement because it limits the search to evidence capable of distinguishing between genuine alternatives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6148624/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2NCCMT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The impact of patient, intervention, comparison, outcome...by MB Eriksen · 2018 · Cited by 1699 — This review aimed to determine if t...</span></span></span>
+Research on question formulation consistently shows that structured questions improve the relevance and precision of evidence [retrieval]({{ 'retrieval/' | relative_url }}) by making the search strategy more specific. The comparator is a central part of that improvement because it limits the search to evidence capable of distinguishing between genuine alternatives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6148624/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2NCCMT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The impact of patient, intervention, comparison, outcome...by MB Eriksen · 2018 · Cited by 1699 — This review aimed to determine if t...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_question_design_1265c2_right_comparison_bef_2f5f47-Illustration-3-dark.svg" | relative_url }}" alt="Comparisons illustration 3" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_question_design_1265c2_right_comparison_bef_2f5f47-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_question_design_1265c2_right_comparison_bef_2f5f47-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -395,7 +395,7 @@ A business deciding whether to automate a process may compare automation with cu
 
 The key is to make the comparison explicit rather than leaving it hidden.
 
-At the same time, structured frameworks such as PICO should be treated as thinking aids rather than rigid rules. Reviews of its use in evidence-based practice note that while the comparator is valuable for clarifying questions and improving searches, no single framework captures every type of inquiry equally well. Critical judgement remains necessary when defining meaningful alternatives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/354318815_PICO_What_it_is_and_what_it_is_not" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2jmla.pitt.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) PICO: What it is and what it is not</span><span class="citation-popover-snippet">ResearchGate(PDF) PICO: What it is and what it is notSeptember 1, 2021 — Aim To assess the role and effectiveness of the mnemonic PICO (P...</span><span class="citation-popover-meta">Published: September 1, 2021</span></span></span>
+At the same time, structured frameworks such as PICO should be treated as thinking aids rather than rigid rules. Reviews of its use in evidence-based practice note that while the comparator is valuable for clarifying questions and improving searches, no single framework captures every type of inquiry equally well. Critical judgement remains necessary when defining meaningful alternatives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/354318815_PICO_What_it_is_and_what_it_is_not" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2jmla.pitt.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) PICO: What it is and what it is not</span><span class="citation-popover-snippet">ResearchGate(PDF) PICO: What it is and what it is notSeptember 1, 2021 — Aim To assess the role and effectiveness of the mnemonic PICO (P...</span><span class="citation-popover-meta">Published: September 1, 2021</span></span></span>
 
 ## A Simple Test Before You Search
 
@@ -412,194 +412,194 @@ Making the comparison visible transforms vague curiosity into a decision that ev
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to What Are You Really Comparing?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to What Are You Really Comparing?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decisive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQmv39K-P54C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Decisive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decisive">Decisive</a>
-</h4>
-<p class="fr-book-author">By Chip Heath, Dan Heath</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Decisive+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decisive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQmv39K-P54C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Decisive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Decisive+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decisive">Decisive</a>
+        </h4>
+        <p class="fr-book-author">By Chip Heath, Dan Heath</p>
         
-<p class="fr-book-desc">Focuses on expanding options and avoiding narrow comparisons in decision-making.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Focuses on expanding options and avoiding narrow comparisons in decision-making.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Decisive+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-</h4>
-<p class="fr-book-author">By Daniel Kahneman</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Super+Thinking+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Super Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fi6qvAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Super Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Super+Thinking+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Super Thinking">Super Thinking</a>
+        </h4>
+        <p class="fr-book-author">By Gabriel Weinberg, Lauren McCann</p>
         
-<p class="fr-book-desc">Explains common comparison errors, cognitive biases, and better decision processes.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Helps readers frame decisions by identifying appropriate alternatives and comparisons.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Super+Thinking+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Super+Thinking+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Super Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fi6qvAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Super Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Super+Thinking+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Super Thinking">Super Thinking</a>
-</h4>
-<p class="fr-book-author">By Gabriel Weinberg, Lauren McCann</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Smart+Choices+John+S.+Hammond&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Smart Choices on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OlpkCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Smart Choices" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Smart+Choices+John+S.+Hammond&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Smart Choices">Smart Choices</a>
+        </h4>
+        <p class="fr-book-author">By John S. Hammond, Ralph L. Keeney et al.</p>
         
-<p class="fr-book-desc">Helps readers frame decisions by identifying appropriate alternatives and comparisons.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Super+Thinking+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides structured methods for defining alternatives before evaluating evidence.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Smart+Choices+John+S.+Hammond&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Smart+Choices+by+John+S.+Hammond&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Smart Choices on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OlpkCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Smart Choices" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Smart+Choices+by+John+S.+Hammond&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Smart Choices">Smart Choices</a>
-</h4>
-<p class="fr-book-author">By John S. Hammond, Ralph L. Keeney et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
+        </h4>
+        <p class="fr-book-author">By Rolf Dobelli</p>
         
-<p class="fr-book-desc">Provides structured methods for defining alternatives before evaluating evidence.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Smart+Choices+by+John+S.+Hammond&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Covers thinking traps that arise when people make poor or incomplete comparisons.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Decisive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Decisive</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Super+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Super Thinking</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Decisive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Decisive</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Super+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Super Thinking</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Smart+Choices&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Smart Choices</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=really+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-comparing-really-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really poster -book -books -dvd" data-ebay-reference="what-are-you-really-comparing-really-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Really living Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/qWAAAeSwsotp2SId/s-l225.jpg" alt="Listing image for Really living Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=really+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-comparing-really-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really poster -book -books -dvd" data-ebay-reference="what-are-you-really-comparing-really-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Really living Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=really+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-comparing-really-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really poster -book -books -dvd" data-ebay-reference="what-are-you-really-comparing-really-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for really poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: really poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=really+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-comparing-really-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really poster -book -books -dvd" data-ebay-reference="what-are-you-really-comparing-really-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=really+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-comparing-really-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really poster -book -books -dvd" data-ebay-reference="what-are-you-really-comparing-really-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Really living Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/qWAAAeSwsotp2SId/s-l225.jpg" alt="Listing image for Really living Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=really+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-comparing-really-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really poster -book -books -dvd" data-ebay-reference="what-are-you-really-comparing-really-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Really living Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=really+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-comparing-really-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really poster -book -books -dvd" data-ebay-reference="what-are-you-really-comparing-really-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for really poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: really poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=really+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-comparing-really-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really poster -book -books -dvd" data-ebay-reference="what-are-you-really-comparing-really-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=really+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-comparing-really-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really poster -book -books -dvd" data-ebay-reference="what-are-you-really-comparing-really-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Really Feet V Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/qbQAAeSw8K9p2SLP/s-l225.jpg" alt="Listing image for Really Feet V Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=really+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-comparing-really-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really poster -book -books -dvd" data-ebay-reference="what-are-you-really-comparing-really-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Really Feet V Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=really+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-comparing-really-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really poster -book -books -dvd" data-ebay-reference="what-are-you-really-comparing-really-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for really poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: really poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=really+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-comparing-really-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really poster -book -books -dvd" data-ebay-reference="what-are-you-really-comparing-really-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=really+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-comparing-really-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really poster -book -books -dvd" data-ebay-reference="what-are-you-really-comparing-really-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Really Feet V Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/qbQAAeSw8K9p2SLP/s-l225.jpg" alt="Listing image for Really Feet V Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=really+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-comparing-really-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really poster -book -books -dvd" data-ebay-reference="what-are-you-really-comparing-really-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Really Feet V Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=really+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-comparing-really-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really poster -book -books -dvd" data-ebay-reference="what-are-you-really-comparing-really-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for really poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: really poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=really+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-comparing-really-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really poster -book -books -dvd" data-ebay-reference="what-are-you-really-comparing-really-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=really+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-comparing-really-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really poster -book -books -dvd" data-ebay-reference="what-are-you-really-comparing-really-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Is Your Journey Really Necessary Vintage British WW2 Travel Poster Print"><img src="https://i.ebayimg.com/images/g/4JsAAeSw5Ahp9zN4/s-l225.jpg" alt="Listing image for Is Your Journey Really Necessary Vintage British WW2 Travel Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=really+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-comparing-really-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really poster -book -books -dvd" data-ebay-reference="what-are-you-really-comparing-really-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Is Your Journey Really Necessary Vintage British WW2 Travel Poster Print</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=really+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-comparing-really-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really poster -book -books -dvd" data-ebay-reference="what-are-you-really-comparing-really-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for really poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: really poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=really+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-comparing-really-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really poster -book -books -dvd" data-ebay-reference="what-are-you-really-comparing-really-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=really+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-comparing-really-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really poster -book -books -dvd" data-ebay-reference="what-are-you-really-comparing-really-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Is Your Journey Really Necessary Vintage British WW2 Travel Poster Print"><img src="https://i.ebayimg.com/images/g/4JsAAeSw5Ahp9zN4/s-l225.jpg" alt="Listing image for Is Your Journey Really Necessary Vintage British WW2 Travel Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=really+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-comparing-really-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really poster -book -books -dvd" data-ebay-reference="what-are-you-really-comparing-really-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Is Your Journey Really Necessary Vintage British WW2 Travel Poster Print</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=really+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-comparing-really-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really poster -book -books -dvd" data-ebay-reference="what-are-you-really-comparing-really-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for really poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: really poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=really+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-comparing-really-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really poster -book -books -dvd" data-ebay-reference="what-are-you-really-comparing-really-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=really+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-comparing-really-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really poster -book -books -dvd" data-ebay-reference="what-are-you-really-comparing-really-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 60s NEWSAGENT POS POSTER - People really going places take the Sun #0202"><img src="https://i.ebayimg.com/images/g/dEYAAeSwLb5pi6r5/s-l225.jpg" alt="Listing image for 60s NEWSAGENT POS POSTER - People really going places take the Sun #0202" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=really+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-comparing-really-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really poster -book -books -dvd" data-ebay-reference="what-are-you-really-comparing-really-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">60s NEWSAGENT POS POSTER - People really going places take the Sun #0202</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=really+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-comparing-really-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really poster -book -books -dvd" data-ebay-reference="what-are-you-really-comparing-really-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for really poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: really poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=really+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-comparing-really-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really poster -book -books -dvd" data-ebay-reference="what-are-you-really-comparing-really-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=really+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-comparing-really-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really poster -book -books -dvd" data-ebay-reference="what-are-you-really-comparing-really-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=really+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-comparing-really-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really poster -book -books -dvd" data-ebay-reference="what-are-you-really-comparing-really-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 60s NEWSAGENT POS POSTER - People really going places take the Sun #0202"><img src="https://i.ebayimg.com/images/g/dEYAAeSwLb5pi6r5/s-l225.jpg" alt="Listing image for 60s NEWSAGENT POS POSTER - People really going places take the Sun #0202" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=really+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-comparing-really-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really poster -book -books -dvd" data-ebay-reference="what-are-you-really-comparing-really-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">60s NEWSAGENT POS POSTER - People really going places take the Sun #0202</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=really+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-comparing-really-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really poster -book -books -dvd" data-ebay-reference="what-are-you-really-comparing-really-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for really poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: really poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=really+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-comparing-really-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really poster -book -books -dvd" data-ebay-reference="what-are-you-really-comparing-really-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=really+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-you-really-comparing-really-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="really poster -book -books -dvd" data-ebay-reference="what-are-you-really-comparing-really-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -615,7 +615,7 @@ Making the comparison visible transforms vague curiosity into a decision that ev
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -635,7 +635,7 @@ Making the comparison visible transforms vague curiosity into a decision that ev
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -667,7 +667,7 @@ Making the comparison visible transforms vague curiosity into a decision that ev
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -719,7 +719,7 @@ Making the comparison visible transforms vague curiosity into a decision that ev
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -764,7 +764,7 @@ Making the comparison visible transforms vague curiosity into a decision that ev
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -804,73 +804,73 @@ Making the comparison visible transforms vague curiosity into a decision that ev
 </section>
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: cochrane.org  
-   Link:<a href="https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-02" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-02</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 2: Determining the scope of the review and...The review PICO defines the broad scope of the review, and the PICO for com...</p></details>
+   Link: <a href="https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-02" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-02</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 2: Determining the scope of the review and...The review PICO defines the broad scope of the review, and the PICO for com...</p></details>
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6148624/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6148624/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of patient, intervention, comparison, outcome...by MB Eriksen · 2018 · Cited by 1699 — This review aimed to determine if t...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6148624/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6148624/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of patient, intervention, comparison, outcome...by MB Eriksen · 2018 · Cited by 1699 — This review aimed to determine if t...</p></details>
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: nccmt.ca  
-   Link:<a href="https://www.nccmt.ca/resources/search/138" target="_blank" rel="noopener noreferrer nofollow">https://www.nccmt.ca/resources/search/138</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Defining your question: PICO and PS | Resource DetailsThe PICO (Population, Intervention, Comparison, Outcome) strategy helps users devel...</p></details>
+   Link: <a href="https://www.nccmt.ca/resources/search/138" target="_blank" rel="noopener noreferrer nofollow">https://www.nccmt.ca/resources/search/138</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Defining your question: PICO and PS | Resource DetailsThe PICO (Population, Intervention, Comparison, Outcome) strategy helps users devel...</p></details>
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: jmla.pitt.edu  
-   Link:<a href="https://jmla.pitt.edu/ojs/jmla/article/view/739/1069" target="_blank" rel="noopener noreferrer nofollow">https://jmla.pitt.edu/ojs/jmla/article/view/739/1069</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>A comparison of patient, intervention, comparison, outcome...by LA Kloda · 2020 · Cited by 95 — In educating students in the health prof...</p></details>
+   Link: <a href="https://jmla.pitt.edu/ojs/jmla/article/view/739/1069" target="_blank" rel="noopener noreferrer nofollow">https://jmla.pitt.edu/ojs/jmla/article/view/739/1069</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A comparison of patient, intervention, comparison, outcome...by LA Kloda · 2020 · Cited by 95 — In educating students in the health prof...</p></details>
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) PICO: What it is and what it is not  
-   Link:<a href="https://www.researchgate.net/publication/354318815_PICO_What_it_is_and_what_it_is_not" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/354318815_PICO_What_it_is_and_what_it_is_not</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) PICO: What it is and what it is notSeptember 1, 2021 — Aim To assess the role and effectiveness of the mnemonic PICO (P...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/354318815_PICO_What_it_is_and_what_it_is_not" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/354318815_PICO_What_it_is_and_what_it_is_not</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) PICO: What it is and what it is notSeptember 1, 2021 — Aim To assess the role and effectiveness of the mnemonic PICO (P...</p></details>
    Published: September 1, 2021  
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: youtube.com  
-   Link:<a href="https://www.youtube.com/watch?v=QPXXTE8N4PY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QPXXTE8N4PY</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>4 What is Problem [Framing](&amp;#123;&amp;#123; &#x27;framing/&#x27; | relative_url &amp;#125;&amp;#125;)? The Key to Strategic Decisions...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=QPXXTE8N4PY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QPXXTE8N4PY</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>4 What is Problem [Framing](&amp;#123;&amp;#123; &#x27;framing/&#x27; | relative_url &amp;#125;&amp;#125;)? The Key to Strategic Decisions...</p></details>
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: innovation.nhs.uk  
-   Link:<a href="https://innovation.nhs.uk/innovation-guides/evidence/population-intervention-comparator-and-outcomes-framework/" target="_blank" rel="noopener noreferrer nofollow">https://innovation.nhs.uk/innovation-guides/evidence/population-intervention-comparator-and-outcomes-framework/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Innovation ServiceThe population, intervention, comparator and outcomes...The population, intervention, comparator and outcomes (PICO) f...</p></details>
+   Link: <a href="https://innovation.nhs.uk/innovation-guides/evidence/population-intervention-comparator-and-outcomes-framework/" target="_blank" rel="noopener noreferrer nofollow">https://innovation.nhs.uk/innovation-guides/evidence/population-intervention-comparator-and-outcomes-framework/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Innovation ServiceThe population, intervention, comparator and outcomes...The population, intervention, comparator and outcomes (PICO) f...</p></details>
 
 ### Additional References
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: pubrica.com  
-   Link:<a href="https://pubrica.com/insights/study-guide/guide-to-evidence-based-research-on-pico-framework/" target="_blank" rel="noopener noreferrer nofollow">https://pubrica.com/insights/study-guide/guide-to-evidence-based-research-on-pico-framework/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>PICO Framework: A Guide to Evidence-based ResearchDesigned for simple clinical questions, to be specific, define your population, interve...</p></details>
+   Link: <a href="https://pubrica.com/insights/study-guide/guide-to-evidence-based-research-on-pico-framework/" target="_blank" rel="noopener noreferrer nofollow">https://pubrica.com/insights/study-guide/guide-to-evidence-based-research-on-pico-framework/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>PICO Framework: A Guide to Evidence-based ResearchDesigned for simple clinical questions, to be specific, define your population, interve...</p></details>
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: casp-uk.net  
    Title: pico framework  
-   Link:<a href="https://casp-uk.net/pico-framework/" target="_blank" rel="noopener noreferrer nofollow">https://casp-uk.net/pico-framework/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>How to use the PICO Framework to Aid Critical Appraisal7 Jun 2023 — Discover what the PICO framework is, the benefits of using PICO tools...</p></details>
+   Link: <a href="https://casp-uk.net/pico-framework/" target="_blank" rel="noopener noreferrer nofollow">https://casp-uk.net/pico-framework/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to use the PICO Framework to Aid Critical Appraisal7 Jun 2023 — Discover what the PICO framework is, the benefits of using PICO tools...</p></details>
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: What is Problem Framing? The Key to Strategic Decisions  
-   Link:<a href="https://www.youtube.com/watch?v=CX3HeinRBtY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CX3HeinRBtY</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Lecture 3.4 Creating and Comparing Alternatives...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=CX3HeinRBtY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CX3HeinRBtY</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Lecture 3.4 Creating and Comparing Alternatives...</p></details>
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: frontiersin.org  
-   Link:<a href="https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2026.1755598/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2026.1755598/full</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>PICO-based [assessment](&amp;#123;&amp;#123; &#x27;assessment/&#x27; | relative_url &amp;#125;&amp;#125;) and categorization of evidence...by U Buddrus · 2026 · Cited by 3 — With the development of the PICO-based Assessm...</p></details>
+   Link: <a href="https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2026.1755598/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2026.1755598/full</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>PICO-based [assessment](&amp;#123;&amp;#123; &#x27;assessment/&#x27; | relative_url &amp;#125;&amp;#125;) and categorization of evidence...by U Buddrus · 2026 · Cited by 3 — With the development of the PICO-based Assessm...</p></details>
 
-12.<a id="endnote-12"></a>
+12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: Lecture 3.4 Creating and Comparing Alternatives  
-   Link:<a href="https://www.youtube.com/watch?v=S2-Xp5M_VJA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S2-Xp5M_VJA</a>  
+   Link: <a href="https://www.youtube.com/watch?v=S2-Xp5M_VJA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S2-Xp5M_VJA</a>  
 
-13.<a id="endnote-13"></a>
+13. <a id="endnote-13"></a>
    Source: youtube.com  
-   Link:<a href="https://www.youtube.com/watch?v=BtPL1MWVqec" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BtPL1MWVqec</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>2 How to Ask [Better Questions](&amp;#123;&amp;#123; &#x27;better-questions/&#x27; | relative_url &amp;#125;&amp;#125;): David Hackworth at TEDxOslo...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=BtPL1MWVqec" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BtPL1MWVqec</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 How to Ask [Better Questions](&amp;#123;&amp;#123; &#x27;better-questions/&#x27; | relative_url &amp;#125;&amp;#125;): David Hackworth at TEDxOslo...</p></details>

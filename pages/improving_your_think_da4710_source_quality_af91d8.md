@@ -457,7 +457,7 @@ Better thinking does not mean distrusting everything. It means checking whether 
 
 Source quality is about the source’s **capacity and discipline**. Does it have relevant expertise? Does it identify where the information came from? Is it transparent about uncertainty? Does it correct errors? Is it accountable to a professional, scientific, legal or editorial standard? These questions are different from whether the source supports your preferred conclusion.
 
-Professional news standards make this distinction visible. Reuters says named sources should be used where possible because they are accountable for what they provide, while also stressing that the organisation remains responsible for accuracy and balance. The Associated Press says it tries to identify all sources and uses anonymity only when the source is reliable, in a position to know, and providing vital information rather than opinion or speculation. The BBC’s accuracy guidance warns that even normally reliable web sources may be wrong, and that user-generated or interest-group material may need corroboration before use.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://reutersagency.com/about/standards-values/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersagency.com">[Reuters Agency+2The Associated Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersagency.com</span><span class="citation-popover-snippet">Reuters AgencyReuters Journalistic StandardsUse named sources wherever possible because they are responsible for the information they pro...</span></span></span>
+Professional news standards make this distinction visible. Reuters says named sources should be used where possible because they are accountable for what they provide, while also stressing that the organisation remains responsible for accuracy and balance. The Associated Press says it tries to identify all sources and uses anonymity only when the source is reliable, in a position to know, and providing vital information rather than opinion or speculation. The BBC’s accuracy guidance warns that even normally reliable web sources may be wrong, and that user-generated or interest-group material may need corroboration before use. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://reutersagency.com/about/standards-values/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersagency.com">[Reuters Agency+2The Associated Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersagency.com</span><span class="citation-popover-snippet">Reuters AgencyReuters Journalistic StandardsUse named sources wherever possible because they are responsible for the information they pro...</span></span></span>
 
 Agreement, by contrast, is about **fit with other claims**. A source may agree with many others because the evidence is strong. It may also agree because everyone is relying on the same press release, wire copy, rumour, dataset, flawed paper, institutional incentive or social media post. For analytical thinking, agreement becomes powerful only when it comes from sources that reached the conclusion through sufficiently independent routes.
 
@@ -469,13 +469,13 @@ High-quality sources are not perfect sources. They are sources with better odds 
 
 **Proximity to the evidence.** A source that directly observed an event, collected the data, issued the policy, ran the experiment or holds the document usually has a different status from a source commenting at a distance. Proximity is not enough on its own: eyewitnesses misremember, officials frame events strategically, and researchers can make mistakes. But proximity helps answer the first question: “How could this source know?”
 
-**Transparent method.** Strong sources show how they reached a claim. Scientific papers describe methods, samples and limitations. Courts and public bodies publish documents or procedural records. Reputable journalism explains sourcing, gives context and distinguishes confirmed information from what remains unknown. The National Academies’ report on reproducibility and replicability defines replicability as obtaining consistent results across studies that use their own data to answer the same scientific question, which is a useful reminder that strong evidence is not merely repeated wording but repeated inquiry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/read/25303/chapter/3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesReproducibility and Replicability in Science (2019)Replicability is obtaining consistent results across studies aimed a...</span></span></span>
+**Transparent method.** Strong sources show how they reached a claim. Scientific papers describe methods, samples and limitations. Courts and public bodies publish documents or procedural records. Reputable journalism explains sourcing, gives context and distinguishes confirmed information from what remains unknown. The National Academies’ report on reproducibility and replicability defines replicability as obtaining consistent results across studies that use their own data to answer the same scientific question, which is a useful reminder that strong evidence is not merely repeated wording but repeated inquiry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/read/25303/chapter/3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesReproducibility and Replicability in Science (2019)Replicability is obtaining consistent results across studies aimed a...</span></span></span>
 
 **Accountability and correction.** A source with an editorial process, peer review, public correction policy, audit trail or professional risk for getting things wrong is generally more valuable than a source that can publish and disappear. This does not mean institutions are always right. It means they often leave more evidence for readers to inspect: authorship, publication date, version history, funding, conflicts, corrections and criticism.
 
 **Relevant expertise.** Expertise must fit the claim. A Nobel physicist is not automatically a good source on election law; a local eyewitness is not automatically a good source on epidemiology; a journalist with excellent political contacts may still be weak on statistical inference. The key is not prestige in general, but whether the source’s competence matches the question.
 
-**Incentive clarity.** Bias is not only lying. Research on source perception distinguishes bias from untrustworthiness: a source may be sincere but still systematically skewed by loyalties, incentives, ideology, commercial interest or limited perspective. That is why a reader should ask not only “is this source honest?” but also “what would this source tend to notice, omit or emphasise?”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/334313178_When_Sources_Honestly_Provide_Their_Biased_Opinion_Bias_as_a_Distinct_Source_Perception_With_Independent_Effects_on_Credibility_and_Persuasion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) When Sources Honestly Provide Their Biased Opinion</span><span class="citation-popover-snippet">ResearchGate(PDF) When Sources Honestly Provide Their Biased OpinionJuly 8, 2019 — Three studies demonstrate that source bias can have a...</span><span class="citation-popover-meta">Published: July 8, 2019</span></span></span>
+**Incentive clarity.** Bias is not only lying. Research on source perception distinguishes bias from untrustworthiness: a source may be sincere but still systematically skewed by loyalties, incentives, ideology, commercial interest or limited perspective. That is why a reader should ask not only “is this source honest?” but also “what would this source tend to notice, omit or emphasise?” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/334313178_When_Sources_Honestly_Provide_Their_Biased_Opinion_Bias_as_a_Distinct_Source_Perception_With_Independent_Effects_on_Credibility_and_Persuasion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) When Sources Honestly Provide Their Biased Opinion</span><span class="citation-popover-snippet">ResearchGate(PDF) When Sources Honestly Provide Their Biased OpinionJuly 8, 2019 — Three studies demonstrate that source bias can have a...</span><span class="citation-popover-meta">Published: July 8, 2019</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_source_quality_af91d8-Illustration-1-dark.svg" | relative_url }}" alt="Source Quality illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_source_quality_af91d8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_source_quality_af91d8-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -485,11 +485,11 @@ Agreement feels like reliability because, in everyday life, repeated claims ofte
 
 The first trap is **duplication**. Online claims are easily copied, syndicated, scraped, summarised and reposted. A claim that appears on twenty pages may have one origin. This is especially risky with breaking news, viral screenshots, [health claims]({{ 'health-claims/' | relative_url }}), investment rumours and political allegations, where speed rewards repetition before verification.
 
-The second trap is **shared upstream evidence**. Sources can be independent organisations but still depend on the same dataset, official briefing, advocacy report or flawed study. In science, this is one reason [replication]({{ 'replication/' | relative_url }}) matters: repeating the same analysis on the same data is not as strong as obtaining consistent results from new data or different methods. The National Academies distinguishes reproducibility, which involves getting consistent computational results from the same data and code, from replicability, which requires separate studies with their own data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/projects/DBASSE-BBCSS-17-03/publication/25303" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesReproducibility and Replicability in Science2019 · Cited by 1207 — As the result of a mandate from Congress, the Nation...</span></span></span>
+The second trap is **shared upstream evidence**. Sources can be independent organisations but still depend on the same dataset, official briefing, advocacy report or flawed study. In science, this is one reason [replication]({{ 'replication/' | relative_url }}) matters: repeating the same analysis on the same data is not as strong as obtaining consistent results from new data or different methods. The National Academies distinguishes reproducibility, which involves getting consistent computational results from the same data and code, from replicability, which requires separate studies with their own data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/projects/DBASSE-BBCSS-17-03/publication/25303" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesReproducibility and Replicability in Science2019 · Cited by 1207 — As the result of a mandate from Congress, the Nation...</span></span></span>
 
-The third trap is **social proof**. People often treat agreement as more persuasive when the agreement flatters what they already believe. Raymond Nickerson’s classic review describes confirmation bias as seeking or interpreting evidence in ways partial to existing beliefs, expectations or hypotheses. In practice, this means a reader may call agreement “consensus” when it supports them and “groupthink” when it does not.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pages.ucsd.edu">[UC San Diego Pages]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pages.ucsd.edu</span><span class="citation-popover-title">UC San Diego Pages Confirmation Bias: A Ubiquitous Phenomenon in Many</span><span class="citation-popover-snippet">UC San Diego Pages Confirmation Bias: A Ubiquitous Phenomenon in Many</span></span></span>
+The third trap is **social proof**. People often treat agreement as more persuasive when the agreement flatters what they already believe. Raymond Nickerson’s classic review describes confirmation bias as seeking or interpreting evidence in ways partial to existing beliefs, expectations or hypotheses. In practice, this means a reader may call agreement “consensus” when it supports them and “groupthink” when it does not. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pages.ucsd.edu">[UC San Diego Pages]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pages.ucsd.edu</span><span class="citation-popover-title">UC San Diego Pages Confirmation Bias: A Ubiquitous Phenomenon in Many</span><span class="citation-popover-snippet">UC San Diego Pages Confirmation Bias: A Ubiquitous Phenomenon in Many</span></span></span>
 
-The fourth trap is **low-quality consensus**. A crowd can converge on a claim because it is emotionally satisfying, easy to understand or socially rewarded. Expert agreement can be highly informative, but its value rises when experts are using strong methods, working from evidence, exposing claims to criticism and retaining enough independence to avoid merely echoing one another. Philosophical work on expert independence makes the same point in abstract form: agreement among autonomous experts is generally more reliable than agreement produced by dependence, deference or a narrow shared perspective.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/journals/episteme/article/value-of-independence-between-experts-epistemic-autonomy-and-different-perspectives/BEC23E79E968EDB64273EF6AC668DDA3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Open source on cambridge.org.</span></span></span>
+The fourth trap is **low-quality consensus**. A crowd can converge on a claim because it is emotionally satisfying, easy to understand or socially rewarded. Expert agreement can be highly informative, but its value rises when experts are using strong methods, working from evidence, exposing claims to criticism and retaining enough independence to avoid merely echoing one another. Philosophical work on expert independence makes the same point in abstract form: agreement among autonomous experts is generally more reliable than agreement produced by dependence, deference or a narrow shared perspective. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/journals/episteme/article/value-of-independence-between-experts-epistemic-autonomy-and-different-perspectives/BEC23E79E968EDB64273EF6AC668DDA3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Open source on cambridge.org.</span></span></span>
 
 ## The strongest agreement has independent routes to the same answer
 
@@ -508,9 +508,9 @@ For a factual claim, independent routes might include:
 
 </div>
 
-This is why good verification practice often sounds cautious. The AP says anonymous sourcing normally requires more than one source and that stories should be held while attempts are made to obtain confirmation or elaboration. Reuters says single anonymous-source stories are exceptional and require special authorisation when the source has direct knowledge and the information is credible. These rules are not rituals; they are safeguards against mistaking access, confidence or agreement for truth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ap.org/wp-content/uploads/2024/02/ap-news-values-and-principles-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ap.org">[The Associated Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ap.org</span><span class="citation-popover-snippet">Open source on ap.org.</span></span></span>
+This is why good verification practice often sounds cautious. The AP says anonymous sourcing normally requires more than one source and that stories should be held while attempts are made to obtain confirmation or elaboration. Reuters says single anonymous-source stories are exceptional and require special authorisation when the source has direct knowledge and the information is credible. These rules are not rituals; they are safeguards against mistaking access, confidence or agreement for truth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ap.org/wp-content/uploads/2024/02/ap-news-values-and-principles-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ap.org">[The Associated Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ap.org</span><span class="citation-popover-snippet">Open source on ap.org.</span></span></span>
 
-Scientific inquiry has a parallel safeguard. A single study can be valuable, but confidence grows when findings survive different researchers, samples, instruments and assumptions. The National Academies’ [framing]({{ 'framing/' | relative_url }}) of replication is helpful for everyday reasoning because it gives a general principle: agreement matters more when it is produced by **separate attempts to answer the same question**, not by repeated citation of the same answer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/read/25303/chapter/3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesReproducibility and Replicability in Science (2019)Replicability is obtaining consistent results across studies aimed a...</span></span></span>
+Scientific inquiry has a parallel safeguard. A single study can be valuable, but confidence grows when findings survive different researchers, samples, instruments and assumptions. The National Academies’ [framing]({{ 'framing/' | relative_url }}) of replication is helpful for everyday reasoning because it gives a general principle: agreement matters more when it is produced by **separate attempts to answer the same question**, not by repeated citation of the same answer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/read/25303/chapter/3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesReproducibility and Replicability in Science (2019)Replicability is obtaining consistent results across studies aimed a...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SHNprb2hgzU" title="Sort Fact from Fiction Online with Lateral Reading" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SHNprb2hgzU" target="_blank" rel="noopener noreferrer">Sort Fact from Fiction Online with Lateral Reading</a></p><p class="youtube-embed-meta">Channel: Digital Inquiry Group &middot; Views: 295.0K &middot; Uploaded: January 2020 &middot; Length: 3 minutes 48 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SHNprb2hgzU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SHNprb2hgzU">Open on YouTube</a></p></div></div></div>
@@ -523,13 +523,13 @@ One common pattern is **selective upgrading**: a reader notices the credentials,
 
 This is where analytical skill becomes metacognitive: the task is not only to evaluate the source, but to evaluate your reaction to the source. A useful test is to reverse the conclusion. If the same source, method and evidence supported the opposite claim, would you still treat it as strong? If not, the issue may be agreement rather than quality.
 
-Research on online credibility evaluation shows why this matters. Stanford’s civic online reasoning work found that students often struggled to evaluate digital sources, while later studies found that instruction in [lateral reading]({{ 'lateral-reading/' | relative_url }}) can improve people’s ability to assess online information. Lateral reading means leaving the original page to check what other credible sources say about the source and claim, rather than being seduced by the page’s own design, tone or self-description. Stanford Graduate School of Education+2Misinformation Review<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ed.stanford.edu/news/it-doesn-t-take-long-learn-how-spot-misinformation-online-stanford-study-finds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ed.stanford.edu">[ed.stanford.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ed.stanford.edu</span><span class="citation-popover-title">it doesn t take long learn how spot misinformation online stanford study finds</span><span class="citation-popover-snippet">it doesn t take long learn how spot misinformation online stanford study finds</span></span></span>
+Research on online credibility evaluation shows why this matters. Stanford’s civic online reasoning work found that students often struggled to evaluate digital sources, while later studies found that instruction in [lateral reading]({{ 'lateral-reading/' | relative_url }}) can improve people’s ability to assess online information. Lateral reading means leaving the original page to check what other credible sources say about the source and claim, rather than being seduced by the page’s own design, tone or self-description. Stanford Graduate School of Education+2Misinformation Review <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ed.stanford.edu/news/it-doesn-t-take-long-learn-how-spot-misinformation-online-stanford-study-finds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ed.stanford.edu">[ed.stanford.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ed.stanford.edu</span><span class="citation-popover-title">it doesn t take long learn how spot misinformation online stanford study finds</span><span class="citation-popover-snippet">it doesn t take long learn how spot misinformation online stanford study finds</span></span></span>
 
 ## Cross-checking claims without cynicism
 
 Cross-checking is not the same as assuming everyone is lying. Cynicism says, “no source can be trusted.” Good analysis says, “sources vary in quality, and claims need evidence appropriate to their stakes.”
 
-A simple cross-check begins with the claim, not the conclusion. Instead of searching “why this is true”, search for the exact claim, the [strongest opposing]({{ 'steelmanning/' | relative_url }}) claim, the primary document, and the source’s reputation. The SIFT method, developed by Mike Caulfield and widely used in information-literacy teaching, captures this habit in four moves: stop, investigate the source, find better coverage, and trace claims to the original context.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://guides.lib.uchicago.edu/c.php?g=1241077&amp;p=9082322" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guides.lib.uchicago.edu">[University of Chicago Library Guides]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guides.lib.uchicago.edu</span><span class="citation-popover-title">University of Chicago Library Guides The SIFT Method</span><span class="citation-popover-snippet">University of Chicago Library Guides The SIFT Method</span></span></span>
+A simple cross-check begins with the claim, not the conclusion. Instead of searching “why this is true”, search for the exact claim, the [strongest opposing]({{ 'steelmanning/' | relative_url }}) claim, the primary document, and the source’s reputation. The SIFT method, developed by Mike Caulfield and widely used in information-literacy teaching, captures this habit in four moves: stop, investigate the source, find better coverage, and trace claims to the original context. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://guides.lib.uchicago.edu/c.php?g=1241077&amp;p=9082322" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guides.lib.uchicago.edu">[University of Chicago Library Guides]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guides.lib.uchicago.edu</span><span class="citation-popover-title">University of Chicago Library Guides The SIFT Method</span><span class="citation-popover-snippet">University of Chicago Library Guides The SIFT Method</span></span></span>
 
 For everyday analysis, the following sequence is usually enough:
 
@@ -625,194 +625,194 @@ For improving analytical skill, this distinction has a powerful effect. It slows
 The best everyday rule is simple: **reward quality before agreement, and reward agreement only when it is independent**. That one distinction turns source-checking from a search for allies into a search for reality.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Trustworthy Source or Friendly Source?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Trustworthy Source or Friendly Source?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y-bvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-</h4>
-<p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y-bvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+        </h4>
+        <p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
         
-<p class="fr-book-desc">Directly teaches readers how to assess evidence quality rather than accept persuasive or agreeable claims.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly teaches readers how to assess evidence quality rather than accept persuasive or agreeable claims.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-</h4>
-<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-<p class="fr-book-desc">Promotes evidence-based reasoning, source scrutiny, and intellectual humility.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+        </h4>
+        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+        <p class="fr-book-desc">Promotes evidence-based reasoning, source scrutiny, and intellectual humility.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Xg-CBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-</h4>
-<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpZNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Factfulness+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+        </h4>
+        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-<p class="fr-book-desc">Helps readers evaluate arguments, claims, and the quality of what they read.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Shows how to check assumptions against data and avoid misleading impressions from familiar narratives.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Factfulness+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
-</h4>
-<p class="fr-book-author">By Julia Galef</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Xg-CBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+        </h4>
+        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
         
-<p class="fr-book-desc">Encourages truth-seeking over motivated reasoning and helps separate agreement from reliability.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Helps readers evaluate arguments, claims, and the quality of what they read.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trustworthy-source-or-friendly-source-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="trustworthy-source-or-friendly-source-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Executive Personalised Desk Name,Custom Engraved Sign,Name Plaque,Office manager"><img src="https://i.ebayimg.com/images/g/ZwAAAOSwKQ9aFL-j/s-l225.jpg" alt="Listing image for Executive Personalised Desk Name,Custom Engraved Sign,Name Plaque,Office manager" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trustworthy-source-or-friendly-source-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="trustworthy-source-or-friendly-source-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer">Executive Personalised Desk Name,Custom Engraved Sign,Name Plaque,Office manager</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trustworthy-source-or-friendly-source-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="trustworthy-source-or-friendly-source-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office desk sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: office desk sign</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trustworthy-source-or-friendly-source-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="trustworthy-source-or-friendly-source-office-desk-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trustworthy-source-or-friendly-source-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="trustworthy-source-or-friendly-source-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Executive Personalised Desk Name,Custom Engraved Sign,Name Plaque,Office manager"><img src="https://i.ebayimg.com/images/g/ZwAAAOSwKQ9aFL-j/s-l225.jpg" alt="Listing image for Executive Personalised Desk Name,Custom Engraved Sign,Name Plaque,Office manager" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trustworthy-source-or-friendly-source-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="trustworthy-source-or-friendly-source-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer">Executive Personalised Desk Name,Custom Engraved Sign,Name Plaque,Office manager</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trustworthy-source-or-friendly-source-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="trustworthy-source-or-friendly-source-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office desk sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: office desk sign</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trustworthy-source-or-friendly-source-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="trustworthy-source-or-friendly-source-office-desk-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trustworthy-source-or-friendly-source-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="trustworthy-source-or-friendly-source-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalized Acrylic Name Plate Desk Sign Plaque Gift for Teacher Co-workers"><img src="https://i.ebayimg.com/images/g/0T8AAOSw42hkZfZ3/s-l225.jpg" alt="Listing image for Personalized Acrylic Name Plate Desk Sign Plaque Gift for Teacher Co-workers" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trustworthy-source-or-friendly-source-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="trustworthy-source-or-friendly-source-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer">Personalized Acrylic Name Plate Desk Sign Plaque Gift for Teacher Co-workers</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trustworthy-source-or-friendly-source-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="trustworthy-source-or-friendly-source-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office desk sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: office desk sign</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trustworthy-source-or-friendly-source-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="trustworthy-source-or-friendly-source-office-desk-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trustworthy-source-or-friendly-source-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="trustworthy-source-or-friendly-source-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalized Acrylic Name Plate Desk Sign Plaque Gift for Teacher Co-workers"><img src="https://i.ebayimg.com/images/g/0T8AAOSw42hkZfZ3/s-l225.jpg" alt="Listing image for Personalized Acrylic Name Plate Desk Sign Plaque Gift for Teacher Co-workers" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trustworthy-source-or-friendly-source-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="trustworthy-source-or-friendly-source-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer">Personalized Acrylic Name Plate Desk Sign Plaque Gift for Teacher Co-workers</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trustworthy-source-or-friendly-source-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="trustworthy-source-or-friendly-source-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office desk sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: office desk sign</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trustworthy-source-or-friendly-source-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="trustworthy-source-or-friendly-source-office-desk-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trustworthy-source-or-friendly-source-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="trustworthy-source-or-friendly-source-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Text Mini Folding Signs - Novelty Warning Caution Office Desk Gift"><img src="https://i.ebayimg.com/images/g/j60AAeSwrWdp-Kd1/s-l225.jpg" alt="Listing image for Personalised Text Mini Folding Signs - Novelty Warning Caution Office Desk Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trustworthy-source-or-friendly-source-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="trustworthy-source-or-friendly-source-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer">Personalised Text Mini Folding Signs - Novelty Warning Caution Office Desk Gift</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trustworthy-source-or-friendly-source-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="trustworthy-source-or-friendly-source-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office desk sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: office desk sign</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trustworthy-source-or-friendly-source-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="trustworthy-source-or-friendly-source-office-desk-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trustworthy-source-or-friendly-source-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="trustworthy-source-or-friendly-source-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Text Mini Folding Signs - Novelty Warning Caution Office Desk Gift"><img src="https://i.ebayimg.com/images/g/j60AAeSwrWdp-Kd1/s-l225.jpg" alt="Listing image for Personalised Text Mini Folding Signs - Novelty Warning Caution Office Desk Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trustworthy-source-or-friendly-source-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="trustworthy-source-or-friendly-source-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer">Personalised Text Mini Folding Signs - Novelty Warning Caution Office Desk Gift</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trustworthy-source-or-friendly-source-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="trustworthy-source-or-friendly-source-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office desk sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: office desk sign</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trustworthy-source-or-friendly-source-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="trustworthy-source-or-friendly-source-office-desk-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trustworthy-source-or-friendly-source-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="trustworthy-source-or-friendly-source-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sh*t Show Supervisor Sign | Funny Office Desk Plaque"><img src="https://i.ebayimg.com/images/g/978AAeSw5-9p9Bp2/s-l225.jpg" alt="Listing image for Sh*t Show Supervisor Sign | Funny Office Desk Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trustworthy-source-or-friendly-source-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="trustworthy-source-or-friendly-source-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer">Sh*t Show Supervisor Sign | Funny Office Desk Plaque</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trustworthy-source-or-friendly-source-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="trustworthy-source-or-friendly-source-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office desk sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: office desk sign</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trustworthy-source-or-friendly-source-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="trustworthy-source-or-friendly-source-office-desk-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trustworthy-source-or-friendly-source-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="trustworthy-source-or-friendly-source-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trustworthy-source-or-friendly-source-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="trustworthy-source-or-friendly-source-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sh*t Show Supervisor Sign | Funny Office Desk Plaque"><img src="https://i.ebayimg.com/images/g/978AAeSw5-9p9Bp2/s-l225.jpg" alt="Listing image for Sh*t Show Supervisor Sign | Funny Office Desk Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trustworthy-source-or-friendly-source-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="trustworthy-source-or-friendly-source-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer">Sh*t Show Supervisor Sign | Funny Office Desk Plaque</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trustworthy-source-or-friendly-source-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="trustworthy-source-or-friendly-source-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office desk sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: office desk sign</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trustworthy-source-or-friendly-source-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="trustworthy-source-or-friendly-source-office-desk-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trustworthy-source-or-friendly-source-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk sign" data-ebay-reference="trustworthy-source-or-friendly-source-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -828,7 +828,7 @@ The best everyday rule is simple: **reward quality before agreement, and reward 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -848,7 +848,7 @@ The best everyday rule is simple: **reward quality before agreement, and reward 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -880,7 +880,7 @@ The best everyday rule is simple: **reward quality before agreement, and reward 
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -932,7 +932,7 @@ The best everyday rule is simple: **reward quality before agreement, and reward 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -977,7 +977,7 @@ The best everyday rule is simple: **reward quality before agreement, and reward 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1017,188 +1017,188 @@ The best everyday rule is simple: **reward quality before agreement, and reward 
 </section>
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) When Sources Honestly Provide Their Biased Opinion  
-   Link:<a href="https://www.researchgate.net/publication/334313178_When_Sources_Honestly_Provide_Their_Biased_Opinion_Bias_as_a_Distinct_Source_Perception_With_Independent_Effects_on_Credibility_and_Persuasion" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/334313178_When_Sources_Honestly_Provide_Their_Biased_Opinion_Bias_as_a_Distinct_Source_Perception_With_Independent_Effects_on_Credibility_and_Persuasion</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) When Sources Honestly Provide Their Biased OpinionJuly 8, 2019 — Three studies demonstrate that source bias can have a...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/334313178_When_Sources_Honestly_Provide_Their_Biased_Opinion_Bias_as_a_Distinct_Source_Perception_With_Independent_Effects_on_Credibility_and_Persuasion" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/334313178_When_Sources_Honestly_Provide_Their_Biased_Opinion_Bias_as_a_Distinct_Source_Perception_With_Independent_Effects_on_Credibility_and_Persuasion</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) When Sources Honestly Provide Their Biased OpinionJuly 8, 2019 — Three studies demonstrate that source bias can have a...</p></details>
    Published: July 8, 2019  
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: cambridge.org  
-   Link:<a href="https://www.cambridge.org/core/journals/episteme/article/value-of-independence-between-experts-epistemic-autonomy-and-different-perspectives/BEC23E79E968EDB64273EF6AC668DDA3" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/episteme/article/value-of-independence-between-experts-epistemic-autonomy-and-different-perspectives/BEC23E79E968EDB64273EF6AC668DDA3</a>  
+   Link: <a href="https://www.cambridge.org/core/journals/episteme/article/value-of-independence-between-experts-epistemic-autonomy-and-different-perspectives/BEC23E79E968EDB64273EF6AC668DDA3" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/episteme/article/value-of-independence-between-experts-epistemic-autonomy-and-different-perspectives/BEC23E79E968EDB64273EF6AC668DDA3</a>  
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: ed.stanford.edu  
    Title: it doesn t take long learn how spot misinformation online stanford study finds  
-   Link:<a href="https://ed.stanford.edu/news/it-doesn-t-take-long-learn-how-spot-misinformation-online-stanford-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://ed.stanford.edu/news/it-doesn-t-take-long-learn-how-spot-misinformation-online-stanford-study-finds</a>  
+   Link: <a href="https://ed.stanford.edu/news/it-doesn-t-take-long-learn-how-spot-misinformation-online-stanford-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://ed.stanford.edu/news/it-doesn-t-take-long-learn-how-spot-misinformation-online-stanford-study-finds</a>  
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/349535570_Lateral_reading_College_students_learn_to_critically_evaluate_internet_sources_in_an_online_course" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/349535570_Lateral_reading_College_students_learn_to_critically_evaluate_internet_sources_in_an_online_course</a>  
+   Link: <a href="https://www.researchgate.net/publication/349535570_Lateral_reading_College_students_learn_to_critically_evaluate_internet_sources_in_an_online_course" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/349535570_Lateral_reading_College_students_learn_to_critically_evaluate_internet_sources_in_an_online_course</a>  
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/385140909_Experts-Part_II_The_Sources_of_Epistemic_Authority" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/385140909_Experts-Part_II_The_Sources_of_Epistemic_Authority</a>  
+   Link: <a href="https://www.researchgate.net/publication/385140909_Experts-Part_II_The_Sources_of_Epistemic_Authority" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/385140909_Experts-Part_II_The_Sources_of_Epistemic_Authority</a>  
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: stanford.edu  
-   Link:<a href="https://www.stanford.edu/" target="_blank" rel="noopener noreferrer nofollow">https://www.stanford.edu/</a>  
+   Link: <a href="https://www.stanford.edu/" target="_blank" rel="noopener noreferrer nofollow">https://www.stanford.edu/</a>  
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: stacks.stanford.edu  
    Title: Civic Online Reasoning National Portrait  
-   Link:<a href="https://stacks.stanford.edu/file/gf151tb4868/Civic%20Online%20Reasoning%20National%20Portrait.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stacks.stanford.edu/file/gf151tb4868/Civic%20Online%20Reasoning%20National%20Portrait.pdf</a>  
+   Link: <a href="https://stacks.stanford.edu/file/gf151tb4868/Civic%20Online%20Reasoning%20National%20Portrait.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stacks.stanford.edu/file/gf151tb4868/Civic%20Online%20Reasoning%20National%20Portrait.pdf</a>  
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: plato.stanford.edu  
    Title: scientific reproducibility  
-   Link:<a href="https://plato.stanford.edu/archives/win2021/entries/scientific-reproducibility/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/win2021/entries/scientific-reproducibility/</a>  
+   Link: <a href="https://plato.stanford.edu/archives/win2021/entries/scientific-reproducibility/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/win2021/entries/scientific-reproducibility/</a>  
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: dictionary.cambridge.org  
-   Link:<a href="https://dictionary.cambridge.org/vi/dictionary/english/national" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/vi/dictionary/english/national</a>  
+   Link: <a href="https://dictionary.cambridge.org/vi/dictionary/english/national" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/vi/dictionary/english/national</a>  
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: trust.org  
    Title: before you publish a journalists guide to safer reporting  
-   Link:<a href="https://www.trust.org/resource/before-you-publish-a-journalists-guide-to-safer-reporting/" target="_blank" rel="noopener noreferrer nofollow">https://www.trust.org/resource/before-you-publish-a-journalists-guide-to-safer-reporting/</a>  
+   Link: <a href="https://www.trust.org/resource/before-you-publish-a-journalists-guide-to-safer-reporting/" target="_blank" rel="noopener noreferrer nofollow">https://www.trust.org/resource/before-you-publish-a-journalists-guide-to-safer-reporting/</a>  
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: reutersagency.com  
-   Link:<a href="https://reutersagency.com/about/standards-values/" target="_blank" rel="noopener noreferrer nofollow">https://reutersagency.com/about/standards-values/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Reuters AgencyReuters Journalistic StandardsUse named sources wherever possible because they are responsible for the information they pro...</p></details>
+   Link: <a href="https://reutersagency.com/about/standards-values/" target="_blank" rel="noopener noreferrer nofollow">https://reutersagency.com/about/standards-values/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reuters AgencyReuters Journalistic StandardsUse named sources wherever possible because they are responsible for the information they pro...</p></details>
 
-12.<a id="endnote-12"></a>
+12. <a id="endnote-12"></a>
    Source: ap.org  
    Title: The Associated Press News Values  
-   Link:<a href="https://www.ap.org/about/news-values-and-principles/news-values-introduction/" target="_blank" rel="noopener noreferrer nofollow">https://www.ap.org/about/news-values-and-principles/news-values-introduction/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>We abhor inaccuracies, carelessness, bias or distortions. · False information · Sources of our information. · Copyright · Conflicts...Re...</p></details>
+   Link: <a href="https://www.ap.org/about/news-values-and-principles/news-values-introduction/" target="_blank" rel="noopener noreferrer nofollow">https://www.ap.org/about/news-values-and-principles/news-values-introduction/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>We abhor inaccuracies, carelessness, bias or distortions. · False information · Sources of our information. · Copyright · Conflicts...Re...</p></details>
 
-13.<a id="endnote-13"></a>
+13. <a id="endnote-13"></a>
    Source: nationalacademies.org  
-   Link:<a href="https://www.nationalacademies.org/read/25303/chapter/3" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/25303/chapter/3</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>National AcademiesReproducibility and Replicability in Science (2019)Replicability is obtaining consistent results across studies aimed a...</p></details>
+   Link: <a href="https://www.nationalacademies.org/read/25303/chapter/3" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/25303/chapter/3</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>National AcademiesReproducibility and Replicability in Science (2019)Replicability is obtaining consistent results across studies aimed a...</p></details>
 
-14.<a id="endnote-14"></a>
+14. <a id="endnote-14"></a>
    Source: nationalacademies.org  
-   Link:<a href="https://www.nationalacademies.org/projects/DBASSE-BBCSS-17-03/publication/25303" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/projects/DBASSE-BBCSS-17-03/publication/25303</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>National AcademiesReproducibility and Replicability in Science2019 · Cited by 1207 — As the result of a mandate from Congress, the Nation...</p></details>
+   Link: <a href="https://www.nationalacademies.org/projects/DBASSE-BBCSS-17-03/publication/25303" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/projects/DBASSE-BBCSS-17-03/publication/25303</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>National AcademiesReproducibility and Replicability in Science2019 · Cited by 1207 — As the result of a mandate from Congress, the Nation...</p></details>
 
-15.<a id="endnote-15"></a>
+15. <a id="endnote-15"></a>
    Source: pages.ucsd.edu  
    Title: UC San Diego Pages Confirmation Bias: A Ubiquitous Phenomenon in Many  
-   Link:<a href="https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf</a>  
+   Link: <a href="https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf</a>  
 
-16.<a id="endnote-16"></a>
+16. <a id="endnote-16"></a>
    Source: ap.org  
-   Link:<a href="https://www.ap.org/wp-content/uploads/2024/02/ap-news-values-and-principles-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ap.org/wp-content/uploads/2024/02/ap-news-values-and-principles-1.pdf</a>  
+   Link: <a href="https://www.ap.org/wp-content/uploads/2024/02/ap-news-values-and-principles-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ap.org/wp-content/uploads/2024/02/ap-news-values-and-principles-1.pdf</a>  
 
-17.<a id="endnote-17"></a>
+17. <a id="endnote-17"></a>
    Source: misinforeview.hks.harvard.edu  
-   Link:<a href="https://misinforeview.hks.harvard.edu/article/lateral-reading-college-students-learn-to-critically-evaluate-internet-sources-in-an-online-course/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/lateral-reading-college-students-learn-to-critically-evaluate-internet-sources-in-an-online-course/</a>  
+   Link: <a href="https://misinforeview.hks.harvard.edu/article/lateral-reading-college-students-learn-to-critically-evaluate-internet-sources-in-an-online-course/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/lateral-reading-college-students-learn-to-critically-evaluate-internet-sources-in-an-online-course/</a>  
 
-18.<a id="endnote-18"></a>
+18. <a id="endnote-18"></a>
    Source: guides.lib.uchicago.edu  
    Title: University of Chicago Library Guides The SIFT Method  
-   Link:<a href="https://guides.lib.uchicago.edu/c.php?g=1241077&amp;p=9082322" target="_blank" rel="noopener noreferrer nofollow">https://guides.lib.uchicago.edu/c.php?g=1241077&amp;p=9082322</a>  
+   Link: <a href="https://guides.lib.uchicago.edu/c.php?g=1241077&amp;p=9082322" target="_blank" rel="noopener noreferrer nofollow">https://guides.lib.uchicago.edu/c.php?g=1241077&amp;p=9082322</a>  
 
-19.<a id="endnote-19"></a>
+19. <a id="endnote-19"></a>
    Source: ap.org  
-   Link:<a href="https://www.ap.org/about/news-values-and-principles/" target="_blank" rel="noopener noreferrer nofollow">https://www.ap.org/about/news-values-and-principles/</a>  
+   Link: <a href="https://www.ap.org/about/news-values-and-principles/" target="_blank" rel="noopener noreferrer nofollow">https://www.ap.org/about/news-values-and-principles/</a>  
 
-20.<a id="endnote-20"></a>
+20. <a id="endnote-20"></a>
    Source: psychologicalscience.org  
-   Link:<a href="https://www.psychologicalscience.org/policy/national-academies-issues-consensus-report-on-reproducibility-and-replicability-in-science.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/policy/national-academies-issues-consensus-report-on-reproducibility-and-replicability-in-science.html</a>  
+   Link: <a href="https://www.psychologicalscience.org/policy/national-academies-issues-consensus-report-on-reproducibility-and-replicability-in-science.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/policy/national-academies-issues-consensus-report-on-reproducibility-and-replicability-in-science.html</a>  
 
-21.<a id="endnote-21"></a>
+21. <a id="endnote-21"></a>
    Source: policycommons.net  
-   Link:<a href="https://policycommons.net/artifacts/1756732/the-associated-press-statement-of-news-values-and-principles/2488629/" target="_blank" rel="noopener noreferrer nofollow">https://policycommons.net/artifacts/1756732/the-associated-press-statement-of-news-values-and-principles/2488629/</a>  
+   Link: <a href="https://policycommons.net/artifacts/1756732/the-associated-press-statement-of-news-values-and-principles/2488629/" target="_blank" rel="noopener noreferrer nofollow">https://policycommons.net/artifacts/1756732/the-associated-press-statement-of-news-values-and-principles/2488629/</a>  
 
-22.<a id="endnote-22"></a>
+22. <a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Confirmation bias  
-   Link:<a href="https://en.wikipedia.org/wiki/Confirmation_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Confirmation_bias</a>  
+   Link: <a href="https://en.wikipedia.org/wiki/Confirmation_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Confirmation_bias</a>  
 
-23.<a id="endnote-23"></a>
+23. <a id="endnote-23"></a>
    Source: nationalacademies.org  
-   Link:<a href="https://www.nationalacademies.org/news/new-report-examines-reproducibility-and-replicability-in-science-recommends-ways-to-improve-transparency-and-rigor-in-research" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/news/new-report-examines-reproducibility-and-replicability-in-science-recommends-ways-to-improve-transparency-and-rigor-in-research</a>  
+   Link: <a href="https://www.nationalacademies.org/news/new-report-examines-reproducibility-and-replicability-in-science-recommends-ways-to-improve-transparency-and-rigor-in-research" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/news/new-report-examines-reproducibility-and-replicability-in-science-recommends-ways-to-improve-transparency-and-rigor-in-research</a>  
 
-24.<a id="endnote-24"></a>
+24. <a id="endnote-24"></a>
    Source: nationalacademies.org  
-   Link:<a href="https://www.nationalacademies.org/read/25303/chapter/10" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/25303/chapter/10</a>  
+   Link: <a href="https://www.nationalacademies.org/read/25303/chapter/10" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/25303/chapter/10</a>  
 
-25.<a id="endnote-25"></a>
+25. <a id="endnote-25"></a>
    Source: nap.nationalacademies.org  
-   Link:<a href="https://nap.nationalacademies.org/collection/89/reproducibility" target="_blank" rel="noopener noreferrer nofollow">https://nap.nationalacademies.org/collection/89/reproducibility</a>  
+   Link: <a href="https://nap.nationalacademies.org/collection/89/reproducibility" target="_blank" rel="noopener noreferrer nofollow">https://nap.nationalacademies.org/collection/89/reproducibility</a>  
 
-26.<a id="endnote-26"></a>
+26. <a id="endnote-26"></a>
    Source: nationalacademies.org  
-   Link:<a href="https://www.nationalacademies.org/read/25303/chapter/9" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/25303/chapter/9</a>  
+   Link: <a href="https://www.nationalacademies.org/read/25303/chapter/9" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/25303/chapter/9</a>  
 
-27.<a id="endnote-27"></a>
+27. <a id="endnote-27"></a>
    Source: libguides.milton.edu  
    Title: lateral reading  
-   Link:<a href="https://libguides.milton.edu/lateral-reading" target="_blank" rel="noopener noreferrer nofollow">https://libguides.milton.edu/lateral-reading</a>  
+   Link: <a href="https://libguides.milton.edu/lateral-reading" target="_blank" rel="noopener noreferrer nofollow">https://libguides.milton.edu/lateral-reading</a>  
 
-28.<a id="endnote-28"></a>
+28. <a id="endnote-28"></a>
    Source: libguides.ucmerced.edu  
    Title: sift method  
-   Link:<a href="https://libguides.ucmerced.edu/news/evaluation/sift-method" target="_blank" rel="noopener noreferrer nofollow">https://libguides.ucmerced.edu/news/evaluation/sift-method</a>  
+   Link: <a href="https://libguides.ucmerced.edu/news/evaluation/sift-method" target="_blank" rel="noopener noreferrer nofollow">https://libguides.ucmerced.edu/news/evaluation/sift-method</a>  
 
-29.<a id="endnote-29"></a>
+29. <a id="endnote-29"></a>
    Source: scienceofboosting.org  
    Title: Lateral Reading  
-   Link:<a href="https://www.scienceofboosting.org/project/lateral-reading/" target="_blank" rel="noopener noreferrer nofollow">https://www.scienceofboosting.org/project/lateral-reading/</a>  
+   Link: <a href="https://www.scienceofboosting.org/project/lateral-reading/" target="_blank" rel="noopener noreferrer nofollow">https://www.scienceofboosting.org/project/lateral-reading/</a>  
 
-30.<a id="endnote-30"></a>
+30. <a id="endnote-30"></a>
    Source: crln.acrl.org  
-   Link:<a href="https://crln.acrl.org/index.php/crlnews/article/view/26143/34085" target="_blank" rel="noopener noreferrer nofollow">https://crln.acrl.org/index.php/crlnews/article/view/26143/34085</a>  
+   Link: <a href="https://crln.acrl.org/index.php/crlnews/article/view/26143/34085" target="_blank" rel="noopener noreferrer nofollow">https://crln.acrl.org/index.php/crlnews/article/view/26143/34085</a>  
 
 ### Additional References
 
-31.<a id="endnote-31"></a>
+31. <a id="endnote-31"></a>
    Source: downloads.bbc.co.uk  
-   Link:<a href="https://downloads.bbc.co.uk/guidelines/editorialguidelines/pdfs/Section_03_Accuracy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://downloads.bbc.co.uk/guidelines/editorialguidelines/pdfs/Section_03_Accuracy.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>BBC DownloadsSECTION 3: ACCURACYWe should carefully scrutinise and, if necessary to achieve due accuracy, corroborate eyewitness accounts...</p></details>
+   Link: <a href="https://downloads.bbc.co.uk/guidelines/editorialguidelines/pdfs/Section_03_Accuracy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://downloads.bbc.co.uk/guidelines/editorialguidelines/pdfs/Section_03_Accuracy.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>BBC DownloadsSECTION 3: ACCURACYWe should carefully scrutinise and, if necessary to achieve due accuracy, corroborate eyewitness accounts...</p></details>
 
-32.<a id="endnote-32"></a>
+32. <a id="endnote-32"></a>
    Source: youtube.com  
-   Link:<a href="https://www.youtube.com/watch?v=GoQG6Tin-1E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GoQG6Tin-1E</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Who Can You Trust? Crash Course Navigating Digital Information #4...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=GoQG6Tin-1E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GoQG6Tin-1E</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Who Can You Trust? Crash Course Navigating Digital Information #4...</p></details>
 
-33.<a id="endnote-33"></a>
+33. <a id="endnote-33"></a>
    Source: youtube.com  
    Title: Evaluating Sources & Fact Checking: Crash Course Scientific Thinking #6  
-   Link:<a href="https://www.youtube.com/watch?v=Fm0MpfKIs5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Fm0MpfKIs5w</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Check Yourself with Lateral Reading: Crash Course Navigating Digital Information #3...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=Fm0MpfKIs5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Fm0MpfKIs5w</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Check Yourself with Lateral Reading: Crash Course Navigating Digital Information #3...</p></details>
 
-34.<a id="endnote-34"></a>
+34. <a id="endnote-34"></a>
    Source: youtube.com  
    Title: Who Can You Trust? Crash Course Navigating Digital Information #4  
-   Link:<a href="https://www.youtube.com/watch?v=ih4dY9i9JKE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ih4dY9i9JKE</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating Evidence: Crash Course Navigating Digital Information #6...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=ih4dY9i9JKE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ih4dY9i9JKE</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating Evidence: Crash Course Navigating Digital Information #6...</p></details>
 
-35.<a id="endnote-35"></a>
+35. <a id="endnote-35"></a>
    Source: media-diversity.org  
-   Link:<a href="https://media-diversity.org/additional-files/documents/A%20Guides/MHM%20Editorial%20Ethics%20%5BEN%5D/2.Accuracy.php.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media-diversity.org/additional-files/documents/A%20Guides/MHM%20Editorial%20Ethics%20%5BEN%5D/2.Accuracy.php.pdf</a>  
+   Link: <a href="https://media-diversity.org/additional-files/documents/A%20Guides/MHM%20Editorial%20Ethics%20%5BEN%5D/2.Accuracy.php.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media-diversity.org/additional-files/documents/A%20Guides/MHM%20Editorial%20Ethics%20%5BEN%5D/2.Accuracy.php.pdf</a>  
 
-36.<a id="endnote-36"></a>
+36. <a id="endnote-36"></a>
    Source: facebook.com  
-   Link:<a href="https://www.facebook.com/TheCJID/posts/speaking-on-the-methodology-of-fact-checking-temilade-onilede-awe2mira-stated-th/1385150293648878/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheCJID/posts/speaking-on-the-methodology-of-fact-checking-temilade-onilede-awe2mira-stated-th/1385150293648878/</a>  
+   Link: <a href="https://www.facebook.com/TheCJID/posts/speaking-on-the-methodology-of-fact-checking-temilade-onilede-awe2mira-stated-th/1385150293648878/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheCJID/posts/speaking-on-the-methodology-of-fact-checking-temilade-onilede-awe2mira-stated-th/1385150293648878/</a>  
 
-37.<a id="endnote-37"></a>
+37. <a id="endnote-37"></a>
    Source: hufocw.org  
-   Link:<a href="https://www.hufocw.org/Download/file/31487" target="_blank" rel="noopener noreferrer nofollow">https://www.hufocw.org/Download/file/31487</a>  
+   Link: <a href="https://www.hufocw.org/Download/file/31487" target="_blank" rel="noopener noreferrer nofollow">https://www.hufocw.org/Download/file/31487</a>  
 
-38.<a id="endnote-38"></a>
+38. <a id="endnote-38"></a>
    Source: lorentzcenter.nl  
-   Link:<a href="https://www.lorentzcenter.nl/index.php?PHPSESSID=720d36fd32923f3d9731c349d96e4098&amp;conBestandId=3653&amp;id=1949&amp;pntHandler=DownloadAction&amp;pntType=ConPagina" target="_blank" rel="noopener noreferrer nofollow">https://www.lorentzcenter.nl/index.php?PHPSESSID=720d36fd32923f3d9731c349d96e4098&amp;conBestandId=3653&amp;id=1949&amp;pntHandler=DownloadAction&amp;pntType=ConPagina</a>  
+   Link: <a href="https://www.lorentzcenter.nl/index.php?PHPSESSID=720d36fd32923f3d9731c349d96e4098&amp;conBestandId=3653&amp;id=1949&amp;pntHandler=DownloadAction&amp;pntType=ConPagina" target="_blank" rel="noopener noreferrer nofollow">https://www.lorentzcenter.nl/index.php?PHPSESSID=720d36fd32923f3d9731c349d96e4098&amp;conBestandId=3653&amp;id=1949&amp;pntHandler=DownloadAction&amp;pntType=ConPagina</a>  
 
-39.<a id="endnote-39"></a>
+39. <a id="endnote-39"></a>
    Source: thebaron.info  
-   Link:<a href="https://www.thebaron.info/handbook-of-journalism" target="_blank" rel="noopener noreferrer nofollow">https://www.thebaron.info/handbook-of-journalism</a>  
+   Link: <a href="https://www.thebaron.info/handbook-of-journalism" target="_blank" rel="noopener noreferrer nofollow">https://www.thebaron.info/handbook-of-journalism</a>  
 
-40.<a id="endnote-40"></a>
+40. <a id="endnote-40"></a>
    Source: cor.inquirygroup.org  
-   Link:<a href="https://cor.inquirygroup.org/curriculum/collections/teaching-lateral-reading/" target="_blank" rel="noopener noreferrer nofollow">https://cor.inquirygroup.org/curriculum/collections/teaching-lateral-reading/</a>  
+   Link: <a href="https://cor.inquirygroup.org/curriculum/collections/teaching-lateral-reading/" target="_blank" rel="noopener noreferrer nofollow">https://cor.inquirygroup.org/curriculum/collections/teaching-lateral-reading/</a>  

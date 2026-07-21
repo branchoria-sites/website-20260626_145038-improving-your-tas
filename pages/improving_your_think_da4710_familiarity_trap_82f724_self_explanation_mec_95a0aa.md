@@ -280,7 +280,7 @@ image: /assets/images/improving_your_think_da4710_familiarity_trap_82f724_self_e
 
 ## Introduction
 
-Recognising an explanation is not the same as understanding it. One of the fastest ways to expose the difference is to explain the idea yourself, step by step, without relying on the original wording. Good self-explanation does not ask, "Can I repeat this?" It asks, "Can I show why each step follows from the previous one, what assumptions it depends on, and when it would stop working?" Research on self-explanation and the illusion of explanatory depth consistently shows that these [prompts]({{ 'prompts/' | relative_url }}) improve learning because they reveal missing causal links rather than allowing learners to rely on familiarity alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://andymatuschak.org/files/papers/Chi%20et%20al%20-%201994%20-%20Eliciting%20self-explanations%20improves%20understanding.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: andymatuschak.org">[Andy Matuschak+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">andymatuschak.org</span><span class="citation-popover-title">Chi et al 1994 Eliciting self explanations improves understanding</span><span class="citation-popover-snippet">1989) study concerned the learning of a pro- cedural skill from examples provided in a physics text. Generally, a worked-.Read more...</span></span></span>
+Recognising an explanation is not the same as understanding it. One of the fastest ways to expose the difference is to explain the idea yourself, step by step, without relying on the original wording. Good self-explanation does not ask, "Can I repeat this?" It asks, "Can I show why each step follows from the previous one, what assumptions it depends on, and when it would stop working?" Research on self-explanation and the illusion of explanatory depth consistently shows that these [prompts]({{ 'prompts/' | relative_url }}) improve learning because they reveal missing causal links rather than allowing learners to rely on familiarity alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://andymatuschak.org/files/papers/Chi%20et%20al%20-%201994%20-%20Eliciting%20self-explanations%20improves%20understanding.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: andymatuschak.org">[Andy Matuschak+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">andymatuschak.org</span><span class="citation-popover-title">Chi et al 1994 Eliciting self explanations improves understanding</span><span class="citation-popover-snippet">1989) study concerned the learning of a pro- cedural skill from examples provided in a physics text. Generally, a worked-.Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_familiarity_trap_82f724_self_explanation_mec_95a0aa-Illustration-1-dark.svg" | relative_url }}" alt="Self Explain illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_familiarity_trap_82f724_self_explanation_mec_95a0aa-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_familiarity_trap_82f724_self_explanation_mec_95a0aa-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -290,7 +290,7 @@ Within the broader distinction between familiarity and genuine understanding, se
 
 Many learners believe they understand material because they can restate it in different words. That is useful for checking memory, but it often leaves the underlying mechanism untouched.
 
-A paraphrase answers, "What did this say?" A causal explanation answers, "Why does this happen?" or "How does one step produce the next?" Those are different cognitive tasks. Successful learners tend to add information that is not explicitly written in the material, filling in omitted assumptions and explaining why a particular principle applies rather than merely describing what happened.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://andymatuschak.org/files/papers/Chi%20et%20al%20-%201994%20-%20Eliciting%20self-explanations%20improves%20understanding.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: andymatuschak.org">[Andy Matuschak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">andymatuschak.org</span><span class="citation-popover-title">Chi et al 1994 Eliciting self explanations improves understanding</span><span class="citation-popover-snippet">1989) study concerned the learning of a pro- cedural skill from examples provided in a physics text. Generally, a worked-.Read more...</span></span></span>
+A paraphrase answers, "What did this say?" A causal explanation answers, "Why does this happen?" or "How does one step produce the next?" Those are different cognitive tasks. Successful learners tend to add information that is not explicitly written in the material, filling in omitted assumptions and explaining why a particular principle applies rather than merely describing what happened. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://andymatuschak.org/files/papers/Chi%20et%20al%20-%201994%20-%20Eliciting%20self-explanations%20improves%20understanding.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: andymatuschak.org">[Andy Matuschak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">andymatuschak.org</span><span class="citation-popover-title">Chi et al 1994 Eliciting self explanations improves understanding</span><span class="citation-popover-snippet">1989) study concerned the learning of a pro- cedural skill from examples provided in a physics text. Generally, a worked-.Read more...</span></span></span>
 
 For example:
 
@@ -328,7 +328,7 @@ Notice how the wording changes the task:
 
 The second prompt demands construction rather than repetition.
 
-Research synthesised across many studies shows that prompted self-explanations produce a moderate positive effect on learning across different ages, subjects and instructional settings, particularly when learners are encouraged to explain relationships and principles instead of merely reviewing content.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.clearinghouse.edu.tum.de/wp-content/uploads/2023/09/CHU-KR-25_ENG_Bisra_2018_Selbsterklaerungen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clearinghouse.edu.tum.de">[Clearinghouse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clearinghouse.edu.tum.de</span><span class="citation-popover-snippet">Open source on tum.de.</span></span></span>
+Research synthesised across many studies shows that prompted self-explanations produce a moderate positive effect on learning across different ages, subjects and instructional settings, particularly when learners are encouraged to explain relationships and principles instead of merely reviewing content. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.clearinghouse.edu.tum.de/wp-content/uploads/2023/09/CHU-KR-25_ENG_Bisra_2018_Selbsterklaerungen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clearinghouse.edu.tum.de">[Clearinghouse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clearinghouse.edu.tum.de</span><span class="citation-popover-snippet">Open source on tum.de.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hSLPFMiJcQc" title="Self-Explanation: Help Students Connect and Deepen Learning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hSLPFMiJcQc" target="_blank" rel="noopener noreferrer">Self-Explanation: Help Students Connect and Deepen Learning</a></p><p class="youtube-embed-meta">Channel: IRIS Connect</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hSLPFMiJcQc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hSLPFMiJcQc">Open on YouTube</a></p></div></div></div>
@@ -359,7 +359,7 @@ Pause after each line and ask:
 
 </div>
 
-Classic studies of worked examples found that students who generated these kinds of explanations learned more effectively than those who simply studied completed solutions. Importantly, effective learners often supplied principles that were absent from the printed example, building richer mental models instead of memorising procedures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://andymatuschak.org/files/papers/Chi%20et%20al%20-%201994%20-%20Eliciting%20self-explanations%20improves%20understanding.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: andymatuschak.org">[Andy Matuschak+2education.asu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">andymatuschak.org</span><span class="citation-popover-title">Chi et al 1994 Eliciting self explanations improves understanding</span><span class="citation-popover-snippet">1989) study concerned the learning of a pro- cedural skill from examples provided in a physics text. Generally, a worked-.Read more...</span></span></span>
+Classic studies of worked examples found that students who generated these kinds of explanations learned more effectively than those who simply studied completed solutions. Importantly, effective learners often supplied principles that were absent from the printed example, building richer mental models instead of memorising procedures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://andymatuschak.org/files/papers/Chi%20et%20al%20-%201994%20-%20Eliciting%20self-explanations%20improves%20understanding.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: andymatuschak.org">[Andy Matuschak+2education.asu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">andymatuschak.org</span><span class="citation-popover-title">Chi et al 1994 Eliciting self explanations improves understanding</span><span class="citation-popover-snippet">1989) study concerned the learning of a pro- cedural skill from examples provided in a physics text. Generally, a worked-.Read more...</span></span></span>
 
 A practical signal of shallow understanding is needing to keep looking back at the example. A stronger sign of understanding is being able to predict the next move before it appears.
 
@@ -367,7 +367,7 @@ A practical signal of shallow understanding is needing to keep looking back at t
 <img src="{{ "/assets/images/improving_your_think_da4710_familiarity_trap_82f724_self_explanation_mec_95a0aa-Illustration-2-dark.svg" | relative_url }}" alt="Self Explain illustration 2" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_familiarity_trap_82f724_self_explanation_mec_95a0aa-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_familiarity_trap_82f724_self_explanation_mec_95a0aa-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Arguments: explaining why reasons actually support conclusions
 
-Self-explanation is equally useful outside mathematics or science.<span class="citation-chip-wrap"><a class="citation-chip" href="https://education.asu.edu/sites/g/files/litvpz656/files/lcl/self-explanation_effect.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.asu.edu">[education.asu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.asu.edu</span><span class="citation-popover-title">self explanation effect</span><span class="citation-popover-snippet">A Model of the Self-Explanation Effectby K VanLehn · 1992 · Cited by 588 — Thus, studying examples properly raises the learning rate on s...</span></span></span>
+Self-explanation is equally useful outside mathematics or science. <span class="citation-chip-wrap"><a class="citation-chip" href="https://education.asu.edu/sites/g/files/litvpz656/files/lcl/self-explanation_effect.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.asu.edu">[education.asu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.asu.edu</span><span class="citation-popover-title">self explanation effect</span><span class="citation-popover-snippet">A Model of the Self-Explanation Effectby K VanLehn · 1992 · Cited by 588 — Thus, studying examples properly raises the learning rate on s...</span></span></span>
 
 Suppose an argument claims:
 
@@ -377,7 +377,7 @@ A superficial explanation repeats:
 
 > "More housing lowers prices."
 
-A stronger self-explanation asks:<span class="citation-chip-wrap"><a class="citation-chip" href="https://education.asu.edu/sites/g/files/litvpz656/files/lcl/self-explanation_effect.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.asu.edu">[education.asu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.asu.edu</span><span class="citation-popover-title">self explanation effect</span><span class="citation-popover-snippet">A Model of the Self-Explanation Effectby K VanLehn · 1992 · Cited by 588 — Thus, studying examples properly raises the learning rate on s...</span></span></span>
+A stronger self-explanation asks: <span class="citation-chip-wrap"><a class="citation-chip" href="https://education.asu.edu/sites/g/files/litvpz656/files/lcl/self-explanation_effect.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.asu.edu">[education.asu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.asu.edu</span><span class="citation-popover-title">self explanation effect</span><span class="citation-popover-snippet">A Model of the Self-Explanation Effectby K VanLehn · 1992 · Cited by 588 — Thus, studying examples properly raises the learning rate on s...</span></span></span>
 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
@@ -400,9 +400,9 @@ The same approach works when evaluating research papers, business strategies or 
 
 Many people experience an unexpected drop in confidence when attempting detailed explanations. That is usually a sign of improved calibration rather than worse learning.
 
-Research on the illusion of explanatory depth demonstrates that people commonly believe they understand complex systems until they attempt to explain them in detail. Explaining reveals omitted [mechanisms]({{ 'mechanisms/' | relative_url }}), hidden assumptions and uncertain transitions that familiarity had concealed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3062901/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by L Rozenblit · 2002 · Cited by 1507 — We argue that the illusion of depth seen with explanatory knowledge is a separate phenomenon f...</span></span></span>
+Research on the illusion of explanatory depth demonstrates that people commonly believe they understand complex systems until they attempt to explain them in detail. Explaining reveals omitted [mechanisms]({{ 'mechanisms/' | relative_url }}), hidden assumptions and uncertain transitions that familiarity had concealed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3062901/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by L Rozenblit · 2002 · Cited by 1507 — We argue that the illusion of depth seen with explanatory knowledge is a separate phenomenon f...</span></span></span>
 
-This explains why self-explanation often feels uncomfortable. It replaces the question:<span class="citation-chip-wrap"><a class="citation-chip" href="https://education.asu.edu/sites/g/files/litvpz656/files/lcl/self-explanation_effect.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.asu.edu">[education.asu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.asu.edu</span><span class="citation-popover-title">self explanation effect</span><span class="citation-popover-snippet">A Model of the Self-Explanation Effectby K VanLehn · 1992 · Cited by 588 — Thus, studying examples properly raises the learning rate on s...</span></span></span>
+This explains why self-explanation often feels uncomfortable. It replaces the question: <span class="citation-chip-wrap"><a class="citation-chip" href="https://education.asu.edu/sites/g/files/litvpz656/files/lcl/self-explanation_effect.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.asu.edu">[education.asu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.asu.edu</span><span class="citation-popover-title">self explanation effect</span><span class="citation-popover-snippet">A Model of the Self-Explanation Effectby K VanLehn · 1992 · Cited by 588 — Thus, studying examples properly raises the learning rate on s...</span></span></span>
 
 > "Does this seem familiar?"
 
@@ -418,7 +418,7 @@ The temporary feeling of uncertainty is therefore productive. It identifies exac
 <img src="{{ "/assets/images/improving_your_think_da4710_familiarity_trap_82f724_self_explanation_mec_95a0aa-Illustration-3-dark.svg" | relative_url }}" alt="Self Explain illustration 3" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_familiarity_trap_82f724_self_explanation_mec_95a0aa-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_familiarity_trap_82f724_self_explanation_mec_95a0aa-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Common mistakes that weaken self-explanation
 
-Several habits reduce the value of self-explanation:<span class="citation-chip-wrap"><a class="citation-chip" href="https://education.asu.edu/sites/g/files/litvpz656/files/lcl/self-explanation_effect.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.asu.edu">[education.asu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.asu.edu</span><span class="citation-popover-title">self explanation effect</span><span class="citation-popover-snippet">A Model of the Self-Explanation Effectby K VanLehn · 1992 · Cited by 588 — Thus, studying examples properly raises the learning rate on s...</span></span></span>
+Several habits reduce the value of self-explanation: <span class="citation-chip-wrap"><a class="citation-chip" href="https://education.asu.edu/sites/g/files/litvpz656/files/lcl/self-explanation_effect.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.asu.edu">[education.asu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.asu.edu</span><span class="citation-popover-title">self explanation effect</span><span class="citation-popover-snippet">A Model of the Self-Explanation Effectby K VanLehn · 1992 · Cited by 588 — Thus, studying examples properly raises the learning rate on s...</span></span></span>
 
 * **Repeating the author's sentences.** This tests memory more than understanding.
 * **Skipping obvious-looking steps.** The "obvious" transitions often hide the missing mechanism.
@@ -435,7 +435,7 @@ A useful rule is that every technical term should eventually unpack into an unde
 
 ## A practical self-explanation routine
 
-A short routine can make self-explanation systematic rather than occasional.<span class="citation-chip-wrap"><a class="citation-chip" href="https://education.asu.edu/sites/g/files/litvpz656/files/lcl/self-explanation_effect.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.asu.edu">[education.asu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.asu.edu</span><span class="citation-popover-title">self explanation effect</span><span class="citation-popover-snippet">A Model of the Self-Explanation Effectby K VanLehn · 1992 · Cited by 588 — Thus, studying examples properly raises the learning rate on s...</span></span></span>
+A short routine can make self-explanation systematic rather than occasional. <span class="citation-chip-wrap"><a class="citation-chip" href="https://education.asu.edu/sites/g/files/litvpz656/files/lcl/self-explanation_effect.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.asu.edu">[education.asu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.asu.edu</span><span class="citation-popover-title">self explanation effect</span><span class="citation-popover-snippet">A Model of the Self-Explanation Effectby K VanLehn · 1992 · Cited by 588 — Thus, studying examples properly raises the learning rate on s...</span></span></span>
 
 After reading one paragraph, solving one step or reviewing one argument:
 
@@ -458,194 +458,194 @@ After reading one paragraph, solving one step or reviewing one argument:
 The goal is not producing polished explanations. It is finding the precise point where your understanding stops. Each missing causal connection becomes a specific learning target, turning vague familiarity into knowledge that can be reconstructed, applied and tested independently.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to The Prompts That Expose Shallow Understanding. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to The Prompts That Expose Shallow Understanding. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-</h4>
-<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+We+Learn+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How We Learn on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=R9C2DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How We Learn" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=How+We+Learn+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How We Learn">How We Learn</a>
+        </h4>
+        <p class="fr-book-author">By Stanislas Dehaene</p>
         
-<p class="fr-book-desc">Supports self-explanation and active retrieval.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains why generating explanations improves learning.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=How+We+Learn+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+We+Learn+by+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How We Learn on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ncgJAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How We Learn" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=How+We+Learn+by+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How We Learn">How We Learn</a>
-</h4>
-<p class="fr-book-author">By Benedict Carey</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oneWAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+        </h4>
+        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-<p class="fr-book-desc">Explains why generating explanations improves learning.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=How+We+Learn+by+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Supports self-explanation and active retrieval.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DlMlEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
-</h4>
-<p class="fr-book-author">By Daniel T. Willingham</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DlMlEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
+        </h4>
+        <p class="fr-book-author">By Daniel T. Willingham</p>
         
-<p class="fr-book-desc">Focuses on meaningful understanding rather than repetition.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Focuses on meaningful understanding rather than repetition.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Teach+Yourself+How+to+Learn+by+Saundra+Yancy+McGuire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Teach Yourself How to Learn on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hA_JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Teach Yourself How to Learn" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Teach+Yourself+How+to+Learn+by+Saundra+Yancy+McGuire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Teach Yourself How to Learn">Teach Yourself How to Learn</a>
-</h4>
-<p class="fr-book-author">By Saundra Yancy McGuire</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Learning+Josh+Waitzkin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Learning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XUwOtdcIWdkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Art of Learning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Art+of+Learning+Josh+Waitzkin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Learning">The Art of Learning</a>
+        </h4>
+        <p class="fr-book-author">By Josh Waitzkin</p>
         
-<p class="fr-book-desc">Encourages explanation and metacognitive learning habits.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Teach+Yourself+How+to+Learn+by+Saundra+Yancy+McGuire&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Encourages deep comprehension through active practice.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Art+of+Learning+Josh+Waitzkin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+We+Learn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How We Learn</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Don&#x27;t Students Like School?</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+We+Learn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How We Learn</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Don&#x27;t Students Like School?</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 / A5 Dry Wipe Mini Office Whiteboard Notice Memo White Board Pen &amp; Eraser"><img src="https://i.ebayimg.com/images/g/4KsAAOSwmyNkrvPE/s-l225.jpg" alt="Listing image for A4 / A5 Dry Wipe Mini Office Whiteboard Notice Memo White Board Pen &amp; Eraser" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer">A4 / A5 Dry Wipe Mini Office Whiteboard Notice Memo White Board Pen &amp; Eraser</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for dry erase whiteboard">Search<span data-ebay-domain-label>eBay.co.uk</span>: dry erase whiteboard</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 / A5 Dry Wipe Mini Office Whiteboard Notice Memo White Board Pen &amp; Eraser"><img src="https://i.ebayimg.com/images/g/4KsAAOSwmyNkrvPE/s-l225.jpg" alt="Listing image for A4 / A5 Dry Wipe Mini Office Whiteboard Notice Memo White Board Pen &amp; Eraser" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer">A4 / A5 Dry Wipe Mini Office Whiteboard Notice Memo White Board Pen &amp; Eraser</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for dry erase whiteboard">Search <span data-ebay-domain-label>eBay.co.uk</span>: dry erase whiteboard</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Glass Desktop Dry Erase Whiteboard with Storage Caddy and Calculator 15.75x7.09&quot;"><img src="https://i.ebayimg.com/images/g/TPYAAOSwi41m1yyn/s-l225.jpg" alt="Listing image for Glass Desktop Dry Erase Whiteboard with Storage Caddy and Calculator 15.75x7.09&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer">Glass Desktop Dry Erase Whiteboard with Storage Caddy and Calculator 15.75x7.09&quot;</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for dry erase whiteboard">Search<span data-ebay-domain-label>eBay.co.uk</span>: dry erase whiteboard</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Glass Desktop Dry Erase Whiteboard with Storage Caddy and Calculator 15.75x7.09&quot;"><img src="https://i.ebayimg.com/images/g/TPYAAOSwi41m1yyn/s-l225.jpg" alt="Listing image for Glass Desktop Dry Erase Whiteboard with Storage Caddy and Calculator 15.75x7.09&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer">Glass Desktop Dry Erase Whiteboard with Storage Caddy and Calculator 15.75x7.09&quot;</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for dry erase whiteboard">Search <span data-ebay-domain-label>eBay.co.uk</span>: dry erase whiteboard</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Magnetic Fridge Whiteboard, Dry Erase Magnet Memo Board Kitchen Notice Planner"><img src="https://i.ebayimg.com/images/g/X9EAAOSwg-xhPnrQ/s-l225.jpg" alt="Listing image for Magnetic Fridge Whiteboard, Dry Erase Magnet Memo Board Kitchen Notice Planner" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer">Magnetic Fridge Whiteboard, Dry Erase Magnet Memo Board Kitchen Notice Planner</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for dry erase whiteboard">Search<span data-ebay-domain-label>eBay.co.uk</span>: dry erase whiteboard</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Magnetic Fridge Whiteboard, Dry Erase Magnet Memo Board Kitchen Notice Planner"><img src="https://i.ebayimg.com/images/g/X9EAAOSwg-xhPnrQ/s-l225.jpg" alt="Listing image for Magnetic Fridge Whiteboard, Dry Erase Magnet Memo Board Kitchen Notice Planner" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer">Magnetic Fridge Whiteboard, Dry Erase Magnet Memo Board Kitchen Notice Planner</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for dry erase whiteboard">Search <span data-ebay-domain-label>eBay.co.uk</span>: dry erase whiteboard</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Magnetic Whiteboard Large 900x600 White Board Dry Wipe Notice Office School Home"><img src="https://i.ebayimg.com/images/g/D0AAAeSwPQNqPOQS/s-l225.jpg" alt="Listing image for Magnetic Whiteboard Large 900x600 White Board Dry Wipe Notice Office School Home" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer">Magnetic Whiteboard Large 900x600 White Board Dry Wipe Notice Office School Home</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for dry erase whiteboard">Search<span data-ebay-domain-label>eBay.co.uk</span>: dry erase whiteboard</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Magnetic Whiteboard Large 900x600 White Board Dry Wipe Notice Office School Home"><img src="https://i.ebayimg.com/images/g/D0AAAeSwPQNqPOQS/s-l225.jpg" alt="Listing image for Magnetic Whiteboard Large 900x600 White Board Dry Wipe Notice Office School Home" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer">Magnetic Whiteboard Large 900x600 White Board Dry Wipe Notice Office School Home</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for dry erase whiteboard">Search <span data-ebay-domain-label>eBay.co.uk</span>: dry erase whiteboard</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="the-prompts-that-expose-shallow-understanding-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -661,7 +661,7 @@ The goal is not producing polished explanations. It is finding the precise point
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -681,7 +681,7 @@ The goal is not producing polished explanations. It is finding the precise point
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -713,7 +713,7 @@ The goal is not producing polished explanations. It is finding the precise point
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -765,7 +765,7 @@ The goal is not producing polished explanations. It is finding the precise point
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -810,7 +810,7 @@ The goal is not producing polished explanations. It is finding the precise point
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -850,80 +850,80 @@ The goal is not producing polished explanations. It is finding the precise point
 </section>
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3062901/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3062901/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>by L Rozenblit · 2002 · Cited by 1507 — We argue that the illusion of depth seen with explanatory knowledge is a separate phenomenon f...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3062901/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3062901/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by L Rozenblit · 2002 · Cited by 1507 — We argue that the illusion of depth seen with explanatory knowledge is a separate phenomenon f...</p></details>
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: education.asu.edu  
    Title: self explanation effect  
-   Link:<a href="https://education.asu.edu/sites/g/files/litvpz656/files/lcl/self-explanation_effect.pdf" target="_blank" rel="noopener noreferrer nofollow">https://education.asu.edu/sites/g/files/litvpz656/files/lcl/self-explanation_effect.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>A Model of the Self-Explanation Effectby K VanLehn · 1992 · Cited by 588 — Thus, studying examples properly raises the learning rate on s...</p></details>
+   Link: <a href="https://education.asu.edu/sites/g/files/litvpz656/files/lcl/self-explanation_effect.pdf" target="_blank" rel="noopener noreferrer nofollow">https://education.asu.edu/sites/g/files/litvpz656/files/lcl/self-explanation_effect.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Model of the Self-Explanation Effectby K VanLehn · 1992 · Cited by 588 — Thus, studying examples properly raises the learning rate on s...</p></details>
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: andymatuschak.org  
    Title: Chi et al 1994 Eliciting self explanations improves understanding  
-   Link:<a href="https://andymatuschak.org/files/papers/Chi%20et%20al%20-%201994%20-%20Eliciting%20self-explanations%20improves%20understanding.pdf" target="_blank" rel="noopener noreferrer nofollow">https://andymatuschak.org/files/papers/Chi%20et%20al%20-%201994%20-%20Eliciting%20self-explanations%20improves%20understanding.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>(1989) study concerned the learning of a pro- cedural skill from examples provided in a physics text. Generally, a worked-.Read more...</p></details>
+   Link: <a href="https://andymatuschak.org/files/papers/Chi%20et%20al%20-%201994%20-%20Eliciting%20self-explanations%20improves%20understanding.pdf" target="_blank" rel="noopener noreferrer nofollow">https://andymatuschak.org/files/papers/Chi%20et%20al%20-%201994%20-%20Eliciting%20self-explanations%20improves%20understanding.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>(1989) study concerned the learning of a pro- cedural skill from examples provided in a physics text. Generally, a worked-.Read more...</p></details>
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: clearinghouse.edu.tum.de  
-   Link:<a href="https://www.clearinghouse.edu.tum.de/wp-content/uploads/2023/09/CHU-KR-25_ENG_Bisra_2018_Selbsterklaerungen.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.clearinghouse.edu.tum.de/wp-content/uploads/2023/09/CHU-KR-25_ENG_Bisra_2018_Selbsterklaerungen.pdf</a>  
+   Link: <a href="https://www.clearinghouse.edu.tum.de/wp-content/uploads/2023/09/CHU-KR-25_ENG_Bisra_2018_Selbsterklaerungen.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.clearinghouse.edu.tum.de/wp-content/uploads/2023/09/CHU-KR-25_ENG_Bisra_2018_Selbsterklaerungen.pdf</a>  
 
 ### Additional References
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: ncolr.org  
-   Link:<a href="https://www.ncolr.org/jiol/issues/pdf/10.2.3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ncolr.org/jiol/issues/pdf/10.2.3.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>This study examined the effects of self-explanation prompts on problem-solving performance. In total, 47 students were recruited and trai...</p></details>
+   Link: <a href="https://www.ncolr.org/jiol/issues/pdf/10.2.3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ncolr.org/jiol/issues/pdf/10.2.3.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>This study examined the effects of self-explanation prompts on problem-solving performance. In total, 47 students were recruited and trai...</p></details>
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/225510840_Assisting_self-explanation_prompts_are_more_effective_than_open_prompts_when_learning_with_multiple_representations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/225510840_Assisting_self-explanation_prompts_are_more_effective_than_open_prompts_when_learning_with_multiple_representations</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>ve monitoring and reflection, helping students articulate reasoning, detect...Read more...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/225510840_Assisting_self-explanation_prompts_are_more_effective_than_open_prompts_when_learning_with_multiple_representations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/225510840_Assisting_self-explanation_prompts_are_more_effective_than_open_prompts_when_learning_with_multiple_representations</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ve monitoring and reflection, helping students articulate reasoning, detect...Read more...</p></details>
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: cambridge.org  
-   Link:<a href="https://www.cambridge.org/core/journals/judgment-and-decision-making/article/broad-effects-of-shallow-understanding-explaining-an-unrelated-phenomenon-exposes-the-illusion-of-explanatory-depth/9B9B8927C3E530EBCF0453504730E3F3" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/judgment-and-decision-making/article/broad-effects-of-shallow-understanding-explaining-an-unrelated-phenomenon-exposes-the-illusion-of-explanatory-depth/9B9B8927C3E530EBCF0453504730E3F3</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentExplaining an unrelated phenomenon exposes the illusion...by EA Meyers · 2023 · Cited by 13 — The...</p></details>
+   Link: <a href="https://www.cambridge.org/core/journals/judgment-and-decision-making/article/broad-effects-of-shallow-understanding-explaining-an-unrelated-phenomenon-exposes-the-illusion-of-explanatory-depth/9B9B8927C3E530EBCF0453504730E3F3" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/judgment-and-decision-making/article/broad-effects-of-shallow-understanding-explaining-an-unrelated-phenomenon-exposes-the-illusion-of-explanatory-depth/9B9B8927C3E530EBCF0453504730E3F3</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentExplaining an unrelated phenomenon exposes the illusion...by EA Meyers · 2023 · Cited by 13 — The...</p></details>
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: medien.ifi.lmu.de  
    Title: de I Think I Get Your Point, AI!  
-   Link:<a href="https://www.medien.ifi.lmu.de/pubdb/publications/pub/chromik2021iui/chromik2021iui.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.medien.ifi.lmu.de/pubdb/publications/pub/chromik2021iui/chromik2021iui.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Illusion of Explanatory...by M Chromik · 2021 · Cited by 256 — According to psychologi- cal research deliberate self-explanation res...</p></details>
+   Link: <a href="https://www.medien.ifi.lmu.de/pubdb/publications/pub/chromik2021iui/chromik2021iui.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.medien.ifi.lmu.de/pubdb/publications/pub/chromik2021iui/chromik2021iui.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Illusion of Explanatory...by M Chromik · 2021 · Cited by 256 — According to psychologi- cal research deliberate self-explanation res...</p></details>
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: The Illusion of Explanatory Depth: You Don't Understand It Like You Think  
-   Link:<a href="https://www.youtube.com/watch?v=yDJuCWUC5P8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yDJuCWUC5P8</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>You Don&#x27;t Know Anything - The Illusion of Explanatory Depth - FutureIQ...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=yDJuCWUC5P8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yDJuCWUC5P8</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>You Don&#x27;t Know Anything - The Illusion of Explanatory Depth - FutureIQ...</p></details>
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: You Don't Know Anything  
-   Link:<a href="https://www.youtube.com/watch?v=_ak0k7GNCjM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_ak0k7GNCjM</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Illusion of Understanding: Phil Fernbach at TEDxGoldenGatePark...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=_ak0k7GNCjM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_ak0k7GNCjM</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Illusion of Understanding: Phil Fernbach at TEDxGoldenGatePark...</p></details>
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: elementsoflearning.home.blog  
-   Link:<a href="https://elementsoflearning.home.blog/2022/09/29/enhancing-worked-examples-with-self-explanation/" target="_blank" rel="noopener noreferrer nofollow">https://elementsoflearning.home.blog/2022/09/29/enhancing-worked-examples-with-self-explanation/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>worked examples with self-explanation29 Sept 2022 — Self-explaining involves generating an explanation for oneself in order to make sense...</p></details>
+   Link: <a href="https://elementsoflearning.home.blog/2022/09/29/enhancing-worked-examples-with-self-explanation/" target="_blank" rel="noopener noreferrer nofollow">https://elementsoflearning.home.blog/2022/09/29/enhancing-worked-examples-with-self-explanation/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>worked examples with self-explanation29 Sept 2022 — Self-explaining involves generating an explanation for oneself in order to make sense...</p></details>
 
-12.<a id="endnote-12"></a>
+12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: Self-Explanation: Help Students Connect and Deepen Learning  
-   Link:<a href="https://www.youtube.com/watch?v=hSLPFMiJcQc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hSLPFMiJcQc</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Ed-Talk: Engaging Students to Promote Deeper Learning - Michelene T.H. Chi...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=hSLPFMiJcQc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hSLPFMiJcQc</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ed-Talk: Engaging Students to Promote Deeper Learning - Michelene T.H. Chi...</p></details>
 
-13.<a id="endnote-13"></a>
+13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: The Illusion of Understanding: Phil Fernbach at TEDx Golden Gate Park  
-   Link:<a href="https://www.youtube.com/watch?v=2SlbsnaSNNM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2SlbsnaSNNM</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Explanation: Help Students Connect and Deepen Learning...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=2SlbsnaSNNM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2SlbsnaSNNM</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Explanation: Help Students Connect and Deepen Learning...</p></details>
 
-14.<a id="endnote-14"></a>
+14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: Ed-Talk: Engaging Students to Promote Deeper Learning  
-   Link:<a href="https://www.youtube.com/watch?v=uC-9lViDGL0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uC-9lViDGL0</a>  
+   Link: <a href="https://www.youtube.com/watch?v=uC-9lViDGL0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uC-9lViDGL0</a>  

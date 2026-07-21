@@ -284,13 +284,13 @@ Problem-based learning (PBL) trains judgement by making learners practise thinki
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_real_problem_practic_466932_problem_based_learni_28feca-Illustration-1-dark.svg" | relative_url }}" alt="Problem Based Learning illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_real_problem_practic_466932_problem_based_learni_28feca-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_real_problem_practic_466932_problem_based_learni_28feca-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-PBL began as a response to abstract, memorisation-heavy professional education, especially in medicine, and has since spread across universities, schools and professional training. Its strongest value is not that it magically replaces instruction, but that it gives learners structured practice in applying knowledge to messy situations. Reviews and trials generally find benefits for problem-solving, self-directed learning, collaboration and [critical thinking]({{ 'critical-skills/' | relative_url }}), while also showing that [outcomes]({{ 'outcomes/' | relative_url }}) depend on design, facilitation and learner readiness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1186/s12909-022-03154-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer+2PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Effectiveness of problem-based learning methodology in undergraduate medical education: a scoping review &#124; BMC Medical Education...</span></span></span>
+PBL began as a response to abstract, memorisation-heavy professional education, especially in medicine, and has since spread across universities, schools and professional training. Its strongest value is not that it magically replaces instruction, but that it gives learners structured practice in applying knowledge to messy situations. Reviews and trials generally find benefits for problem-solving, self-directed learning, collaboration and [critical thinking]({{ 'critical-skills/' | relative_url }}), while also showing that [outcomes]({{ 'outcomes/' | relative_url }}) depend on design, facilitation and learner readiness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1186/s12909-022-03154-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer+2PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Effectiveness of problem-based learning methodology in undergraduate medical education: a scoping review &#124; BMC Medical Education...</span></span></span>
 
 ## Start with a realistic problem rather than a lecture
 
 In traditional teaching, students often receive the explanation first and the application later. PBL reverses that order. Learners meet a problem before they have been handed all the relevant concepts, so they must define the issue, generate questions, identify knowledge gaps and decide what evidence would help.
 
-That sequence is the point. Maastricht University, one of the best-known institutional users of PBL, describes its model as built on constructive, contextual, collaborative and self-directed learning; students work with complex, real-world problems and are expected to analyse sources, compare viewpoints, ask critical questions and use logical reasoning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.maastrichtuniversity.nl/over-de-um/onderwijs-aan-de-um/problem-based-learning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: maastrichtuniversity.nl">[Maastricht University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">maastrichtuniversity.nl</span><span class="citation-popover-title">Maastricht University Problem-Based Learning</span><span class="citation-popover-snippet">Maastricht University Problem-Based Learning</span></span></span>
+That sequence is the point. Maastricht University, one of the best-known institutional users of PBL, describes its model as built on constructive, contextual, collaborative and self-directed learning; students work with complex, real-world problems and are expected to analyse sources, compare viewpoints, ask critical questions and use logical reasoning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.maastrichtuniversity.nl/over-de-um/onderwijs-aan-de-um/problem-based-learning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: maastrichtuniversity.nl">[Maastricht University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">maastrichtuniversity.nl</span><span class="citation-popover-title">Maastricht University Problem-Based Learning</span><span class="citation-popover-snippet">Maastricht University Problem-Based Learning</span></span></span>
 
 A good PBL problem is not just a word problem with a story attached. It should be realistic enough to force judgement. A medical student may be given a patient case with ambiguous symptoms. A public policy class may investigate why a local service is failing despite apparently adequate funding. A business ethics class may have to recommend an action when legal, reputational and human consequences pull in different directions.
 
@@ -316,7 +316,7 @@ This is why PBL belongs within real-problem practice rather than thinking exerci
 
 The small-group discussion is not a decorative feature of PBL. It is one of the main [mechanisms]({{ 'mechanisms/' | relative_url }}) by which judgement is trained. When learners explain their thinking to peers, they have to make their reasoning public. Other people can then ask whether the evidence really supports the claim, whether an alternative explanation fits better, or whether the group has ignored a stakeholder or constraint.
 
-Cindy Hmelo-Silver’s widely cited review argues that PBL aims to develop flexible knowledge, problem-solving skill, self-directed learning, collaboration and motivation. It also stresses that the facilitator is critical: [good problems]({{ 'good-problems/' | relative_url }}) are necessary, but not sufficient. The facilitator models useful thinking strategies, asks metacognitive questions and encourages students to justify and reflect on their reasoning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1023/B%3AEDPR.0000034022.16470.f3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Open source on springer.com.</span></span></span>
+Cindy Hmelo-Silver’s widely cited review argues that PBL aims to develop flexible knowledge, problem-solving skill, self-directed learning, collaboration and motivation. It also stresses that the facilitator is critical: [good problems]({{ 'good-problems/' | relative_url }}) are necessary, but not sufficient. The facilitator models useful thinking strategies, asks metacognitive questions and encourages students to justify and reflect on their reasoning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1023/B%3AEDPR.0000034022.16470.f3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Open source on springer.com.</span></span></span>
 
 This is where PBL differs from unguided group work. In a weak version, confident students dominate, the group rushes to a solution, and assumptions go unchallenged. In a strong version, the facilitator repeatedly redirects attention to reasoning:
 
@@ -341,9 +341,9 @@ PBL is sometimes misunderstood as “learning by doing”. Doing alone is not en
 
 This feedback loop is especially important for analytical skills. A learner can sound persuasive while being wrong. PBL reduces that risk when it requires students to compare their early hypotheses with later evidence, inspect why their thinking changed, and notice whether they overlooked a cue, trusted a weak source or framed the problem too narrowly.
 
-In pharmacy education, a 2024 randomised controlled trial and meta-analysis found that PBL students scored higher than lecture-based students on problem-solving, self-directed learning, communication skills and critical thinking, while the meta-analysis found significant gains in problem-solving and self-directed learning but no significant difference in final exam scores. That distinction is useful: PBL may be strongest for applied judgement and learning behaviours, not necessarily for every conventional test outcome.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0314017" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">The effect of problem-based learning on improving problem-solving, self-directed learning, and critical thinking ability for the phar...</span></span></span>
+In pharmacy education, a 2024 randomised controlled trial and meta-analysis found that PBL students scored higher than lecture-based students on problem-solving, self-directed learning, communication skills and critical thinking, while the meta-analysis found significant gains in problem-solving and self-directed learning but no significant difference in final exam scores. That distinction is useful: PBL may be strongest for applied judgement and learning behaviours, not necessarily for every conventional test outcome. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0314017" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">The effect of problem-based learning on improving problem-solving, self-directed learning, and critical thinking ability for the phar...</span></span></span>
 
-A 2022 scoping review of undergraduate medical education reached a similarly cautious position. It noted that PBL is widely used and often valued, but that its effectiveness remains debated partly because studies differ in design, outcomes and [comparisons]({{ 'comparisons/' | relative_url }}) with lecture-based curricula. The review looked not only at academic performance but also at skills such as communication, problem-solving and self-learning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1186/s12909-022-03154-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Effectiveness of problem-based learning methodology in undergraduate medical education: a scoping review &#124; BMC Medical Education...</span></span></span>
+A 2022 scoping review of undergraduate medical education reached a similarly cautious position. It noted that PBL is widely used and often valued, but that its effectiveness remains debated partly because studies differ in design, outcomes and [comparisons]({{ 'comparisons/' | relative_url }}) with lecture-based curricula. The review looked not only at academic performance but also at skills such as communication, problem-solving and self-learning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1186/s12909-022-03154-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Effectiveness of problem-based learning methodology in undergraduate medical education: a scoping review &#124; BMC Medical Education...</span></span></span>
 
 The practical implication is clear: PBL should not end with a presentation. It should include reflection [prompts]({{ 'prompts/' | relative_url }}) such as:
 
@@ -367,9 +367,9 @@ Without this review step, PBL can become busy collaboration. With it, the task b
 
 The evidence for PBL is strongest when outcomes match what PBL is designed to train: applied problem-solving, self-directed learning, collaboration, communication and critical thinking. It is weaker or more mixed when judged only by short-term factual recall or standard examination performance.
 
-That does not mean PBL should replace [explicit teaching]({{ 'explicit-teaching/' | relative_url }}) everywhere. One major criticism of problem-based and inquiry approaches is that novices can become overloaded if they are asked to solve complex problems without enough guidance. Kirschner, Sweller and Clark’s influential critique argued that minimally guided instruction is often less effective and less efficient for learners because it ignores limits on working memory, especially for beginners.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/abs/10.1207/s15326985ep4102_1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Tandfonline]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-title">s15326985ep4102 1</span><span class="citation-popover-snippet">s15326985ep4102 1</span></span></span>
+That does not mean PBL should replace [explicit teaching]({{ 'explicit-teaching/' | relative_url }}) everywhere. One major criticism of problem-based and inquiry approaches is that novices can become overloaded if they are asked to solve complex problems without enough guidance. Kirschner, Sweller and Clark’s influential critique argued that minimally guided instruction is often less effective and less efficient for learners because it ignores limits on working memory, especially for beginners. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/abs/10.1207/s15326985ep4102_1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Tandfonline]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-title">s15326985ep4102 1</span><span class="citation-popover-snippet">s15326985ep4102 1</span></span></span>
 
-Supporters of PBL have responded that well-designed PBL is not the same as leaving students to discover everything alone. Hmelo-Silver, Duncan and Chinn argue that PBL and inquiry learning use scaffolding: facilitators, prompts, structured problems, group roles and staged support that make complex tasks manageable while still preserving authentic reasoning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/abs/10.1080/00461520701263368" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Tandfonline]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Open source on tandfonline.com.</span></span></span>
+Supporters of PBL have responded that well-designed PBL is not the same as leaving students to discover everything alone. Hmelo-Silver, Duncan and Chinn argue that PBL and inquiry learning use scaffolding: facilitators, prompts, structured problems, group roles and staged support that make complex tasks manageable while still preserving authentic reasoning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/abs/10.1080/00461520701263368" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Tandfonline]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Open source on tandfonline.com.</span></span></span>
 
 The fairest conclusion is that PBL works best as guided realism. The problem should be authentic enough to require judgement, but structured enough that learners are not simply guessing. Beginners may need clearer prompts, worked examples, vocabulary support or short teaching inputs before and during the problem. More advanced learners can handle greater ambiguity.
 
@@ -400,178 +400,178 @@ This is why PBL is best understood as realistic thinking practice. It does not t
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to How problem based learning trains judgement. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to How problem-based learning trains judgement. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+We+Think+by+John+Dewey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How We Think on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WF0AAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How We Think" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=How+We+Think+by+John+Dewey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How We Think">How We Think</a>
-</h4>
-<p class="fr-book-author">By John Dewey</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+We+Think+John+Dewey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How We Think on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WF0AAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How We Think" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=How+We+Think+John+Dewey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How We Think">How We Think</a>
+        </h4>
+        <p class="fr-book-author">By John Dewey</p>
         
-<p class="fr-book-desc">Foundational work on reflective thinking and learning through inquiry, closely aligned with problem-based learning.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=How+We+Think+by+John+Dewey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Foundational work on reflective thinking and learning through inquiry, closely aligned with problem-based learning.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=How+We+Think+John+Dewey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oneWAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-</h4>
-<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Teaching+for+Critical+Thinking+Stephen+D.+Brookfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Teaching for Critical Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hzqwZwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Teaching for Critical Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Teaching+for+Critical+Thinking+Stephen+D.+Brookfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Teaching for Critical Thinking">Teaching for Critical Thinking</a>
+        </h4>
+        <p class="fr-book-author">By Stephen D. Brookfield</p>
         
-<p class="fr-book-desc">Explains evidence-based learning strategies that complement problem-based learning and judgement development.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Focuses on cultivating judgement, questioning assumptions and reflective discussion in teaching.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Teaching+for+Critical+Thinking+Stephen+D.+Brookfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Teaching+for+Critical+Thinking+by+Stephen+D.+Brookfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Teaching for Critical Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hzqwZwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Teaching for Critical Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Teaching+for+Critical+Thinking+by+Stephen+D.+Brookfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Teaching for Critical Thinking">Teaching for Critical Thinking</a>
-</h4>
-<p class="fr-book-author">By Stephen D. Brookfield</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oneWAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+        </h4>
+        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-<p class="fr-book-desc">Focuses on cultivating judgement, questioning assumptions and reflective discussion in teaching.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Teaching+for+Critical+Thinking+by+Stephen+D.+Brookfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains evidence-based learning strategies that complement problem-based learning and judgement development.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Art+of+Problem+Solving+by+Russell+L.+Ackoff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Problem Solving on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Art+of+Problem+Solving+by+Russell+L.+Ackoff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Problem Solving">The Art of Problem Solving</a>
-</h4>
-<p class="fr-book-author">By Russell L. Ackoff</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Mindset%3A+The+New+Psychology+of+Success+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset: The New Psychology of Success on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Mindset%3A+The+New+Psychology+of+Success+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset: The New Psychology of Success">Mindset: The New Psychology of Success</a>
+        </h4>
+        <p class="fr-book-author">By Carol S. Dweck</p>
         
-<p class="fr-book-desc">Provides a broader framework for approaching complex, real-world problems central to PBL.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Art+of+Problem+Solving+by+Russell+L.+Ackoff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Supports the persistence, reflection and learning orientation that help learners benefit from problem-based learning.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Mindset%3A+The+New+Psychology+of+Success+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+We+Think&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How We Think</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Teaching+for+Critical+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Teaching for Critical Thinking</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+We+Think&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How We Think</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Teaching+for+Critical+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Teaching for Critical Thinking</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-problem-based-learning-trains-judgement-teacher-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher sticker" data-ebay-reference="how-problem-based-learning-trains-judgement-teacher-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1 -5,000 gold star stickers teacher reward office"><img src="https://i.ebayimg.com/images/g/8jAAAOSwx71jCMti/s-l225.jpg" alt="Listing image for 1 -5,000 gold star stickers teacher reward office" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-problem-based-learning-trains-judgement-teacher-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher sticker" data-ebay-reference="how-problem-based-learning-trains-judgement-teacher-sticker" target="_blank" rel="sponsored noopener noreferrer">1 -5,000 gold star stickers teacher reward office</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-problem-based-learning-trains-judgement-teacher-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher sticker" data-ebay-reference="how-problem-based-learning-trains-judgement-teacher-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher sticker</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-problem-based-learning-trains-judgement-teacher-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher sticker" data-ebay-reference="how-problem-based-learning-trains-judgement-teacher-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-problem-based-learning-trains-judgement-teacher-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher sticker" data-ebay-reference="how-problem-based-learning-trains-judgement-teacher-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1 -5,000 gold star stickers teacher reward office"><img src="https://i.ebayimg.com/images/g/8jAAAOSwx71jCMti/s-l225.jpg" alt="Listing image for 1 -5,000 gold star stickers teacher reward office" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-problem-based-learning-trains-judgement-teacher-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher sticker" data-ebay-reference="how-problem-based-learning-trains-judgement-teacher-sticker" target="_blank" rel="sponsored noopener noreferrer">1 -5,000 gold star stickers teacher reward office</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-problem-based-learning-trains-judgement-teacher-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher sticker" data-ebay-reference="how-problem-based-learning-trains-judgement-teacher-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher sticker</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-problem-based-learning-trains-judgement-teacher-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher sticker" data-ebay-reference="how-problem-based-learning-trains-judgement-teacher-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-problem-based-learning-trains-judgement-teacher-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher sticker" data-ebay-reference="how-problem-based-learning-trains-judgement-teacher-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 144 Personalised Well Done Star Reward Stickers for School Teachers, Parents (30"><img src="https://i.ebayimg.com/images/g/P1EAAOSwcs1lRJll/s-l225.jpg" alt="Listing image for 144 Personalised Well Done Star Reward Stickers for School Teachers, Parents (30" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-problem-based-learning-trains-judgement-teacher-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher sticker" data-ebay-reference="how-problem-based-learning-trains-judgement-teacher-sticker" target="_blank" rel="sponsored noopener noreferrer">144 Personalised Well Done Star Reward Stickers for School Teachers, Parents (30</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-problem-based-learning-trains-judgement-teacher-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher sticker" data-ebay-reference="how-problem-based-learning-trains-judgement-teacher-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher sticker</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-problem-based-learning-trains-judgement-teacher-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher sticker" data-ebay-reference="how-problem-based-learning-trains-judgement-teacher-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-problem-based-learning-trains-judgement-teacher-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher sticker" data-ebay-reference="how-problem-based-learning-trains-judgement-teacher-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 144 Personalised Well Done Star Reward Stickers for School Teachers, Parents (30"><img src="https://i.ebayimg.com/images/g/P1EAAOSwcs1lRJll/s-l225.jpg" alt="Listing image for 144 Personalised Well Done Star Reward Stickers for School Teachers, Parents (30" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-problem-based-learning-trains-judgement-teacher-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher sticker" data-ebay-reference="how-problem-based-learning-trains-judgement-teacher-sticker" target="_blank" rel="sponsored noopener noreferrer">144 Personalised Well Done Star Reward Stickers for School Teachers, Parents (30</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-problem-based-learning-trains-judgement-teacher-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher sticker" data-ebay-reference="how-problem-based-learning-trains-judgement-teacher-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher sticker</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-problem-based-learning-trains-judgement-teacher-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher sticker" data-ebay-reference="how-problem-based-learning-trains-judgement-teacher-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-problem-based-learning-trains-judgement-teacher-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher sticker" data-ebay-reference="how-problem-based-learning-trains-judgement-teacher-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 144 Personalised School Teachers Children Parents Well Done Reward Sticker Label"><img src="https://i.ebayimg.com/images/g/VE8AAOSwAVlcK~oR/s-l225.jpg" alt="Listing image for 144 Personalised School Teachers Children Parents Well Done Reward Sticker Label" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-problem-based-learning-trains-judgement-teacher-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher sticker" data-ebay-reference="how-problem-based-learning-trains-judgement-teacher-sticker" target="_blank" rel="sponsored noopener noreferrer">144 Personalised School Teachers Children Parents Well Done Reward Sticker Label</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-problem-based-learning-trains-judgement-teacher-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher sticker" data-ebay-reference="how-problem-based-learning-trains-judgement-teacher-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher sticker</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-problem-based-learning-trains-judgement-teacher-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher sticker" data-ebay-reference="how-problem-based-learning-trains-judgement-teacher-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-problem-based-learning-trains-judgement-teacher-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher sticker" data-ebay-reference="how-problem-based-learning-trains-judgement-teacher-sticker" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-problem-based-learning-trains-judgement-teacher-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher sticker" data-ebay-reference="how-problem-based-learning-trains-judgement-teacher-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 144 Personalised School Teachers Children Parents Well Done Reward Sticker Label"><img src="https://i.ebayimg.com/images/g/VE8AAOSwAVlcK~oR/s-l225.jpg" alt="Listing image for 144 Personalised School Teachers Children Parents Well Done Reward Sticker Label" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-problem-based-learning-trains-judgement-teacher-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher sticker" data-ebay-reference="how-problem-based-learning-trains-judgement-teacher-sticker" target="_blank" rel="sponsored noopener noreferrer">144 Personalised School Teachers Children Parents Well Done Reward Sticker Label</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-problem-based-learning-trains-judgement-teacher-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher sticker" data-ebay-reference="how-problem-based-learning-trains-judgement-teacher-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher sticker</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-problem-based-learning-trains-judgement-teacher-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher sticker" data-ebay-reference="how-problem-based-learning-trains-judgement-teacher-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-problem-based-learning-trains-judgement-teacher-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher sticker" data-ebay-reference="how-problem-based-learning-trains-judgement-teacher-sticker" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -587,7 +587,7 @@ This is why PBL is best understood as realistic thinking practice. It does not t
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -607,7 +607,7 @@ This is why PBL is best understood as realistic thinking practice. It does not t
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -639,7 +639,7 @@ This is why PBL is best understood as realistic thinking practice. It does not t
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -691,7 +691,7 @@ This is why PBL is best understood as realistic thinking practice. It does not t
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -736,7 +736,7 @@ This is why PBL is best understood as realistic thinking practice. It does not t
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -776,100 +776,100 @@ This is why PBL is best understood as realistic thinking practice. It does not t
 </section>
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: link.springer.com  
-   Link:<a href="https://link.springer.com/article/10.1186/s12909-022-03154-8" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s12909-022-03154-8</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Effectiveness of problem-based learning methodology in undergraduate medical education: a scoping review | BMC Medical Education...</p></details>
+   Link: <a href="https://link.springer.com/article/10.1186/s12909-022-03154-8" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s12909-022-03154-8</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effectiveness of problem-based learning methodology in undergraduate medical education: a scoping review | BMC Medical Education...</p></details>
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: journals.plos.org  
-   Link:<a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0314017" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0314017</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The effect of problem-based learning on improving problem-solving, self-directed learning, and critical thinking ability for the phar...</p></details>
+   Link: <a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0314017" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0314017</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The effect of problem-based learning on improving problem-solving, self-directed learning, and critical thinking ability for the phar...</p></details>
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: link.springer.com  
-   Link:<a href="https://link.springer.com/article/10.1023/B%3AEDPR.0000034022.16470.f3" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1023/B%3AEDPR.0000034022.16470.f3</a>  
+   Link: <a href="https://link.springer.com/article/10.1023/B%3AEDPR.0000034022.16470.f3" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1023/B%3AEDPR.0000034022.16470.f3</a>  
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: tandfonline.com  
    Title: s15326985ep4102 1  
-   Link:<a href="https://www.tandfonline.com/doi/abs/10.1207/s15326985ep4102_1" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1207/s15326985ep4102_1</a>  
+   Link: <a href="https://www.tandfonline.com/doi/abs/10.1207/s15326985ep4102_1" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1207/s15326985ep4102_1</a>  
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: tandfonline.com  
-   Link:<a href="https://www.tandfonline.com/doi/abs/10.1080/00461520701263368" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/00461520701263368</a>  
+   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/00461520701263368" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/00461520701263368</a>  
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: journals.plos.org  
-   Link:<a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0277339" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0277339</a>  
+   Link: <a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0277339" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0277339</a>  
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: maastrichtuniversity.nl  
    Title: Maastricht University Problem-Based Learning  
-   Link:<a href="https://www.maastrichtuniversity.nl/over-de-um/onderwijs-aan-de-um/problem-based-learning" target="_blank" rel="noopener noreferrer nofollow">https://www.maastrichtuniversity.nl/over-de-um/onderwijs-aan-de-um/problem-based-learning</a>  
+   Link: <a href="https://www.maastrichtuniversity.nl/over-de-um/onderwijs-aan-de-um/problem-based-learning" target="_blank" rel="noopener noreferrer nofollow">https://www.maastrichtuniversity.nl/over-de-um/onderwijs-aan-de-um/problem-based-learning</a>  
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: maastrichtuniversity.nl  
-   Link:<a href="https://www.maastrichtuniversity.nl/four-learning-principles-pbl" target="_blank" rel="noopener noreferrer nofollow">https://www.maastrichtuniversity.nl/four-learning-principles-pbl</a>  
+   Link: <a href="https://www.maastrichtuniversity.nl/four-learning-principles-pbl" target="_blank" rel="noopener noreferrer nofollow">https://www.maastrichtuniversity.nl/four-learning-principles-pbl</a>  
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: cris.maastrichtuniversity.nl  
    Title: savelberg 2005 revitalising PBL groups evaluation PBL  
-   Link:<a href="https://cris.maastrichtuniversity.nl/files/69061476/savelberg_2005_revitalising_PBL_groups_evaluation_PBL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cris.maastrichtuniversity.nl/files/69061476/savelberg_2005_revitalising_PBL_groups_evaluation_PBL.pdf</a>  
+   Link: <a href="https://cris.maastrichtuniversity.nl/files/69061476/savelberg_2005_revitalising_PBL_groups_evaluation_PBL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cris.maastrichtuniversity.nl/files/69061476/savelberg_2005_revitalising_PBL_groups_evaluation_PBL.pdf</a>  
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: ejpbl.org  
-   Link:<a href="https://ejpbl.org/journal/view.php?number=68" target="_blank" rel="noopener noreferrer nofollow">https://ejpbl.org/journal/view.php?number=68</a>  
+   Link: <a href="https://ejpbl.org/journal/view.php?number=68" target="_blank" rel="noopener noreferrer nofollow">https://ejpbl.org/journal/view.php?number=68</a>  
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: scholarworks.iu.edu  
-   Link:<a href="https://scholarworks.iu.edu/journals/index.php/ijpbl/article/view/28984" target="_blank" rel="noopener noreferrer nofollow">https://scholarworks.iu.edu/journals/index.php/ijpbl/article/view/28984</a>  
+   Link: <a href="https://scholarworks.iu.edu/journals/index.php/ijpbl/article/view/28984" target="_blank" rel="noopener noreferrer nofollow">https://scholarworks.iu.edu/journals/index.php/ijpbl/article/view/28984</a>  
 
 ### Additional References
 
-12.<a id="endnote-12"></a>
+12. <a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/36413532/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/36413532/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The effectiveness of problem based learning in improving...by IBAP Manuaba · 2022 · Cited by 149 — The present study concluded tha...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/36413532/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/36413532/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The effectiveness of problem based learning in improving...by IBAP Manuaba · 2022 · Cited by 149 — The present study concluded tha...</p></details>
 
-13.<a id="endnote-13"></a>
+13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: Problem-based learning design  
-   Link:<a href="http://www.youtube.com/watch?v=4C1kaZ-SC0M" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=4C1kaZ-SC0M</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Problem-Based Learning&quot; critical thinking analytical skills Inquiry-Based Learning: Developing Student-Driven Questions Edutopia...</p></details>
+   Link: <a href="http://www.youtube.com/watch?v=4C1kaZ-SC0M" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=4C1kaZ-SC0M</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Problem-Based Learning&quot; critical thinking analytical skills Inquiry-Based Learning: Developing Student-Driven Questions Edutopia...</p></details>
 
-14.<a id="endnote-14"></a>
+14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: What is Problem-Based Learning? How to use it in your classroom  
-   Link:<a href="http://www.youtube.com/watch?v=RGoJIQYGpYk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=RGoJIQYGpYk</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Problem-Based Learning as a Critical Thinking Strategy - Essay Example...</p></details>
+   Link: <a href="http://www.youtube.com/watch?v=RGoJIQYGpYk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=RGoJIQYGpYk</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Problem-Based Learning as a Critical Thinking Strategy - Essay Example...</p></details>
 
-15.<a id="endnote-15"></a>
+15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: Problem-Based Learning at Maastricht University  
-   Link:<a href="http://www.youtube.com/watch?v=cMtLXXf9Sko" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=cMtLXXf9Sko</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>What is Problem-Based Learning? How to use it in your classroom...</p></details>
+   Link: <a href="http://www.youtube.com/watch?v=cMtLXXf9Sko" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=cMtLXXf9Sko</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is Problem-Based Learning? How to use it in your classroom...</p></details>
 
-16.<a id="endnote-16"></a>
+16. <a id="endnote-16"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/43952434_Validity_and_Problem-Based_Learning_Research_A_Review_of_Instruments_Used_to_Assess_Intended_Learning_Outcomes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/43952434_Validity_and_Problem-Based_Learning_Research_A_Review_of_Instruments_Used_to_Assess_Intended_Learning_Outcomes</a>  
+   Link: <a href="https://www.researchgate.net/publication/43952434_Validity_and_Problem-Based_Learning_Research_A_Review_of_Instruments_Used_to_Assess_Intended_Learning_Outcomes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/43952434_Validity_and_Problem-Based_Learning_Research_A_Review_of_Instruments_Used_to_Assess_Intended_Learning_Outcomes</a>  
 
-17.<a id="endnote-17"></a>
+17. <a id="endnote-17"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/277452339_Scaffolding_and_Achievement_in_Problem-Based_and_Inquiry_Learning_A_Response_to_Kirschner_Sweller_and_Clark_2006" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/277452339_Scaffolding_and_Achievement_in_Problem-Based_and_Inquiry_Learning_A_Response_to_Kirschner_Sweller_and_Clark_2006</a>  
+   Link: <a href="https://www.researchgate.net/publication/277452339_Scaffolding_and_Achievement_in_Problem-Based_and_Inquiry_Learning_A_Response_to_Kirschner_Sweller_and_Clark_2006" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/277452339_Scaffolding_and_Achievement_in_Problem-Based_and_Inquiry_Learning_A_Response_to_Kirschner_Sweller_and_Clark_2006</a>  
 
-18.<a id="endnote-18"></a>
+18. <a id="endnote-18"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/365667493_The_effectiveness_of_problem_based_learning_in_improving_critical_thinking_problem-solving_and_self-directed_learning_in_first-year_medical_students_A_meta-analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/365667493_The_effectiveness_of_problem_based_learning_in_improving_critical_thinking_problem-solving_and_self-directed_learning_in_first-year_medical_students_A_meta-analysis</a>  
+   Link: <a href="https://www.researchgate.net/publication/365667493_The_effectiveness_of_problem_based_learning_in_improving_critical_thinking_problem-solving_and_self-directed_learning_in_first-year_medical_students_A_meta-analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/365667493_The_effectiveness_of_problem_based_learning_in_improving_critical_thinking_problem-solving_and_self-directed_learning_in_first-year_medical_students_A_meta-analysis</a>  
 
-19.<a id="endnote-19"></a>
+19. <a id="endnote-19"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/392768648_The_effectiveness_of_problem-based_learning_PBL_in_enhancing_critical_thinking_skills_in_medical_education_a_systematic_review_and_meta-analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/392768648_The_effectiveness_of_problem-based_learning_PBL_in_enhancing_critical_thinking_skills_in_medical_education_a_systematic_review_and_meta-analysis</a>  
+   Link: <a href="https://www.researchgate.net/publication/392768648_The_effectiveness_of_problem-based_learning_PBL_in_enhancing_critical_thinking_skills_in_medical_education_a_systematic_review_and_meta-analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/392768648_The_effectiveness_of_problem-based_learning_PBL_in_enhancing_critical_thinking_skills_in_medical_education_a_systematic_review_and_meta-analysis</a>  
 
-20.<a id="endnote-20"></a>
+20. <a id="endnote-20"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/305276491_A_Systematic_Review_of_Research_on_the_Use_of_Problem-Based_Learning_in_the_Preparation_and_Development_of_School_Leaders" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/305276491_A_Systematic_Review_of_Research_on_the_Use_of_Problem-Based_Learning_in_the_Preparation_and_Development_of_School_Leaders</a>  
+   Link: <a href="https://www.researchgate.net/publication/305276491_A_Systematic_Review_of_Research_on_the_Use_of_Problem-Based_Learning_in_the_Preparation_and_Development_of_School_Leaders" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/305276491_A_Systematic_Review_of_Research_on_the_Use_of_Problem-Based_Learning_in_the_Preparation_and_Development_of_School_Leaders</a>  
 
-21.<a id="endnote-21"></a>
+21. <a id="endnote-21"></a>
    Source: iamse.org  
-   Link:<a href="https://www.iamse.org/mse-article/assessing-students-during-the-problem-based-learning-pbl-process/" target="_blank" rel="noopener noreferrer nofollow">https://www.iamse.org/mse-article/assessing-students-during-the-problem-based-learning-pbl-process/</a>  
+   Link: <a href="https://www.iamse.org/mse-article/assessing-students-during-the-problem-based-learning-pbl-process/" target="_blank" rel="noopener noreferrer nofollow">https://www.iamse.org/mse-article/assessing-students-during-the-problem-based-learning-pbl-process/</a>  

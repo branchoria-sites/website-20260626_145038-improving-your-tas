@@ -280,7 +280,7 @@ image: /assets/images/improving_your_think_da4710_weakest_link_assumpt_7c77f4_lo
 
 ## Introduction
 
-[Weakest-link]({{ 'weakest-link/' | relative_url }}) thinking is not about finding the most doubtful statement in an argument. It is about identifying the assumption that carries the greatest share of the conclusion. A **load-bearing assumption** is one whose failure would force you to make a different decision, abandon a plan, or substantially revise your confidence. Many decisions contain dozens of assumptions, but only a few determine whether the conclusion still stands. Distinguishing these from merely uncertain details allows you to direct investigation where it has the highest value, reducing wasted analysis while increasing the chance of catching critical mistakes before they become expensive. This idea underpins structured methods such as the Key Assumptions Check and Assumption-Based Planning, both of which treat assumptions as objects to be identified, challenged and monitored rather than invisible background beliefs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stat.berkeley.edu">[Department of Statistics+2RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stat.berkeley.edu</span><span class="citation-popover-snippet">Department of StatisticsStructured Analytic Techniques for Improving Intelligence...April 28, 2009 — by AT Primer · 2009 · Cited by 62 —...</span><span class="citation-popover-meta">Published: April 28, 2009</span></span></span>
+[Weakest-link]({{ 'weakest-link/' | relative_url }}) thinking is not about finding the most doubtful statement in an argument. It is about identifying the assumption that carries the greatest share of the conclusion. A **load-bearing assumption** is one whose failure would force you to make a different decision, abandon a plan, or substantially revise your confidence. Many decisions contain dozens of assumptions, but only a few determine whether the conclusion still stands. Distinguishing these from merely uncertain details allows you to direct investigation where it has the highest value, reducing wasted analysis while increasing the chance of catching critical mistakes before they become expensive. This idea underpins structured methods such as the Key Assumptions Check and Assumption-Based Planning, both of which treat assumptions as objects to be identified, challenged and monitored rather than invisible background beliefs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stat.berkeley.edu">[Department of Statistics+2RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stat.berkeley.edu</span><span class="citation-popover-snippet">Department of StatisticsStructured Analytic Techniques for Improving Intelligence...April 28, 2009 — by AT Primer · 2009 · Cited by 62 —...</span><span class="citation-popover-meta">Published: April 28, 2009</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_weakest_link_assumpt_7c77f4_load_bearing_assumpt_b1e8d0-Illustration-1-dark.svg" | relative_url }}" alt="Load Bearing illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_weakest_link_assumpt_7c77f4_load_bearing_assumpt_b1e8d0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_weakest_link_assumpt_7c77f4_load_bearing_assumpt_b1e8d0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -309,7 +309,7 @@ For example, a company deciding whether to build a new factory may assume:
 
 Suppose market demand proves slightly lower than expected. The investment might still make sense. However, if the regulatory assumption fails and the factory cannot legally operate as planned, the entire project changes. The regulatory assumption is therefore more load-bearing even if, today, it appears reasonably likely to hold.
 
-This logic appears explicitly in Assumption-Based Planning, which defines an important assumption as one whose negation would require significant changes to the plan. The method then asks which important assumptions are also vulnerable to plausible future events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.betterevaluation.org/sites/default/files/abp.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: betterevaluation.org">[betterevaluation.org+2Cat Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">betterevaluation.org</span><span class="citation-popover-title">Assumption-Based planning (ABP)1</span><span class="citation-popover-snippet">Identify important assumptions: An assumption is an assertion about some characteristics of the future that underlies the current operati...</span></span></span>
+This logic appears explicitly in Assumption-Based Planning, which defines an important assumption as one whose negation would require significant changes to the plan. The method then asks which important assumptions are also vulnerable to plausible future events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.betterevaluation.org/sites/default/files/abp.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: betterevaluation.org">[betterevaluation.org+2Cat Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">betterevaluation.org</span><span class="citation-popover-title">Assumption-Based planning (ABP)1</span><span class="citation-popover-snippet">Identify important assumptions: An assumption is an assertion about some characteristics of the future that underlies the current operati...</span></span></span>
 
 ## The “so what if false?” test
 
@@ -336,7 +336,7 @@ The answers usually fall into three groups:
 
 </div>
 
-This test often exposes assumptions that have become psychologically invisible because everyone has accepted them without discussion. Intelligence analysts use Key Assumptions Checks precisely because unnoticed assumptions frequently become embedded as apparent facts over the course of an investigation. The technique recommends making these assumptions explicit before collecting further evidence or committing to major judgments. Department of Statistics+2JIPS - Joint IDP Profiling Service<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stat.berkeley.edu">[stat.berkeley.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stat.berkeley.edu</span><span class="citation-popover-snippet">Department of StatisticsStructured Analytic Techniques for Improving Intelligence...April 28, 2009 — by AT Primer · 2009 · Cited by 62 —...</span><span class="citation-popover-meta">Published: April 28, 2009</span></span></span>
+This test often exposes assumptions that have become psychologically invisible because everyone has accepted them without discussion. Intelligence analysts use Key Assumptions Checks precisely because unnoticed assumptions frequently become embedded as apparent facts over the course of an investigation. The technique recommends making these assumptions explicit before collecting further evidence or committing to major judgments. Department of Statistics+2JIPS - Joint IDP Profiling Service <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stat.berkeley.edu">[stat.berkeley.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stat.berkeley.edu</span><span class="citation-popover-snippet">Department of StatisticsStructured Analytic Techniques for Improving Intelligence...April 28, 2009 — by AT Primer · 2009 · Cited by 62 —...</span><span class="citation-popover-meta">Published: April 28, 2009</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fIF0pIx-usI" title="Identify Assumptions: Steps to Question Underlying Beliefs in Decision Making!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fIF0pIx-usI" target="_blank" rel="noopener noreferrer">Identify Assumptions: Steps to Question Underlying Beliefs in Decision Making!</a></p><p class="youtube-embed-meta">Channel: Critical Thinking Secrets &middot; Views: 153 &middot; Uploaded: July 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fIF0pIx-usI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fIF0pIx-usI">Open on YouTube</a></p></div></div></div>
@@ -391,7 +391,7 @@ may quietly assume:
 
 None of these assumptions appears in the recommendation itself, yet one may determine whether automation succeeds.
 
-James Dewar's work on Assumption-Based Planning argues that planners should actively search for these implicit, load-bearing assumptions because explicit assumptions are often not the ones most likely to create strategic surprises.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thelaterallens.substack.com/p/assumption-based-planning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelaterallens.substack.com">[thelaterallens.substack.com+2Cat Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelaterallens.substack.com</span><span class="citation-popover-title">Assumption-Based Planning</span><span class="citation-popover-snippet">Explicit assumptions, the assumptions that are easy to talk about, are usually not...Read more...</span></span></span>
+James Dewar's work on Assumption-Based Planning argues that planners should actively search for these implicit, load-bearing assumptions because explicit assumptions are often not the ones most likely to create strategic surprises. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thelaterallens.substack.com/p/assumption-based-planning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelaterallens.substack.com">[thelaterallens.substack.com+2Cat Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelaterallens.substack.com</span><span class="citation-popover-title">Assumption-Based Planning</span><span class="citation-popover-snippet">Explicit assumptions, the assumptions that are easy to talk about, are usually not...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_weakest_link_assumpt_7c77f4_load_bearing_assumpt_b1e8d0-Illustration-2-dark.svg" | relative_url }}" alt="Load Bearing illustration 2" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_weakest_link_assumpt_7c77f4_load_bearing_assumpt_b1e8d0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_weakest_link_assumpt_7c77f4_load_bearing_assumpt_b1e8d0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -417,7 +417,7 @@ how costly it would be if they proved false.
 
 This prevents a common analytical error: spending weeks refining details that cannot materially affect the recommendation while leaving genuinely decisive assumptions almost untouched.
 
-The Key Assumptions Check is designed to perform exactly this kind of prioritisation early in an analytical project and then revisit assumptions as new information emerges. Department of Statistics+2JIPS - Joint IDP Profiling Service<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stat.berkeley.edu">[stat.berkeley.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stat.berkeley.edu</span><span class="citation-popover-snippet">Department of StatisticsStructured Analytic Techniques for Improving Intelligence...April 28, 2009 — by AT Primer · 2009 · Cited by 62 —...</span><span class="citation-popover-meta">Published: April 28, 2009</span></span></span>
+The Key Assumptions Check is designed to perform exactly this kind of prioritisation early in an analytical project and then revisit assumptions as new information emerges. Department of Statistics+2JIPS - Joint IDP Profiling Service <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stat.berkeley.edu">[stat.berkeley.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stat.berkeley.edu</span><span class="citation-popover-snippet">Department of StatisticsStructured Analytic Techniques for Improving Intelligence...April 28, 2009 — by AT Primer · 2009 · Cited by 62 —...</span><span class="citation-popover-meta">Published: April 28, 2009</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5oXw1-mMPZM" title="6) Identifying Assumptions (Oxford University&#x27;s TSA)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5oXw1-mMPZM" target="_blank" rel="noopener noreferrer">6) Identifying Assumptions (Oxford University&#x27;s TSA)</a></p><p class="youtube-embed-meta">Channel: The Exam Clinic &middot; Views: 257 &middot; Uploaded: September 2025 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5oXw1-mMPZM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5oXw1-mMPZM">Open on YouTube</a></p></div></div></div>
@@ -457,7 +457,7 @@ Load-bearing assumptions remain important even after a decision has been made.
 
 Plans rarely fail because every assumption becomes false simultaneously. More often, one critical assumption gradually erodes while organisations continue acting as though it still holds.
 
-Assumption-Based Planning therefore recommends identifying observable "signposts"—events or indicators that suggest an important assumption is becoming less reliable. Monitoring these signposts provides early warning that a decision should be revisited before failure becomes unavoidable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.betterevaluation.org/sites/default/files/abp.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: betterevaluation.org">[betterevaluation.org+2Cambridge Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">betterevaluation.org</span><span class="citation-popover-title">Assumption-Based planning (ABP)1</span><span class="citation-popover-snippet">Identify important assumptions: An assumption is an assertion about some characteristics of the future that underlies the current operati...</span></span></span>
+Assumption-Based Planning therefore recommends identifying observable "signposts"—events or indicators that suggest an important assumption is becoming less reliable. Monitoring these signposts provides early warning that a decision should be revisited before failure becomes unavoidable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.betterevaluation.org/sites/default/files/abp.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: betterevaluation.org">[betterevaluation.org+2Cambridge Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">betterevaluation.org</span><span class="citation-popover-title">Assumption-Based planning (ABP)1</span><span class="citation-popover-snippet">Identify important assumptions: An assumption is an assertion about some characteristics of the future that underlies the current operati...</span></span></span>
 
 For example:
 
@@ -483,194 +483,194 @@ Several recurring errors reduce the effectiveness of weakest-link thinking:
 The discipline is therefore continuous rather than one-off: identify the assumptions, rank them by dependency, uncertainty and consequence, test the ones capable of overturning the decision, and continue watching them as the environment changes. This approach keeps attention on the premises that genuinely carry the weight of the conclusion rather than those that merely attract the most discussion.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Which Assumption Would Actually Change the Decision?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Which Assumption Would Actually Change the Decision?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-</h4>
-<p class="fr-book-author">By Daniel Kahneman</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
+        </h4>
+        <p class="fr-book-author">By Rolf Dobelli</p>
         
-<p class="fr-book-desc">Explains how flawed assumptions, biases, and judgment errors influence important decisions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Covers common thinking errors that lead people to rely on weak or unsupported assumptions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ICgWrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
-</h4>
-<p class="fr-book-author">By Philip Eyrikson Tetlock, Dan Gardner</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Decisive+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decisive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aECTEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Decisive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Decisive+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decisive">Decisive</a>
+        </h4>
+        <p class="fr-book-author">By Chip Heath, Dan Heath</p>
         
-<p class="fr-book-desc">Focuses on identifying critical uncertainties, updating beliefs, and testing key assumptions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides practical frameworks for stress-testing assumptions before committing to decisions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Decisive+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
-</h4>
-<p class="fr-book-author">By Rolf Dobelli</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Black+Swan+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Black Swan on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=R79HVyegzoQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Black Swan" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Black+Swan+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Black Swan">The Black Swan</a>
+        </h4>
+        <p class="fr-book-author">By Nassim Nicholas Taleb</p>
         
-<p class="fr-book-desc">Covers common thinking errors that lead people to rely on weak or unsupported assumptions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Highlights how hidden assumptions and neglected uncertainties can overturn major decisions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Black+Swan+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decisive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aECTEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Decisive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decisive">Decisive</a>
-</h4>
-<p class="fr-book-author">By Chip Heath, Dan Heath</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Superforecasting%3A+The+Art+and+Science+of+Prediction+Philip+E.+Tetlock+and+Dan+Gardner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting: The Art and Science of Prediction on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Superforecasting%3A+The+Art+and+Science+of+Prediction+Philip+E.+Tetlock+and+Dan+Gardner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting: The Art and Science of Prediction">Superforecasting: The Art and Science of Prediction</a>
+        </h4>
+        <p class="fr-book-author">By Philip E. Tetlock and Dan Gardner</p>
         
-<p class="fr-book-desc">Provides practical frameworks for stress-testing assumptions before committing to decisions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Focuses on identifying critical uncertainties, updating beliefs, and testing key assumptions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Superforecasting%3A+The+Art+and+Science+of+Prediction+Philip+E.+Tetlock+and+Dan+Gardner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Thinking Clearly</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Thinking Clearly</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Decisive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Decisive</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Black+Swan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Black Swan</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-would-actually-change-the-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="which-assumption-would-actually-change-the-decision-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Yes or No Oracle Deck – 56 Card Decision Making Oracle Cards with Meanings"><img src="https://i.ebayimg.com/images/g/IqwAAeSw77xp5DMx/s-l225.jpg" alt="Listing image for Yes or No Oracle Deck – 56 Card Decision Making Oracle Cards with Meanings" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-would-actually-change-the-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="which-assumption-would-actually-change-the-decision-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer">Yes or No Oracle Deck – 56 Card Decision Making Oracle Cards with Meanings</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-would-actually-change-the-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="which-assumption-would-actually-change-the-decision-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision making cards">Search<span data-ebay-domain-label>eBay.co.uk</span>: decision making cards</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-would-actually-change-the-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="which-assumption-would-actually-change-the-decision-decision-making-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-would-actually-change-the-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="which-assumption-would-actually-change-the-decision-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Yes or No Oracle Deck – 56 Card Decision Making Oracle Cards with Meanings"><img src="https://i.ebayimg.com/images/g/IqwAAeSw77xp5DMx/s-l225.jpg" alt="Listing image for Yes or No Oracle Deck – 56 Card Decision Making Oracle Cards with Meanings" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-would-actually-change-the-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="which-assumption-would-actually-change-the-decision-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer">Yes or No Oracle Deck – 56 Card Decision Making Oracle Cards with Meanings</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-would-actually-change-the-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="which-assumption-would-actually-change-the-decision-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision making cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: decision making cards</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-would-actually-change-the-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="which-assumption-would-actually-change-the-decision-decision-making-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-would-actually-change-the-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="which-assumption-would-actually-change-the-decision-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pocket Cards Comprehensive Resource Decision Making Diagnostic Efficiency"><img src="https://i.ebayimg.com/images/g/B9wAAeSwh5lp~u1t/s-l225.jpg" alt="Listing image for Pocket Cards Comprehensive Resource Decision Making Diagnostic Efficiency" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-would-actually-change-the-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="which-assumption-would-actually-change-the-decision-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer">Pocket Cards Comprehensive Resource Decision Making Diagnostic Efficiency</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-would-actually-change-the-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="which-assumption-would-actually-change-the-decision-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision making cards">Search<span data-ebay-domain-label>eBay.co.uk</span>: decision making cards</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-would-actually-change-the-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="which-assumption-would-actually-change-the-decision-decision-making-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-would-actually-change-the-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="which-assumption-would-actually-change-the-decision-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pocket Cards Comprehensive Resource Decision Making Diagnostic Efficiency"><img src="https://i.ebayimg.com/images/g/B9wAAeSwh5lp~u1t/s-l225.jpg" alt="Listing image for Pocket Cards Comprehensive Resource Decision Making Diagnostic Efficiency" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-would-actually-change-the-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="which-assumption-would-actually-change-the-decision-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer">Pocket Cards Comprehensive Resource Decision Making Diagnostic Efficiency</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-would-actually-change-the-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="which-assumption-would-actually-change-the-decision-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision making cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: decision making cards</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-would-actually-change-the-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="which-assumption-would-actually-change-the-decision-decision-making-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-would-actually-change-the-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="which-assumption-would-actually-change-the-decision-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Comprehensive Rhythm Interpretation Cards for Efficient Decision Making"><img src="https://i.ebayimg.com/images/g/B8YAAeSwK25oSLIb/s-l225.jpg" alt="Listing image for Comprehensive Rhythm Interpretation Cards for Efficient Decision Making" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-would-actually-change-the-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="which-assumption-would-actually-change-the-decision-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer">Comprehensive Rhythm Interpretation Cards for Efficient Decision Making</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-would-actually-change-the-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="which-assumption-would-actually-change-the-decision-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision making cards">Search<span data-ebay-domain-label>eBay.co.uk</span>: decision making cards</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-would-actually-change-the-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="which-assumption-would-actually-change-the-decision-decision-making-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-would-actually-change-the-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="which-assumption-would-actually-change-the-decision-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Comprehensive Rhythm Interpretation Cards for Efficient Decision Making"><img src="https://i.ebayimg.com/images/g/B8YAAeSwK25oSLIb/s-l225.jpg" alt="Listing image for Comprehensive Rhythm Interpretation Cards for Efficient Decision Making" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-would-actually-change-the-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="which-assumption-would-actually-change-the-decision-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer">Comprehensive Rhythm Interpretation Cards for Efficient Decision Making</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-would-actually-change-the-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="which-assumption-would-actually-change-the-decision-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision making cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: decision making cards</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-would-actually-change-the-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="which-assumption-would-actually-change-the-decision-decision-making-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-would-actually-change-the-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="which-assumption-would-actually-change-the-decision-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Think Twice in a Jar: Think Hard &amp; Think Fun! a Decision-making Game for All Age"><img src="https://i.ebayimg.com/images/g/Ok0AAeSw8Htodplg/s-l225.jpg" alt="Listing image for Think Twice in a Jar: Think Hard &amp; Think Fun! a Decision-making Game for All Age" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-would-actually-change-the-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="which-assumption-would-actually-change-the-decision-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer">Think Twice in a Jar: Think Hard &amp; Think Fun! a Decision-making Game for All Age</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-would-actually-change-the-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="which-assumption-would-actually-change-the-decision-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision making cards">Search<span data-ebay-domain-label>eBay.co.uk</span>: decision making cards</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-would-actually-change-the-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="which-assumption-would-actually-change-the-decision-decision-making-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-would-actually-change-the-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="which-assumption-would-actually-change-the-decision-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-would-actually-change-the-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="which-assumption-would-actually-change-the-decision-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Think Twice in a Jar: Think Hard &amp; Think Fun! a Decision-making Game for All Age"><img src="https://i.ebayimg.com/images/g/Ok0AAeSw8Htodplg/s-l225.jpg" alt="Listing image for Think Twice in a Jar: Think Hard &amp; Think Fun! a Decision-making Game for All Age" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-would-actually-change-the-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="which-assumption-would-actually-change-the-decision-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer">Think Twice in a Jar: Think Hard &amp; Think Fun! a Decision-making Game for All Age</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-would-actually-change-the-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="which-assumption-would-actually-change-the-decision-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision making cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: decision making cards</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-would-actually-change-the-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="which-assumption-would-actually-change-the-decision-decision-making-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+making+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-assumption-would-actually-change-the-decision-decision-making-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision making cards" data-ebay-reference="which-assumption-would-actually-change-the-decision-decision-making-cards" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -686,7 +686,7 @@ The discipline is therefore continuous rather than one-off: identify the assumpt
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -706,7 +706,7 @@ The discipline is therefore continuous rather than one-off: identify the assumpt
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -738,7 +738,7 @@ The discipline is therefore continuous rather than one-off: identify the assumpt
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -790,7 +790,7 @@ The discipline is therefore continuous rather than one-off: identify the assumpt
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -835,7 +835,7 @@ The discipline is therefore continuous rather than one-off: identify the assumpt
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -875,95 +875,95 @@ The discipline is therefore continuous rather than one-off: identify the assumpt
 </section>
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: rand.org  
-   Link:<a href="https://www.rand.org/content/dam/rand/pubs/monograph_reports/2005/MR114.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/content/dam/rand/pubs/monograph_reports/2005/MR114.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>RAND CorporationAssumption-Based PlanningThe challenges in this approach are to identify the critical assumptions underlying an organizat...</p></details>
+   Link: <a href="https://www.rand.org/content/dam/rand/pubs/monograph_reports/2005/MR114.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/content/dam/rand/pubs/monograph_reports/2005/MR114.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>RAND CorporationAssumption-Based PlanningThe challenges in this approach are to identify the critical assumptions underlying an organizat...</p></details>
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: betterevaluation.org  
    Title: Assumption-Based planning (ABP)1  
-   Link:<a href="https://www.betterevaluation.org/sites/default/files/abp.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.betterevaluation.org/sites/default/files/abp.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Identify important assumptions: An assumption is an assertion about some characteristics of the future that underlies the current operati...</p></details>
+   Link: <a href="https://www.betterevaluation.org/sites/default/files/abp.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.betterevaluation.org/sites/default/files/abp.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Identify important assumptions: An assumption is an assertion about some characteristics of the future that underlies the current operati...</p></details>
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: assets.cambridge.org  
-   Link:<a href="https://assets.cambridge.org/97805218/06534/index/9780521806534_index.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.cambridge.org/97805218/06534/index/9780521806534_index.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>cambridge.orgAssumption-Based Planning: A Tool for Reassessment of, 167–68 assumptions and, 1, 28 definition of, 86, 233 insurable, 147 o...</p></details>
+   Link: <a href="https://assets.cambridge.org/97805218/06534/index/9780521806534_index.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.cambridge.org/97805218/06534/index/9780521806534_index.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>cambridge.orgAssumption-Based Planning: A Tool for Reassessment of, 167–68 assumptions and, 1, 28 definition of, 86, 233 insurable, 147 o...</p></details>
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: jips.org  
-   Link:<a href="https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Joint IDP Profiling ServiceJoint Structured Analysis Techniques (JSAT)The Key Assumptions Check in particular is recommended for a...</p></details>
+   Link: <a href="https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Joint IDP Profiling ServiceJoint Structured Analysis Techniques (JSAT)The Key Assumptions Check in particular is recommended for a...</p></details>
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: thelaterallens.substack.com  
    Title: Assumption-Based Planning  
-   Link:<a href="https://thelaterallens.substack.com/p/assumption-based-planning" target="_blank" rel="noopener noreferrer nofollow">https://thelaterallens.substack.com/p/assumption-based-planning</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Explicit assumptions, the assumptions that are easy to talk about, are usually not...Read more...</p></details>
+   Link: <a href="https://thelaterallens.substack.com/p/assumption-based-planning" target="_blank" rel="noopener noreferrer nofollow">https://thelaterallens.substack.com/p/assumption-based-planning</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Explicit assumptions, the assumptions that are easy to talk about, are usually not...Read more...</p></details>
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: stat.berkeley.edu  
-   Link:<a href="https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of StatisticsStructured Analytic Techniques for Improving Intelligence...April 28, 2009 — by AT Primer · 2009 · Cited by 62 —...</p></details>
+   Link: <a href="https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of StatisticsStructured Analytic Techniques for Improving Intelligence...April 28, 2009 — by AT Primer · 2009 · Cited by 62 —...</p></details>
    Published: April 28, 2009  
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: catdir.loc.gov  
-   Link:<a href="https://catdir.loc.gov/catdir/samples/cam033/2002073460.pdf" target="_blank" rel="noopener noreferrer nofollow">https://catdir.loc.gov/catdir/samples/cam033/2002073460.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Cat DirectoryAssumption-Based PlanningFirst, in using ABP techniques for identifying assumptions underlying an organization&#x27;s plans, we h...</p></details>
+   Link: <a href="https://catdir.loc.gov/catdir/samples/cam033/2002073460.pdf" target="_blank" rel="noopener noreferrer nofollow">https://catdir.loc.gov/catdir/samples/cam033/2002073460.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cat DirectoryAssumption-Based PlanningFirst, in using ABP techniques for identifying assumptions underlying an organization&#x27;s plans, we h...</p></details>
 
 ### Additional References
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: oecd.org  
-   Link:<a href="https://www.oecd.org/content/dam/oecd/en/topics/policy-issues/future-of-education-and-skills/learning-compass-constructs/Critical%20Thinking.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/topics/policy-issues/future-of-education-and-skills/learning-compass-constructs/Critical%20Thinking.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Critical ThinkingCritical thinking “comprises the mental processes, strategies, and representations people use to solve problems, make de...</p></details>
+   Link: <a href="https://www.oecd.org/content/dam/oecd/en/topics/policy-issues/future-of-education-and-skills/learning-compass-constructs/Critical%20Thinking.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/topics/policy-issues/future-of-education-and-skills/learning-compass-constructs/Critical%20Thinking.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Critical ThinkingCritical thinking “comprises the mental processes, strategies, and representations people use to solve problems, make de...</p></details>
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/figure/Steps-in-Assumption-Based-Planning_fig7_339917639" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Steps-in-Assumption-Based-Planning_fig7_339917639</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>1 Steps in Assumption-Based PlanningA load-bearing assumption is one that, if broken by one or more plausible future events or set of con...</p></details>
+   Link: <a href="https://www.researchgate.net/figure/Steps-in-Assumption-Based-Planning_fig7_339917639" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Steps-in-Assumption-Based-Planning_fig7_339917639</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Steps in Assumption-Based PlanningA load-bearing assumption is one that, if broken by one or more plausible future events or set of con...</p></details>
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: thedecisionlab.com  
-   Link:<a href="https://thedecisionlab.com/reference-guide/philosophy/[critical-thinking" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/philosophy/[critical-thinking</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Thinking SkillsCritical thinking skills are the mental processes and strategies individuals use to assess and integrate informat...</p></details>
+   Link: <a href="https://thedecisionlab.com/reference-guide/philosophy/[critical-thinking" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/philosophy/[critical-thinking</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Thinking SkillsCritical thinking skills are the mental processes and strategies individuals use to assess and integrate informat...</p></details>
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: scribd.com  
-   Link:<a href="https://www.scribd.com/document/346823863/Tradecraft-primer-structured-analytic-techniques-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/346823863/Tradecraft-primer-structured-analytic-techniques-pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>offensive operation. Or when economists. List and review the key working assess the prospects for...Read more...</p></details>
+   Link: <a href="https://www.scribd.com/document/346823863/Tradecraft-primer-structured-analytic-techniques-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/346823863/Tradecraft-primer-structured-analytic-techniques-pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>offensive operation. Or when economists. List and review the key working assess the prospects for...Read more...</p></details>
 
-12.<a id="endnote-12"></a>
+12. <a id="endnote-12"></a>
    Source: researchgate.net  
    Title: 338425319 Critical Thinking as a Qualified Decision Making Tool  
-   Link:<a href="https://www.researchgate.net/publication/338425319_Critical_Thinking_as_a_Qualified_Decision_Making_Tool" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/338425319_Critical_Thinking_as_a_Qualified_Decision_Making_Tool</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Critical Thinking as a Qualified Decision Making Toolby U Turan · 2019 · Cited by 113 — In this study, the concepts of decision-mak...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/338425319_Critical_Thinking_as_a_Qualified_Decision_Making_Tool" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/338425319_Critical_Thinking_as_a_Qualified_Decision_Making_Tool</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Critical Thinking as a Qualified Decision Making Toolby U Turan · 2019 · Cited by 113 — In this study, the concepts of decision-mak...</p></details>
 
-13.<a id="endnote-13"></a>
+13. <a id="endnote-13"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/337154064_Structured_Analytic_Techniques_Taxonomy_and_Technique_Selection_for_Information_and_Intelligence_Analysis_Practitioners" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/337154064_Structured_Analytic_Techniques_Taxonomy_and_Technique_Selection_for_Information_and_Intelligence_Analysis_Practitioners</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>taxonomy of structured analytic techniques. Diagnostic. Techniques. Key Assumptions Check. Quality of Information. Check. Indicators or S...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/337154064_Structured_Analytic_Techniques_Taxonomy_and_Technique_Selection_for_Information_and_Intelligence_Analysis_Practitioners" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/337154064_Structured_Analytic_Techniques_Taxonomy_and_Technique_Selection_for_Information_and_Intelligence_Analysis_Practitioners</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>taxonomy of structured analytic techniques. Diagnostic. Techniques. Key Assumptions Check. Quality of Information. Check. Indicators or S...</p></details>
 
-14.<a id="endnote-14"></a>
+14. <a id="endnote-14"></a>
    Source: artpetty.com  
    Title: For Better Decision-Making, Unpack and Stress Test  
-   Link:<a href="https://artpetty.com/2017/10/17/better-decision-making/" target="_blank" rel="noopener noreferrer nofollow">https://artpetty.com/2017/10/17/better-decision-making/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Art Petty17 Oct 2017 — You can jump-start strengthening your planning and decision-making processes by learning to unpack and stress test...</p></details>
+   Link: <a href="https://artpetty.com/2017/10/17/better-decision-making/" target="_blank" rel="noopener noreferrer nofollow">https://artpetty.com/2017/10/17/better-decision-making/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Art Petty17 Oct 2017 — You can jump-start strengthening your planning and decision-making processes by learning to unpack and stress test...</p></details>
 
-15.<a id="endnote-15"></a>
+15. <a id="endnote-15"></a>
    Source: themindcollection.com  
-   Link:<a href="https://themindcollection.com/structured-analytic-techniques/" target="_blank" rel="noopener noreferrer nofollow">https://themindcollection.com/structured-analytic-techniques/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Assumptions are dangerous knowledge; ideas we...Read more...</p></details>
+   Link: <a href="https://themindcollection.com/structured-analytic-techniques/" target="_blank" rel="noopener noreferrer nofollow">https://themindcollection.com/structured-analytic-techniques/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Assumptions are dangerous knowledge; ideas we...Read more...</p></details>
 
-16.<a id="endnote-16"></a>
+16. <a id="endnote-16"></a>
    Source: greydynamics.com  
-   Link:<a href="https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/" target="_blank" rel="noopener noreferrer nofollow">https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>This can also be offset by using “What...Read more...</p></details>
+   Link: <a href="https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/" target="_blank" rel="noopener noreferrer nofollow">https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>This can also be offset by using “What...Read more...</p></details>
 
-17.<a id="endnote-17"></a>
+17. <a id="endnote-17"></a>
    Source: grafium.co  
    Title: What is a key assumptions check?  
-   Link:<a href="https://grafium.co/glossary/key-assumptions-check" target="_blank" rel="noopener noreferrer nofollow">https://grafium.co/glossary/key-assumptions-check</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>A key assumptions check is a structured review of the assumptions behind a plan, assessing each for validity, sensitivity and cons...</p></details>
+   Link: <a href="https://grafium.co/glossary/key-assumptions-check" target="_blank" rel="noopener noreferrer nofollow">https://grafium.co/glossary/key-assumptions-check</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>A key assumptions check is a structured review of the assumptions behind a plan, assessing each for validity, sensitivity and cons...</p></details>

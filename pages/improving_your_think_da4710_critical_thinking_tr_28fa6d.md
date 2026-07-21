@@ -451,11 +451,11 @@ Critical thinking can be taught, but it does not [transfer]({{ 'transfer/' | rel
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_critical_thinking_tr_28fa6d-overview.webp" | relative_url }}" alt="Overview image for Critical Skills" loading="eager" decoding="sync" fetchpriority="high">
-The transferable part is not a magic all-purpose mental muscle. It is a set of habits and routines: define the question, separate evidence from assertion, compare alternative explanations, look for the strongest objection, notice [uncertainty]({{ 'uncertainty/' | relative_url }}), and revise when feedback shows the first judgement was wrong. Research on critical-thinking instruction is cautiously encouraging, but it also warns against vague “skills” programmes that are detached from knowledge and practice. Meta-analyses find positive effects from instruction, while cognitive-science accounts stress that transfer is hard unless learners are taught when and how to use the skill in new settings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.3102/0034654314551063" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals+2NSW Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">First, the evidence on...Read more...</span></span></span>
+The transferable part is not a magic all-purpose mental muscle. It is a set of habits and routines: define the question, separate evidence from assertion, compare alternative explanations, look for the strongest objection, notice [uncertainty]({{ 'uncertainty/' | relative_url }}), and revise when feedback shows the first judgement was wrong. Research on critical-thinking instruction is cautiously encouraging, but it also warns against vague “skills” programmes that are detached from knowledge and practice. Meta-analyses find positive effects from instruction, while cognitive-science accounts stress that transfer is hard unless learners are taught when and how to use the skill in new settings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.3102/0034654314551063" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals+2NSW Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">First, the evidence on...Read more...</span></span></span>
 
 ## What critical thinking means in practice
 
-Critical thinking is often described as if it were a personality trait: some people are “critical thinkers” and others are not. In practice, it is better understood as a disciplined way of handling claims, reasons and uncertainty. A widely used research definition describes it as purposeful, self-regulatory judgement involving interpretation, analysis, evaluation and inference, together with the ability to explain the reasoning behind a conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.3102/0034654314551063" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">First, the evidence on...Read more...</span></span></span>
+Critical thinking is often described as if it were a personality trait: some people are “critical thinkers” and others are not. In practice, it is better understood as a disciplined way of handling claims, reasons and uncertainty. A widely used research definition describes it as purposeful, self-regulatory judgement involving interpretation, analysis, evaluation and inference, together with the ability to explain the reasoning behind a conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.3102/0034654314551063" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">First, the evidence on...Read more...</span></span></span>
 
 That definition becomes more useful when translated into everyday actions. A person thinking critically about a claim does not merely ask, “Do I agree?” They ask:
 
@@ -475,11 +475,11 @@ These moves are useful beyond school because they match the structure of real de
 
 ## Why transfer is difficult, not automatic
 
-The appealing myth is that critical thinking is like learning to ride a bicycle: once acquired, it can be used anywhere. The research picture is more complicated. Daniel Willingham’s review for the New South Wales Department of Education argues that transfer to new problems is “decidedly mixed” and that thinking processes are strongly intertwined with background knowledge. A student may learn how to evaluate an argument in newspaper editorials, but that does not guarantee they will evaluate a scientific paper, a budget forecast or a legal claim equally well.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://education.nsw.gov.au/content/dam/main-education/teaching-and-learning/education-for-a-changing-world/media/documents/How-to-teach-critical-thinking-Willingham.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.nsw.gov.au">[NSW Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.nsw.gov.au</span><span class="citation-popover-snippet">NSW EducationHow to Teach Critical Thinkingby DT Willingham · Cited by 153 — This aspect of critical thinking is called transfer, and the...</span></span></span>
+The appealing myth is that critical thinking is like learning to ride a bicycle: once acquired, it can be used anywhere. The research picture is more complicated. Daniel Willingham’s review for the New South Wales Department of Education argues that transfer to new problems is “decidedly mixed” and that thinking processes are strongly intertwined with background knowledge. A student may learn how to evaluate an argument in newspaper editorials, but that does not guarantee they will evaluate a scientific paper, a budget forecast or a legal claim equally well. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://education.nsw.gov.au/content/dam/main-education/teaching-and-learning/education-for-a-changing-world/media/documents/How-to-teach-critical-thinking-Willingham.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.nsw.gov.au">[NSW Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.nsw.gov.au</span><span class="citation-popover-snippet">NSW EducationHow to Teach Critical Thinkingby DT Willingham · Cited by 153 — This aspect of critical thinking is called transfer, and the...</span></span></span>
 
 The reason is simple but important: critical thinking needs material to think with. Someone cannot weigh competing explanations in climate science, mortgage terms or employment law without enough knowledge to recognise what counts as a meaningful fact, a dubious assumption or a relevant comparison. Generic [prompts]({{ 'prompts/' | relative_url }}) help, but they do not replace [domain knowledge]({{ 'domain-knowledge/' | relative_url }}).
 
-This does not mean transfer is impossible. It means transfer needs design. Diane Halpern’s influential model for teaching critical thinking across domains includes four parts: a disposition to engage in effortful thinking, explicit instruction in thinking skills, training in the structure of problems and arguments, and metacognitive monitoring, meaning checking one’s own progress and accuracy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/9572008/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Teaching Critical Thinking for Transfer Across Domains</span><span class="citation-popover-snippet">by DF Halpern · 1998 · Cited by 3555 — Teaching Critical Thinking for Transfer Across Domains. Dispositions, Skills, Structure Training...</span></span></span>
+This does not mean transfer is impossible. It means transfer needs design. Diane Halpern’s influential model for teaching critical thinking across domains includes four parts: a disposition to engage in effortful thinking, explicit instruction in thinking skills, training in the structure of problems and arguments, and metacognitive monitoring, meaning checking one’s own progress and accuracy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/9572008/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Teaching Critical Thinking for Transfer Across Domains</span><span class="citation-popover-snippet">by DF Halpern · 1998 · Cited by 3555 — Teaching Critical Thinking for Transfer Across Domains. Dispositions, Skills, Structure Training...</span></span></span>
 
 The practical lesson is that transferable critical thinking sits between two extremes. It is not a free-floating skill that works without knowledge, but it is also not locked inside one school subject. People can learn reusable reasoning patterns, especially when they practise recognising the same underlying structure across different contexts.
 
@@ -489,7 +489,7 @@ The practical lesson is that transferable critical thinking sits between two ext
 
 “Think harder” is not a teaching method. Nor is “be sceptical”, if scepticism simply means doubting whatever feels unfamiliar. Critical thinking improves most reliably when learners are shown the move they are meant to make, see examples, practise it, and receive feedback on whether they used it well.
 
-A major meta-analysis in the *Review of Educational Research* found that instructional interventions can improve critical-thinking skills and dispositions, with stronger results when critical thinking is taught explicitly rather than left implicit inside ordinary coursework.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.3102/0034654314551063" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">First, the evidence on...Read more...</span></span></span> Another study with economics students found that explicit critical-thinking instruction combined with practice was required to improve performance; implicit exposure and practice alone were not enough.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://repub.eur.nl/pub/59456/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: repub.eur.nl">[RePub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">repub.eur.nl</span><span class="citation-popover-snippet">Open source on eur.nl.</span></span></span>
+A major meta-analysis in the *Review of Educational Research* found that instructional interventions can improve critical-thinking skills and dispositions, with stronger results when critical thinking is taught explicitly rather than left implicit inside ordinary coursework. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.3102/0034654314551063" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">First, the evidence on...Read more...</span></span></span> Another study with economics students found that explicit critical-thinking instruction combined with practice was required to improve performance; implicit exposure and practice alone were not enough. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://repub.eur.nl/pub/59456/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: repub.eur.nl">[RePub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">repub.eur.nl</span><span class="citation-popover-snippet">Open source on eur.nl.</span></span></span>
 
 This evidence matters because many schools, universities and workplaces say they value critical thinking while [teaching it]({{ 'teaching-it/' | relative_url }}) indirectly. A course may assign essays, debates or projects and assume that the thinking skill will emerge. Sometimes it does. Often it does not, because learners may focus on producing the required answer rather than noticing the reasoning pattern they are supposed to transfer.
 
@@ -524,7 +524,7 @@ Not every classroom exercise has equal value outside school. The most transferab
 
 **Calibrating confidence.** Good thinkers are not always less confident; they are better at matching confidence to evidence. This includes saying “I do not know”, “this is plausible but weakly supported”, or “my conclusion depends on this assumption”.
 
-**Using metacognition.** Metacognition means monitoring one’s own thinking. The Education Endowment Foundation’s guidance on metacognition and self-regulated learning emphasises that pupils benefit when teachers explicitly model planning, monitoring and evaluation rather than assuming learners already know how to manage their thinking.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">Open source on educationendowmentfoundation.org.uk.</span></span></span>
+**Using metacognition.** Metacognition means monitoring one’s own thinking. The Education Endowment Foundation’s guidance on metacognition and self-regulated learning emphasises that pupils benefit when teachers explicitly model planning, monitoring and evaluation rather than assuming learners already know how to manage their thinking. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">Open source on educationendowmentfoundation.org.uk.</span></span></span>
 
 These skills transfer best when they are attached to realistic cues. A learner should not only know the phrase “alternative explanation”; they should recognise the moment when one is needed: a surprising trend, a persuasive anecdote, a confident recommendation, or a decision with high cost if wrong.
 
@@ -532,7 +532,7 @@ These skills transfer best when they are attached to realistic cues. A learner s
 
 Critical thinking is not improved by reflection alone. People need feedback that shows whether their judgement worked and why. Without feedback, a person can become more fluent in rational-sounding language while still making the same mistakes.
 
-A useful example comes from physics education. Researchers redesigned an introductory physics laboratory course so that students repeatedly made quantitative [comparisons]({{ 'comparisons/' | relative_url }}) between datasets and models, then received practice and feedback. Later, after the prompts had been removed, students in the experimental condition were far more likely than a control group to improve their experimental methods spontaneously and to identify limitations in a physical model using their data. The researchers also reported that these differences persisted into a later course.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1508.04870" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Teaching Critical Thinking</span><span class="citation-popover-snippet">arXiv Teaching Critical Thinking</span></span></span>
+A useful example comes from physics education. Researchers redesigned an introductory physics laboratory course so that students repeatedly made quantitative [comparisons]({{ 'comparisons/' | relative_url }}) between datasets and models, then received practice and feedback. Later, after the prompts had been removed, students in the experimental condition were far more likely than a control group to improve their experimental methods spontaneously and to identify limitations in a physical model using their data. The researchers also reported that these differences persisted into a later course. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1508.04870" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Teaching Critical Thinking</span><span class="citation-popover-snippet">arXiv Teaching Critical Thinking</span></span></span>
 
 The wider lesson is not that everyone needs physics labs. It is that transferable thinking improves when practice includes three ingredients:
 
@@ -575,7 +575,7 @@ For example, a company might say a new software tool improved productivity by 20
 
 ### Practise near transfer before expecting far transfer
 
-Transfer is easier when the new situation resembles the old one. A person who learns to evaluate evidence in biology may transfer that skill more readily to health reporting than to financial forecasting. This is called near transfer. Far transfer, where a skill moves to a very different context, is harder and usually needs explicit comparison across examples. Willingham’s account of transfer stresses that teachers should identify the critical-thinking skill within a subject, ensure enough background knowledge, and revisit the skill across time and contexts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://education.nsw.gov.au/content/dam/main-education/teaching-and-learning/education-for-a-changing-world/media/documents/How-to-teach-critical-thinking-Willingham.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.nsw.gov.au">[NSW Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.nsw.gov.au</span><span class="citation-popover-snippet">NSW EducationHow to Teach Critical Thinkingby DT Willingham · Cited by 153 — This aspect of critical thinking is called transfer, and the...</span></span></span>
+Transfer is easier when the new situation resembles the old one. A person who learns to evaluate evidence in biology may transfer that skill more readily to health reporting than to financial forecasting. This is called near transfer. Far transfer, where a skill moves to a very different context, is harder and usually needs explicit comparison across examples. Willingham’s account of transfer stresses that teachers should identify the critical-thinking skill within a subject, ensure enough background knowledge, and revisit the skill across time and contexts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://education.nsw.gov.au/content/dam/main-education/teaching-and-learning/education-for-a-changing-world/media/documents/How-to-teach-critical-thinking-Willingham.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.nsw.gov.au">[NSW Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.nsw.gov.au</span><span class="citation-popover-snippet">NSW EducationHow to Teach Critical Thinkingby DT Willingham · Cited by 153 — This aspect of critical thinking is called transfer, and the...</span></span></span>
 
 A practical sequence is:
 
@@ -608,9 +608,9 @@ If the goal is transfer beyond school, the intervention should not be a one-off 
 
 For schools and universities, this means teaching both knowledge and thinking moves. A history course can teach sourcing, corroboration and contextualisation. A science course can teach uncertainty, measurement and model testing. A statistics course can teach base rates, sampling and causal inference. The common routines can be named across subjects so learners recognise the family resemblance between them.
 
-For employers, it means building critical thinking into work processes rather than treating it as a workshop slogan. A project review can require teams to state assumptions, alternatives and disconfirming evidence. A hiring process can test how candidates handle ambiguous information, not only whether they have the right credential. The OECD has noted a growing shift towards skills-first labour markets, where competencies are increasingly used alongside or instead of traditional qualifications, but implementation remains challenging.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/empowering-the-workforce-in-the-context-of-a-skills-first-approach_345b6528-en/full-report/skills-first-in-oecd-countries-concepts-trends-and-implications-for-the-labour-market_0d6ba66f.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Open source on oecd.org.</span></span></span>
+For employers, it means building critical thinking into work processes rather than treating it as a workshop slogan. A project review can require teams to state assumptions, alternatives and disconfirming evidence. A hiring process can test how candidates handle ambiguous information, not only whether they have the right credential. The OECD has noted a growing shift towards skills-first labour markets, where competencies are increasingly used alongside or instead of traditional qualifications, but implementation remains challenging. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/empowering-the-workforce-in-the-context-of-a-skills-first-approach_345b6528-en/full-report/skills-first-in-oecd-countries-concepts-trends-and-implications-for-the-labour-market_0d6ba66f.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Open source on oecd.org.</span></span></span>
 
-Adult-skill evidence also shows why this matters beyond formal education. The OECD’s 2023 Survey of Adult Skills assessed adults across literacy, numeracy and adaptive problem solving; its summary reports that, on average across participating OECD countries, 18% of adults lacked the most basic level of proficiency in any of the assessed domains.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/2024/12/do-adults-have-the-skills-they-need-to-thrive-in-a-changing-world_4396f1f1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">do adults have the skills they need to thrive in a changing world 4396f1f1</span><span class="citation-popover-snippet">do adults have the skills they need to thrive in a changing world 4396f1f1</span></span></span> Critical thinking is not identical to those measures, but it depends heavily on the same foundations: reading accurately, reasoning with numbers, adapting to new information and solving unfamiliar problems.
+Adult-skill evidence also shows why this matters beyond formal education. The OECD’s 2023 Survey of Adult Skills assessed adults across literacy, numeracy and adaptive problem solving; its summary reports that, on average across participating OECD countries, 18% of adults lacked the most basic level of proficiency in any of the assessed domains. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/2024/12/do-adults-have-the-skills-they-need-to-thrive-in-a-changing-world_4396f1f1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">do adults have the skills they need to thrive in a changing world 4396f1f1</span><span class="citation-popover-snippet">do adults have the skills they need to thrive in a changing world 4396f1f1</span></span></span> Critical thinking is not identical to those measures, but it depends heavily on the same foundations: reading accurately, reasoning with numbers, adapting to new information and solving unfamiliar problems.
 
 The policy implication is modest but important. Institutions should not promise instant “future-ready” thinking through generic activities. They should design repeated opportunities to interpret evidence, compare explanations, justify decisions and receive feedback in increasingly varied contexts.
 
@@ -625,7 +625,7 @@ The second mistake is teaching it as pure scepticism. A critical thinker is not 
 
 The third mistake is separating thinking from knowledge. A person cannot critically evaluate a subject they barely understand. They may still ask useful questions about source, evidence and uncertainty, but deep evaluation requires enough background to know what is normal, what is surprising and what expertise is relevant.
 
-The fourth mistake is failing to assess transfer. A student may perform well when the teacher announces, “Now use critical thinking,” but fail to use the same skill when the cue disappears. Research on obstacles to critical-thinking transfer has examined whether learners fail because they do not recognise the opportunity, cannot recall the taught principle, or cannot apply it in the new case. That distinction matters: each failure needs a different fix.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/20445911.2021.1990302" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Open source on tandfonline.com.</span></span></span>
+The fourth mistake is failing to assess transfer. A student may perform well when the teacher announces, “Now use critical thinking,” but fail to use the same skill when the cue disappears. Research on obstacles to critical-thinking transfer has examined whether learners fail because they do not recognise the opportunity, cannot recall the taught principle, or cannot apply it in the new case. That distinction matters: each failure needs a different fix. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/20445911.2021.1990302" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Open source on tandfonline.com.</span></span></span>
 
 A good programme therefore tests not only whether learners can use a skill immediately after instruction, but whether they notice when to use it later, in messier settings, without being prompted.
 
@@ -638,194 +638,194 @@ The most useful transferable skills are practical: clarify the question, inspect
 That is why the best answer is neither “critical thinking is fully general” nor “critical thinking cannot transfer at all”. The evidence supports a middle position: transfer is possible, valuable and worth teaching, but it has to be deliberately built.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Can Critical Thinking Really Be Taught?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Can Critical Thinking Really Be Taught?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-</h4>
-<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-<p class="fr-book-desc">Demonstrates practical critical thinking, evaluating evidence and questioning unsupported claims.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+        </h4>
+        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+        <p class="fr-book-desc">Demonstrates practical critical thinking, evaluating evidence and questioning unsupported claims.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-</h4>
-<p class="fr-book-author">By Daniel Kahneman</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Critical+Thinking+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Critical Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Xg4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Critical Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Critical+Thinking+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Critical Thinking">Critical Thinking</a>
+        </h4>
+        <p class="fr-book-author">By Tom Chatfield</p>
         
-<p class="fr-book-desc">Explains the mental habits, biases and evidence-based thinking that underpin critical thinking.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Focuses directly on developing and applying critical-thinking skills in everyday life.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Critical+Thinking+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Critical Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Xg4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Critical Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Critical Thinking">Critical Thinking</a>
-</h4>
-<p class="fr-book-author">By Tom Chatfield</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Super+Thinking+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Super Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fi6qvAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Super Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Super+Thinking+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Super Thinking">Super Thinking</a>
+        </h4>
+        <p class="fr-book-author">By Gabriel Weinberg, Lauren McCann</p>
         
-<p class="fr-book-desc">Focuses directly on developing and applying critical-thinking skills in everyday life.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Introduces practical mental models that help readers evaluate problems, evidence and decisions more effectively.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Super+Thinking+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Xg-CBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-</h4>
-<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Xg-CBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+        </h4>
+        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
         
-<p class="fr-book-desc">Teaches disciplined reading, questioning and analysis that support transferable critical-thinking habits.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Teaches disciplined reading, questioning and analysis that support transferable critical-thinking habits.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Critical+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Critical+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Super+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Super Thinking</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery"><img src="https://i.ebayimg.com/images/g/-PcAAeSw5GNqCPEC/s-l225.jpg" alt="Listing image for A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery"><img src="https://i.ebayimg.com/images/g/-PcAAeSw5GNqCPEC/s-l225.jpg" alt="Listing image for A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. Artificial Intelligence Movie Film Poster Art Print"><img src="https://i.ebayimg.com/images/g/QBAAAOSwKr5m~RI5/s-l225.jpg" alt="Listing image for A.I. Artificial Intelligence Movie Film Poster Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">A.I. Artificial Intelligence Movie Film Poster Art Print</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. Artificial Intelligence Movie Film Poster Art Print"><img src="https://i.ebayimg.com/images/g/QBAAAOSwKr5m~RI5/s-l225.jpg" alt="Listing image for A.I. Artificial Intelligence Movie Film Poster Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">A.I. Artificial Intelligence Movie Film Poster Art Print</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/7q0AAeSwc-Fp2SC1/s-l225.jpg" alt="Listing image for Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/7q0AAeSwc-Fp2SC1/s-l225.jpg" alt="Listing image for Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster"><img src="https://i.ebayimg.com/images/g/2yEAAeSwlVtouaG1/s-l225.jpg" alt="Listing image for A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster"><img src="https://i.ebayimg.com/images/g/2yEAAeSwlVtouaG1/s-l225.jpg" alt="Listing image for A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="can-critical-thinking-really-be-taught-artificial-intelligence-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -841,7 +841,7 @@ That is why the best answer is neither “critical thinking is fully general” 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -861,7 +861,7 @@ That is why the best answer is neither “critical thinking is fully general” 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -893,7 +893,7 @@ That is why the best answer is neither “critical thinking is fully general” 
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -945,7 +945,7 @@ That is why the best answer is neither “critical thinking is fully general” 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -990,7 +990,7 @@ That is why the best answer is neither “critical thinking is fully general” 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1030,169 +1030,169 @@ That is why the best answer is neither “critical thinking is fully general” 
 </section>
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link:<a href="https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition</a>  
+   Link: <a href="https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition</a>  
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: arxiv.org  
    Title: arXiv Teaching Critical Thinking  
-   Link:<a href="https://arxiv.org/abs/1508.04870" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1508.04870</a>  
+   Link: <a href="https://arxiv.org/abs/1508.04870" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1508.04870</a>  
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: oecd.org  
-   Link:<a href="https://www.oecd.org/en/publications/empowering-the-workforce-in-the-context-of-a-skills-first-approach_345b6528-en/full-report/skills-first-in-oecd-countries-concepts-trends-and-implications-for-the-labour-market_0d6ba66f.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/empowering-the-workforce-in-the-context-of-a-skills-first-approach_345b6528-en/full-report/skills-first-in-oecd-countries-concepts-trends-and-implications-for-the-labour-market_0d6ba66f.html</a>  
+   Link: <a href="https://www.oecd.org/en/publications/empowering-the-workforce-in-the-context-of-a-skills-first-approach_345b6528-en/full-report/skills-first-in-oecd-countries-concepts-trends-and-implications-for-the-labour-market_0d6ba66f.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/empowering-the-workforce-in-the-context-of-a-skills-first-approach_345b6528-en/full-report/skills-first-in-oecd-countries-concepts-trends-and-implications-for-the-labour-market_0d6ba66f.html</a>  
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: oecd.org  
    Title: do adults have the skills they need to thrive in a changing world 4396f1f1  
-   Link:<a href="https://www.oecd.org/en/publications/2024/12/do-adults-have-the-skills-they-need-to-thrive-in-a-changing-world_4396f1f1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/2024/12/do-adults-have-the-skills-they-need-to-thrive-in-a-changing-world_4396f1f1.html</a>  
+   Link: <a href="https://www.oecd.org/en/publications/2024/12/do-adults-have-the-skills-they-need-to-thrive-in-a-changing-world_4396f1f1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/2024/12/do-adults-have-the-skills-they-need-to-thrive-in-a-changing-world_4396f1f1.html</a>  
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: oecd.org  
-   Link:<a href="https://www.oecd.org/en/about/projects/teaching-learning-and-assessing-creative-and-critical-thinking-skills.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/about/projects/teaching-learning-and-assessing-creative-and-critical-thinking-skills.html</a>  
+   Link: <a href="https://www.oecd.org/en/about/projects/teaching-learning-and-assessing-creative-and-critical-thinking-skills.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/about/projects/teaching-learning-and-assessing-creative-and-critical-thinking-skills.html</a>  
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: oecd.org  
-   Link:<a href="https://www.oecd.org/en/publications/the-[assessment" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/the-[assessment</a>  
+   Link: <a href="https://www.oecd.org/en/publications/the-[assessment" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/the-[assessment</a>  
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: oecd.org  
    Title: skills that matter for success and well being in adulthood 6e318286 en  
-   Link:<a href="https://www.oecd.org/en/publications/skills-that-matter-for-success-and-well-being-in-adulthood_6e318286-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/skills-that-matter-for-success-and-well-being-in-adulthood_6e318286-en.html</a>  
+   Link: <a href="https://www.oecd.org/en/publications/skills-that-matter-for-success-and-well-being-in-adulthood_6e318286-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/skills-that-matter-for-success-and-well-being-in-adulthood_6e318286-en.html</a>  
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: oecd.org  
    Title: future of education and skills 2030  
-   Link:<a href="https://www.oecd.org/en/about/projects/future-of-education-and-skills-2030.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/about/projects/future-of-education-and-skills-2030.html</a>  
+   Link: <a href="https://www.oecd.org/en/about/projects/future-of-education-and-skills-2030.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/about/projects/future-of-education-and-skills-2030.html</a>  
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: journals.sagepub.com  
-   Link:<a href="https://journals.sagepub.com/doi/10.3102/0034654314551063" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.3102/0034654314551063</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>First, the evidence on...Read more...</p></details>
+   Link: <a href="https://journals.sagepub.com/doi/10.3102/0034654314551063" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.3102/0034654314551063</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>First, the evidence on...Read more...</p></details>
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: education.nsw.gov.au  
-   Link:<a href="https://education.nsw.gov.au/content/dam/main-education/teaching-and-learning/education-for-a-changing-world/media/documents/How-to-teach-critical-thinking-Willingham.pdf" target="_blank" rel="noopener noreferrer nofollow">https://education.nsw.gov.au/content/dam/main-education/teaching-and-learning/education-for-a-changing-world/media/documents/How-to-teach-critical-thinking-Willingham.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>NSW EducationHow to Teach Critical Thinkingby DT Willingham · Cited by 153 — This aspect of critical thinking is called transfer, and the...</p></details>
+   Link: <a href="https://education.nsw.gov.au/content/dam/main-education/teaching-and-learning/education-for-a-changing-world/media/documents/How-to-teach-critical-thinking-Willingham.pdf" target="_blank" rel="noopener noreferrer nofollow">https://education.nsw.gov.au/content/dam/main-education/teaching-and-learning/education-for-a-changing-world/media/documents/How-to-teach-critical-thinking-Willingham.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NSW EducationHow to Teach Critical Thinkingby DT Willingham · Cited by 153 — This aspect of critical thinking is called transfer, and the...</p></details>
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med Teaching Critical Thinking for Transfer Across Domains  
-   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/9572008/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/9572008/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>by DF Halpern · 1998 · Cited by 3555 — Teaching Critical Thinking for Transfer Across Domains. Dispositions, Skills, Structure Training...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/9572008/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/9572008/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by DF Halpern · 1998 · Cited by 3555 — Teaching Critical Thinking for Transfer Across Domains. Dispositions, Skills, Structure Training...</p></details>
 
-12.<a id="endnote-12"></a>
+12. <a id="endnote-12"></a>
    Source: journals.sagepub.com  
-   Link:<a href="https://journals.sagepub.com/doi/abs/10.3102/0034654308326084" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.3102/0034654308326084</a>  
+   Link: <a href="https://journals.sagepub.com/doi/abs/10.3102/0034654308326084" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.3102/0034654308326084</a>  
 
-13.<a id="endnote-13"></a>
+13. <a id="endnote-13"></a>
    Source: repub.eur.nl  
-   Link:<a href="https://repub.eur.nl/pub/59456/" target="_blank" rel="noopener noreferrer nofollow">https://repub.eur.nl/pub/59456/</a>  
+   Link: <a href="https://repub.eur.nl/pub/59456/" target="_blank" rel="noopener noreferrer nofollow">https://repub.eur.nl/pub/59456/</a>  
 
-14.<a id="endnote-14"></a>
+14. <a id="endnote-14"></a>
    Source: tandfonline.com  
-   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/20445911.2021.1990302" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/20445911.2021.1990302</a>  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/20445911.2021.1990302" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/20445911.2021.1990302</a>  
 
-15.<a id="endnote-15"></a>
+15. <a id="endnote-15"></a>
    Source: repub.eur.nl  
    Title: Cultivating critical thinking Anita Heijltjes  
-   Link:<a href="https://repub.eur.nl/pub/50418/Cultivating-critical-thinking-Anita-Heijltjes.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repub.eur.nl/pub/50418/Cultivating-critical-thinking-Anita-Heijltjes.pdf</a>  
+   Link: <a href="https://repub.eur.nl/pub/50418/Cultivating-critical-thinking-Anita-Heijltjes.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repub.eur.nl/pub/50418/Cultivating-critical-thinking-Anita-Heijltjes.pdf</a>  
 
-16.<a id="endnote-16"></a>
+16. <a id="endnote-16"></a>
    Source: dspace.library.uu.nl  
-   Link:<a href="https://dspace.library.uu.nl/server/api/core/bitstreams/999a2aae-6b7f-41f4-b568-70c7dba94b87/content" target="_blank" rel="noopener noreferrer nofollow">https://dspace.library.uu.nl/server/api/core/bitstreams/999a2aae-6b7f-41f4-b568-70c7dba94b87/content</a>  
+   Link: <a href="https://dspace.library.uu.nl/server/api/core/bitstreams/999a2aae-6b7f-41f4-b568-70c7dba94b87/content" target="_blank" rel="noopener noreferrer nofollow">https://dspace.library.uu.nl/server/api/core/bitstreams/999a2aae-6b7f-41f4-b568-70c7dba94b87/content</a>  
 
-17.<a id="endnote-17"></a>
+17. <a id="endnote-17"></a>
    Source: frontiersin.org  
-   Link:<a href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1689765/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1689765/full</a>  
+   Link: <a href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1689765/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1689765/full</a>  
 
-18.<a id="endnote-18"></a>
+18. <a id="endnote-18"></a>
    Source: frontiersin.org  
-   Link:<a href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1141686/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1141686/full</a>  
+   Link: <a href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1141686/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1141686/full</a>  
 
-19.<a id="endnote-19"></a>
+19. <a id="endnote-19"></a>
    Source: assets.publishing.service.gov.uk  
    Title: 21st century  
-   Link:<a href="https://assets.publishing.service.gov.uk/media/5d71187ce5274a097c07b985/21st_century.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5d71187ce5274a097c07b985/21st_century.pdf</a>  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/5d71187ce5274a097c07b985/21st_century.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5d71187ce5274a097c07b985/21st_century.pdf</a>  
 
-20.<a id="endnote-20"></a>
+20. <a id="endnote-20"></a>
    Source: structural-learning.com  
    Title: explicit instruction  
-   Link:<a href="https://www.structural-learning.com/post/explicit-instruction" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/explicit-instruction</a>  
+   Link: <a href="https://www.structural-learning.com/post/explicit-instruction" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/explicit-instruction</a>  
 
-21.<a id="endnote-21"></a>
+21. <a id="endnote-21"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10054602/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10054602/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10054602/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10054602/</a>  
 
-22.<a id="endnote-22"></a>
+22. <a id="endnote-22"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8476672/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8476672/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8476672/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8476672/</a>  
 
-23.<a id="endnote-23"></a>
+23. <a id="endnote-23"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8476665/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8476665/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8476665/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8476665/</a>  
 
-24.<a id="endnote-24"></a>
+24. <a id="endnote-24"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9004595/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9004595/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9004595/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9004595/</a>  
 
-25.<a id="endnote-25"></a>
+25. <a id="endnote-25"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12022541/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12022541/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12022541/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12022541/</a>  
 
-26.<a id="endnote-26"></a>
+26. <a id="endnote-26"></a>
    Source: education.vic.gov.au  
    Title: HIG H IMPACT TEACHING STRATEGIES  
-   Link:<a href="https://www.education.vic.gov.au/Documents/school/teachers/management/highimpactteachingstrat.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.education.vic.gov.au/Documents/school/teachers/management/highimpactteachingstrat.pdf</a>  
+   Link: <a href="https://www.education.vic.gov.au/Documents/school/teachers/management/highimpactteachingstrat.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.education.vic.gov.au/Documents/school/teachers/management/highimpactteachingstrat.pdf</a>  
 
-27.<a id="endnote-27"></a>
+27. <a id="endnote-27"></a>
    Source: tandfonline.com  
-   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/03323315.2023.2258497" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/03323315.2023.2258497</a>  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/03323315.2023.2258497" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/03323315.2023.2258497</a>  
 
 ### Additional References
 
-28.<a id="endnote-28"></a>
+28. <a id="endnote-28"></a>
    Source: people.bath.ac.uk  
-   Link:<a href="https://people.bath.ac.uk/edspd/Weblinks/MA_ULL/Resources/Learning%20to%20Learn/Willingham%202008%20AEPR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://people.bath.ac.uk/edspd/Weblinks/MA_ULL/Resources/Learning%20to%20Learn/Willingham%202008%20AEPR.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>University of Bath Personal HomepagesCritical Thinking: Why Is It So Hard to Teach?7 Aug 2010 — Research from cognitive science shows tha...</p></details>
+   Link: <a href="https://people.bath.ac.uk/edspd/Weblinks/MA_ULL/Resources/Learning%20to%20Learn/Willingham%202008%20AEPR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://people.bath.ac.uk/edspd/Weblinks/MA_ULL/Resources/Learning%20to%20Learn/Willingham%202008%20AEPR.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>University of Bath Personal HomepagesCritical Thinking: Why Is It So Hard to Teach?7 Aug 2010 — Research from cognitive science shows tha...</p></details>
 
-29.<a id="endnote-29"></a>
+29. <a id="endnote-29"></a>
    Source: youtube.com  
    Title: Encourage critical thinking with 3 questions | Brian Oshiro | TEDx Xiguan  
-   Link:<a href="https://www.youtube.com/watch?v=0hoE8mtUS1E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0hoE8mtUS1E</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Essential Critical Thinking Skills For Making Good Decisions...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=0hoE8mtUS1E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0hoE8mtUS1E</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Essential Critical Thinking Skills For Making Good Decisions...</p></details>
 
-30.<a id="endnote-30"></a>
+30. <a id="endnote-30"></a>
    Source: youtube.com  
    Title: 5 tips to improve your critical thinking  
-   Link:<a href="https://www.youtube.com/watch?v=MGq7fvQzzz4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MGq7fvQzzz4</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>This tool will help improve your critical thinking - Erick Wilberding...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=MGq7fvQzzz4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MGq7fvQzzz4</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>This tool will help improve your critical thinking - Erick Wilberding...</p></details>
 
-31.<a id="endnote-31"></a>
+31. <a id="endnote-31"></a>
    Source: academia.edu  
-   Link:<a href="https://www.academia.edu/102389093/Transfer_of_Critical_Thinking_Skills_Across_Domains_Implicit_or_Explicit_Instructional_Approaches" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/102389093/Transfer_of_Critical_Thinking_Skills_Across_Domains_Implicit_or_Explicit_Instructional_Approaches</a>  
+   Link: <a href="https://www.academia.edu/102389093/Transfer_of_Critical_Thinking_Skills_Across_Domains_Implicit_or_Explicit_Instructional_Approaches" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/102389093/Transfer_of_Critical_Thinking_Skills_Across_Domains_Implicit_or_Explicit_Instructional_Approaches</a>  
 
-32.<a id="endnote-32"></a>
+32. <a id="endnote-32"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/249797930_Instructional_Interventions_Affecting_Critical_Thinking_Skills_and_Dispositions_A_Stage_1_Meta-Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/249797930_Instructional_Interventions_Affecting_Critical_Thinking_Skills_and_Dispositions_A_Stage_1_Meta-Analysis</a>  
+   Link: <a href="https://www.researchgate.net/publication/249797930_Instructional_Interventions_Affecting_Critical_Thinking_Skills_and_Dispositions_A_Stage_1_Meta-Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/249797930_Instructional_Interventions_Affecting_Critical_Thinking_Skills_and_Dispositions_A_Stage_1_Meta-Analysis</a>  
 
-33.<a id="endnote-33"></a>
+33. <a id="endnote-33"></a>
    Source: scirp.org  
-   Link:<a href="https://www.scirp.org/reference/referencespapers?referenceid=2778998" target="_blank" rel="noopener noreferrer nofollow">https://www.scirp.org/reference/referencespapers?referenceid=2778998</a>  
+   Link: <a href="https://www.scirp.org/reference/referencespapers?referenceid=2778998" target="_blank" rel="noopener noreferrer nofollow">https://www.scirp.org/reference/referencespapers?referenceid=2778998</a>  
 
-34.<a id="endnote-34"></a>
+34. <a id="endnote-34"></a>
    Source: aft.org  
-   Link:<a href="https://www.aft.org/ae/fall2020/willingham" target="_blank" rel="noopener noreferrer nofollow">https://www.aft.org/ae/fall2020/willingham</a>  
+   Link: <a href="https://www.aft.org/ae/fall2020/willingham" target="_blank" rel="noopener noreferrer nofollow">https://www.aft.org/ae/fall2020/willingham</a>  
 
-35.<a id="endnote-35"></a>
+35. <a id="endnote-35"></a>
    Source: winchester.ac.uk  
-   Link:<a href="https://www.winchester.ac.uk/research/Our-impactful-research/Research-in-Education-and-the-Arts/Research-projects/Building-Creative-and-Critical-Thinking-Skills-in-Higher-Education-Project/" target="_blank" rel="noopener noreferrer nofollow">https://www.winchester.ac.uk/research/Our-impactful-research/Research-in-Education-and-the-Arts/Research-projects/Building-Creative-and-Critical-Thinking-Skills-in-Higher-Education-Project/</a>  
+   Link: <a href="https://www.winchester.ac.uk/research/Our-impactful-research/Research-in-Education-and-the-Arts/Research-projects/Building-Creative-and-Critical-Thinking-Skills-in-Higher-Education-Project/" target="_blank" rel="noopener noreferrer nofollow">https://www.winchester.ac.uk/research/Our-impactful-research/Research-in-Education-and-the-Arts/Research-projects/Building-Creative-and-Critical-Thinking-Skills-in-Higher-Education-Project/</a>  
 
-36.<a id="endnote-36"></a>
+36. <a id="endnote-36"></a>
    Source: facebook.com  
-   Link:<a href="https://www.facebook.com/groups/48984828263/posts/10155048174808264/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/48984828263/posts/10155048174808264/</a>  
+   Link: <a href="https://www.facebook.com/groups/48984828263/posts/10155048174808264/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/48984828263/posts/10155048174808264/</a>  
 
-37.<a id="endnote-37"></a>
+37. <a id="endnote-37"></a>
    Source: instagram.com  
-   Link:<a href="https://www.instagram.com/estherabrami/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/estherabrami/?hl=en</a>  
+   Link: <a href="https://www.instagram.com/estherabrami/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/estherabrami/?hl=en</a>  

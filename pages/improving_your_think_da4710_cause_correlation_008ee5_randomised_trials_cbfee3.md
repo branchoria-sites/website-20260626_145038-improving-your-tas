@@ -280,7 +280,7 @@ image: /assets/images/improving_your_think_da4710_cause_correlation_008ee5_rando
 
 ## Introduction
 
-When trying to decide whether one thing caused another, the hardest question is usually not *what happened*, but *what would have happened otherwise*. Randomised trials improve our answer to that question by creating comparison groups that are similar before the intervention begins. Instead of allowing people, doctors, teachers or policymakers to choose who receives a treatment, participants are assigned by chance. This reduces the risk that pre-existing differences, rather than the intervention itself, explain the result. Randomised trials are therefore one of the strongest tools for estimating causal effects, but their strength comes from improving the comparison—not from eliminating every possible source of error. Even a well-randomised study can produce misleading conclusions if it suffers from poor implementation, missing data, biased outcome measurement or selective reporting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6019115/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">CONSORT 2010, 15. Baseline data. [Retrieved November...Read more...</span></span></span>
+When trying to decide whether one thing caused another, the hardest question is usually not *what happened*, but *what would have happened otherwise*. Randomised trials improve our answer to that question by creating comparison groups that are similar before the intervention begins. Instead of allowing people, doctors, teachers or policymakers to choose who receives a treatment, participants are assigned by chance. This reduces the risk that pre-existing differences, rather than the intervention itself, explain the result. Randomised trials are therefore one of the strongest tools for estimating causal effects, but their strength comes from improving the comparison—not from eliminating every possible source of error. Even a well-randomised study can produce misleading conclusions if it suffers from poor implementation, missing data, biased outcome measurement or selective reporting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6019115/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">CONSORT 2010, 15. Baseline data. [Retrieved November...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_cause_correlation_008ee5_randomised_trials_cbfee3-Illustration-1-dark.svg" | relative_url }}" alt="Randomisation illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_cause_correlation_008ee5_randomised_trials_cbfee3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_cause_correlation_008ee5_randomised_trials_cbfee3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,9 +288,9 @@ When trying to decide whether one thing caused another, the hardest question is 
 
 Imagine evaluating a new reading programme in schools. If teachers choose which pupils receive it, they may give it to children who are already highly motivated or to those who are struggling most. Either way, the treatment and comparison groups differ before the programme even starts.
 
-Random assignment changes this process. Because allocation is determined by chance rather than judgement, participants in each group should, on average, have similar mixes of characteristics that influence the outcome. This includes both measured factors, such as age or previous performance, and many unmeasured factors that researchers may never observe. Differences that remain after randomisation are expected to be due mainly to chance rather than systematic selection.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6547231/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Randomization in clinical studies - PMC - NIHby CY Lim · 2019 · Cited by 424 — CONSORT, a set of guidelines proposed to improve comple...</span></span></span>
+Random assignment changes this process. Because allocation is determined by chance rather than judgement, participants in each group should, on average, have similar mixes of characteristics that influence the outcome. This includes both measured factors, such as age or previous performance, and many unmeasured factors that researchers may never observe. Differences that remain after randomisation are expected to be due mainly to chance rather than systematic selection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6547231/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Randomization in clinical studies - PMC - NIHby CY Lim · 2019 · Cited by 424 — CONSORT, a set of guidelines proposed to improve comple...</span></span></span>
 
-The key point is that randomisation does **not** guarantee that every individual characteristic is perfectly balanced. Small studies can still end up with noticeable differences simply through luck. Instead, it guarantees that the allocation process itself is unbiased, allowing statistical methods to quantify the [uncertainty]({{ 'uncertainty/' | relative_url }}) that remains. Larger trials generally achieve better balance because chance imbalances become smaller relative to the sample size.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7150228/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Randomisation to protect against selection bias in healthcare trialsThis review compares random allocation (allocated to treatment usi...</span></span></span>
+The key point is that randomisation does **not** guarantee that every individual characteristic is perfectly balanced. Small studies can still end up with noticeable differences simply through luck. Instead, it guarantees that the allocation process itself is unbiased, allowing statistical methods to quantify the [uncertainty]({{ 'uncertainty/' | relative_url }}) that remains. Larger trials generally achieve better balance because chance imbalances become smaller relative to the sample size. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7150228/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Randomisation to protect against selection bias in healthcare trialsThis review compares random allocation (allocated to treatment usi...</span></span></span>
 
 This is why randomised trials are so valuable in messy real-world settings. They create a credible estimate of the missing comparison: what [outcomes]({{ 'outcomes/' | relative_url }}) would probably have looked like without the intervention.
 
@@ -314,7 +314,7 @@ For example:
 
 </div>
 
-Because the comparison begins from a fairer starting point, later differences are much easier to interpret as effects of the intervention rather than pre-existing differences. This is the central causal advantage of randomisation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6019115/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">CONSORT 2010, 15. Baseline data. [Retrieved November...Read more...</span></span></span>
+Because the comparison begins from a fairer starting point, later differences are much easier to interpret as effects of the intervention rather than pre-existing differences. This is the central causal advantage of randomisation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6019115/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">CONSORT 2010, 15. Baseline data. [Retrieved November...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gGaWU8XEoGk" title="1.4 - What Does Imply Causation? Randomized Control Trials" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gGaWU8XEoGk" target="_blank" rel="noopener noreferrer">1.4 - What Does Imply Causation? Randomized Control Trials</a></p><p class="youtube-embed-meta">Channel: Brady Neal - Causal Inference</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gGaWU8XEoGk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gGaWU8XEoGk">Open on YouTube</a></p></div></div></div>
@@ -325,21 +325,21 @@ Random assignment improves internal validity, but it does not make a study autom
 
 ### Poor allocation procedures
 
-The random sequence must remain unpredictable until participants enter the study. If researchers can guess the next assignment—for example through poorly concealed envelopes or predictable alternation—they may consciously or unconsciously influence who enters each group. This reintroduces selection bias despite nominal randomisation. Allocation concealment is therefore distinct from random sequence generation and is considered essential.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7150228/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Randomisation to protect against selection bias in healthcare trialsThis review compares random allocation (allocated to treatment usi...</span></span></span>
+The random sequence must remain unpredictable until participants enter the study. If researchers can guess the next assignment—for example through poorly concealed envelopes or predictable alternation—they may consciously or unconsciously influence who enters each group. This reintroduces selection bias despite nominal randomisation. Allocation concealment is therefore distinct from random sequence generation and is considered essential. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7150228/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Randomisation to protect against selection bias in healthcare trialsThis review compares random allocation (allocated to treatment usi...</span></span></span>
 
 ### Lack of blinding
 
-If participants, clinicians or outcome assessors know which treatment was received, expectations can influence behaviour or measurement. For subjective outcomes such as pain or wellbeing, this can substantially affect results. Some interventions cannot realistically be blinded, making careful outcome measurement especially important.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmj.com/content/340/bmj.c869" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmj.com">[BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmj.com</span><span class="citation-popover-snippet">CONSORT 2010 Explanation and Elaborationby D Moher · 2010 · Cited by 12645 — A group of scientists and editors developed the CONSORT (...</span></span></span>
+If participants, clinicians or outcome assessors know which treatment was received, expectations can influence behaviour or measurement. For subjective outcomes such as pain or wellbeing, this can substantially affect results. Some interventions cannot realistically be blinded, making careful outcome measurement especially important. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmj.com/content/340/bmj.c869" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmj.com">[BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmj.com</span><span class="citation-popover-snippet">CONSORT 2010 Explanation and Elaborationby D Moher · 2010 · Cited by 12645 — A group of scientists and editors developed the CONSORT (...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_cause_correlation_008ee5_randomised_trials_cbfee3-Illustration-2-dark.svg" | relative_url }}" alt="Randomisation illustration 2" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_cause_correlation_008ee5_randomised_trials_cbfee3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_cause_correlation_008ee5_randomised_trials_cbfee3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Missing participants and incomplete follow-up
 
-If many participants leave one group but not the other, the remaining comparison may no longer represent the original random assignment. Researchers therefore pay close attention to attrition, reasons for withdrawal and analyses that preserve the benefits of randomisation wherever appropriate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmj.com/content/340/bmj.c869" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmj.com">[BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmj.com</span><span class="citation-popover-snippet">CONSORT 2010 Explanation and Elaborationby D Moher · 2010 · Cited by 12645 — A group of scientists and editors developed the CONSORT (...</span></span></span>
+If many participants leave one group but not the other, the remaining comparison may no longer represent the original random assignment. Researchers therefore pay close attention to attrition, reasons for withdrawal and analyses that preserve the benefits of randomisation wherever appropriate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmj.com/content/340/bmj.c869" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmj.com">[BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmj.com</span><span class="citation-popover-snippet">CONSORT 2010 Explanation and Elaborationby D Moher · 2010 · Cited by 12645 — A group of scientists and editors developed the CONSORT (...</span></span></span>
 
 ### Selective reporting
 
-Researchers may measure many outcomes but publish only favourable ones. Reporting standards such as CONSORT encourage transparent reporting of trial methods, participant flow and predefined outcomes so readers can judge the reliability of the evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmj.com/content/340/bmj.c869" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmj.com">[BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmj.com</span><span class="citation-popover-snippet">CONSORT 2010 Explanation and Elaborationby D Moher · 2010 · Cited by 12645 — A group of scientists and editors developed the CONSORT (...</span></span></span>
+Researchers may measure many outcomes but publish only favourable ones. Reporting standards such as CONSORT encourage transparent reporting of trial methods, participant flow and predefined outcomes so readers can judge the reliability of the evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmj.com/content/340/bmj.c869" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmj.com">[BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmj.com</span><span class="citation-popover-snippet">CONSORT 2010 Explanation and Elaborationby D Moher · 2010 · Cited by 12645 — A group of scientists and editors developed the CONSORT (...</span></span></span>
 
 ## Why one good trial is rarely the final answer
 
@@ -347,7 +347,7 @@ Randomised trials estimate the effect within the population actually studied. Pa
 
 For example, a trial conducted in specialist hospitals may not perfectly predict what happens in routine primary care. Likewise, a successful education programme tested in a small group of motivated schools may perform differently when introduced nationally.
 
-This distinction explains why systematic reviews often combine evidence from multiple trials conducted in different settings. Repeated findings across diverse populations provide stronger evidence than a single positive study, however well designed. At the same time, observational studies can complement trials by examining effectiveness in broader populations once an intervention is in widespread use.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6710512/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">CONSORT (CONsolidated Standards Of Reporting Trials) 18, Aims “to alleviate the problems...Read more...</span></span></span>
+This distinction explains why systematic reviews often combine evidence from multiple trials conducted in different settings. Repeated findings across diverse populations provide stronger evidence than a single positive study, however well designed. At the same time, observational studies can complement trials by examining effectiveness in broader populations once an intervention is in widespread use. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6710512/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">CONSORT (CONsolidated Standards Of Reporting Trials) 18, Aims “to alleviate the problems...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eGRd8jBdNYg" title="Randomized Trials: The Ideal Weapon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eGRd8jBdNYg" target="_blank" rel="noopener noreferrer">Randomized Trials: The Ideal Weapon</a></p><p class="youtube-embed-meta">Channel: Marginal Revolution University</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eGRd8jBdNYg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eGRd8jBdNYg">Open on YouTube</a></p></div></div></div>
@@ -377,181 +377,181 @@ These habits help avoid confusing correlation with [causation]({{ 'causation/' |
 
 Randomised trials are powerful because they improve the comparison that underlies a causal claim. By using chance rather than judgement to assign interventions, they greatly reduce the influence of pre-existing differences between groups. That makes later outcome differences more credible as estimates of treatment effects.
 
-However, randomisation is not a guarantee of truth. A convincing trial still depends on sound design, adequate follow-up, careful measurement, transparent reporting and thoughtful interpretation. The most reliable conclusions come not from assuming that randomisation solves every problem, but from recognising exactly which problem it solves—and which ones remain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6019115/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">CONSORT 2010, 15. Baseline data. [Retrieved November...Read more...</span></span></span>
+However, randomisation is not a guarantee of truth. A convincing trial still depends on sound design, adequate follow-up, careful measurement, transparent reporting and thoughtful interpretation. The most reliable conclusions come not from assuming that randomisation solves every problem, but from recognising exactly which problem it solves—and which ones remain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6019115/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">CONSORT 2010, 15. Baseline data. [Retrieved November...Read more...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Random Assignment Changes the Question. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Random Assignment Changes the Question. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+Why+by+Judea+Pearl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of Why on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=EmY8DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Book of Why" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Book+of+Why+by+Judea+Pearl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Why">The Book of Why</a>
-</h4>
-<p class="fr-book-author">By Judea Pearl, Dana Mackenzie</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+Why+Judea+Pearl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of Why on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VV0otAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of Why" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Book+of+Why+Judea+Pearl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Why">The Book of Why</a>
+        </h4>
+        <p class="fr-book-author">By Judea Pearl, Dana Mackenzie</p>
         
-<p class="fr-book-desc">Explains causation, counterfactuals, and why experimental designs such as randomised trials matter.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Book+of+Why+by+Judea+Pearl&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains causation, counterfactuals, and why experimental designs such as randomised trials matter.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Book+of+Why+Judea+Pearl&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
-</h4>
-<p class="fr-book-author">By Ben Goldacre</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Bad+Science+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
+        </h4>
+        <p class="fr-book-author">By Ben Goldacre</p>
         
-<p class="fr-book-desc">Uses randomised trials and flawed studies to explain how to evaluate scientific claims.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Uses randomised trials and flawed studies to explain how to evaluate scientific claims.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Bad+Science+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-</h4>
-<p class="fr-book-author">By Daniel Kahneman</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
+        </h4>
+        <p class="fr-book-author">By Darrell Huff</p>
         
-<p class="fr-book-desc">Provides essential background on biases and reasoning that make careful experimental evidence valuable.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Helps readers understand misleading statistical claims and why robust comparisons matter in causal reasoning.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Causal+Inference+by+Scott+Cunningham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Causal Inference on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DZ4REAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Causal Inference" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Causal+Inference+by+Scott+Cunningham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Causal Inference">Causal Inference</a>
-</h4>
-<p class="fr-book-author">By Scott Cunningham</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Causal+Inference+Scott+Cunningham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Causal Inference on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DZ4REAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Causal Inference" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Causal+Inference+Scott+Cunningham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Causal Inference">Causal Inference</a>
+        </h4>
+        <p class="fr-book-author">By Scott Cunningham</p>
         
-<p class="fr-book-desc">Covers random assignment, causal identification, and strengths and limits of experimental methods.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Causal+Inference+by+Scott+Cunningham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Covers random assignment, causal identification, and strengths and limits of experimental methods.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Causal+Inference+Scott+Cunningham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+Why&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of Why</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+Why&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of Why</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Lie with Statistics</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-random-assignment-changes-the-question-statistics-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics wall art" data-ebay-reference="why-random-assignment-changes-the-question-statistics-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Statistics Joke Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/sQEAAeSw93Np2SN~/s-l225.jpg" alt="Listing image for Statistics Joke Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-random-assignment-changes-the-question-statistics-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics wall art" data-ebay-reference="why-random-assignment-changes-the-question-statistics-wall-art" target="_blank" rel="sponsored noopener noreferrer">Statistics Joke Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-random-assignment-changes-the-question-statistics-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics wall art" data-ebay-reference="why-random-assignment-changes-the-question-statistics-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for statistics wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: statistics wall art</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-random-assignment-changes-the-question-statistics-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics wall art" data-ebay-reference="why-random-assignment-changes-the-question-statistics-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-random-assignment-changes-the-question-statistics-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics wall art" data-ebay-reference="why-random-assignment-changes-the-question-statistics-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Statistics Joke Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/sQEAAeSw93Np2SN~/s-l225.jpg" alt="Listing image for Statistics Joke Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-random-assignment-changes-the-question-statistics-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics wall art" data-ebay-reference="why-random-assignment-changes-the-question-statistics-wall-art" target="_blank" rel="sponsored noopener noreferrer">Statistics Joke Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-random-assignment-changes-the-question-statistics-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics wall art" data-ebay-reference="why-random-assignment-changes-the-question-statistics-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for statistics wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: statistics wall art</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-random-assignment-changes-the-question-statistics-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics wall art" data-ebay-reference="why-random-assignment-changes-the-question-statistics-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-random-assignment-changes-the-question-statistics-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics wall art" data-ebay-reference="why-random-assignment-changes-the-question-statistics-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Permutation Formula: The Statistics Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/ciAAAeSwY4dp1Tct/s-l225.jpg" alt="Listing image for Permutation Formula: The Statistics Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-random-assignment-changes-the-question-statistics-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics wall art" data-ebay-reference="why-random-assignment-changes-the-question-statistics-wall-art" target="_blank" rel="sponsored noopener noreferrer">Permutation Formula: The Statistics Framed Wall Art Poster Canvas Print Picture</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-random-assignment-changes-the-question-statistics-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics wall art" data-ebay-reference="why-random-assignment-changes-the-question-statistics-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for statistics wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: statistics wall art</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-random-assignment-changes-the-question-statistics-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics wall art" data-ebay-reference="why-random-assignment-changes-the-question-statistics-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-random-assignment-changes-the-question-statistics-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics wall art" data-ebay-reference="why-random-assignment-changes-the-question-statistics-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Permutation Formula: The Statistics Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/ciAAAeSwY4dp1Tct/s-l225.jpg" alt="Listing image for Permutation Formula: The Statistics Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-random-assignment-changes-the-question-statistics-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics wall art" data-ebay-reference="why-random-assignment-changes-the-question-statistics-wall-art" target="_blank" rel="sponsored noopener noreferrer">Permutation Formula: The Statistics Framed Wall Art Poster Canvas Print Picture</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-random-assignment-changes-the-question-statistics-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics wall art" data-ebay-reference="why-random-assignment-changes-the-question-statistics-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for statistics wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: statistics wall art</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-random-assignment-changes-the-question-statistics-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics wall art" data-ebay-reference="why-random-assignment-changes-the-question-statistics-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-random-assignment-changes-the-question-statistics-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics wall art" data-ebay-reference="why-random-assignment-changes-the-question-statistics-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Educational Earth Statistics Wall Sticker Art Mural Print Poster Room Decor QM1"><img src="https://i.ebayimg.com/images/g/ensAAOSwke1jGO7d/s-l225.jpg" alt="Listing image for Educational Earth Statistics Wall Sticker Art Mural Print Poster Room Decor QM1" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-random-assignment-changes-the-question-statistics-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics wall art" data-ebay-reference="why-random-assignment-changes-the-question-statistics-wall-art" target="_blank" rel="sponsored noopener noreferrer">Educational Earth Statistics Wall Sticker Art Mural Print Poster Room Decor QM1</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-random-assignment-changes-the-question-statistics-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics wall art" data-ebay-reference="why-random-assignment-changes-the-question-statistics-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for statistics wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: statistics wall art</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-random-assignment-changes-the-question-statistics-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics wall art" data-ebay-reference="why-random-assignment-changes-the-question-statistics-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-random-assignment-changes-the-question-statistics-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics wall art" data-ebay-reference="why-random-assignment-changes-the-question-statistics-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-random-assignment-changes-the-question-statistics-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics wall art" data-ebay-reference="why-random-assignment-changes-the-question-statistics-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Educational Earth Statistics Wall Sticker Art Mural Print Poster Room Decor QM1"><img src="https://i.ebayimg.com/images/g/ensAAOSwke1jGO7d/s-l225.jpg" alt="Listing image for Educational Earth Statistics Wall Sticker Art Mural Print Poster Room Decor QM1" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-random-assignment-changes-the-question-statistics-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics wall art" data-ebay-reference="why-random-assignment-changes-the-question-statistics-wall-art" target="_blank" rel="sponsored noopener noreferrer">Educational Earth Statistics Wall Sticker Art Mural Print Poster Room Decor QM1</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-random-assignment-changes-the-question-statistics-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics wall art" data-ebay-reference="why-random-assignment-changes-the-question-statistics-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for statistics wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: statistics wall art</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-random-assignment-changes-the-question-statistics-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics wall art" data-ebay-reference="why-random-assignment-changes-the-question-statistics-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-random-assignment-changes-the-question-statistics-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics wall art" data-ebay-reference="why-random-assignment-changes-the-question-statistics-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -567,7 +567,7 @@ However, randomisation is not a guarantee of truth. A convincing trial still dep
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -587,7 +587,7 @@ However, randomisation is not a guarantee of truth. A convincing trial still dep
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -619,7 +619,7 @@ However, randomisation is not a guarantee of truth. A convincing trial still dep
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -671,7 +671,7 @@ However, randomisation is not a guarantee of truth. A convincing trial still dep
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -716,7 +716,7 @@ However, randomisation is not a guarantee of truth. A convincing trial still dep
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -756,103 +756,103 @@ However, randomisation is not a guarantee of truth. A convincing trial still dep
 </section>
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6019115/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6019115/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>CONSORT 2010, 15. Baseline data. [Retrieved November...Read more...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6019115/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6019115/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>CONSORT 2010, 15. Baseline data. [Retrieved November...Read more...</p></details>
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6547231/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6547231/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Randomization in clinical studies - PMC - NIHby CY Lim · 2019 · Cited by 424 — CONSORT, a set of guidelines proposed to improve comple...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6547231/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6547231/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Randomization in clinical studies - PMC - NIHby CY Lim · 2019 · Cited by 424 — CONSORT, a set of guidelines proposed to improve comple...</p></details>
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: bmj.com  
-   Link:<a href="https://www.bmj.com/content/340/bmj.c869" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/340/bmj.c869</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>CONSORT 2010 Explanation and Elaborationby D Moher · 2010 · Cited by 12645 — A group of scientists and editors developed the CONSORT (...</p></details>
+   Link: <a href="https://www.bmj.com/content/340/bmj.c869" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/340/bmj.c869</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>CONSORT 2010 Explanation and Elaborationby D Moher · 2010 · Cited by 12645 — A group of scientists and editors developed the CONSORT (...</p></details>
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7150228/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7150228/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Randomisation to protect against selection bias in healthcare trialsThis review compares random allocation (allocated to treatment usi...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7150228/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7150228/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Randomisation to protect against selection bias in healthcare trialsThis review compares random allocation (allocated to treatment usi...</p></details>
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6710512/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6710512/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>CONSORT (CONsolidated Standards Of Reporting Trials) 18, Aims “to alleviate the problems...Read more...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6710512/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6710512/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>CONSORT (CONsolidated Standards Of Reporting Trials) 18, Aims “to alleviate the problems...Read more...</p></details>
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5130591/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5130591/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>in randomized trials: a conversation between trialists and...We use causal [diagrams](&amp;#123;&amp;#123; &#x27;diagrams/&#x27; | relative_url &amp;#125;&amp;#125;) to represent the structure of biases, as described b...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5130591/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5130591/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>in randomized trials: a conversation between trialists and...We use causal [diagrams](&amp;#123;&amp;#123; &#x27;diagrams/&#x27; | relative_url &amp;#125;&amp;#125;) to represent the structure of biases, as described b...</p></details>
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12499922/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12499922/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Inference Methods for Combining Randomized Trials...by B Colnet · 2024 · Cited by 298 — In this paper, we review the growing literature...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12499922/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12499922/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Inference Methods for Combining Randomized Trials...by B Colnet · 2024 · Cited by 298 — In this paper, we review the growing literature...</p></details>
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10753608/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10753608/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>CONSORT = Consolidated Standards of Reporting Trials. RCT = randomized controlled trial. Formulating the...Rea...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10753608/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10753608/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>CONSORT = Consolidated Standards of Reporting Trials. RCT = randomized controlled trial. Formulating the...Rea...</p></details>
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4910682/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4910682/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>controlled trials – a matter of design - PMCby PM Spieth · 2016 · Cited by 548 — Notes: According to the CONSORT statement, the different...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4910682/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4910682/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>controlled trials – a matter of design - PMCby PM Spieth · 2016 · Cited by 548 — Notes: According to the CONSORT statement, the different...</p></details>
 
 ### Additional References
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: nature.com  
-   Link:<a href="https://www.nature.com/articles/s43856-026-01721-4" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s43856-026-01721-4</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>(STROBE) statement: guidelines for reporting observational studies... randomized trials: extension of the CONSORT 2010 statement. JAMA 3...</p></details>
+   Link: <a href="https://www.nature.com/articles/s43856-026-01721-4" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s43856-026-01721-4</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>(STROBE) statement: guidelines for reporting observational studies... randomized trials: extension of the CONSORT 2010 statement. JAMA 3...</p></details>
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: cochrane.org  
-   Link:<a href="https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-25" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-25</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 25: Assessing risk of bias in a non-randomized studySelection bias occurs when some eligible participants, or some follow-up time...</p></details>
+   Link: <a href="https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-25" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-25</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 25: Assessing risk of bias in a non-randomized studySelection bias occurs when some eligible participants, or some follow-up time...</p></details>
 
-12.<a id="endnote-12"></a>
+12. <a id="endnote-12"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/345970702_Causal_inference_methods_for_combining_randomized_trials_and_observational_studies_a_review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/345970702_Causal_inference_methods_for_combining_randomized_trials_and_observational_studies_a_review</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Causal inference methods for combining randomized trials...16 Nov 2020 — In this paper, we review the growing literature on methods for...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/345970702_Causal_inference_methods_for_combining_randomized_trials_and_observational_studies_a_review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/345970702_Causal_inference_methods_for_combining_randomized_trials_and_observational_studies_a_review</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Causal inference methods for combining randomized trials...16 Nov 2020 — In this paper, we review the growing literature on methods for...</p></details>
 
-13.<a id="endnote-13"></a>
+13. <a id="endnote-13"></a>
    Source: nature.com  
-   Link:<a href="https://www.nature.com/articles/s41366-021-00909-z" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41366-021-00909-z</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>July 29, 2021 — Randomization is an important tool used to establish causal inferences in studies designed to further our understan...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41366-021-00909-z" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41366-021-00909-z</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 29, 2021 — Randomization is an important tool used to establish causal inferences in studies designed to further our understan...</p></details>
    Published: July 29, 2021  
 
-14.<a id="endnote-14"></a>
+14. <a id="endnote-14"></a>
    Source: researchgate.net  
    Title: The unpredictability of the process, if not subverted,  
-   Link:<a href="https://www.researchgate.net/publication/51049758_Randomisation_to_protect_against_selection_bias_in_healthcare_trials" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/51049758_Randomisation_to_protect_against_selection_bias_in_healthcare_trials</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Randomisation to protect against selection bias in healthcare trialsBackground: Randomised trials use the play of chance to assign partic...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/51049758_Randomisation_to_protect_against_selection_bias_in_healthcare_trials" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/51049758_Randomisation_to_protect_against_selection_bias_in_healthcare_trials</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Randomisation to protect against selection bias in healthcare trialsBackground: Randomised trials use the play of chance to assign partic...</p></details>
 
-15.<a id="endnote-15"></a>
+15. <a id="endnote-15"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/271329607_Testing_for_baseline_differences_in_randomized_controlled_trials_An_unhealthy_research_behavior_that_is_hard_to_eradicate" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/271329607_Testing_for_baseline_differences_in_randomized_controlled_trials_An_unhealthy_research_behavior_that_is_hard_to_eradicate</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>differences in randomized controlled trials should not be performed.Read more...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/271329607_Testing_for_baseline_differences_in_randomized_controlled_trials_An_unhealthy_research_behavior_that_is_hard_to_eradicate" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/271329607_Testing_for_baseline_differences_in_randomized_controlled_trials_An_unhealthy_research_behavior_that_is_hard_to_eradicate</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>differences in randomized controlled trials should not be performed.Read more...</p></details>
 
-16.<a id="endnote-16"></a>
+16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link:<a href="https://www.facebook.com/groups/853552931365745/posts/1878694608851567/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/853552931365745/posts/1878694608851567/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>r. Just go through it and if items can&#x27;t be checked...Read more...</p></details>
+   Link: <a href="https://www.facebook.com/groups/853552931365745/posts/1878694608851567/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/853552931365745/posts/1878694608851567/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>r. Just go through it and if items can&#x27;t be checked...Read more...</p></details>
 
-17.<a id="endnote-17"></a>
+17. <a id="endnote-17"></a>
    Source: dokumen.pub  
-   Link:<a href="https://dokumen.pub/the-doctors-guide-to-critical-appraisal-4nbsped-9781905635979.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/the-doctors-guide-to-critical-appraisal-4nbsped-9781905635979.html</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Doctor&#x27;s Guide to Critical Appraisal [4&amp;nbspReporting of noninferiority and equivalence randomized trials: An extension of the CONSOR...</p></details>
+   Link: <a href="https://dokumen.pub/the-doctors-guide-to-critical-appraisal-4nbsped-9781905635979.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/the-doctors-guide-to-critical-appraisal-4nbsped-9781905635979.html</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Doctor&#x27;s Guide to Critical Appraisal [4&amp;nbspReporting of noninferiority and equivalence randomized trials: An extension of the CONSOR...</p></details>
 
-18.<a id="endnote-18"></a>
+18. <a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Randomized controlled trial  
-   Link:<a href="https://en.wikipedia.org/wiki/Randomized_controlled_trial" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Randomized_controlled_trial</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Randomized controlled trial... RCT. For other RCT study designs, &quot;CONSORT extensions&quot; have been published, some examples are: Consort...</p></details>
+   Link: <a href="https://en.wikipedia.org/wiki/Randomized_controlled_trial" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Randomized_controlled_trial</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Randomized controlled trial... RCT. For other RCT study designs, &quot;CONSORT extensions&quot; have been published, some examples are: Consort...</p></details>
 
-19.<a id="endnote-19"></a>
+19. <a id="endnote-19"></a>
    Source: researchgate.net  
    Title: Randomized Clinical Trials  
-   Link:<a href="https://www.researchgate.net/topic/Randomized-Clinical-Trials/2" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/topic/Randomized-Clinical-Trials/2</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Randomization prevents confounding (makes the baseline prognostic factors equal...Read more...</p></details>
+   Link: <a href="https://www.researchgate.net/topic/Randomized-Clinical-Trials/2" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/topic/Randomized-Clinical-Trials/2</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Randomization prevents confounding (makes the baseline prognostic factors equal...Read more...</p></details>

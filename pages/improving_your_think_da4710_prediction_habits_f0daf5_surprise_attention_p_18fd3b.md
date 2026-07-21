@@ -280,11 +280,11 @@ image: /assets/images/improving_your_think_da4710_prediction_habits_f0daf5_surpr
 
 ## Introduction
 
-Making a [prediction before]({{ 'predict-first/' | relative_url }}) checking an answer changes what happens when you are wrong. Instead of simply receiving new information, you experience a comparison between what you expected and what actually occurred. That mismatch creates surprise, and under the right conditions surprise acts like a spotlight: it draws attention to the corrective information at exactly the moment it is most useful. Research on prediction-based learning suggests that this attentional shift is one reason why attempting an answer before seeing feedback often improves later memory, even when the original prediction was incorrect.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.3758/s13423-021-01904-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">Predicting as a learning strategy</span><span class="citation-popover-snippet">Predicting as a learning strategy - Springer Natureby G Brod · 2021 · Cited by 77 — Initial evidence suggests that predicting boo...</span></span></span>
+Making a [prediction before]({{ 'predict-first/' | relative_url }}) checking an answer changes what happens when you are wrong. Instead of simply receiving new information, you experience a comparison between what you expected and what actually occurred. That mismatch creates surprise, and under the right conditions surprise acts like a spotlight: it draws attention to the corrective information at exactly the moment it is most useful. Research on prediction-based learning suggests that this attentional shift is one reason why attempting an answer before seeing feedback often improves later memory, even when the original prediction was incorrect. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.3758/s13423-021-01904-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">Predicting as a learning strategy</span><span class="citation-popover-snippet">Predicting as a learning strategy - Springer Natureby G Brod · 2021 · Cited by 77 — Initial evidence suggests that predicting boo...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_prediction_habits_f0daf5_surprise_attention_p_18fd3b-Illustration-1-dark.svg" | relative_url }}" alt="Surprise illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_prediction_habits_f0daf5_surprise_attention_p_18fd3b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_prediction_habits_f0daf5_surprise_attention_p_18fd3b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-However, surprise is not automatically beneficial. It improves learning only when the learner can resolve the discrepancy by understanding why the prediction failed. If the feedback is confusing, incomplete or unrelated to the original prediction, surprise may become little more than distraction. The value of prediction lies not in being startled, but in turning an unexpected result into a clearer and more accurate mental model.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.3758/s13423-021-01904-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">Predicting as a learning strategy</span><span class="citation-popover-snippet">Predicting as a learning strategy - Springer Natureby G Brod · 2021 · Cited by 77 — Initial evidence suggests that predicting boo...</span></span></span>
+However, surprise is not automatically beneficial. It improves learning only when the learner can resolve the discrepancy by understanding why the prediction failed. If the feedback is confusing, incomplete or unrelated to the original prediction, surprise may become little more than distraction. The value of prediction lies not in being startled, but in turning an unexpected result into a clearer and more accurate mental model. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.3758/s13423-021-01904-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">Predicting as a learning strategy</span><span class="citation-popover-snippet">Predicting as a learning strategy - Springer Natureby G Brod · 2021 · Cited by 77 — Initial evidence suggests that predicting boo...</span></span></span>
 
 ## How prediction creates a before-and-after gap
 
@@ -296,12 +296,12 @@ This creates a clear before-and-after comparison:
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **Before:** your current explanation of how something works.
-* **After:** the evidence or correct answer.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/33768503/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">as a learning strategyby G Brod · 2021 · Cited by 77 — Initial evidence suggests that predicting boosts surprise about unexpected answers...</span></span></span>
+* **After:** the evidence or correct answer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/33768503/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">as a learning strategyby G Brod · 2021 · Cited by 77 — Initial evidence suggests that predicting boosts surprise about unexpected answers...</span></span></span>
 * **Gap:** the difference between the two.
 
 </div>
 
-Psychologists often describe this difference as a **prediction error**—the mismatch between expectation and outcome. Across many areas of learning and decision-making, prediction errors help determine when existing beliefs should be updated. Unexpected [outcomes]({{ 'outcomes/' | relative_url }}) signal that the current mental model is incomplete or inaccurate, making them especially important learning opportunities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2012.00548/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersHow Prediction Errors Shape Perception, Attention, and...by HEM Den Ouden · 2012 · Cited by 636 — Prediction errors (PE) are a...</span></span></span>
+Psychologists often describe this difference as a **prediction error**—the mismatch between expectation and outcome. Across many areas of learning and decision-making, prediction errors help determine when existing beliefs should be updated. Unexpected [outcomes]({{ 'outcomes/' | relative_url }}) signal that the current mental model is incomplete or inaccurate, making them especially important learning opportunities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2012.00548/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersHow Prediction Errors Shape Perception, Attention, and...by HEM Den Ouden · 2012 · Cited by 636 — Prediction errors (PE) are a...</span></span></span>
 
 Importantly, prediction error is not identical to simply getting an answer wrong. Two people may both answer incorrectly, yet only the person who genuinely committed to a prediction experiences a meaningful discrepancy that demands explanation. That commitment is what gives later feedback its educational value.
 
@@ -319,15 +319,15 @@ Research reviewing prediction as a learning strategy proposes a sequence of even
 
 1. A learner generates a prediction.
 2. The prediction turns out to be incorrect.
-3. The unexpected answer produces surprise.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/33768503/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">as a learning strategyby G Brod · 2021 · Cited by 77 — Initial evidence suggests that predicting boosts surprise about unexpected answers...</span></span></span>
+3. The unexpected answer produces surprise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/33768503/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">as a learning strategyby G Brod · 2021 · Cited by 77 — Initial evidence suggests that predicting boosts surprise about unexpected answers...</span></span></span>
 4. Surprise increases attention to the corrective feedback.
 5. The attended feedback is encoded more strongly into memory.
 
 </div>
 
-Experimental studies support this account. Compared with conditions in which learners only state what they believed after seeing the answer, making a prediction beforehand produces stronger physiological indicators associated with surprise, including brief increases in pupil dilation when the unexpected answer appears. Those stronger surprise responses are linked with better later recall of the correct information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.3758/s13423-021-01904-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">Predicting as a learning strategy</span><span class="citation-popover-snippet">Predicting as a learning strategy - Springer Natureby G Brod · 2021 · Cited by 77 — Initial evidence suggests that predicting boo...</span></span></span>
+Experimental studies support this account. Compared with conditions in which learners only state what they believed after seeing the answer, making a prediction beforehand produces stronger physiological indicators associated with surprise, including brief increases in pupil dilation when the unexpected answer appears. Those stronger surprise responses are linked with better later recall of the correct information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.3758/s13423-021-01904-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">Predicting as a learning strategy</span><span class="citation-popover-snippet">Predicting as a learning strategy - Springer Natureby G Brod · 2021 · Cited by 77 — Initial evidence suggests that predicting boo...</span></span></span>
 
-The mechanism is selective rather than indiscriminate. Expected answers receive relatively little extra processing because they confirm what is already believed. Unexpected answers receive additional attention precisely because they indicate that updating may be necessary. This fits broader theories of prediction error in learning, which argue that discrepancies between expectation and reality help determine when cognitive resources should be allocated to revision rather than routine processing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4862921/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Mini-Review: Prediction errors, attention and associative...by PC Holland · 2016 · Cited by 109 — Most modern theories of associative...</span></span></span>
+The mechanism is selective rather than indiscriminate. Expected answers receive relatively little extra processing because they confirm what is already believed. Unexpected answers receive additional attention precisely because they indicate that updating may be necessary. This fits broader theories of prediction error in learning, which argue that discrepancies between expectation and reality help determine when cognitive resources should be allocated to revision rather than routine processing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4862921/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Mini-Review: Prediction errors, attention and associative...by PC Holland · 2016 · Cited by 109 — Most modern theories of associative...</span></span></span>
 
 A practical example illustrates the point. Suppose you predict that a mathematical problem requires one formula, but the worked solution uses an entirely different principle. The surprise makes the alternative approach more noticeable than if you had simply read the solution without first committing yourself. The unexpected method stands out because it directly contradicts your existing explanation.
 
@@ -335,7 +335,7 @@ A practical example illustrates the point. Suppose you predict that a mathematic
 
 One particularly interesting finding comes from research on the **hypercorrection effect**.
 
-People often assume that highly confident mistakes are the hardest to correct because they are deeply held. In many learning situations, the opposite can occur. Errors made with high confidence are frequently corrected more successfully than uncertain mistakes after feedback is provided.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.3758/s13423-021-01904-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">Predicting as a learning strategy</span><span class="citation-popover-snippet">Predicting as a learning strategy - Springer Natureby G Brod · 2021 · Cited by 77 — Initial evidence suggests that predicting boo...</span></span></span>
+People often assume that highly confident mistakes are the hardest to correct because they are deeply held. In many learning situations, the opposite can occur. Errors made with high confidence are frequently corrected more successfully than uncertain mistakes after feedback is provided. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.3758/s13423-021-01904-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">Predicting as a learning strategy</span><span class="citation-popover-snippet">Predicting as a learning strategy - Springer Natureby G Brod · 2021 · Cited by 77 — Initial evidence suggests that predicting boo...</span></span></span>
 
 The proposed explanation is straightforward:
 
@@ -344,7 +344,7 @@ The proposed explanation is straightforward:
 * Greater surprise captures more attention.
 * Increased attention strengthens memory for the correction.
 
-Studies have also found that learners sometimes remember not only the correct answer itself but incidental details surrounding the feedback, suggesting that surprise temporarily increases attention more broadly during the correction phase.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.3758/s13423-021-01904-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">Predicting as a learning strategy</span><span class="citation-popover-snippet">Predicting as a learning strategy - Springer Natureby G Brod · 2021 · Cited by 77 — Initial evidence suggests that predicting boo...</span></span></span>
+Studies have also found that learners sometimes remember not only the correct answer itself but incidental details surrounding the feedback, suggesting that surprise temporarily increases attention more broadly during the correction phase. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.3758/s13423-021-01904-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">Predicting as a learning strategy</span><span class="citation-popover-snippet">Predicting as a learning strategy - Springer Natureby G Brod · 2021 · Cited by 77 — Initial evidence suggests that predicting boo...</span></span></span>
 
 This does not mean that overconfidence is desirable. Persistent overconfidence can still lead to poor judgement. Rather, it means that when confident errors are recognised and explained, they can become unusually memorable opportunities for updating knowledge.
 
@@ -363,7 +363,7 @@ Several situations reduce the value of surprise:
 * **Information overload.** Too much new material at once can prevent attention from focusing on the critical correction.
 * **Irrelevant novelty.** Entertaining or dramatic surprises may capture attention without improving understanding if they are unrelated to the concept being learned.
 
-Research on [pretesting]({{ 'pretesting/' | relative_url }}) consistently finds that corrective feedback is essential. Attempting an answer before instruction is beneficial because the prediction is followed by informative correction, not because making errors is inherently valuable. Immediate, clear feedback generally produces stronger learning than leaving incorrect [predictions]({{ 'predictions/' | relative_url }}) unresolved for long periods.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofcognition.org/articles/10.5334/joc.455" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofcognition.org">[Journal of Cognition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofcognition.org</span><span class="citation-popover-snippet">Journal of CognitionThe Pretesting Effect: Exploring the Impact of Feedback...by Y Mera · 2025 · Cited by 2 — The pretesting effect sugg...</span></span></span>
+Research on [pretesting]({{ 'pretesting/' | relative_url }}) consistently finds that corrective feedback is essential. Attempting an answer before instruction is beneficial because the prediction is followed by informative correction, not because making errors is inherently valuable. Immediate, clear feedback generally produces stronger learning than leaving incorrect [predictions]({{ 'predictions/' | relative_url }}) unresolved for long periods. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofcognition.org/articles/10.5334/joc.455" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofcognition.org">[Journal of Cognition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofcognition.org</span><span class="citation-popover-snippet">Journal of CognitionThe Pretesting Effect: Exploring the Impact of Feedback...by Y Mera · 2025 · Cited by 2 — The pretesting effect sugg...</span></span></span>
 
 In other words, surprise should answer a question rather than merely create one.
 
@@ -391,201 +391,201 @@ This also reduces [hindsight bias]({{ 'hindsight-bias/' | relative_url }}). Once
 
 Prediction creates a meaningful expectation. When reality differs from that expectation, surprise highlights the discrepancy and directs attention towards the corrective information. If the learner can understand why the prediction failed, that heightened attention supports stronger encoding and more accurate future predictions. If the discrepancy remains unexplained, the same surprise is unlikely to produce lasting understanding.
 
-The educational value of surprise therefore lies not in the emotional jolt itself, but in its ability to focus attention at exactly the moment when a mistaken mental model can be revised.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.3758/s13423-021-01904-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">Predicting as a learning strategy</span><span class="citation-popover-snippet">Predicting as a learning strategy - Springer Natureby G Brod · 2021 · Cited by 77 — Initial evidence suggests that predicting boo...</span></span></span>
+The educational value of surprise therefore lies not in the emotional jolt itself, but in its ability to focus attention at exactly the moment when a mistaken mental model can be revised. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.3758/s13423-021-01904-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">Predicting as a learning strategy</span><span class="citation-popover-snippet">Predicting as a learning strategy - Springer Natureby G Brod · 2021 · Cited by 77 — Initial evidence suggests that predicting boo...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/n3CPPNgJDTc" title="The Hypercorrection Effect: Why We Learn More From Confident Mistakes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=n3CPPNgJDTc" target="_blank" rel="noopener noreferrer">The Hypercorrection Effect: Why We Learn More From Confident Mistakes</a></p><p class="youtube-embed-meta">Channel: QHat</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=n3CPPNgJDTc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=n3CPPNgJDTc">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to When surprise helps learning and when it does not. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to When surprise helps learning and when it does not. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oneWAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-</h4>
-<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oneWAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+        </h4>
+        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-<p class="fr-book-desc">Explains retrieval practice, feedback, and prediction-based learning.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains retrieval practice, feedback, and prediction-based learning.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DlMlEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
-</h4>
-<p class="fr-book-author">By Daniel T. Willingham</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+We+Learn+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How We Learn on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=R9C2DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How We Learn" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=How+We+Learn+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How We Learn">How We Learn</a>
+        </h4>
+        <p class="fr-book-author">By Stanislas Dehaene</p>
         
-<p class="fr-book-desc">Discusses curiosity, surprise, memory, and effective learning.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Covers prediction, mistakes, feedback, and durable memory.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=How+We+Learn+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+We+Learn+by+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How We Learn on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ncgJAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How We Learn" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=How+We+Learn+by+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How We Learn">How We Learn</a>
-</h4>
-<p class="fr-book-author">By Benedict Carey</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DlMlEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
+        </h4>
+        <p class="fr-book-author">By Daniel T. Willingham</p>
         
-<p class="fr-book-desc">Covers prediction, mistakes, feedback, and durable memory.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=How+We+Learn+by+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Discusses curiosity, surprise, memory, and effective learning.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-</h4>
-<p class="fr-book-author">By Daniel Kahneman</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+        </h4>
+        <p class="fr-book-author">By Daniel Kahneman</p>
         
-<p class="fr-book-desc">Provides background on expectations, surprise, and judgment.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides background on expectations, surprise, and judgment.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Don&#x27;t Students Like School?</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+We+Learn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How We Learn</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+We+Learn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How We Learn</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Don&#x27;t Students Like School?</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=helps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helps poster -book -books -dvd" data-ebay-reference="surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Banksy Very Little Helps Poster Print - Street Art Graffiti A4 A3"><img src="{{ '/assets/images/marketplace-covers/1f034f73f8d36e1349f5.jpg' | relative_url }}" alt="Listing image for Banksy Very Little Helps Poster Print - Street Art Graffiti A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=helps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helps poster -book -books -dvd" data-ebay-reference="surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Banksy Very Little Helps Poster Print - Street Art Graffiti A4 A3</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=helps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helps poster -book -books -dvd" data-ebay-reference="surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for helps poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: helps poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=helps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helps poster -book -books -dvd" data-ebay-reference="surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=helps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helps poster -book -books -dvd" data-ebay-reference="surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Banksy Very Little Helps Poster Print - Street Art Graffiti A4 A3"><img src="{{ '/assets/images/marketplace-covers/1f034f73f8d36e1349f5.jpg' | relative_url }}" alt="Listing image for Banksy Very Little Helps Poster Print - Street Art Graffiti A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=helps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helps poster -book -books -dvd" data-ebay-reference="surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Banksy Very Little Helps Poster Print - Street Art Graffiti A4 A3</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=helps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helps poster -book -books -dvd" data-ebay-reference="surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for helps poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: helps poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=helps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helps poster -book -books -dvd" data-ebay-reference="surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=helps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helps poster -book -books -dvd" data-ebay-reference="surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lying Helps Me Propagate My Worldvi Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/044ba98ab68fb4e1e821.jpg' | relative_url }}" alt="Listing image for Lying Helps Me Propagate My Worldvi Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=helps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helps poster -book -books -dvd" data-ebay-reference="surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Lying Helps Me Propagate My Worldvi Framed Wall Art Poster Canvas Print Picture</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=helps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helps poster -book -books -dvd" data-ebay-reference="surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for helps poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: helps poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=helps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helps poster -book -books -dvd" data-ebay-reference="surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=helps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helps poster -book -books -dvd" data-ebay-reference="surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lying Helps Me Propagate My Worldvi Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/044ba98ab68fb4e1e821.jpg' | relative_url }}" alt="Listing image for Lying Helps Me Propagate My Worldvi Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=helps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helps poster -book -books -dvd" data-ebay-reference="surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Lying Helps Me Propagate My Worldvi Framed Wall Art Poster Canvas Print Picture</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=helps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helps poster -book -books -dvd" data-ebay-reference="surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for helps poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: helps poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=helps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helps poster -book -books -dvd" data-ebay-reference="surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=helps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helps poster -book -books -dvd" data-ebay-reference="surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Hate Everyone But Caffeine Helps Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1001bf36d34f40e019ef.jpg' | relative_url }}" alt="Listing image for I Hate Everyone But Caffeine Helps Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=helps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helps poster -book -books -dvd" data-ebay-reference="surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">I Hate Everyone But Caffeine Helps Framed Wall Art Poster Canvas Print Picture</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=helps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helps poster -book -books -dvd" data-ebay-reference="surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for helps poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: helps poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=helps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helps poster -book -books -dvd" data-ebay-reference="surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=helps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helps poster -book -books -dvd" data-ebay-reference="surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Hate Everyone But Caffeine Helps Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1001bf36d34f40e019ef.jpg' | relative_url }}" alt="Listing image for I Hate Everyone But Caffeine Helps Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=helps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helps poster -book -books -dvd" data-ebay-reference="surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">I Hate Everyone But Caffeine Helps Framed Wall Art Poster Canvas Print Picture</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=helps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helps poster -book -books -dvd" data-ebay-reference="surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for helps poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: helps poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=helps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helps poster -book -books -dvd" data-ebay-reference="surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=helps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helps poster -book -books -dvd" data-ebay-reference="surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hope This Helps - Sarcastic Phrase Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/60de32da6cdd6fcc379a.jpg' | relative_url }}" alt="Listing image for Hope This Helps - Sarcastic Phrase Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=helps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helps poster -book -books -dvd" data-ebay-reference="surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Hope This Helps - Sarcastic Phrase Framed Wall Art Poster Canvas Print Picture</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=helps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helps poster -book -books -dvd" data-ebay-reference="surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for helps poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: helps poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=helps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helps poster -book -books -dvd" data-ebay-reference="surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=helps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helps poster -book -books -dvd" data-ebay-reference="surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=helps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helps poster -book -books -dvd" data-ebay-reference="surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hope This Helps - Sarcastic Phrase Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/60de32da6cdd6fcc379a.jpg' | relative_url }}" alt="Listing image for Hope This Helps - Sarcastic Phrase Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=helps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helps poster -book -books -dvd" data-ebay-reference="surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Hope This Helps - Sarcastic Phrase Framed Wall Art Poster Canvas Print Picture</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=helps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helps poster -book -books -dvd" data-ebay-reference="surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for helps poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: helps poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=helps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helps poster -book -books -dvd" data-ebay-reference="surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=helps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="helps poster -book -books -dvd" data-ebay-reference="surprise-when-surprise-helps-learning-and-when-it-does-not-improving-your-think-helps-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -601,7 +601,7 @@ The educational value of surprise therefore lies not in the emotional jolt itsel
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -621,7 +621,7 @@ The educational value of surprise therefore lies not in the emotional jolt itsel
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -653,7 +653,7 @@ The educational value of surprise therefore lies not in the emotional jolt itsel
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -705,7 +705,7 @@ The educational value of surprise therefore lies not in the emotional jolt itsel
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -750,7 +750,7 @@ The educational value of surprise therefore lies not in the emotional jolt itsel
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -791,125 +791,125 @@ The educational value of surprise therefore lies not in the emotional jolt itsel
 
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: link.springer.com  
    Title: Predicting as a learning strategy  
-   Link:<a href="https://link.springer.com/article/10.3758/s13423-021-01904-1" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13423-021-01904-1</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Predicting as a learning strategy - Springer Natureby G Brod · 2021 · Cited by 77 — Initial evidence suggests that predicting boo...</p></details>
+   Link: <a href="https://link.springer.com/article/10.3758/s13423-021-01904-1" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13423-021-01904-1</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Predicting as a learning strategy - Springer Natureby G Brod · 2021 · Cited by 77 — Initial evidence suggests that predicting boo...</p></details>
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4862921/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4862921/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Mini-Review: Prediction errors, attention and associative...by PC Holland · 2016 · Cited by 109 — Most modern theories of associative...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4862921/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4862921/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mini-Review: Prediction errors, attention and associative...by PC Holland · 2016 · Cited by 109 — Most modern theories of associative...</p></details>
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: link.springer.com  
-   Link:<a href="https://link.springer.com/article/10.3758/s13423-024-02517-0" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13423-024-02517-0</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>the link between insight and prediction errorby M Becker · 2024 · Cited by 16 — A new theoretical framework has proposed a link between t...</p></details>
+   Link: <a href="https://link.springer.com/article/10.3758/s13423-024-02517-0" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13423-024-02517-0</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>the link between insight and prediction errorby M Becker · 2024 · Cited by 16 — A new theoretical framework has proposed a link between t...</p></details>
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: journalofcognition.org  
-   Link:<a href="https://journalofcognition.org/articles/10.5334/joc.455" target="_blank" rel="noopener noreferrer nofollow">https://journalofcognition.org/articles/10.5334/joc.455</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of CognitionThe Pretesting Effect: Exploring the Impact of Feedback...by Y Mera · 2025 · Cited by 2 — The pretesting effect sugg...</p></details>
+   Link: <a href="https://journalofcognition.org/articles/10.5334/joc.455" target="_blank" rel="noopener noreferrer nofollow">https://journalofcognition.org/articles/10.5334/joc.455</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of CognitionThe Pretesting Effect: Exploring the Impact of Feedback...by Y Mera · 2025 · Cited by 2 — The pretesting effect sugg...</p></details>
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: frontiersin.org  
-   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2012.00548/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2012.00548/full</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersHow Prediction Errors Shape Perception, Attention, and...by HEM Den Ouden · 2012 · Cited by 636 — Prediction errors (PE) are a...</p></details>
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2012.00548/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2012.00548/full</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersHow Prediction Errors Shape Perception, Attention, and...by HEM Den Ouden · 2012 · Cited by 636 — Prediction errors (PE) are a...</p></details>
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11680657/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11680657/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govSurprise!—Clarifying the link between insight and prediction...by M Becker · 2024 · Cited by 16 — A new theoretical framework has...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11680657/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11680657/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govSurprise!—Clarifying the link between insight and prediction...by M Becker · 2024 · Cited by 16 — A new theoretical framework has...</p></details>
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/33768503/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/33768503/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>as a learning strategyby G Brod · 2021 · Cited by 77 — Initial evidence suggests that predicting boosts surprise about unexpected answers...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/33768503/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/33768503/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>as a learning strategyby G Brod · 2021 · Cited by 77 — Initial evidence suggests that predicting boosts surprise about unexpected answers...</p></details>
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11950122/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11950122/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>pretesting effect under divided attention - PMCby J Bartl · 2025 · Cited by 3 — The present study examined whether this pretesting effect...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11950122/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11950122/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>pretesting effect under divided attention - PMCby J Bartl · 2025 · Cited by 3 — The present study examined whether this pretesting effect...</p></details>
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6866507/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6866507/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>neural representations of prediction error valence...by E Fouragnan · 2018 · Cited by 193 — Learning occurs when an outcome differs from...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6866507/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6866507/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>neural representations of prediction error valence...by E Fouragnan · 2018 · Cited by 193 — Learning occurs when an outcome differs from...</p></details>
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3518876/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3518876/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>by HEM den Ouden · 2012 · Cited by 640 — Prediction errors (PE) are a central notion in theoretical models of reinforcement learning...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3518876/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3518876/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by HEM den Ouden · 2012 · Cited by 640 — Prediction errors (PE) are a central notion in theoretical models of reinforcement learning...</p></details>
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: frontiersin.org  
-   Link:<a href="https://www.frontiersin.org/research-topics/80199/learning-from-surprise-neural-and-behavioral-[mechanisms" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/research-topics/80199/learning-from-surprise-neural-and-behavioral-[mechanisms</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>neural and behavioral mechanisms of prediction errorWhen a prediction error occurs, the brain updates its expectations and adjusts future...</p></details>
+   Link: <a href="https://www.frontiersin.org/research-topics/80199/learning-from-surprise-neural-and-behavioral-[mechanisms" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/research-topics/80199/learning-from-surprise-neural-and-behavioral-[mechanisms</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>neural and behavioral mechanisms of prediction errorWhen a prediction error occurs, the brain updates its expectations and adjusts future...</p></details>
 
-12.<a id="endnote-12"></a>
+12. <a id="endnote-12"></a>
    Source: journalofcognition.org  
-   Link:<a href="https://journalofcognition.org/articles/455/files/687f6aa6dcf5d.pdf" target="_blank" rel="noopener noreferrer nofollow">https://journalofcognition.org/articles/455/files/687f6aa6dcf5d.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the Impact of Feedback and Final Test Timingby Y Mera · 2025 · Cited by 2 — The pretesting effect suggests that attempting and...</p></details>
+   Link: <a href="https://journalofcognition.org/articles/455/files/687f6aa6dcf5d.pdf" target="_blank" rel="noopener noreferrer nofollow">https://journalofcognition.org/articles/455/files/687f6aa6dcf5d.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the Impact of Feedback and Final Test Timingby Y Mera · 2025 · Cited by 2 — The pretesting effect suggests that attempting and...</p></details>
 
-13.<a id="endnote-13"></a>
+13. <a id="endnote-13"></a>
    Source: ouci.dntb.gov.ua  
    Title: dntb.gov.ua Predicting as a learning strategy  
-   Link:<a href="https://ouci.dntb.gov.ua/en/works/9joLjew7/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/9joLjew7/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>as a learning strategyAbstractThis article attempts to delineate the procedural and mechanistic characteristics of predicting as a learni...</p></details>
+   Link: <a href="https://ouci.dntb.gov.ua/en/works/9joLjew7/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/9joLjew7/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>as a learning strategyAbstractThis article attempts to delineate the procedural and mechanistic characteristics of predicting as a learni...</p></details>
 
 ### Additional References
 
-14.<a id="endnote-14"></a>
+14. <a id="endnote-14"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/366086182_Pre-testing_effects_are_target-specific_and_are_not_driven_by_a_generalised_state_of_curiosity" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/366086182_Pre-testing_effects_are_target-specific_and_are_not_driven_by_a_generalised_state_of_curiosity</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Pre-testing effects are target-specific and are not...7 Dec 2022 — Guessing an answer to an unfamiliar question prior to seeing th...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/366086182_Pre-testing_effects_are_target-specific_and_are_not_driven_by_a_generalised_state_of_curiosity" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/366086182_Pre-testing_effects_are_target-specific_and_are_not_driven_by_a_generalised_state_of_curiosity</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Pre-testing effects are target-specific and are not...7 Dec 2022 — Guessing an answer to an unfamiliar question prior to seeing th...</p></details>
 
-15.<a id="endnote-15"></a>
+15. <a id="endnote-15"></a>
    Source: cognitivepsychology.com  
-   Link:<a href="https://www.cognitivepsychology.com/Error_Driven_Learning" target="_blank" rel="noopener noreferrer nofollow">https://www.cognitivepsychology.com/Error_Driven_Learning</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Error-Driven Learning — Cognitive Psychology ReferenceError-driven learning is the principle that learning occurs in proportion to the di...</p></details>
+   Link: <a href="https://www.cognitivepsychology.com/Error_Driven_Learning" target="_blank" rel="noopener noreferrer nofollow">https://www.cognitivepsychology.com/Error_Driven_Learning</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Error-Driven Learning — Cognitive Psychology ReferenceError-driven learning is the principle that learning occurs in proportion to the di...</p></details>
 
-16.<a id="endnote-16"></a>
+16. <a id="endnote-16"></a>
    Source: semanticscholar.org  
-   Link:<a href="https://www.semanticscholar.org/paper/Predicting-as-a-learning-strategy-Brod/a10fd63cec0defeec4ddda4bc95356186545f97a" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Predicting-as-a-learning-strategy-Brod/a10fd63cec0defeec4ddda4bc95356186545f97a</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Predicting as a learning strategyThis article attempts to delineate the procedural and mechanistic characteristics of predicting as a lea...</p></details>
+   Link: <a href="https://www.semanticscholar.org/paper/Predicting-as-a-learning-strategy-Brod/a10fd63cec0defeec4ddda4bc95356186545f97a" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Predicting-as-a-learning-strategy-Brod/a10fd63cec0defeec4ddda4bc95356186545f97a</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Predicting as a learning strategyThis article attempts to delineate the procedural and mechanistic characteristics of predicting as a lea...</p></details>
 
-17.<a id="endnote-17"></a>
+17. <a id="endnote-17"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/297598270_Mini-Review_Prediction_errors_attention_and_associative_learning" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/297598270_Mini-Review_Prediction_errors_attention_and_associative_learning</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Prediction errors, attention and associative learningMost modern theories of associative learning emphasize a critical role for predictio...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/297598270_Mini-Review_Prediction_errors_attention_and_associative_learning" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/297598270_Mini-Review_Prediction_errors_attention_and_associative_learning</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Prediction errors, attention and associative learningMost modern theories of associative learning emphasize a critical role for predictio...</p></details>
 
-18.<a id="endnote-18"></a>
+18. <a id="endnote-18"></a>
    Source: neurosity.co  
-   Link:<a href="https://neurosity.co/guides/reward-prediction-error-dopamine" target="_blank" rel="noopener noreferrer nofollow">https://neurosity.co/guides/reward-prediction-error-dopamine</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Reward Prediction Error: The Dopamine Surprise SignalYour brain doesn&#x27;t care about rewards. It cares about surprises. Learn how reward pr...</p></details>
+   Link: <a href="https://neurosity.co/guides/reward-prediction-error-dopamine" target="_blank" rel="noopener noreferrer nofollow">https://neurosity.co/guides/reward-prediction-error-dopamine</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reward Prediction Error: The Dopamine Surprise SignalYour brain doesn&#x27;t care about rewards. It cares about surprises. Learn how reward pr...</p></details>
 
-19.<a id="endnote-19"></a>
+19. <a id="endnote-19"></a>
    Source: researchgate.net  
    Title: 395978076 Attention and prediction error as mechanisms for theory protection  
-   Link:<a href="https://www.researchgate.net/publication/395978076_Attention_and_prediction_error_as_mechanisms_for_theory_protection" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395978076_Attention_and_prediction_error_as_mechanisms_for_theory_protection</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Attention and Prediction Error as Mechanisms for Theory...29 Apr 2026 — Here, we discuss similarities between the notion of theory prote...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/395978076_Attention_and_prediction_error_as_mechanisms_for_theory_protection" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395978076_Attention_and_prediction_error_as_mechanisms_for_theory_protection</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Attention and Prediction Error as Mechanisms for Theory...29 Apr 2026 — Here, we discuss similarities between the notion of theory prote...</p></details>
 
-20.<a id="endnote-20"></a>
+20. <a id="endnote-20"></a>
    Source: learninglab.uchicago.edu  
-   Link:<a href="https://learninglab.uchicago.edu/Pre-Testing_files/RichlandKornellKao.pdf" target="_blank" rel="noopener noreferrer nofollow">https://learninglab.uchicago.edu/Pre-Testing_files/RichlandKornellKao.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>ces long-term memory, particularly when the information is successfully retrieved from memory.Read more...</p></details>
+   Link: <a href="https://learninglab.uchicago.edu/Pre-Testing_files/RichlandKornellKao.pdf" target="_blank" rel="noopener noreferrer nofollow">https://learninglab.uchicago.edu/Pre-Testing_files/RichlandKornellKao.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ces long-term memory, particularly when the information is successfully retrieved from memory.Read more...</p></details>
 
-21.<a id="endnote-21"></a>
+21. <a id="endnote-21"></a>
    Source: pedocs.de  
    Title: When generating a prediction boosts learning  
-   Link:<a href="https://www.pedocs.de/volltexte/2020/16102/pdf/Brod_When_generating_a_prediction_boosts_learning_2018_A.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.pedocs.de/volltexte/2020/16102/pdf/Brod_When_generating_a_prediction_boosts_learning_2018_A.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>G Brod · 2018 · Cited by 172 — These results suggest that a specific benefit of making predictions in learning contexts is that...</p></details>
+   Link: <a href="https://www.pedocs.de/volltexte/2020/16102/pdf/Brod_When_generating_a_prediction_boosts_learning_2018_A.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.pedocs.de/volltexte/2020/16102/pdf/Brod_When_generating_a_prediction_boosts_learning_2018_A.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>G Brod · 2018 · Cited by 172 — These results suggest that a specific benefit of making predictions in learning contexts is that...</p></details>
 
-22.<a id="endnote-22"></a>
+22. <a id="endnote-22"></a>
    Source: researchgate.net  
    Title: 350390831 Predicting as a learning strategy  
-   Link:<a href="https://www.researchgate.net/publication/350390831_Predicting_as_a_learning_strategy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/350390831_Predicting_as_a_learning_strategy</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Predicting as a learning strategy29 Mar 2021 — Initial evidence suggests that predicting boosts surprise about unexpected answers...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/350390831_Predicting_as_a_learning_strategy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/350390831_Predicting_as_a_learning_strategy</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Predicting as a learning strategy29 Mar 2021 — Initial evidence suggests that predicting boosts surprise about unexpected answers...</p></details>
 
-23.<a id="endnote-23"></a>
+23. <a id="endnote-23"></a>
    Source: mindbrained.org  
    Title: surprise learning and the predictive brain  
-   Link:<a href="https://www.mindbrained.org/2025/01/surprise-learning-and-the-predictive-brain/" target="_blank" rel="noopener noreferrer nofollow">https://www.mindbrained.org/2025/01/surprise-learning-and-the-predictive-brain/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Surprise, Learning, and the Predictive Brain3 Jan 2025 — The key to understanding surprise is knowing it is a prediction error. They were...</p></details>
+   Link: <a href="https://www.mindbrained.org/2025/01/surprise-learning-and-the-predictive-brain/" target="_blank" rel="noopener noreferrer nofollow">https://www.mindbrained.org/2025/01/surprise-learning-and-the-predictive-brain/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Surprise, Learning, and the Predictive Brain3 Jan 2025 — The key to understanding surprise is knowing it is a prediction error. They were...</p></details>

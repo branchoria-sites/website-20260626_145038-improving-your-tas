@@ -280,7 +280,7 @@ image: /assets/images/improving_your_think_da4710_online_confirmation_d4dd0f_nar
 
 ## Introduction
 
-The narrow search effect explains why people can search sincerely for evidence yet become less, rather than more, likely to change their minds. The key insight is that belief reinforcement often begins before any search results appear. Existing beliefs influence the words people type into a search engine or AI assistant, and those words determine which evidence is retrieved. When queries are narrowly framed, even high-quality search systems tend to return information that fits the question being asked, limiting exposure to genuinely conflicting evidence. This means that [online confirmation]({{ 'search-bias/' | relative_url }}) bias is not only about choosing partisan websites or ignoring inconvenient facts; it can originate in the search query itself. Recent research suggests this pattern is remarkably consistent across subjects ranging from health and finance to energy policy and crime, and across both conventional search engines and AI-assisted search tools.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/40127267/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The narrow search effect and how broadening...by E Leung · 2025 · Cited by 11 — We demonstrate that the combination of users&#x27; prio...</span></span></span>
+The narrow search effect explains why people can search sincerely for evidence yet become less, rather than more, likely to change their minds. The key insight is that belief reinforcement often begins before any search results appear. Existing beliefs influence the words people type into a search engine or AI assistant, and those words determine which evidence is retrieved. When queries are narrowly framed, even high-quality search systems tend to return information that fits the question being asked, limiting exposure to genuinely conflicting evidence. This means that [online confirmation]({{ 'search-bias/' | relative_url }}) bias is not only about choosing partisan websites or ignoring inconvenient facts; it can originate in the search query itself. Recent research suggests this pattern is remarkably consistent across subjects ranging from health and finance to energy policy and crime, and across both conventional search engines and AI-assisted search tools. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/40127267/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The narrow search effect and how broadening...by E Leung · 2025 · Cited by 11 — We demonstrate that the combination of users&#x27; prio...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_online_confirmation_d4dd0f_narrow_search_effect_9a7565-Illustration-1-dark.svg" | relative_url }}" alt="Narrow Search illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_online_confirmation_d4dd0f_narrow_search_effect_9a7565-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_online_confirmation_d4dd0f_narrow_search_effect_9a7565-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -290,11 +290,11 @@ The narrow search effect begins with an apparently simple decision: how to phras
 
 Suppose two people want to learn about the same issue. One searches for "benefits of nuclear power", while another searches for "risks of nuclear power". Both may believe they are conducting an objective investigation. Yet each query already directs the search system towards a particular subset of available information.
 
-Researchers Eugina Leung and Oleg Urminsky demonstrated that people consistently generate search terms that align with their existing beliefs. Across 21 studies, including 14 preregistered experiments, participants with stronger prior opinions chose more directionally framed search queries. Those queries produced narrower sets of results, reducing subsequent belief updating. Importantly, this pattern appeared across numerous topics, including coronavirus, caffeine, food safety, Bitcoin, gas prices, crime rates and nuclear energy. It also appeared across multiple search platforms, including Google, ChatGPT, AI-powered Bing and custom experimental search interfaces.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.2408175122" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">The narrow search effect and how broadening...24 Mar 2025 — We demonstrate that the combination of users&#x27; prior beliefs influencing...</span></span></span>
+Researchers Eugina Leung and Oleg Urminsky demonstrated that people consistently generate search terms that align with their existing beliefs. Across 21 studies, including 14 preregistered experiments, participants with stronger prior opinions chose more directionally framed search queries. Those queries produced narrower sets of results, reducing subsequent belief updating. Importantly, this pattern appeared across numerous topics, including coronavirus, caffeine, food safety, Bitcoin, gas prices, crime rates and nuclear energy. It also appeared across multiple search platforms, including Google, ChatGPT, AI-powered Bing and custom experimental search interfaces. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.2408175122" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">The narrow search effect and how broadening...24 Mar 2025 — We demonstrate that the combination of users&#x27; prior beliefs influencing...</span></span></span>
 
 The researchers describe this as a chain rather than a single bias:
 
-* prior beliefs influence query wording;<span class="citation-chip-wrap"><a class="citation-chip" href="https://knowledge.uchicago.edu/record/14793" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: knowledge.uchicago.edu">[knowledge.uchicago.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">knowledge.uchicago.edu</span><span class="citation-popover-snippet">UChicago KnowledgeThe narrow search effect and how broadening...by E Leung · 2025 · Cited by 11 — Studies 1 to 5 show that users&#x27; prior...</span></span></span>
+* prior beliefs influence query wording; <span class="citation-chip-wrap"><a class="citation-chip" href="https://knowledge.uchicago.edu/record/14793" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: knowledge.uchicago.edu">[knowledge.uchicago.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">knowledge.uchicago.edu</span><span class="citation-popover-snippet">UChicago KnowledgeThe narrow search effect and how broadening...by E Leung · 2025 · Cited by 11 — Studies 1 to 5 show that users&#x27; prior...</span></span></span>
 * [query wording]({{ 'query-wording/' | relative_url }}) constrains retrieved information;
 * constrained information limits opportunities for belief revision.
 
@@ -307,9 +307,9 @@ Because each step feels reasonable to the user, the overall process is often inv
 
 The most important contribution of the narrow search effect is explaining why searching does not necessarily produce more accurate beliefs.
 
-Search systems are generally designed to retrieve information relevant to the user's request. If the request itself is one-sided, the system may perform exactly as intended while still exposing the user to an incomplete evidence base. The limitation therefore arises from the interaction between human psychology and search algorithms rather than from either component alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.2408175122" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">The narrow search effect and how broadening...24 Mar 2025 — We demonstrate that the combination of users&#x27; prior beliefs influencing...</span></span></span>
+Search systems are generally designed to retrieve information relevant to the user's request. If the request itself is one-sided, the system may perform exactly as intended while still exposing the user to an incomplete evidence base. The limitation therefore arises from the interaction between human psychology and search algorithms rather than from either component alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.2408175122" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">The narrow search effect and how broadening...24 Mar 2025 — We demonstrate that the combination of users&#x27; prior beliefs influencing...</span></span></span>
 
-The PNAS experiments found that narrower searches consistently produced smaller changes in participants' beliefs after reviewing evidence. People were not necessarily rejecting contradictory information. Instead, they simply encountered less of it because their original search wording filtered much of it out before evaluation even began.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.2408175122" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">The narrow search effect and how broadening...24 Mar 2025 — We demonstrate that the combination of users&#x27; prior beliefs influencing...</span></span></span>
+The PNAS experiments found that narrower searches consistently produced smaller changes in participants' beliefs after reviewing evidence. People were not necessarily rejecting contradictory information. Instead, they simply encountered less of it because their original search wording filtered much of it out before evaluation even began. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.2408175122" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">The narrow search effect and how broadening...24 Mar 2025 — We demonstrate that the combination of users&#x27; prior beliefs influencing...</span></span></span>
 
 This distinction matters because it shifts attention away from deliberate motivated reasoning towards an earlier stage of information gathering. Someone can honestly believe they are "checking the evidence" while unknowingly constructing a search that excludes much of the evidence capable of changing their view.
 
@@ -331,9 +331,9 @@ The research intentionally examined diverse domains to test whether the mechanis
 
 </div>
 
-This breadth suggests the effect reflects a general feature of human information seeking rather than a phenomenon unique to political identity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://knowledge.uchicago.edu/record/14793" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: knowledge.uchicago.edu">[UChicago Knowledge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">knowledge.uchicago.edu</span><span class="citation-popover-snippet">UChicago KnowledgeThe narrow search effect and how broadening...by E Leung · 2025 · Cited by 11 — Studies 1 to 5 show that users&#x27; prior...</span></span></span>
+This breadth suggests the effect reflects a general feature of human information seeking rather than a phenomenon unique to political identity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://knowledge.uchicago.edu/record/14793" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: knowledge.uchicago.edu">[UChicago Knowledge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">knowledge.uchicago.edu</span><span class="citation-popover-snippet">UChicago KnowledgeThe narrow search effect and how broadening...by E Leung · 2025 · Cited by 11 — Studies 1 to 5 show that users&#x27; prior...</span></span></span>
 
-Earlier experimental work reached related conclusions through a different mechanism. Researchers found that confirmation bias becomes especially powerful when confirming and disconfirming evidence use different terminology. If contradictory evidence is described using different words from those already embedded in the search query, search engines may retrieve mainly confirming information even when relevant opposing evidence exists elsewhere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://core.ac.uk/download/pdf/301367349.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: core.ac.uk">[CORE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">core.ac.uk</span><span class="citation-popover-snippet">erbate confirmation bias by generating results that consist only of confirming evidence for search...Read more...</span></span></span>
+Earlier experimental work reached related conclusions through a different mechanism. Researchers found that confirmation bias becomes especially powerful when confirming and disconfirming evidence use different terminology. If contradictory evidence is described using different words from those already embedded in the search query, search engines may retrieve mainly confirming information even when relevant opposing evidence exists elsewhere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://core.ac.uk/download/pdf/301367349.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: core.ac.uk">[CORE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">core.ac.uk</span><span class="citation-popover-snippet">erbate confirmation bias by generating results that consist only of confirming evidence for search...Read more...</span></span></span>
 
 The consequence is that narrow searching can reinforce mistaken beliefs in many practical settings, including medical self-diagnosis, investment research and consumer decision-making.
 
@@ -346,7 +346,7 @@ The same research also tested whether the effect could be reduced.
 
 One approach involved encouraging broader, less directional search queries. Instead of asking questions that assumed a particular answer, users were prompted to formulate more neutral searches. Another approach altered search presentation so that results represented a wider range of relevant evidence.
 
-Both strategies increased belief updating compared with standard narrow searches, with algorithm-based interventions generally producing larger improvements than relying solely on users to reformulate their own queries. Rather than forcing artificial balance, broader [retrieval]({{ 'retrieval/' | relative_url }}) simply increased the likelihood that users encountered relevant evidence inconsistent with their starting assumptions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.2408175122" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">The narrow search effect and how broadening...24 Mar 2025 — We demonstrate that the combination of users&#x27; prior beliefs influencing...</span></span></span>
+Both strategies increased belief updating compared with standard narrow searches, with algorithm-based interventions generally producing larger improvements than relying solely on users to reformulate their own queries. Rather than forcing artificial balance, broader [retrieval]({{ 'retrieval/' | relative_url }}) simply increased the likelihood that users encountered relevant evidence inconsistent with their starting assumptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.2408175122" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">The narrow search effect and how broadening...24 Mar 2025 — We demonstrate that the combination of users&#x27; prior beliefs influencing...</span></span></span>
 
 This finding is significant because it suggests that the narrow search effect is not inevitable. Small changes to either user behaviour or search-system design can substantially increase exposure to information capable of changing minds.
 
@@ -373,201 +373,201 @@ Useful habits include:
 
 These practices widen the evidence considered without requiring people to abandon healthy scepticism or accept every opposing claim. Their value lies in increasing the probability that genuinely informative evidence appears before conclusions become fixed.
 
-The narrow search effect therefore highlights a subtle but important lesson: belief updating depends not only on the quality of available information but also on how people ask for it. By broadening search terms at the outset, individuals improve their chances of discovering evidence that genuinely tests, rather than merely confirms, what they already believe.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.2408175122" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS+2bps.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">The narrow search effect and how broadening...24 Mar 2025 — We demonstrate that the combination of users&#x27; prior beliefs influencing...</span></span></span>
+The narrow search effect therefore highlights a subtle but important lesson: belief updating depends not only on the quality of available information but also on how people ask for it. By broadening search terms at the outset, individuals improve their chances of discovering evidence that genuinely tests, rather than merely confirms, what they already believe. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.2408175122" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS+2bps.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">The narrow search effect and how broadening...24 Mar 2025 — We demonstrate that the combination of users&#x27; prior beliefs influencing...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7zoWTb3KP-k" title="Confirmation Bias | Ethics Defined" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7zoWTb3KP-k" target="_blank" rel="noopener noreferrer">Confirmation Bias | Ethics Defined</a></p><p class="youtube-embed-meta">Channel: McCombs School of Business</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7zoWTb3KP-k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7zoWTb3KP-k">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Searching Can Make Beliefs More Stubborn. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Searching Can Make Beliefs More Stubborn. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
-</h4>
-<p class="fr-book-author">By Julia Galef</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
+        </h4>
+        <p class="fr-book-author">By Julia Galef</p>
         
-<p class="fr-book-desc">Directly addresses motivated reasoning, intellectual openness, and changing one&#x27;s mind.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly addresses motivated reasoning, intellectual openness, and changing one&#x27;s mind.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-</h4>
-<p class="fr-book-author">By Daniel Kahneman</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A1NYvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
+        </h4>
+        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-<p class="fr-book-desc">Explains cognitive biases, belief formation, and why people interpret evidence in biased ways.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explores self-justification, confirmation bias, and why people cling to existing beliefs.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A1NYvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
-</h4>
-<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+        </h4>
+        <p class="fr-book-author">By Daniel Kahneman</p>
         
-<p class="fr-book-desc">Explores self-justification, confirmation bias, and why people cling to existing beliefs.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains cognitive biases, belief formation, and why people interpret evidence in biased ways.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-</h4>
-<p class="fr-book-author">By Michael Shermer</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Believing+Brain+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+        </h4>
+        <p class="fr-book-author">By Michael Shermer</p>
         
-<p class="fr-book-desc">Examines how beliefs are formed first and rationalized afterward, closely matching the page topic.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Examines how beliefs are formed first and rationalized afterward, closely matching the page topic.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Believing+Brain+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scout Mindset</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me)</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scout Mindset</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me)</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+training+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-searching-can-make-beliefs-more-stubborn-brain-training-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain training kit" data-ebay-reference="why-searching-can-make-beliefs-more-stubborn-brain-training-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Boxed lightly used &quot;Wondercore Genius&quot;. Nice bit of kit with many uses. Perfect!"><img src="https://i.ebayimg.com/images/g/6CMAAOSwmoRhrzSp/s-l225.jpg" alt="Listing image for Boxed lightly used &quot;Wondercore Genius&quot;. Nice bit of kit with many uses. Perfect!" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+training+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-searching-can-make-beliefs-more-stubborn-brain-training-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain training kit" data-ebay-reference="why-searching-can-make-beliefs-more-stubborn-brain-training-kit" target="_blank" rel="sponsored noopener noreferrer">Boxed lightly used &quot;Wondercore Genius&quot;. Nice bit of kit with many uses. Perfect!</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+training+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-searching-can-make-beliefs-more-stubborn-brain-training-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain training kit" data-ebay-reference="why-searching-can-make-beliefs-more-stubborn-brain-training-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain training kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: brain training kit</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+training+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-searching-can-make-beliefs-more-stubborn-brain-training-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain training kit" data-ebay-reference="why-searching-can-make-beliefs-more-stubborn-brain-training-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+training+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-searching-can-make-beliefs-more-stubborn-brain-training-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain training kit" data-ebay-reference="why-searching-can-make-beliefs-more-stubborn-brain-training-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Boxed lightly used &quot;Wondercore Genius&quot;. Nice bit of kit with many uses. Perfect!"><img src="https://i.ebayimg.com/images/g/6CMAAOSwmoRhrzSp/s-l225.jpg" alt="Listing image for Boxed lightly used &quot;Wondercore Genius&quot;. Nice bit of kit with many uses. Perfect!" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+training+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-searching-can-make-beliefs-more-stubborn-brain-training-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain training kit" data-ebay-reference="why-searching-can-make-beliefs-more-stubborn-brain-training-kit" target="_blank" rel="sponsored noopener noreferrer">Boxed lightly used &quot;Wondercore Genius&quot;. Nice bit of kit with many uses. Perfect!</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+training+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-searching-can-make-beliefs-more-stubborn-brain-training-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain training kit" data-ebay-reference="why-searching-can-make-beliefs-more-stubborn-brain-training-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain training kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: brain training kit</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+training+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-searching-can-make-beliefs-more-stubborn-brain-training-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain training kit" data-ebay-reference="why-searching-can-make-beliefs-more-stubborn-brain-training-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+training+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-searching-can-make-beliefs-more-stubborn-brain-training-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain training kit" data-ebay-reference="why-searching-can-make-beliefs-more-stubborn-brain-training-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dog Scent Training Kit Tools &amp; Nosework Toys Interactive Brain Training Games"><img src="https://i.ebayimg.com/images/g/-t0AAeSwEGlo-ccu/s-l225.jpg" alt="Listing image for Dog Scent Training Kit Tools &amp; Nosework Toys Interactive Brain Training Games" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+training+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-searching-can-make-beliefs-more-stubborn-brain-training-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain training kit" data-ebay-reference="why-searching-can-make-beliefs-more-stubborn-brain-training-kit" target="_blank" rel="sponsored noopener noreferrer">Dog Scent Training Kit Tools &amp; Nosework Toys Interactive Brain Training Games</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+training+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-searching-can-make-beliefs-more-stubborn-brain-training-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain training kit" data-ebay-reference="why-searching-can-make-beliefs-more-stubborn-brain-training-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain training kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: brain training kit</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+training+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-searching-can-make-beliefs-more-stubborn-brain-training-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain training kit" data-ebay-reference="why-searching-can-make-beliefs-more-stubborn-brain-training-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+training+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-searching-can-make-beliefs-more-stubborn-brain-training-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain training kit" data-ebay-reference="why-searching-can-make-beliefs-more-stubborn-brain-training-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dog Scent Training Kit Tools &amp; Nosework Toys Interactive Brain Training Games"><img src="https://i.ebayimg.com/images/g/-t0AAeSwEGlo-ccu/s-l225.jpg" alt="Listing image for Dog Scent Training Kit Tools &amp; Nosework Toys Interactive Brain Training Games" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+training+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-searching-can-make-beliefs-more-stubborn-brain-training-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain training kit" data-ebay-reference="why-searching-can-make-beliefs-more-stubborn-brain-training-kit" target="_blank" rel="sponsored noopener noreferrer">Dog Scent Training Kit Tools &amp; Nosework Toys Interactive Brain Training Games</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+training+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-searching-can-make-beliefs-more-stubborn-brain-training-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain training kit" data-ebay-reference="why-searching-can-make-beliefs-more-stubborn-brain-training-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain training kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: brain training kit</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+training+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-searching-can-make-beliefs-more-stubborn-brain-training-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain training kit" data-ebay-reference="why-searching-can-make-beliefs-more-stubborn-brain-training-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+training+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-searching-can-make-beliefs-more-stubborn-brain-training-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain training kit" data-ebay-reference="why-searching-can-make-beliefs-more-stubborn-brain-training-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New Dog Scent Training Kit Tools Brain Training Games &amp; Nosework Toy Interactive"><img src="https://i.ebayimg.com/images/g/-P4AAeSwE2Fp5fuV/s-l225.jpg" alt="Listing image for New Dog Scent Training Kit Tools Brain Training Games &amp; Nosework Toy Interactive" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+training+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-searching-can-make-beliefs-more-stubborn-brain-training-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain training kit" data-ebay-reference="why-searching-can-make-beliefs-more-stubborn-brain-training-kit" target="_blank" rel="sponsored noopener noreferrer">New Dog Scent Training Kit Tools Brain Training Games &amp; Nosework Toy Interactive</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+training+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-searching-can-make-beliefs-more-stubborn-brain-training-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain training kit" data-ebay-reference="why-searching-can-make-beliefs-more-stubborn-brain-training-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain training kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: brain training kit</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+training+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-searching-can-make-beliefs-more-stubborn-brain-training-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain training kit" data-ebay-reference="why-searching-can-make-beliefs-more-stubborn-brain-training-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+training+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-searching-can-make-beliefs-more-stubborn-brain-training-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain training kit" data-ebay-reference="why-searching-can-make-beliefs-more-stubborn-brain-training-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New Dog Scent Training Kit Tools Brain Training Games &amp; Nosework Toy Interactive"><img src="https://i.ebayimg.com/images/g/-P4AAeSwE2Fp5fuV/s-l225.jpg" alt="Listing image for New Dog Scent Training Kit Tools Brain Training Games &amp; Nosework Toy Interactive" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+training+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-searching-can-make-beliefs-more-stubborn-brain-training-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain training kit" data-ebay-reference="why-searching-can-make-beliefs-more-stubborn-brain-training-kit" target="_blank" rel="sponsored noopener noreferrer">New Dog Scent Training Kit Tools Brain Training Games &amp; Nosework Toy Interactive</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+training+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-searching-can-make-beliefs-more-stubborn-brain-training-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain training kit" data-ebay-reference="why-searching-can-make-beliefs-more-stubborn-brain-training-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain training kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: brain training kit</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+training+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-searching-can-make-beliefs-more-stubborn-brain-training-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain training kit" data-ebay-reference="why-searching-can-make-beliefs-more-stubborn-brain-training-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+training+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-searching-can-make-beliefs-more-stubborn-brain-training-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain training kit" data-ebay-reference="why-searching-can-make-beliefs-more-stubborn-brain-training-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dog Scent Training Kit Tools &amp; Nosework Toys Interactive Brain Training Games"><img src="https://i.ebayimg.com/images/g/-t0AAeSwEGlo-ccu/s-l225.jpg" alt="Listing image for Dog Scent Training Kit Tools &amp; Nosework Toys Interactive Brain Training Games" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+training+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-searching-can-make-beliefs-more-stubborn-brain-training-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain training kit" data-ebay-reference="why-searching-can-make-beliefs-more-stubborn-brain-training-kit" target="_blank" rel="sponsored noopener noreferrer">Dog Scent Training Kit Tools &amp; Nosework Toys Interactive Brain Training Games</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+training+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-searching-can-make-beliefs-more-stubborn-brain-training-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain training kit" data-ebay-reference="why-searching-can-make-beliefs-more-stubborn-brain-training-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain training kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: brain training kit</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+training+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-searching-can-make-beliefs-more-stubborn-brain-training-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain training kit" data-ebay-reference="why-searching-can-make-beliefs-more-stubborn-brain-training-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+training+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-searching-can-make-beliefs-more-stubborn-brain-training-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain training kit" data-ebay-reference="why-searching-can-make-beliefs-more-stubborn-brain-training-kit" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+training+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-searching-can-make-beliefs-more-stubborn-brain-training-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain training kit" data-ebay-reference="why-searching-can-make-beliefs-more-stubborn-brain-training-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dog Scent Training Kit Tools &amp; Nosework Toys Interactive Brain Training Games"><img src="https://i.ebayimg.com/images/g/-t0AAeSwEGlo-ccu/s-l225.jpg" alt="Listing image for Dog Scent Training Kit Tools &amp; Nosework Toys Interactive Brain Training Games" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+training+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-searching-can-make-beliefs-more-stubborn-brain-training-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain training kit" data-ebay-reference="why-searching-can-make-beliefs-more-stubborn-brain-training-kit" target="_blank" rel="sponsored noopener noreferrer">Dog Scent Training Kit Tools &amp; Nosework Toys Interactive Brain Training Games</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+training+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-searching-can-make-beliefs-more-stubborn-brain-training-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain training kit" data-ebay-reference="why-searching-can-make-beliefs-more-stubborn-brain-training-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain training kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: brain training kit</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+training+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-searching-can-make-beliefs-more-stubborn-brain-training-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain training kit" data-ebay-reference="why-searching-can-make-beliefs-more-stubborn-brain-training-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+training+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-searching-can-make-beliefs-more-stubborn-brain-training-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain training kit" data-ebay-reference="why-searching-can-make-beliefs-more-stubborn-brain-training-kit" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -583,7 +583,7 @@ The narrow search effect therefore highlights a subtle but important lesson: bel
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -603,7 +603,7 @@ The narrow search effect therefore highlights a subtle but important lesson: bel
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -635,7 +635,7 @@ The narrow search effect therefore highlights a subtle but important lesson: bel
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -687,7 +687,7 @@ The narrow search effect therefore highlights a subtle but important lesson: bel
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -732,7 +732,7 @@ The narrow search effect therefore highlights a subtle but important lesson: bel
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -772,135 +772,135 @@ The narrow search effect therefore highlights a subtle but important lesson: bel
 </section>
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: pnas.org  
-   Link:<a href="https://www.pnas.org/doi/10.1073/pnas.2408175122" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2408175122</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The narrow search effect and how broadening...24 Mar 2025 — We demonstrate that the combination of users&#x27; prior beliefs influencing...</p></details>
+   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.2408175122" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2408175122</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The narrow search effect and how broadening...24 Mar 2025 — We demonstrate that the combination of users&#x27; prior beliefs influencing...</p></details>
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: knowledge.uchicago.edu  
-   Link:<a href="https://knowledge.uchicago.edu/record/14793" target="_blank" rel="noopener noreferrer nofollow">https://knowledge.uchicago.edu/record/14793</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>UChicago KnowledgeThe narrow search effect and how broadening...by E Leung · 2025 · Cited by 11 — Studies 1 to 5 show that users&#x27; prior...</p></details>
+   Link: <a href="https://knowledge.uchicago.edu/record/14793" target="_blank" rel="noopener noreferrer nofollow">https://knowledge.uchicago.edu/record/14793</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UChicago KnowledgeThe narrow search effect and how broadening...by E Leung · 2025 · Cited by 11 — Studies 1 to 5 show that users&#x27; prior...</p></details>
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: core.ac.uk  
-   Link:<a href="https://core.ac.uk/download/pdf/301367349.pdf" target="_blank" rel="noopener noreferrer nofollow">https://core.ac.uk/download/pdf/301367349.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>erbate confirmation bias by generating results that consist only of confirming evidence for search...Read more...</p></details>
+   Link: <a href="https://core.ac.uk/download/pdf/301367349.pdf" target="_blank" rel="noopener noreferrer nofollow">https://core.ac.uk/download/pdf/301367349.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>erbate confirmation bias by generating results that consist only of confirming evidence for search...Read more...</p></details>
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: bps.org.uk  
    Title: your search engine queries also maintain your online echo chamber  
-   Link:<a href="https://www.bps.org.uk/research-digest/your-search-engine-queries-also-maintain-your-online-echo-chamber" target="_blank" rel="noopener noreferrer nofollow">https://www.bps.org.uk/research-digest/your-search-engine-queries-also-maintain-your-online-echo-chamber</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The narrow search effect and how broadening search promotes belief updating. Proceedings of the National Academy of Sciences, 122(13)...</p></details>
+   Link: <a href="https://www.bps.org.uk/research-digest/your-search-engine-queries-also-maintain-your-online-echo-chamber" target="_blank" rel="noopener noreferrer nofollow">https://www.bps.org.uk/research-digest/your-search-engine-queries-also-maintain-your-online-echo-chamber</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The narrow search effect and how broadening search promotes belief updating. Proceedings of the National Academy of Sciences, 122(13)...</p></details>
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: pnas.org  
-   Link:<a href="https://www.pnas.org/doi/10.1073/pnas.2221911120" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2221911120</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Flexible synthesis can deliver more tailored and timely...Jun 14, 2023 — Automated searches combined with natural-language processing ma...</p></details>
+   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.2221911120" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2221911120</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flexible synthesis can deliver more tailored and timely...Jun 14, 2023 — Automated searches combined with natural-language processing ma...</p></details>
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: pnas.org  
-   Link:<a href="https://www.pnas.org/toc/pnas/122/44" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/toc/pnas/122/44</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Table of Contents — November 4, 2025, 122 (44)The movement patterns of animals while searching for food have been studied extensively in...</p></details>
+   Link: <a href="https://www.pnas.org/toc/pnas/122/44" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/toc/pnas/122/44</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Table of Contents — November 4, 2025, 122 (44)The movement patterns of animals while searching for food have been studied extensively in...</p></details>
    Published: November 4, 2025  
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: pnas.org  
-   Link:<a href="https://www.pnas.org/doi/10.1073/pnas.2304862120" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2304862120</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Failing to replicate predicts citation declines in psychologyJul 10, 2023 — We found consistent evidence that failing to replicate predic...</p></details>
+   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.2304862120" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2304862120</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Failing to replicate predicts citation declines in psychologyJul 10, 2023 — We found consistent evidence that failing to replicate predic...</p></details>
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: pnas.org  
-   Link:<a href="https://www.pnas.org/doi/abs/10.1073/pnas.2408175122" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/abs/10.1073/pnas.2408175122</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The narrow search effect and how broadening...by E Leung · 2025 · Cited by 13 — We demonstrate that the combination of users&#x27; prior beli...</p></details>
+   Link: <a href="https://www.pnas.org/doi/abs/10.1073/pnas.2408175122" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/abs/10.1073/pnas.2408175122</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The narrow search effect and how broadening...by E Leung · 2025 · Cited by 13 — We demonstrate that the combination of users&#x27; prior beli...</p></details>
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: pnas.org  
    Title: Table of Contents —  
-   Link:<a href="https://www.pnas.org/toc/pnas/122/46" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/toc/pnas/122/46</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>November 18, 2025, 122 (46)The Euler Characteristic Transform (ECT) of Turner et al. provides a way to statistically analyze nondiffeomor...</p></details>
+   Link: <a href="https://www.pnas.org/toc/pnas/122/46" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/toc/pnas/122/46</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>November 18, 2025, 122 (46)The Euler Characteristic Transform (ECT) of Turner et al. provides a way to statistically analyze nondiffeomor...</p></details>
    Published: November 18, 2025  
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: pnas.org  
    Title: Table of Contents —  
-   Link:<a href="https://www.pnas.org/toc/pnas/122/20" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/toc/pnas/122/20</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>May 20, 2025, 122 (20)A half-century of climate change in major agricultural regions: Trends, impacts, and surprises. Efforts to anticipa...</p></details>
+   Link: <a href="https://www.pnas.org/toc/pnas/122/20" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/toc/pnas/122/20</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 20, 2025, 122 (20)A half-century of climate change in major agricultural regions: Trends, impacts, and surprises. Efforts to anticipa...</p></details>
    Published: May 20, 2025  
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: Episode 9 | The Visibility Brief: How Psychology Shapes [AI Search](&#123;&#123; 'ai-search/' | relative_url &#125;&#125;) and Discovery  
-   Link:<a href="https://www.youtube.com/watch?v=WIhZxore53s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WIhZxore53s</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Confirmation Bias | Ethics Defined...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=WIhZxore53s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WIhZxore53s</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Confirmation Bias | Ethics Defined...</p></details>
 
-12.<a id="endnote-12"></a>
+12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: Confirmation Bias | Ethics Defined  
-   Link:<a href="https://www.youtube.com/watch?v=7zoWTb3KP-k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7zoWTb3KP-k</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Most Common Cognitive Bias...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=7zoWTb3KP-k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7zoWTb3KP-k</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Most Common Cognitive Bias...</p></details>
 
-13.<a id="endnote-13"></a>
+13. <a id="endnote-13"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/40127267/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/40127267/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The narrow search effect and how broadening...by E Leung · 2025 · Cited by 11 — We demonstrate that the combination of users&#x27; prio...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/40127267/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/40127267/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The narrow search effect and how broadening...by E Leung · 2025 · Cited by 11 — We demonstrate that the combination of users&#x27; prio...</p></details>
 
-14.<a id="endnote-14"></a>
+14. <a id="endnote-14"></a>
    Source: ncbi.nlm.nih.gov  
-   Link:<a href="https://www.ncbi.nlm.nih.gov/clinvar/variation/802880/?new_evidence=true" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/clinvar/variation/802880/?new_evidence=true</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govVCV000802880.14 - ClinVar - NCBIFour of five in-silico tools predict a benign effect of the variant on protein function.... Last...</p></details>
+   Link: <a href="https://www.ncbi.nlm.nih.gov/clinvar/variation/802880/?new_evidence=true" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/clinvar/variation/802880/?new_evidence=true</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govVCV000802880.14 - ClinVar - NCBIFour of five in-silico tools predict a benign effect of the variant on protein function.... Last...</p></details>
 
 ### Additional References
 
-15.<a id="endnote-15"></a>
+15. <a id="endnote-15"></a>
    Source: thedecisionlab.com  
-   Link:<a href="https://thedecisionlab.com/biases/confirmation-bias" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/confirmation-bias</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Confirmation BiasConfirmation bias describes our underlying tendency to notice, focus on, and provide greater credence to evidence that f...</p></details>
+   Link: <a href="https://thedecisionlab.com/biases/confirmation-bias" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/confirmation-bias</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Confirmation BiasConfirmation bias describes our underlying tendency to notice, focus on, and provide greater credence to evidence that f...</p></details>
 
-16.<a id="endnote-16"></a>
+16. <a id="endnote-16"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/349693310_Confirmation_bias_in_information_search_interpretation_and_memory_recall_evidence_from_reasoning_about_four_controversial_topics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/349693310_Confirmation_bias_in_information_search_interpretation_and_memory_recall_evidence_from_reasoning_about_four_controversial_topics</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>evidence from reasoning about four controversial topicsThe results showed that confirmation bias was most prevalent in information search...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/349693310_Confirmation_bias_in_information_search_interpretation_and_memory_recall_evidence_from_reasoning_about_four_controversial_topics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/349693310_Confirmation_bias_in_information_search_interpretation_and_memory_recall_evidence_from_reasoning_about_four_controversial_topics</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>evidence from reasoning about four controversial topicsThe results showed that confirmation bias was most prevalent in information search...</p></details>
 
-17.<a id="endnote-17"></a>
+17. <a id="endnote-17"></a>
    Source: academic.oup.com  
-   Link:<a href="https://academic.oup.com/pnasnexus/article/4/12/pgaf363/8322299" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/pnasnexus/article/4/12/pgaf363/8322299</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>oup.comHigh-value decisions are made quickly, with no consistent...by A Pirrone · 2025 — High-value decisions tend to be made more quickly...</p></details>
+   Link: <a href="https://academic.oup.com/pnasnexus/article/4/12/pgaf363/8322299" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/pnasnexus/article/4/12/pgaf363/8322299</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>oup.comHigh-value decisions are made quickly, with no consistent...by A Pirrone · 2025 — High-value decisions tend to be made more quickly...</p></details>
 
-18.<a id="endnote-18"></a>
+18. <a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Proceedings of the National Academy of Sciences of the United States of America  
-   Link:<a href="https://en.wikipedia.org/wiki/Proceedings_of_the_National_Academy_of_Sciences_of_the_United_States_of_America" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Proceedings_of_the_National_Academy_of_Sciences_of_the_United_States_of_America</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Proceedings of the National Academy of SciencesIt is the official journal of the National Academy of Sciences, published since 1915, a...</p></details>
+   Link: <a href="https://en.wikipedia.org/wiki/Proceedings_of_the_National_Academy_of_Sciences_of_the_United_States_of_America" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Proceedings_of_the_National_Academy_of_Sciences_of_the_United_States_of_America</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Proceedings of the National Academy of SciencesIt is the official journal of the National Academy of Sciences, published since 1915, a...</p></details>
 
-19.<a id="endnote-19"></a>
+19. <a id="endnote-19"></a>
    Source: psypost.org  
    Title: scientists show how youre unknowingly sealing yourself in an information bubble  
-   Link:<a href="https://www.psypost.org/scientists-show-how-youre-unknowingly-sealing-yourself-in-an-information-bubble/" target="_blank" rel="noopener noreferrer nofollow">https://www.psypost.org/scientists-show-how-youre-unknowingly-sealing-yourself-in-an-information-bubble/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists show how you&#x27;re unknowingly sealing yourself in...29 Jun 2025 — The study, “The narrow search effect and how broadening searc...</p></details>
+   Link: <a href="https://www.psypost.org/scientists-show-how-youre-unknowingly-sealing-yourself-in-an-information-bubble/" target="_blank" rel="noopener noreferrer nofollow">https://www.psypost.org/scientists-show-how-youre-unknowingly-sealing-yourself-in-an-information-bubble/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists show how you&#x27;re unknowingly sealing yourself in...29 Jun 2025 — The study, “The narrow search effect and how broadening searc...</p></details>
 
-20.<a id="endnote-20"></a>
+20. <a id="endnote-20"></a>
    Source: facebook.com  
    Title: för inte så länge sedan ledde sökningen ”varför är vaccin farliga?  
-   Link:<a href="https://www.facebook.com/groups/kallkritik/posts/2000043273853202/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/kallkritik/posts/2000043273853202/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Modifying search algorithms to provide broader results increased belief updating, fostering a more shared factual understanding. Belief p...</p></details>
+   Link: <a href="https://www.facebook.com/groups/kallkritik/posts/2000043273853202/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/kallkritik/posts/2000043273853202/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Modifying search algorithms to provide broader results increased belief updating, fostering a more shared factual understanding. Belief p...</p></details>
 
-21.<a id="endnote-21"></a>
+21. <a id="endnote-21"></a>
    Source: marketing.wharton.upenn.edu  
-   Link:<a href="https://marketing.wharton.upenn.edu/wp-content/uploads/2025/09/leung-urminsky-2025-the-narrow-search-effect-and-how-broadening-search-promotes-belief-updating.pdf" target="_blank" rel="noopener noreferrer nofollow">https://marketing.wharton.upenn.edu/wp-content/uploads/2025/09/leung-urminsky-2025-the-narrow-search-effect-and-how-broadening-search-promotes-belief-updating.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>narrow search effect and how broadening search...by E Leunga · 2025 · Cited by 13 — Directionally narrow search terms are a modern manif...</p></details>
+   Link: <a href="https://marketing.wharton.upenn.edu/wp-content/uploads/2025/09/leung-urminsky-2025-the-narrow-search-effect-and-how-broadening-search-promotes-belief-updating.pdf" target="_blank" rel="noopener noreferrer nofollow">https://marketing.wharton.upenn.edu/wp-content/uploads/2025/09/leung-urminsky-2025-the-narrow-search-effect-and-how-broadening-search-promotes-belief-updating.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>narrow search effect and how broadening search...by E Leunga · 2025 · Cited by 13 — Directionally narrow search terms are a modern manif...</p></details>
 
-22.<a id="endnote-22"></a>
+22. <a id="endnote-22"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/390140594_The_narrow_search_effect_and_how_broadening_search_promotes_belief_updating" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/390140594_The_narrow_search_effect_and_how_broadening_search_promotes_belief_updating</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The narrow search effect and how broadening...24 Mar 2025 — Studies 1 to 5 show that users&#x27; prior beliefs influence the direction of the...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/390140594_The_narrow_search_effect_and_how_broadening_search_promotes_belief_updating" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/390140594_The_narrow_search_effect_and_how_broadening_search_promotes_belief_updating</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The narrow search effect and how broadening...24 Mar 2025 — Studies 1 to 5 show that users&#x27; prior beliefs influence the direction of the...</p></details>
 
-23.<a id="endnote-23"></a>
+23. <a id="endnote-23"></a>
    Source: visualize.jove.com  
-   Link:<a href="https://visualize.jove.com/40127267-the-narrow-search-effect-and-how-broadening-search-promotes-belief-updating" target="_blank" rel="noopener noreferrer nofollow">https://visualize.jove.com/40127267-the-narrow-search-effect-and-how-broadening-search-promotes-belief-updating</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>narrow search effect and how broadening...28 Sept 2018 — Search algorithms and user beliefs create narrow search results, limiting belie...</p></details>
+   Link: <a href="https://visualize.jove.com/40127267-the-narrow-search-effect-and-how-broadening-search-promotes-belief-updating" target="_blank" rel="noopener noreferrer nofollow">https://visualize.jove.com/40127267-the-narrow-search-effect-and-how-broadening-search-promotes-belief-updating</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>narrow search effect and how broadening...28 Sept 2018 — Search algorithms and user beliefs create narrow search results, limiting belie...</p></details>
 
-24.<a id="endnote-24"></a>
+24. <a id="endnote-24"></a>
    Source: findresearcher.sdu.dk  
-   Link:<a href="https://findresearcher.sdu.dk/ws/files/282565971" target="_blank" rel="noopener noreferrer nofollow">https://findresearcher.sdu.dk/ws/files/282565971</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Overall, setting up a LLM and validating the inclusion and exclusion criteria for a narrow review like this might take as much time as...</p></details>
+   Link: <a href="https://findresearcher.sdu.dk/ws/files/282565971" target="_blank" rel="noopener noreferrer nofollow">https://findresearcher.sdu.dk/ws/files/282565971</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Overall, setting up a LLM and validating the inclusion and exclusion criteria for a narrow review like this might take as much time as...</p></details>

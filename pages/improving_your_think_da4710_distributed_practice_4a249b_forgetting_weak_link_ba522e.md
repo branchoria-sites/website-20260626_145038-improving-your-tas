@@ -278,15 +278,15 @@ Forgetting can be useful when it exposes the part of an idea that has not surviv
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_distributed_practice_4a249b_forgetting_weak_link_ba522e-Illustration-1-dark.svg" | relative_url }}" alt="Weak links illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_distributed_practice_4a249b_forgetting_weak_link_ba522e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_distributed_practice_4a249b_forgetting_weak_link_ba522e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters for analytical skill because reasoning fails at its weakest dependency. A person may remember the name of a concept yet forget the condition that makes it apply; remember a formula yet forget why a term belongs in it; or remember a conclusion yet forget the evidence that justified it. Spaced review turns those memory gaps into useful evidence about what needs repair before the knowledge is trusted in real thinking. Research on desirable difficulties, [retrieval practice]({{ 'retrieval/' | relative_url }}), feedback and metacognitive monitoring supports this basic mechanism: delayed recall is harder, but that difficulty can reveal what familiarity hides. Bjork Learning and Forgetting Lab+2PDF Retrieval Practice<span class="citation-link-wrap"><a class="citation-inline-link" href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/04/EBjork_RBjork_2011.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bjorklab.psych.ucla.edu">[bjorklab.psych.ucla.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bjorklab.psych.ucla.edu</span><span class="citation-popover-snippet">Bjork Learning and Forgetting LabCreating Desirable Difficulties to Enhance LearningDecember 17, 2010 — by EL Bjork · Cited by 2237 — At...</span><span class="citation-popover-meta">Published: December 17, 2010</span></span></span>
+This matters for analytical skill because reasoning fails at its weakest dependency. A person may remember the name of a concept yet forget the condition that makes it apply; remember a formula yet forget why a term belongs in it; or remember a conclusion yet forget the evidence that justified it. Spaced review turns those memory gaps into useful evidence about what needs repair before the knowledge is trusted in real thinking. Research on desirable difficulties, [retrieval practice]({{ 'retrieval/' | relative_url }}), feedback and metacognitive monitoring supports this basic mechanism: delayed recall is harder, but that difficulty can reveal what familiarity hides. Bjork Learning and Forgetting Lab+2PDF Retrieval Practice <span class="citation-link-wrap"><a class="citation-inline-link" href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/04/EBjork_RBjork_2011.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bjorklab.psych.ucla.edu">[bjorklab.psych.ucla.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bjorklab.psych.ucla.edu</span><span class="citation-popover-snippet">Bjork Learning and Forgetting LabCreating Desirable Difficulties to Enhance LearningDecember 17, 2010 — by EL Bjork · Cited by 2237 — At...</span><span class="citation-popover-meta">Published: December 17, 2010</span></span></span>
 
 ## Why partial forgetting is a diagnostic signal
 
 Immediately after studying, it is easy to mistake fluency for understanding. Notes look familiar, examples feel obvious, and the learner can often recognise the right answer without being able to reconstruct it. That is a poor test of analytical readiness. Reasoning usually happens later, in a different setting, without the textbook, teacher, worked example or recent memory trace doing half the work.
 
-The useful feature of a spaced session is that it lowers this false comfort. Bjork and Bjork’s distinction between “storage strength” and “retrieval strength” helps explain why: something may be well established in memory yet temporarily hard to access, while something recently seen may feel accessible without being deeply learned. Spacing lets the learner discover which ideas are merely familiar and which can actually be retrieved and used.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/04/EBjork_RBjork_2011.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bjorklab.psych.ucla.edu">[Bjork Learning and Forgetting Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bjorklab.psych.ucla.edu</span><span class="citation-popover-snippet">Bjork Learning and Forgetting LabCreating Desirable Difficulties to Enhance LearningDecember 17, 2010 — by EL Bjork · Cited by 2237 — At...</span><span class="citation-popover-meta">Published: December 17, 2010</span></span></span>
+The useful feature of a spaced session is that it lowers this false comfort. Bjork and Bjork’s distinction between “storage strength” and “retrieval strength” helps explain why: something may be well established in memory yet temporarily hard to access, while something recently seen may feel accessible without being deeply learned. Spacing lets the learner discover which ideas are merely familiar and which can actually be retrieved and used. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/04/EBjork_RBjork_2011.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bjorklab.psych.ucla.edu">[Bjork Learning and Forgetting Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bjorklab.psych.ucla.edu</span><span class="citation-popover-snippet">Bjork Learning and Forgetting LabCreating Desirable Difficulties to Enhance LearningDecember 17, 2010 — by EL Bjork · Cited by 2237 — At...</span><span class="citation-popover-meta">Published: December 17, 2010</span></span></span>
 
-Delayed judgements of learning are also more informative than immediate ones. Research on metacognitive monitoring finds that people’s [predictions]({{ 'predictions/' | relative_url }}) about later recall tend to become more accurate when made after a delay, partly because the learner is no longer relying on short-lived cues from recent exposure. In practical terms, “I know this because I just read it” is less useful than “I can still explain this after a gap.”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2079-3200/10/4/101" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">When Memory and Metamemory Align: How Processes at...by GI Hughes · 2022 · Cited by 6 — Judgments of learning are most accurate when...</span></span></span>
+Delayed judgements of learning are also more informative than immediate ones. Research on metacognitive monitoring finds that people’s [predictions]({{ 'predictions/' | relative_url }}) about later recall tend to become more accurate when made after a delay, partly because the learner is no longer relying on short-lived cues from recent exposure. In practical terms, “I know this because I just read it” is less useful than “I can still explain this after a gap.” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2079-3200/10/4/101" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">When Memory and Metamemory Align: How Processes at...by GI Hughes · 2022 · Cited by 6 — Judgments of learning are most accurate when...</span></span></span>
 
 For reasoning, the signal is most valuable when the recall attempt is specific. A vague feeling of forgetting says little. A failed attempt to state the difference between correlation and [causation]({{ 'causation/' | relative_url }}), explain why a base rate matters, or reproduce the logic of a proof gives a much sharper diagnosis. The gap points to a repair target.
 
@@ -295,7 +295,7 @@ For reasoning, the signal is most valuable when the recall attempt is specific. 
 
 ## Finding failed steps in explanations and procedures
 
-Weak links often appear when the learner tries to explain a process without looking. In a worked example, every step is visible, so the reasoning can seem smoother than it really is. MIT’s Teaching and Learning Lab describes worked examples as step-by-step illustrations of how to solve a task, but notes that learners benefit when they self-explain the procedures and principles rather than merely inspect them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tll.mit.edu/teaching-resources/how-people-learn/worked-examples/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tll.mit.edu">[Teaching + Learning Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tll.mit.edu</span><span class="citation-popover-title">Teaching + Learning Lab Worked Examples &#124; Teaching + Learning Lab</span><span class="citation-popover-snippet">Teaching + Learning LabWorked Examples &#124; Teaching + Learning Lab - MITWorked examples are step-by-step illustrations of the process requi...</span></span></span>
+Weak links often appear when the learner tries to explain a process without looking. In a worked example, every step is visible, so the reasoning can seem smoother than it really is. MIT’s Teaching and Learning Lab describes worked examples as step-by-step illustrations of how to solve a task, but notes that learners benefit when they self-explain the procedures and principles rather than merely inspect them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tll.mit.edu/teaching-resources/how-people-learn/worked-examples/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tll.mit.edu">[Teaching + Learning Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tll.mit.edu</span><span class="citation-popover-title">Teaching + Learning Lab Worked Examples &#124; Teaching + Learning Lab</span><span class="citation-popover-snippet">Teaching + Learning LabWorked Examples &#124; Teaching + Learning Lab - MITWorked examples are step-by-step illustrations of the process requi...</span></span></span>
 
 A spaced session can turn that into a diagnostic exercise. Instead of rereading the example, the learner tries to rebuild the explanation:
 
@@ -316,7 +316,7 @@ A spaced session can turn that into a diagnostic exercise. Instead of rereading 
 
 The failed answer is the important part. If the learner remembers the calculation but not the condition under which it is valid, the weak link is conceptual. If they remember the conclusion but not the evidence, the weak link is evidential. If they remember each step separately but cannot explain why the steps occur in that order, the weak link is procedural structure.
 
-Self-explanation research is relevant here because it shows why simply seeing a correct solution is not enough. Reviews of worked-example research report that examples are most useful when learners actively explain the rationale behind solution steps, connect them to principles, and resolve mismatches between their own understanding and the expert model.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assess.ucr.edu/sites/default/files/2019-02/atkinsonderryrenklwortham_2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assess.ucr.edu">[Evaluation and Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assess.ucr.edu</span><span class="citation-popover-snippet">Open source on ucr.edu.</span></span></span>
+Self-explanation research is relevant here because it shows why simply seeing a correct solution is not enough. Reviews of worked-example research report that examples are most useful when learners actively explain the rationale behind solution steps, connect them to principles, and resolve mismatches between their own understanding and the expert model. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assess.ucr.edu/sites/default/files/2019-02/atkinsonderryrenklwortham_2000.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assess.ucr.edu">[Evaluation and Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assess.ucr.edu</span><span class="citation-popover-snippet">Open source on ucr.edu.</span></span></span>
 
 The same logic applies outside maths and science. In critical reading, the weak link might be a missing warrant between evidence and claim. In decision-making, it might be an unstated assumption about incentives or [probabilities]({{ 'probabilities/' | relative_url }}). In philosophy or law, it might be a definition that changes the whole argument. Forgetting exposes these points because the learner can no longer glide along on the surface of the original explanation.
 
@@ -324,9 +324,9 @@ The same logic applies outside maths and science. In critical reading, the weak 
 <img src="{{ "/assets/images/improving_your_think_da4710_distributed_practice_4a249b_forgetting_weak_link_ba522e-Illustration-2-dark.svg" | relative_url }}" alt="Weak links illustration 2" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_distributed_practice_4a249b_forgetting_weak_link_ba522e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_distributed_practice_4a249b_forgetting_weak_link_ba522e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Mistakes become review targets, not signs to stop
 
-A failed retrieval attempt is not wasted. Studies on pretesting and unsuccessful retrieval suggest that trying to answer before seeing feedback can improve later learning, especially when corrective feedback follows. Kornell, Hays and Bjork found that unsuccessful retrieval attempts could enhance subsequent learning, and later reviews describe errorful generation as useful when it prepares the learner to process the correction more deeply.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/26655655_Unsuccessful_Retrieval_Attempts_Enhance_Subsequent_Learning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Unsuccessful Retrieval Attempts Enhance Subsequent</span><span class="citation-popover-snippet">Research Gate Unsuccessful Retrieval Attempts Enhance Subsequent</span></span></span>
+A failed retrieval attempt is not wasted. Studies on pretesting and unsuccessful retrieval suggest that trying to answer before seeing feedback can improve later learning, especially when corrective feedback follows. Kornell, Hays and Bjork found that unsuccessful retrieval attempts could enhance subsequent learning, and later reviews describe errorful generation as useful when it prepares the learner to process the correction more deeply. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/26655655_Unsuccessful_Retrieval_Attempts_Enhance_Subsequent_Learning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Unsuccessful Retrieval Attempts Enhance Subsequent</span><span class="citation-popover-snippet">Research Gate Unsuccessful Retrieval Attempts Enhance Subsequent</span></span></span>
 
-That does not mean errors are automatically good. They become useful when the learner checks them, explains them and updates the next practice target. A wrong answer left uncorrected can strengthen confusion; a wrong answer followed by clear feedback can mark the boundary between what seemed known and what was actually usable. Recent work on the pretesting effect also emphasises the role of feedback timing, finding benefits for pretesting compared with read-only learning while showing that feedback conditions matter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofcognition.org/articles/455/files/687f6aa6dcf5d.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofcognition.org">[Journal of Cognition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofcognition.org</span><span class="citation-popover-title">Journal of Cognition Exploring the Impact of Feedback and Final Test Timing</span><span class="citation-popover-snippet">Journal of Cognition Exploring the Impact of Feedback and Final Test Timing</span></span></span>
+That does not mean errors are automatically good. They become useful when the learner checks them, explains them and updates the next practice target. A wrong answer left uncorrected can strengthen confusion; a wrong answer followed by clear feedback can mark the boundary between what seemed known and what was actually usable. Recent work on the pretesting effect also emphasises the role of feedback timing, finding benefits for pretesting compared with read-only learning while showing that feedback conditions matter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofcognition.org/articles/455/files/687f6aa6dcf5d.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofcognition.org">[Journal of Cognition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofcognition.org</span><span class="citation-popover-title">Journal of Cognition Exploring the Impact of Feedback and Final Test Timing</span><span class="citation-popover-snippet">Journal of Cognition Exploring the Impact of Feedback and Final Test Timing</span></span></span>
 
 A good spaced review therefore treats mistakes as data. The learner should record not just “wrong”, but the type of failure:
 
@@ -371,178 +371,178 @@ This is why forgetting belongs inside a strategy for improving thinking rather t
 <img src="{{ "/assets/images/improving_your_think_da4710_distributed_practice_4a249b_forgetting_weak_link_ba522e-Illustration-3-dark.svg" | relative_url }}" alt="Weak links illustration 3" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_distributed_practice_4a249b_forgetting_weak_link_ba522e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_distributed_practice_4a249b_forgetting_weak_link_ba522e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Let forgetting show what needs repair. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Let forgetting show what needs repair. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oneWAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-</h4>
-<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+We+Learn+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How We Learn on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=R9C2DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How We Learn" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=How+We+Learn+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How We Learn">How We Learn</a>
+        </h4>
+        <p class="fr-book-author">By Stanislas Dehaene</p>
         
-<p class="fr-book-desc">Explains retrieval practice, spaced learning, desirable difficulties, and using forgetting to strengthen memory.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Covers spacing, forgetting, retrieval, and practical methods for improving long-term learning.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=How+We+Learn+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+We+Learn+by+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How We Learn on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=opCLDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How We Learn" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=How+We+Learn+by+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How We Learn">How We Learn</a>
-</h4>
-<p class="fr-book-author">By Benedict Carey</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oneWAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+        </h4>
+        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-<p class="fr-book-desc">Covers spacing, forgetting, retrieval, and practical methods for improving long-term learning.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=How+We+Learn+by+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains retrieval practice, spaced learning, desirable difficulties, and using forgetting to strengthen memory.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Small+Teaching+by+James+M.+Lang&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Small Teaching on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qupRCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Small Teaching" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Small+Teaching+by+James+M.+Lang&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Small Teaching">Small Teaching</a>
-</h4>
-<p class="fr-book-author">By James M. Lang</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Small+Teaching+James+M.+Lang&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Small Teaching on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RESXCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Small Teaching" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Small+Teaching+James+M.+Lang&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Small Teaching">Small Teaching</a>
+        </h4>
+        <p class="fr-book-author">By James M. Lang</p>
         
-<p class="fr-book-desc">Shows how retrieval, feedback, and incremental review expose weak understanding and improve retention.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Small+Teaching+by+James+M.+Lang&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Shows how retrieval, feedback, and incremental review expose weak understanding and improve retention.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Small+Teaching+James+M.+Lang&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ultralearning+by+Scott+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ultralearning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d0IdvgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ultralearning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ultralearning">Ultralearning</a>
-</h4>
-<p class="fr-book-author">By Scott Young</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ultralearning+Scott+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ultralearning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d0IdvgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ultralearning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ultralearning+Scott+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ultralearning">Ultralearning</a>
+        </h4>
+        <p class="fr-book-author">By Scott Young</p>
         
-<p class="fr-book-desc">Emphasizes active recall, feedback, and identifying weaknesses through challenging practice.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+Young&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Emphasizes active recall, feedback, and identifying weaknesses through challenging practice.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ultralearning+Scott+Young&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+We+Learn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How We Learn</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Small+Teaching&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Small Teaching</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+We+Learn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How We Learn</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Small+Teaching&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Small Teaching</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=let+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-forgetting-show-what-needs-repair-let-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="let poster -book -books -dvd" data-ebay-reference="let-forgetting-show-what-needs-repair-let-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office"><img src="https://i.ebayimg.com/images/g/r8MAAeSwUlNpD6OT/s-l225.jpg" alt="Listing image for Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=let+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-forgetting-show-what-needs-repair-let-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="let poster -book -books -dvd" data-ebay-reference="let-forgetting-show-what-needs-repair-let-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=let+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-forgetting-show-what-needs-repair-let-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="let poster -book -books -dvd" data-ebay-reference="let-forgetting-show-what-needs-repair-let-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for let poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: let poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=let+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-forgetting-show-what-needs-repair-let-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="let poster -book -books -dvd" data-ebay-reference="let-forgetting-show-what-needs-repair-let-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=let+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-forgetting-show-what-needs-repair-let-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="let poster -book -books -dvd" data-ebay-reference="let-forgetting-show-what-needs-repair-let-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office"><img src="https://i.ebayimg.com/images/g/r8MAAeSwUlNpD6OT/s-l225.jpg" alt="Listing image for Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=let+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-forgetting-show-what-needs-repair-let-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="let poster -book -books -dvd" data-ebay-reference="let-forgetting-show-what-needs-repair-let-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=let+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-forgetting-show-what-needs-repair-let-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="let poster -book -books -dvd" data-ebay-reference="let-forgetting-show-what-needs-repair-let-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for let poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: let poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=let+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-forgetting-show-what-needs-repair-let-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="let poster -book -books -dvd" data-ebay-reference="let-forgetting-show-what-needs-repair-let-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=let+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-forgetting-show-what-needs-repair-let-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="let poster -book -books -dvd" data-ebay-reference="let-forgetting-show-what-needs-repair-let-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for All Marvel Movie Series Posters Classic Wall Art Retro Picture Print Room Decor"><img src="https://i.ebayimg.com/images/g/1aEAAeSwn41o-lRz/s-l225.jpg" alt="Listing image for All Marvel Movie Series Posters Classic Wall Art Retro Picture Print Room Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=let+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-forgetting-show-what-needs-repair-let-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="let poster -book -books -dvd" data-ebay-reference="let-forgetting-show-what-needs-repair-let-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">All Marvel Movie Series Posters Classic Wall Art Retro Picture Print Room Decor</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=let+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-forgetting-show-what-needs-repair-let-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="let poster -book -books -dvd" data-ebay-reference="let-forgetting-show-what-needs-repair-let-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for let poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: let poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=let+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-forgetting-show-what-needs-repair-let-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="let poster -book -books -dvd" data-ebay-reference="let-forgetting-show-what-needs-repair-let-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=let+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-forgetting-show-what-needs-repair-let-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="let poster -book -books -dvd" data-ebay-reference="let-forgetting-show-what-needs-repair-let-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for All Marvel Movie Series Posters Classic Wall Art Retro Picture Print Room Decor"><img src="https://i.ebayimg.com/images/g/1aEAAeSwn41o-lRz/s-l225.jpg" alt="Listing image for All Marvel Movie Series Posters Classic Wall Art Retro Picture Print Room Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=let+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-forgetting-show-what-needs-repair-let-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="let poster -book -books -dvd" data-ebay-reference="let-forgetting-show-what-needs-repair-let-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">All Marvel Movie Series Posters Classic Wall Art Retro Picture Print Room Decor</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=let+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-forgetting-show-what-needs-repair-let-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="let poster -book -books -dvd" data-ebay-reference="let-forgetting-show-what-needs-repair-let-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for let poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: let poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=let+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-forgetting-show-what-needs-repair-let-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="let poster -book -books -dvd" data-ebay-reference="let-forgetting-show-what-needs-repair-let-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=let+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-forgetting-show-what-needs-repair-let-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="let poster -book -books -dvd" data-ebay-reference="let-forgetting-show-what-needs-repair-let-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Prints Poster - Inspiring Funny Home Decor &amp; Wall Hangings A4 A3"><img src="https://i.ebayimg.com/images/g/FmQAAOSwq1dlCUBj/s-l225.jpg" alt="Listing image for Motivational Prints Poster - Inspiring Funny Home Decor &amp; Wall Hangings A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=let+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-forgetting-show-what-needs-repair-let-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="let poster -book -books -dvd" data-ebay-reference="let-forgetting-show-what-needs-repair-let-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Motivational Prints Poster - Inspiring Funny Home Decor &amp; Wall Hangings A4 A3</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=let+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-forgetting-show-what-needs-repair-let-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="let poster -book -books -dvd" data-ebay-reference="let-forgetting-show-what-needs-repair-let-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for let poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: let poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=let+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-forgetting-show-what-needs-repair-let-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="let poster -book -books -dvd" data-ebay-reference="let-forgetting-show-what-needs-repair-let-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=let+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-forgetting-show-what-needs-repair-let-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="let poster -book -books -dvd" data-ebay-reference="let-forgetting-show-what-needs-repair-let-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=let+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-forgetting-show-what-needs-repair-let-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="let poster -book -books -dvd" data-ebay-reference="let-forgetting-show-what-needs-repair-let-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Prints Poster - Inspiring Funny Home Decor &amp; Wall Hangings A4 A3"><img src="https://i.ebayimg.com/images/g/FmQAAOSwq1dlCUBj/s-l225.jpg" alt="Listing image for Motivational Prints Poster - Inspiring Funny Home Decor &amp; Wall Hangings A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=let+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-forgetting-show-what-needs-repair-let-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="let poster -book -books -dvd" data-ebay-reference="let-forgetting-show-what-needs-repair-let-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Motivational Prints Poster - Inspiring Funny Home Decor &amp; Wall Hangings A4 A3</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=let+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-forgetting-show-what-needs-repair-let-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="let poster -book -books -dvd" data-ebay-reference="let-forgetting-show-what-needs-repair-let-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for let poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: let poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=let+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-forgetting-show-what-needs-repair-let-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="let poster -book -books -dvd" data-ebay-reference="let-forgetting-show-what-needs-repair-let-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=let+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-forgetting-show-what-needs-repair-let-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="let poster -book -books -dvd" data-ebay-reference="let-forgetting-show-what-needs-repair-let-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -558,7 +558,7 @@ This is why forgetting belongs inside a strategy for improving thinking rather t
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -578,7 +578,7 @@ This is why forgetting belongs inside a strategy for improving thinking rather t
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -610,7 +610,7 @@ This is why forgetting belongs inside a strategy for improving thinking rather t
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -662,7 +662,7 @@ This is why forgetting belongs inside a strategy for improving thinking rather t
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -707,7 +707,7 @@ This is why forgetting belongs inside a strategy for improving thinking rather t
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -747,139 +747,139 @@ This is why forgetting belongs inside a strategy for improving thinking rather t
 </section>
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: mdpi.com  
-   Link:<a href="https://www.mdpi.com/2079-3200/10/4/101" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2079-3200/10/4/101</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>When Memory and Metamemory Align: How Processes at...by GI Hughes · 2022 · Cited by 6 — Judgments of learning are most accurate when...</p></details>
+   Link: <a href="https://www.mdpi.com/2079-3200/10/4/101" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2079-3200/10/4/101</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>When Memory and Metamemory Align: How Processes at...by GI Hughes · 2022 · Cited by 6 — Judgments of learning are most accurate when...</p></details>
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: tll.mit.edu  
    Title: Teaching + Learning Lab Worked Examples | Teaching + Learning Lab  
-   Link:<a href="https://tll.mit.edu/teaching-resources/how-people-learn/worked-examples/" target="_blank" rel="noopener noreferrer nofollow">https://tll.mit.edu/teaching-resources/how-people-learn/worked-examples/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Teaching + Learning LabWorked Examples | Teaching + Learning Lab - MITWorked examples are step-by-step illustrations of the process requi...</p></details>
+   Link: <a href="https://tll.mit.edu/teaching-resources/how-people-learn/worked-examples/" target="_blank" rel="noopener noreferrer nofollow">https://tll.mit.edu/teaching-resources/how-people-learn/worked-examples/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Teaching + Learning LabWorked Examples | Teaching + Learning Lab - MITWorked examples are step-by-step illustrations of the process requi...</p></details>
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/profile/Alexander_Renkl/publication/250616461_Learning_by_Solved_Example_Problems_Instructional_Explanations_Reduce_Self-Explanation_Activity/links/0c96053bbcc1c68e1b000000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Alexander_Renkl/publication/250616461_Learning_by_Solved_Example_Problems_Instructional_Explanations_Reduce_Self-Explanation_Activity/links/0c96053bbcc1c68e1b000000.pdf</a>  
+   Link: <a href="https://www.researchgate.net/profile/Alexander_Renkl/publication/250616461_Learning_by_Solved_Example_Problems_Instructional_Explanations_Reduce_Self-Explanation_Activity/links/0c96053bbcc1c68e1b000000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Alexander_Renkl/publication/250616461_Learning_by_Solved_Example_Problems_Instructional_Explanations_Reduce_Self-Explanation_Activity/links/0c96053bbcc1c68e1b000000.pdf</a>  
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: researchgate.net  
    Title: Research Gate Unsuccessful Retrieval Attempts Enhance Subsequent  
-   Link:<a href="https://www.researchgate.net/publication/26655655_Unsuccessful_Retrieval_Attempts_Enhance_Subsequent_Learning" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/26655655_Unsuccessful_Retrieval_Attempts_Enhance_Subsequent_Learning</a>  
+   Link: <a href="https://www.researchgate.net/publication/26655655_Unsuccessful_Retrieval_Attempts_Enhance_Subsequent_Learning" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/26655655_Unsuccessful_Retrieval_Attempts_Enhance_Subsequent_Learning</a>  
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/284097727_Making_things_hard_on_yourself_but_in_a_good_way_Creating_desirable_difficulties_to_enhance_learning" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/284097727_Making_things_hard_on_yourself_but_in_a_good_way_Creating_desirable_difficulties_to_enhance_learning</a>  
+   Link: <a href="https://www.researchgate.net/publication/284097727_Making_things_hard_on_yourself_but_in_a_good_way_Creating_desirable_difficulties_to_enhance_learning" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/284097727_Making_things_hard_on_yourself_but_in_a_good_way_Creating_desirable_difficulties_to_enhance_learning</a>  
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/383111781_Responsible_remembering_The_role_of_metacognition_forgetting_attention_and_retrieval_in_adaptive_memory" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/383111781_Responsible_remembering_The_role_of_metacognition_forgetting_attention_and_retrieval_in_adaptive_memory</a>  
+   Link: <a href="https://www.researchgate.net/publication/383111781_Responsible_remembering_The_role_of_metacognition_forgetting_attention_and_retrieval_in_adaptive_memory" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/383111781_Responsible_remembering_The_role_of_metacognition_forgetting_attention_and_retrieval_in_adaptive_memory</a>  
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/24268097_Metacognitive_strategies_in_student_learning_Do_students_practise_retrieval_when_they_study_on_their_own" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/24268097_Metacognitive_strategies_in_student_learning_Do_students_practise_retrieval_when_they_study_on_their_own</a>  
+   Link: <a href="https://www.researchgate.net/publication/24268097_Metacognitive_strategies_in_student_learning_Do_students_practise_retrieval_when_they_study_on_their_own" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/24268097_Metacognitive_strategies_in_student_learning_Do_students_practise_retrieval_when_they_study_on_their_own</a>  
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: youtube.com  
    Title: robert bjork  
-   Link:<a href="https://www.youtube.com/watch?v=1FQoGUCgb5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1FQoGUCgb5w</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Bjork Learning and Forgetting Lab...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=1FQoGUCgb5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1FQoGUCgb5w</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bjork Learning and Forgetting Lab...</p></details>
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: bjorklab.psych.ucla.edu  
-   Link:<a href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/04/EBjork_RBjork_2011.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/04/EBjork_RBjork_2011.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Bjork Learning and Forgetting LabCreating Desirable Difficulties to Enhance LearningDecember 17, 2010 — by EL Bjork · Cited by 2237 — At...</p></details>
+   Link: <a href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/04/EBjork_RBjork_2011.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/04/EBjork_RBjork_2011.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bjork Learning and Forgetting LabCreating Desirable Difficulties to Enhance LearningDecember 17, 2010 — by EL Bjork · Cited by 2237 — At...</p></details>
    Published: December 17, 2010  
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: pdf.retrievalpractice.org  
-   Link:<a href="https://pdf.retrievalpractice.org/RetrievalPracticeGuide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pdf.retrievalpractice.org/RetrievalPracticeGuide.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>PDF Retrieval PracticeHOW TO USE RETRIEVAL PRACTICE TO IMPROVE...by PK Agarwal · 2020 · Cited by 93 — As an additional benefit, retrieva...</p></details>
+   Link: <a href="https://pdf.retrievalpractice.org/RetrievalPracticeGuide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pdf.retrievalpractice.org/RetrievalPracticeGuide.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>PDF Retrieval PracticeHOW TO USE RETRIEVAL PRACTICE TO IMPROVE...by PK Agarwal · 2020 · Cited by 93 — As an additional benefit, retrieva...</p></details>
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: pdf.retrievalpractice.org  
    Title: 5 Metcalfe Finn 2008  
-   Link:<a href="https://pdf.retrievalpractice.org/metacognition/5_Metcalfe_Finn_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pdf.retrievalpractice.org/metacognition/5_Metcalfe_Finn_2008.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Dunlosky (1991) said, “The accuracy of JOLs (judgments of learning) is critical because if the JOLs are inaccurate, the allocation of su...</p></details>
+   Link: <a href="https://pdf.retrievalpractice.org/metacognition/5_Metcalfe_Finn_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pdf.retrievalpractice.org/metacognition/5_Metcalfe_Finn_2008.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dunlosky (1991) said, “The accuracy of JOLs (judgments of learning) is critical because if the JOLs are inaccurate, the allocation of su...</p></details>
 
-12.<a id="endnote-12"></a>
+12. <a id="endnote-12"></a>
    Source: assess.ucr.edu  
-   Link:<a href="https://assess.ucr.edu/sites/default/files/2019-02/atkinsonderryrenklwortham_2000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assess.ucr.edu/sites/default/files/2019-02/atkinsonderryrenklwortham_2000.pdf</a>  
+   Link: <a href="https://assess.ucr.edu/sites/default/files/2019-02/atkinsonderryrenklwortham_2000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assess.ucr.edu/sites/default/files/2019-02/atkinsonderryrenklwortham_2000.pdf</a>  
 
-13.<a id="endnote-13"></a>
+13. <a id="endnote-13"></a>
    Source: journalofcognition.org  
    Title: Journal of Cognition Exploring the Impact of Feedback and Final Test Timing  
-   Link:<a href="https://journalofcognition.org/articles/455/files/687f6aa6dcf5d.pdf" target="_blank" rel="noopener noreferrer nofollow">https://journalofcognition.org/articles/455/files/687f6aa6dcf5d.pdf</a>  
+   Link: <a href="https://journalofcognition.org/articles/455/files/687f6aa6dcf5d.pdf" target="_blank" rel="noopener noreferrer nofollow">https://journalofcognition.org/articles/455/files/687f6aa6dcf5d.pdf</a>  
 
-14.<a id="endnote-14"></a>
+14. <a id="endnote-14"></a>
    Source: bjorklab.psych.ucla.edu  
-   Link:<a href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/11/RABjork_JacobyFestschriftChapterFigsEmbedded052014.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/11/RABjork_JacobyFestschriftChapterFigsEmbedded052014.pdf</a>  
+   Link: <a href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/11/RABjork_JacobyFestschriftChapterFigsEmbedded052014.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/11/RABjork_JacobyFestschriftChapterFigsEmbedded052014.pdf</a>  
 
-15.<a id="endnote-15"></a>
+15. <a id="endnote-15"></a>
    Source: bjorklab.psych.ucla.edu  
    Title: Koriat Bjork 2006 JEP LMC  
-   Link:<a href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Koriat_Bjork_2006_JEP-LMC.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Koriat_Bjork_2006_JEP-LMC.pdf</a>  
+   Link: <a href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Koriat_Bjork_2006_JEP-LMC.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Koriat_Bjork_2006_JEP-LMC.pdf</a>  
 
-16.<a id="endnote-16"></a>
+16. <a id="endnote-16"></a>
    Source: learninglab.uchicago.edu  
    Title: Richland Kornell Kao  
-   Link:<a href="https://learninglab.uchicago.edu/Pre-Testing_files/RichlandKornellKao.pdf" target="_blank" rel="noopener noreferrer nofollow">https://learninglab.uchicago.edu/Pre-Testing_files/RichlandKornellKao.pdf</a>  
+   Link: <a href="https://learninglab.uchicago.edu/Pre-Testing_files/RichlandKornellKao.pdf" target="_blank" rel="noopener noreferrer nofollow">https://learninglab.uchicago.edu/Pre-Testing_files/RichlandKornellKao.pdf</a>  
 
-17.<a id="endnote-17"></a>
+17. <a id="endnote-17"></a>
    Source: sheffieldscitt.org.uk  
    Title: retrieval practice  
-   Link:<a href="https://www.sheffieldscitt.org.uk/research/retrieval-practice" target="_blank" rel="noopener noreferrer nofollow">https://www.sheffieldscitt.org.uk/research/retrieval-practice</a>  
+   Link: <a href="https://www.sheffieldscitt.org.uk/research/retrieval-practice" target="_blank" rel="noopener noreferrer nofollow">https://www.sheffieldscitt.org.uk/research/retrieval-practice</a>  
 
-18.<a id="endnote-18"></a>
+18. <a id="endnote-18"></a>
    Source: learninglab.psych.purdue.edu  
    Title: 2009 Karpicke JEPGeneral  
-   Link:<a href="https://learninglab.psych.purdue.edu/downloads/2009/2009_Karpicke_JEPGeneral.pdf" target="_blank" rel="noopener noreferrer nofollow">https://learninglab.psych.purdue.edu/downloads/2009/2009_Karpicke_JEPGeneral.pdf</a>  
+   Link: <a href="https://learninglab.psych.purdue.edu/downloads/2009/2009_Karpicke_JEPGeneral.pdf" target="_blank" rel="noopener noreferrer nofollow">https://learninglab.psych.purdue.edu/downloads/2009/2009_Karpicke_JEPGeneral.pdf</a>  
 
-19.<a id="endnote-19"></a>
+19. <a id="endnote-19"></a>
    Source: learninglab.psych.purdue.edu  
    Title: 2009 Karpicke Butler Roediger  
-   Link:<a href="https://learninglab.psych.purdue.edu/downloads/2009/2009_Karpicke_Butler_Roediger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://learninglab.psych.purdue.edu/downloads/2009/2009_Karpicke_Butler_Roediger.pdf</a>  
+   Link: <a href="https://learninglab.psych.purdue.edu/downloads/2009/2009_Karpicke_Butler_Roediger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://learninglab.psych.purdue.edu/downloads/2009/2009_Karpicke_Butler_Roediger.pdf</a>  
 
 ### Additional References
 
-20.<a id="endnote-20"></a>
+20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link:<a href="https://www.youtube.com/watch?v=gkJz0PpvGf4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gkJz0PpvGf4</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Desirable Difficulties: If Studying Feels Easy, You&#x27;re Doing It Wrong...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=gkJz0PpvGf4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gkJz0PpvGf4</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Desirable Difficulties: If Studying Feels Easy, You&#x27;re Doing It Wrong...</p></details>
 
-21.<a id="endnote-21"></a>
+21. <a id="endnote-21"></a>
    Source: columbia.edu  
-   Link:<a href="https://www.columbia.edu/cu/psychology/metcalfe/PDFs/Metcalfe-BjorkVolSubmitFeb14Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.columbia.edu/cu/psychology/metcalfe/PDFs/Metcalfe-BjorkVolSubmitFeb14Final.pdf</a>  
+   Link: <a href="https://www.columbia.edu/cu/psychology/metcalfe/PDFs/Metcalfe-BjorkVolSubmitFeb14Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.columbia.edu/cu/psychology/metcalfe/PDFs/Metcalfe-BjorkVolSubmitFeb14Final.pdf</a>  
 
-22.<a id="endnote-22"></a>
+22. <a id="endnote-22"></a>
    Source: waddesdonschool.com  
-   Link:<a href="https://www.waddesdonschool.com/wp-content/uploads/2021/02/Desriable-Difficulties-in-theory-and-practice-Bjork-Bjork-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.waddesdonschool.com/wp-content/uploads/2021/02/Desriable-Difficulties-in-theory-and-practice-Bjork-Bjork-2020.pdf</a>  
+   Link: <a href="https://www.waddesdonschool.com/wp-content/uploads/2021/02/Desriable-Difficulties-in-theory-and-practice-Bjork-Bjork-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.waddesdonschool.com/wp-content/uploads/2021/02/Desriable-Difficulties-in-theory-and-practice-Bjork-Bjork-2020.pdf</a>  
 
-23.<a id="endnote-23"></a>
+23. <a id="endnote-23"></a>
    Source: mrbartonmaths.com  
-   Link:<a href="https://mrbartonmaths.com/resourcesnew/8.%20Research/Explicit%20Instruction/Worked%20examples%20with%20mistakes.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mrbartonmaths.com/resourcesnew/8.%20Research/Explicit%20Instruction/Worked%20examples%20with%20mistakes.pdf</a>  
+   Link: <a href="https://mrbartonmaths.com/resourcesnew/8.%20Research/Explicit%20Instruction/Worked%20examples%20with%20mistakes.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mrbartonmaths.com/resourcesnew/8.%20Research/Explicit%20Instruction/Worked%20examples%20with%20mistakes.pdf</a>  
 
-24.<a id="endnote-24"></a>
+24. <a id="endnote-24"></a>
    Source: thirdspacelearning.com  
-   Link:<a href="https://thirdspacelearning.com/blog/retrieval-practice/" target="_blank" rel="noopener noreferrer nofollow">https://thirdspacelearning.com/blog/retrieval-practice/</a>  
+   Link: <a href="https://thirdspacelearning.com/blog/retrieval-practice/" target="_blank" rel="noopener noreferrer nofollow">https://thirdspacelearning.com/blog/retrieval-practice/</a>  
 
-25.<a id="endnote-25"></a>
+25. <a id="endnote-25"></a>
    Source: nko.nl  
-   Link:<a href="https://www.nko.nl/sites/nro/files/migrate/411-10-910-010-Proefschrift_Reijners.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nko.nl/sites/nro/files/migrate/411-10-910-010-Proefschrift_Reijners.pdf</a>  
+   Link: <a href="https://www.nko.nl/sites/nro/files/migrate/411-10-910-010-Proefschrift_Reijners.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nko.nl/sites/nro/files/migrate/411-10-910-010-Proefschrift_Reijners.pdf</a>  
 
-26.<a id="endnote-26"></a>
+26. <a id="endnote-26"></a>
    Source: teachertoolkit.co.uk  
-   Link:<a href="https://www.teachertoolkit.co.uk/wp-content/uploads/2024/10/2009-14440-005.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.teachertoolkit.co.uk/wp-content/uploads/2024/10/2009-14440-005.pdf</a>  
+   Link: <a href="https://www.teachertoolkit.co.uk/wp-content/uploads/2024/10/2009-14440-005.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.teachertoolkit.co.uk/wp-content/uploads/2024/10/2009-14440-005.pdf</a>  
 
-27.<a id="endnote-27"></a>
+27. <a id="endnote-27"></a>
    Source: documents.manchester.ac.uk  
-   Link:<a href="https://documents.manchester.ac.uk/display.aspx?DocID=54513" target="_blank" rel="noopener noreferrer nofollow">https://documents.manchester.ac.uk/display.aspx?DocID=54513</a>  
+   Link: <a href="https://documents.manchester.ac.uk/display.aspx?DocID=54513" target="_blank" rel="noopener noreferrer nofollow">https://documents.manchester.ac.uk/display.aspx?DocID=54513</a>  
 
-28.<a id="endnote-28"></a>
+28. <a id="endnote-28"></a>
    Source: osf.io  
-   Link:<a href="https://osf.io/download/un87v" target="_blank" rel="noopener noreferrer nofollow">https://osf.io/download/un87v</a>  
+   Link: <a href="https://osf.io/download/un87v" target="_blank" rel="noopener noreferrer nofollow">https://osf.io/download/un87v</a>  
 
-29.<a id="endnote-29"></a>
+29. <a id="endnote-29"></a>
    Source: my.chartered.college  
    Title: does question difficulty impact the effect of retrieval [practice testing](&#123;&#123; 'practice-tests/' | relative_url &#125;&#125;) effect  
-   Link:<a href="https://my.chartered.college/impact_article/does-question-difficulty-impact-the-effect-of-retrieval-practice-testing-effect/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/does-question-difficulty-impact-the-effect-of-retrieval-practice-testing-effect/</a>  
+   Link: <a href="https://my.chartered.college/impact_article/does-question-difficulty-impact-the-effect-of-retrieval-practice-testing-effect/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/does-question-difficulty-impact-the-effect-of-retrieval-practice-testing-effect/</a>  

@@ -280,7 +280,7 @@ image: /assets/images/improving_your_think_da4710_familiarity_trap_82f724_reread
 
 ## Introduction
 
-Rereading feels productive because it makes information easier to process. Sentences become familiar, key terms seem obvious, and the overall structure no longer feels confusing. That improvement in ease is real, but it is not the same as durable learning. The critical question is not whether material looks familiar while it is in front of you, but whether you can recall, explain, or apply it after the page has been closed. Cognitive psychology consistently shows that people often mistake this growing sense of fluency for genuine understanding, leading them to stop studying before knowledge is stable enough to use independently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://learninglab.psych.purdue.edu/downloads/2009/2009_Karpicke_Butler_Roediger.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learninglab.psych.purdue.edu">[Cognition and Learning Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learninglab.psych.purdue.edu</span><span class="citation-popover-title">2009 Karpicke Butler Roediger</span><span class="citation-popover-snippet">Cognition and Learning LabDo students practise retrieval when they study on their own?1 May 2009 — We propose that many students experien...</span><span class="citation-popover-meta">Published: May 2009</span></span></span>
+Rereading feels productive because it makes information easier to process. Sentences become familiar, key terms seem obvious, and the overall structure no longer feels confusing. That improvement in ease is real, but it is not the same as durable learning. The critical question is not whether material looks familiar while it is in front of you, but whether you can recall, explain, or apply it after the page has been closed. Cognitive psychology consistently shows that people often mistake this growing sense of fluency for genuine understanding, leading them to stop studying before knowledge is stable enough to use independently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://learninglab.psych.purdue.edu/downloads/2009/2009_Karpicke_Butler_Roediger.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learninglab.psych.purdue.edu">[Cognition and Learning Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learninglab.psych.purdue.edu</span><span class="citation-popover-title">2009 Karpicke Butler Roediger</span><span class="citation-popover-snippet">Cognition and Learning LabDo students practise retrieval when they study on their own?1 May 2009 — We propose that many students experien...</span><span class="citation-popover-meta">Published: May 2009</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_familiarity_trap_82f724_rereading_fluency_tr_bb372f-Illustration-1-dark.svg" | relative_url }}" alt="Rereading Trap illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_familiarity_trap_82f724_rereading_fluency_tr_bb372f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_familiarity_trap_82f724_rereading_fluency_tr_bb372f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,9 +288,9 @@ Rereading feels productive because it makes information easier to process. Sente
 
 Rereading changes the experience of reading. On the second or third pass, words are recognised more quickly, transitions seem smoother, and arguments appear easier to follow. The brain naturally interprets this effortless processing as evidence that learning has occurred.
 
-The problem is that the page is still doing much of the work. The original wording, sequence, headings and examples remain visible, so recognition replaces reconstruction. You are not necessarily retrieving ideas from memory; you are responding to cues that are already present. Once those cues disappear, performance often falls much more than confidence predicted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/04/EBjork_RBjork_2011.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bjorklab.psych.ucla.edu">[Bjork Learning and Forgetting Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bjorklab.psych.ucla.edu</span><span class="citation-popover-title">EBjork RBjork 2011</span><span class="citation-popover-snippet">Bjork Learning and Forgetting LabCreating Desirable Difficulties to Enhance Learningby EL Bjork · Cited by 2237 — At a theoretical level...</span></span></span>
+The problem is that the page is still doing much of the work. The original wording, sequence, headings and examples remain visible, so recognition replaces reconstruction. You are not necessarily retrieving ideas from memory; you are responding to cues that are already present. Once those cues disappear, performance often falls much more than confidence predicted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/04/EBjork_RBjork_2011.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bjorklab.psych.ucla.edu">[Bjork Learning and Forgetting Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bjorklab.psych.ucla.edu</span><span class="citation-popover-title">EBjork RBjork 2011</span><span class="citation-popover-snippet">Bjork Learning and Forgetting LabCreating Desirable Difficulties to Enhance Learningby EL Bjork · Cited by 2237 — At a theoretical level...</span></span></span>
 
-Researchers describe this as an *illusion of competence*. Surveys of students repeatedly find that rereading is one of the most popular study strategies even though relatively few learners regularly test themselves. Because rereading feels smooth, learners often conclude that it is effective and continue choosing it over methods that produce stronger long-term retention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://learninglab.psych.purdue.edu/downloads/2009/2009_Karpicke_Butler_Roediger.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learninglab.psych.purdue.edu">[Cognition and Learning Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learninglab.psych.purdue.edu</span><span class="citation-popover-title">2009 Karpicke Butler Roediger</span><span class="citation-popover-snippet">Cognition and Learning LabDo students practise retrieval when they study on their own?1 May 2009 — We propose that many students experien...</span><span class="citation-popover-meta">Published: May 2009</span></span></span>
+Researchers describe this as an *illusion of competence*. Surveys of students repeatedly find that rereading is one of the most popular study strategies even though relatively few learners regularly test themselves. Because rereading feels smooth, learners often conclude that it is effective and continue choosing it over methods that produce stronger long-term retention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://learninglab.psych.purdue.edu/downloads/2009/2009_Karpicke_Butler_Roediger.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learninglab.psych.purdue.edu">[Cognition and Learning Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learninglab.psych.purdue.edu</span><span class="citation-popover-title">2009 Karpicke Butler Roediger</span><span class="citation-popover-snippet">Cognition and Learning LabDo students practise retrieval when they study on their own?1 May 2009 — We propose that many students experien...</span><span class="citation-popover-meta">Published: May 2009</span></span></span>
 
 This illusion becomes especially misleading in analytical work. Reading the same explanation several times can create the impression that you understand an argument, causal mechanism or mathematical proof. Yet when asked to reproduce the reasoning without the original text, many of the crucial steps are missing.
 
@@ -323,9 +323,9 @@ What it **cannot** reliably prove is that you can:
 
 This distinction explains why students sometimes leave a study session feeling highly confident yet struggle in an exam or discussion. Recognition during review is a much easier task than independent [retrieval]({{ 'retrieval/' | relative_url }}).
 
-Classic experiments comparing repeated study with retrieval practice illustrate this difference. Learners who repeatedly reread material often perform well immediately afterwards because the material remains highly accessible. However, after a delay, participants who spent more time actively retrieving information generally retain substantially more than those who relied mainly on restudying.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Testing_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Testing effect</span><span class="citation-popover-snippet">Testing effect</span></span></span>
+Classic experiments comparing repeated study with retrieval practice illustrate this difference. Learners who repeatedly reread material often perform well immediately afterwards because the material remains highly accessible. However, after a delay, participants who spent more time actively retrieving information generally retain substantially more than those who relied mainly on restudying. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Testing_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Testing effect</span><span class="citation-popover-snippet">Testing effect</span></span></span>
 
-Robert and Elizabeth Bjork's work on "desirable difficulties" offers an explanation. Activities that feel slightly harder during learning—such as recalling information, [spacing]({{ 'spacing/' | relative_url }}) practice, or answering questions from memory—often produce stronger long-term learning precisely because they require rebuilding knowledge rather than simply recognising it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/04/EBjork_RBjork_2011.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bjorklab.psych.ucla.edu">[Bjork Learning and Forgetting Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bjorklab.psych.ucla.edu</span><span class="citation-popover-title">EBjork RBjork 2011</span><span class="citation-popover-snippet">Bjork Learning and Forgetting LabCreating Desirable Difficulties to Enhance Learningby EL Bjork · Cited by 2237 — At a theoretical level...</span></span></span>
+Robert and Elizabeth Bjork's work on "desirable difficulties" offers an explanation. Activities that feel slightly harder during learning—such as recalling information, [spacing]({{ 'spacing/' | relative_url }}) practice, or answering questions from memory—often produce stronger long-term learning precisely because they require rebuilding knowledge rather than simply recognising it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/04/EBjork_RBjork_2011.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bjorklab.psych.ucla.edu">[Bjork Learning and Forgetting Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bjorklab.psych.ucla.edu</span><span class="citation-popover-title">EBjork RBjork 2011</span><span class="citation-popover-snippet">Bjork Learning and Forgetting LabCreating Desirable Difficulties to Enhance Learningby EL Bjork · Cited by 2237 — At a theoretical level...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_familiarity_trap_82f724_rereading_fluency_tr_bb372f-Illustration-2-dark.svg" | relative_url }}" alt="Rereading Trap illustration 2" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_familiarity_trap_82f724_rereading_fluency_tr_bb372f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_familiarity_trap_82f724_rereading_fluency_tr_bb372f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -348,7 +348,7 @@ The same pattern appears across many domains:
 
 In each case, rereading strengthened recognition more than reconstruction.
 
-This is closely related to the *illusion of explanatory depth*: people often believe they understand how something works until they attempt a detailed explanation. Producing an explanation exposes gaps that passive review leaves hidden.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Illusion_of_explanatory_depth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Illusion of explanatory depth</span><span class="citation-popover-snippet">Illusion of explanatory depth</span></span></span>
+This is closely related to the *illusion of explanatory depth*: people often believe they understand how something works until they attempt a detailed explanation. Producing an explanation exposes gaps that passive review leaves hidden. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Illusion_of_explanatory_depth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Illusion of explanatory depth</span><span class="citation-popover-snippet">Illusion of explanatory depth</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7qmfLl03B7U" title="Memorize Anything So Fast It&#x27;s Almost Unfair" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7qmfLl03B7U" target="_blank" rel="noopener noreferrer">Memorize Anything So Fast It&#x27;s Almost Unfair</a></p><p class="youtube-embed-meta">Channel: simple, actually</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7qmfLl03B7U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7qmfLl03B7U">Open on YouTube</a></p></div></div></div>
@@ -373,7 +373,7 @@ Instead of immediately reading the same pages again:
 
 </div>
 
-The important signal is not how easy this feels. In fact, successful learning often feels less fluent because retrieval exposes [uncertainty]({{ 'uncertainty/' | relative_url }}). That temporary difficulty is informative: it reveals what still requires attention instead of hiding weaknesses behind repeated exposure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12292765/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Use of Retrieval Practice in the Health Professions</span><span class="citation-popover-snippet">by MJ Serra · 2025 · Cited by 15 — Retrieval practice, or the active recall of information from memory, is a highly effective learning...</span></span></span>
+The important signal is not how easy this feels. In fact, successful learning often feels less fluent because retrieval exposes [uncertainty]({{ 'uncertainty/' | relative_url }}). That temporary difficulty is informative: it reveals what still requires attention instead of hiding weaknesses behind repeated exposure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12292765/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Use of Retrieval Practice in the Health Professions</span><span class="citation-popover-snippet">by MJ Serra · 2025 · Cited by 15 — Retrieval practice, or the active recall of information from memory, is a highly effective learning...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_familiarity_trap_82f724_rereading_fluency_tr_bb372f-Illustration-3-dark.svg" | relative_url }}" alt="Rereading Trap illustration 3" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_familiarity_trap_82f724_rereading_fluency_tr_bb372f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_familiarity_trap_82f724_rereading_fluency_tr_bb372f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -381,197 +381,197 @@ The important signal is not how easy this feels. In fact, successful learning of
 
 Rereading is most useful as preparation for thinking, not as evidence that thinking has already happened. It increases familiarity, reduces the feeling of novelty and can improve orientation within a topic, but these benefits are easily mistaken for genuine mastery.
 
-If your goal is stronger thinking and analytical skill, the decisive question after reading is not, "Does this look familiar?" It is, "Can I recreate the idea, explain why it works, and use it when the original words are no longer in front of me?" Active retrieval answers that question; repeated rereading usually does not.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://learninglab.psych.purdue.edu/downloads/2009/2009_Karpicke_Butler_Roediger.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learninglab.psych.purdue.edu">[Cognition and Learning Lab+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learninglab.psych.purdue.edu</span><span class="citation-popover-title">2009 Karpicke Butler Roediger</span><span class="citation-popover-snippet">Cognition and Learning LabDo students practise retrieval when they study on their own?1 May 2009 — We propose that many students experien...</span><span class="citation-popover-meta">Published: May 2009</span></span></span>
+If your goal is stronger thinking and analytical skill, the decisive question after reading is not, "Does this look familiar?" It is, "Can I recreate the idea, explain why it works, and use it when the original words are no longer in front of me?" Active retrieval answers that question; repeated rereading usually does not. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://learninglab.psych.purdue.edu/downloads/2009/2009_Karpicke_Butler_Roediger.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learninglab.psych.purdue.edu">[Cognition and Learning Lab+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learninglab.psych.purdue.edu</span><span class="citation-popover-title">2009 Karpicke Butler Roediger</span><span class="citation-popover-snippet">Cognition and Learning LabDo students practise retrieval when they study on their own?1 May 2009 — We propose that many students experien...</span><span class="citation-popover-meta">Published: May 2009</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Rereading Feels Better Than It Works. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Rereading Feels Better Than It Works. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-</h4>
-<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+We+Learn+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How We Learn on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=R9C2DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How We Learn" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=How+We+Learn+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How We Learn">How We Learn</a>
+        </h4>
+        <p class="fr-book-author">By Stanislas Dehaene</p>
         
-<p class="fr-book-desc">Directly contrasts rereading with retrieval practice.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains why fluency can create false confidence.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=How+We+Learn+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+We+Learn+by+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How We Learn on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ncgJAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How We Learn" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=How+We+Learn+by+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How We Learn">How We Learn</a>
-</h4>
-<p class="fr-book-author">By Benedict Carey</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oneWAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+        </h4>
+        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-<p class="fr-book-desc">Explains why fluency can create false confidence.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=How+We+Learn+by+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly contrasts rereading with retrieval practice.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DlMlEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
-</h4>
-<p class="fr-book-author">By Daniel T. Willingham</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DlMlEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
+        </h4>
+        <p class="fr-book-author">By Daniel T. Willingham</p>
         
-<p class="fr-book-desc">Addresses misconceptions about learning.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Addresses misconceptions about learning.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ultralearning+by+Scott+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ultralearning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d0IdvgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ultralearning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ultralearning">Ultralearning</a>
-</h4>
-<p class="fr-book-author">By Scott Young</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ultralearning+Scott+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ultralearning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d0IdvgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ultralearning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ultralearning+Scott+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ultralearning">Ultralearning</a>
+        </h4>
+        <p class="fr-book-author">By Scott Young</p>
         
-<p class="fr-book-desc">Promotes active practice instead of passive review.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+Young&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Promotes active practice instead of passive review.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ultralearning+Scott+Young&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+We+Learn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How We Learn</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Don&#x27;t Students Like School?</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+We+Learn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How We Learn</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Don&#x27;t Students Like School?</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-rereading-feels-better-than-it-works-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-rereading-feels-better-than-it-works-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Whiteboard Dry Erase Magnetic Fridge Magnet Memo Planner Kitchen Notice Board A3"><img src="https://i.ebayimg.com/images/g/2NAAAeSwkvJqL3Hg/s-l225.jpg" alt="Listing image for Whiteboard Dry Erase Magnetic Fridge Magnet Memo Planner Kitchen Notice Board A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-rereading-feels-better-than-it-works-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-rereading-feels-better-than-it-works-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer">Whiteboard Dry Erase Magnetic Fridge Magnet Memo Planner Kitchen Notice Board A3</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-rereading-feels-better-than-it-works-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-rereading-feels-better-than-it-works-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for dry erase whiteboard">Search<span data-ebay-domain-label>eBay.co.uk</span>: dry erase whiteboard</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-rereading-feels-better-than-it-works-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-rereading-feels-better-than-it-works-dry-erase-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-rereading-feels-better-than-it-works-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-rereading-feels-better-than-it-works-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Whiteboard Dry Erase Magnetic Fridge Magnet Memo Planner Kitchen Notice Board A3"><img src="https://i.ebayimg.com/images/g/2NAAAeSwkvJqL3Hg/s-l225.jpg" alt="Listing image for Whiteboard Dry Erase Magnetic Fridge Magnet Memo Planner Kitchen Notice Board A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-rereading-feels-better-than-it-works-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-rereading-feels-better-than-it-works-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer">Whiteboard Dry Erase Magnetic Fridge Magnet Memo Planner Kitchen Notice Board A3</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-rereading-feels-better-than-it-works-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-rereading-feels-better-than-it-works-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for dry erase whiteboard">Search <span data-ebay-domain-label>eBay.co.uk</span>: dry erase whiteboard</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-rereading-feels-better-than-it-works-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-rereading-feels-better-than-it-works-dry-erase-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-rereading-feels-better-than-it-works-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-rereading-feels-better-than-it-works-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 50/60/70/120cm Wide Magnetic Office Home Whiteboard White Board Notice Dry Wipe"><img src="https://i.ebayimg.com/images/g/oAkAAeSwfxBoZzEa/s-l225.jpg" alt="Listing image for 50/60/70/120cm Wide Magnetic Office Home Whiteboard White Board Notice Dry Wipe" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-rereading-feels-better-than-it-works-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-rereading-feels-better-than-it-works-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer">50/60/70/120cm Wide Magnetic Office Home Whiteboard White Board Notice Dry Wipe</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-rereading-feels-better-than-it-works-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-rereading-feels-better-than-it-works-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for dry erase whiteboard">Search<span data-ebay-domain-label>eBay.co.uk</span>: dry erase whiteboard</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-rereading-feels-better-than-it-works-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-rereading-feels-better-than-it-works-dry-erase-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-rereading-feels-better-than-it-works-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-rereading-feels-better-than-it-works-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 50/60/70/120cm Wide Magnetic Office Home Whiteboard White Board Notice Dry Wipe"><img src="https://i.ebayimg.com/images/g/oAkAAeSwfxBoZzEa/s-l225.jpg" alt="Listing image for 50/60/70/120cm Wide Magnetic Office Home Whiteboard White Board Notice Dry Wipe" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-rereading-feels-better-than-it-works-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-rereading-feels-better-than-it-works-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer">50/60/70/120cm Wide Magnetic Office Home Whiteboard White Board Notice Dry Wipe</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-rereading-feels-better-than-it-works-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-rereading-feels-better-than-it-works-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for dry erase whiteboard">Search <span data-ebay-domain-label>eBay.co.uk</span>: dry erase whiteboard</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-rereading-feels-better-than-it-works-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-rereading-feels-better-than-it-works-dry-erase-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-rereading-feels-better-than-it-works-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-rereading-feels-better-than-it-works-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Magnetic Whiteboard Dry Wipe White Board Office Home Memo Notice Small Eraser"><img src="https://i.ebayimg.com/images/g/gz8AAeSw2L9p17Im/s-l225.jpg" alt="Listing image for A4 Magnetic Whiteboard Dry Wipe White Board Office Home Memo Notice Small Eraser" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-rereading-feels-better-than-it-works-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-rereading-feels-better-than-it-works-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer">A4 Magnetic Whiteboard Dry Wipe White Board Office Home Memo Notice Small Eraser</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-rereading-feels-better-than-it-works-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-rereading-feels-better-than-it-works-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for dry erase whiteboard">Search<span data-ebay-domain-label>eBay.co.uk</span>: dry erase whiteboard</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-rereading-feels-better-than-it-works-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-rereading-feels-better-than-it-works-dry-erase-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-rereading-feels-better-than-it-works-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-rereading-feels-better-than-it-works-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Magnetic Whiteboard Dry Wipe White Board Office Home Memo Notice Small Eraser"><img src="https://i.ebayimg.com/images/g/gz8AAeSw2L9p17Im/s-l225.jpg" alt="Listing image for A4 Magnetic Whiteboard Dry Wipe White Board Office Home Memo Notice Small Eraser" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-rereading-feels-better-than-it-works-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-rereading-feels-better-than-it-works-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer">A4 Magnetic Whiteboard Dry Wipe White Board Office Home Memo Notice Small Eraser</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-rereading-feels-better-than-it-works-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-rereading-feels-better-than-it-works-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for dry erase whiteboard">Search <span data-ebay-domain-label>eBay.co.uk</span>: dry erase whiteboard</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-rereading-feels-better-than-it-works-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-rereading-feels-better-than-it-works-dry-erase-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-rereading-feels-better-than-it-works-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-rereading-feels-better-than-it-works-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Magnetic Whiteboard Dry Wipe Small Memo Notice Board for Office Home Eraser"><img src="https://i.ebayimg.com/images/g/r48AAeSwZahoYpft/s-l225.jpg" alt="Listing image for A4 Magnetic Whiteboard Dry Wipe Small Memo Notice Board for Office Home Eraser" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-rereading-feels-better-than-it-works-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-rereading-feels-better-than-it-works-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer">A4 Magnetic Whiteboard Dry Wipe Small Memo Notice Board for Office Home Eraser</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-rereading-feels-better-than-it-works-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-rereading-feels-better-than-it-works-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for dry erase whiteboard">Search<span data-ebay-domain-label>eBay.co.uk</span>: dry erase whiteboard</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-rereading-feels-better-than-it-works-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-rereading-feels-better-than-it-works-dry-erase-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-rereading-feels-better-than-it-works-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-rereading-feels-better-than-it-works-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-rereading-feels-better-than-it-works-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-rereading-feels-better-than-it-works-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Magnetic Whiteboard Dry Wipe Small Memo Notice Board for Office Home Eraser"><img src="https://i.ebayimg.com/images/g/r48AAeSwZahoYpft/s-l225.jpg" alt="Listing image for A4 Magnetic Whiteboard Dry Wipe Small Memo Notice Board for Office Home Eraser" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-rereading-feels-better-than-it-works-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-rereading-feels-better-than-it-works-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer">A4 Magnetic Whiteboard Dry Wipe Small Memo Notice Board for Office Home Eraser</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-rereading-feels-better-than-it-works-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-rereading-feels-better-than-it-works-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for dry erase whiteboard">Search <span data-ebay-domain-label>eBay.co.uk</span>: dry erase whiteboard</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-rereading-feels-better-than-it-works-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-rereading-feels-better-than-it-works-dry-erase-whiteboard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=dry+erase+whiteboard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-rereading-feels-better-than-it-works-dry-erase-whiteboard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dry erase whiteboard" data-ebay-reference="why-rereading-feels-better-than-it-works-dry-erase-whiteboard" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -587,7 +587,7 @@ If your goal is stronger thinking and analytical skill, the decisive question af
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -607,7 +607,7 @@ If your goal is stronger thinking and analytical skill, the decisive question af
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -639,7 +639,7 @@ If your goal is stronger thinking and analytical skill, the decisive question af
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -691,7 +691,7 @@ If your goal is stronger thinking and analytical skill, the decisive question af
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -736,7 +736,7 @@ If your goal is stronger thinking and analytical skill, the decisive question af
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -777,94 +777,94 @@ If your goal is stronger thinking and analytical skill, the decisive question af
 
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Testing effect  
-   Link:<a href="https://en.wikipedia.org/wiki/Testing_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Testing_effect</a>  
+   Link: <a href="https://en.wikipedia.org/wiki/Testing_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Testing_effect</a>  
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Illusion of explanatory depth  
-   Link:<a href="https://en.wikipedia.org/wiki/Illusion_of_explanatory_depth" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Illusion_of_explanatory_depth</a>  
+   Link: <a href="https://en.wikipedia.org/wiki/Illusion_of_explanatory_depth" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Illusion_of_explanatory_depth</a>  
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe Use of Retrieval Practice in the Health Professions  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12292765/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12292765/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>by MJ Serra · 2025 · Cited by 15 — Retrieval practice, or the active recall of information from memory, is a highly effective learning...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12292765/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12292765/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by MJ Serra · 2025 · Cited by 15 — Retrieval practice, or the active recall of information from memory, is a highly effective learning...</p></details>
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: learninglab.psych.purdue.edu  
    Title: 2009 Karpicke Butler Roediger  
-   Link:<a href="https://learninglab.psych.purdue.edu/downloads/2009/2009_Karpicke_Butler_Roediger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://learninglab.psych.purdue.edu/downloads/2009/2009_Karpicke_Butler_Roediger.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Cognition and Learning LabDo students practise retrieval when they study on their own?1 May 2009 — We propose that many students experien...</p></details>
+   Link: <a href="https://learninglab.psych.purdue.edu/downloads/2009/2009_Karpicke_Butler_Roediger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://learninglab.psych.purdue.edu/downloads/2009/2009_Karpicke_Butler_Roediger.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cognition and Learning LabDo students practise retrieval when they study on their own?1 May 2009 — We propose that many students experien...</p></details>
    Published: May 2009  
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: bjorklab.psych.ucla.edu  
    Title: EBjork RBjork 2011  
-   Link:<a href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/04/EBjork_RBjork_2011.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/04/EBjork_RBjork_2011.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Bjork Learning and Forgetting LabCreating Desirable Difficulties to Enhance Learningby EL Bjork · Cited by 2237 — At a theoretical level...</p></details>
+   Link: <a href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/04/EBjork_RBjork_2011.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/04/EBjork_RBjork_2011.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bjork Learning and Forgetting LabCreating Desirable Difficulties to Enhance Learningby EL Bjork · Cited by 2237 — At a theoretical level...</p></details>
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12372469/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12372469/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Bjork, 2005). This “illusion of competence” leads to faster but less accurate re-readings, thus preventing the strengthening of memory...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12372469/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12372469/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bjork, 2005). This “illusion of competence” leads to faster but less accurate re-readings, thus preventing the strengthening of memory...</p></details>
 
 ### Additional References
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/24268097_Metacognitive_strategies_in_student_learning_Do_students_practise_retrieval_when_they_study_on_their_own" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/24268097_Metacognitive_strategies_in_student_learning_Do_students_practise_retrieval_when_they_study_on_their_own</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Do students practise retrieval when they study on their own?We propose that many students experience illusions of competence while studyi...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/24268097_Metacognitive_strategies_in_student_learning_Do_students_practise_retrieval_when_they_study_on_their_own" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/24268097_Metacognitive_strategies_in_student_learning_Do_students_practise_retrieval_when_they_study_on_their_own</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Do students practise retrieval when they study on their own?We propose that many students experience illusions of competence while studyi...</p></details>
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/364586997_Desirable_Difficulties_in_Applied_Learning_Settings_[Mechanisms" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/364586997_Desirable_Difficulties_in_Applied_Learning_Settings_[Mechanisms</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Desirable Difficulties in Applied Learning Settings21 Oct 2022 — practicing test questions has been found to outperform restudy ret...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/364586997_Desirable_Difficulties_in_Applied_Learning_Settings_[Mechanisms" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/364586997_Desirable_Difficulties_in_Applied_Learning_Settings_[Mechanisms</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Desirable Difficulties in Applied Learning Settings21 Oct 2022 — practicing test questions has been found to outperform restudy ret...</p></details>
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: nko.nl  
-   Link:<a href="https://www.nko.nl/sites/nro/files/migrate/411-10-910-010-Proefschrift_Reijners.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nko.nl/sites/nro/files/migrate/411-10-910-010-Proefschrift_Reijners.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Karpicke &amp; Grimaldi, 2012) which means that retrieval practice through...Read more...</p></details>
+   Link: <a href="https://www.nko.nl/sites/nro/files/migrate/411-10-910-010-Proefschrift_Reijners.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nko.nl/sites/nro/files/migrate/411-10-910-010-Proefschrift_Reijners.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Karpicke &amp; Grimaldi, 2012) which means that retrieval practice through...Read more...</p></details>
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: structural-learning.com  
-   Link:<a href="https://www.structural-learning.com/post/fluency-illusions-students-think-they-know" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/fluency-illusions-students-think-they-know</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency Illusions: Why Students Think They Know More29 Dec 2025 — Karpicke&#x27;s research showed re-reading helps learners less than retrieva...</p></details>
+   Link: <a href="https://www.structural-learning.com/post/fluency-illusions-students-think-they-know" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/fluency-illusions-students-think-they-know</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency Illusions: Why Students Think They Know More29 Dec 2025 — Karpicke&#x27;s research showed re-reading helps learners less than retrieva...</p></details>
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: wsj.com  
    Title: The Wall Street Journal Want to Remember More?  
-   Link:<a href="https://www.wsj.com/science/biology/want-to-remember-more-make-more-mistakes-2d195a6f" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/science/biology/want-to-remember-more-make-more-mistakes-2d195a6f</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Make More MistakesThe article discusses the importance of making mistakes in the learning process, highlighting the concept of error-driv...</p></details>
+   Link: <a href="https://www.wsj.com/science/biology/want-to-remember-more-make-more-mistakes-2d195a6f" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/science/biology/want-to-remember-more-make-more-mistakes-2d195a6f</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Make More MistakesThe article discusses the importance of making mistakes in the learning process, highlighting the concept of error-driv...</p></details>
 
-12.<a id="endnote-12"></a>
+12. <a id="endnote-12"></a>
    Source: structural-learning.com  
    Title: testing effect retrieval practice  
-   Link:<a href="https://www.structural-learning.com/post/testing-effect-retrieval-practice" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/testing-effect-retrieval-practice</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Testing Effect: Why Retrieval Practice Works29 Dec 2025 — Testing helps learners recall facts, according to Bjork (1994)...</p></details>
+   Link: <a href="https://www.structural-learning.com/post/testing-effect-retrieval-practice" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/testing-effect-retrieval-practice</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Testing Effect: Why Retrieval Practice Works29 Dec 2025 — Testing helps learners recall facts, according to Bjork (1994)...</p></details>
 
-13.<a id="endnote-13"></a>
+13. <a id="endnote-13"></a>
    Source: assets.markallengroup.com  
    Title: 8 Competence References  
-   Link:<a href="https://assets.markallengroup.com/article-images/246201/8-CompetenceReferences.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.markallengroup.com/article-images/246201/8-CompetenceReferences.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>A. (2005) Illusions of competence in monitoring one&#x27;s knowledge during study. Journal of Experimental Psychology: Learning...Read more...</p></details>
+   Link: <a href="https://assets.markallengroup.com/article-images/246201/8-CompetenceReferences.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.markallengroup.com/article-images/246201/8-CompetenceReferences.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>A. (2005) Illusions of competence in monitoring one&#x27;s knowledge during study. Journal of Experimental Psychology: Learning...Read more...</p></details>
 
-14.<a id="endnote-14"></a>
+14. <a id="endnote-14"></a>
    Source: structural-learning.com  
    Title: robert bjork teachers guide desirable  
-   Link:<a href="https://www.structural-learning.com/post/robert-bjork-teachers-guide-desirable" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/robert-bjork-teachers-guide-desirable</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Roediger and Karpicke (2006) found recall beats re-reading for learning. This &quot;testing effect&quot; shows retrieval...</p></details>
+   Link: <a href="https://www.structural-learning.com/post/robert-bjork-teachers-guide-desirable" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/robert-bjork-teachers-guide-desirable</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roediger and Karpicke (2006) found recall beats re-reading for learning. This &quot;testing effect&quot; shows retrieval...</p></details>
 
-15.<a id="endnote-15"></a>
+15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: Memorize Anything So Fast It's Almost Unfair | Hello! Seiiti Arata 426  
-   Link:<a href="https://www.youtube.com/watch?v=VbRrvq3alcs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VbRrvq3alcs</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Insanely Flawed Learning System of the Priest Who Tried to Know Everything...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=VbRrvq3alcs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VbRrvq3alcs</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Insanely Flawed Learning System of the Priest Who Tried to Know Everything...</p></details>
 
-16.<a id="endnote-16"></a>
+16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: THE INTELLIGENCE TRAP (The Mistake Smart People Make When Learning)  
-   Link:<a href="https://www.youtube.com/watch?v=sXwpQlKdCck" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sXwpQlKdCck</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Memorize Anything So Fast It&#x27;s Almost Unfair | Hello! Seiiti Arata 426...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=sXwpQlKdCck" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sXwpQlKdCck</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Memorize Anything So Fast It&#x27;s Almost Unfair | Hello! Seiiti Arata 426...</p></details>

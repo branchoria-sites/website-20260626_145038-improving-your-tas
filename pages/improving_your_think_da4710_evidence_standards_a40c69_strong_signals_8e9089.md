@@ -274,7 +274,7 @@ image: /assets/images/improving_your_think_da4710_evidence_standards_a40c69_stro
 
 ## Introduction
 
-Strong evidence is not simply evidence that is dramatic, persuasive or widely shared. It is evidence that would be difficult to observe if the claim were false. That is what makes it *diagnostic*: it genuinely changes how likely a claim is to be true rather than merely sounding convincing. In everyday decisions, people often treat anecdotes, graphs, expert opinions, testimonials and direct measurements as if they all carry equal weight. They do not. The most valuable signals are typically those that are independent of one another, specific enough to distinguish between competing explanations, costly or difficult to fake, and repeatable by others. These features reduce the chance that an apparent pattern is simply coincidence, bias or selective reporting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK557491/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI+2Academy of Medical Sciences]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Diagnostic Testing Accuracy: Sensitivity, Specificity, Predictive...by J Shreffler · 2023 · Cited by 477 — Sensitivity does not allo...</span></span></span>
+Strong evidence is not simply evidence that is dramatic, persuasive or widely shared. It is evidence that would be difficult to observe if the claim were false. That is what makes it *diagnostic*: it genuinely changes how likely a claim is to be true rather than merely sounding convincing. In everyday decisions, people often treat anecdotes, graphs, expert opinions, testimonials and direct measurements as if they all carry equal weight. They do not. The most valuable signals are typically those that are independent of one another, specific enough to distinguish between competing explanations, costly or difficult to fake, and repeatable by others. These features reduce the chance that an apparent pattern is simply coincidence, bias or selective reporting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK557491/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI+2Academy of Medical Sciences]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Diagnostic Testing Accuracy: Sensitivity, Specificity, Predictive...by J Shreffler · 2023 · Cited by 477 — Sensitivity does not allo...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_evidence_standards_a40c69_strong_signals_8e9089-Illustration-1-dark.svg" | relative_url }}" alt="Strong Signals illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_evidence_standards_a40c69_strong_signals_8e9089-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_evidence_standards_a40c69_strong_signals_8e9089-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -292,7 +292,7 @@ A useful question is:
 
 If the answer is "quite easily", the evidence deserves limited weight. If the answer is "only with great difficulty", the evidence deserves much more.
 
-This is the same logic behind likelihood ratios in diagnostic testing. A highly specific medical test is valuable because a positive result is uncommon when the disease is absent, making the observation genuinely informative rather than merely consistent with the diagnosis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK557491/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Diagnostic Testing Accuracy: Sensitivity, Specificity, Predictive...by J Shreffler · 2023 · Cited by 477 — Sensitivity does not allo...</span></span></span>
+This is the same logic behind likelihood ratios in diagnostic testing. A highly specific medical test is valuable because a positive result is uncommon when the disease is absent, making the observation genuinely informative rather than merely consistent with the diagnosis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK557491/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Diagnostic Testing Accuracy: Sensitivity, Specificity, Predictive...by J Shreffler · 2023 · Cited by 477 — Sensitivity does not allo...</span></span></span>
 
 ## Independence, specificity and fair comparison
 
@@ -341,7 +341,7 @@ Evidence is only meaningful when comparison groups are genuinely comparable.
 
 If one school adopts a new teaching method and later performs better, the improvement might reflect the method—or differences in funding, student intake or teacher experience.
 
-Better [comparisons]({{ 'comparisons/' | relative_url }}) attempt to isolate the factor of interest by using control groups, matched comparisons or random assignment where practical. Systematic reviews and well-designed comparative studies generally provide stronger evidence because they reduce alternative explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dera.ioe.ac.uk/id/eprint/30009/2/SSIF_Classification_of_Evidence_FINAL-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dera.ioe.ac.uk">[Digital Education Resource Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dera.ioe.ac.uk</span><span class="citation-popover-snippet">September 14, 2017 — We recognise that in some areas where improvement is needed, the evidence base is weaker than others because it is e...</span><span class="citation-popover-meta">Published: September 14, 2017</span></span></span>
+Better [comparisons]({{ 'comparisons/' | relative_url }}) attempt to isolate the factor of interest by using control groups, matched comparisons or random assignment where practical. Systematic reviews and well-designed comparative studies generally provide stronger evidence because they reduce alternative explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dera.ioe.ac.uk/id/eprint/30009/2/SSIF_Classification_of_Evidence_FINAL-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dera.ioe.ac.uk">[Digital Education Resource Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dera.ioe.ac.uk</span><span class="citation-popover-snippet">September 14, 2017 — We recognise that in some areas where improvement is needed, the evidence base is weaker than others because it is e...</span><span class="citation-popover-meta">Published: September 14, 2017</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_evidence_standards_a40c69_strong_signals_8e9089-Illustration-2-dark.svg" | relative_url }}" alt="Strong Signals illustration 2" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_evidence_standards_a40c69_strong_signals_8e9089-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_evidence_standards_a40c69_strong_signals_8e9089-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -364,7 +364,7 @@ Repeatability provides another layer of protection.
 
 One surprising observation may simply be luck. Repeated observations under different conditions make coincidence progressively less plausible.
 
-Scientific [replication]({{ 'replication/' | relative_url }}) is built around this principle. An independent research group following similar methods should obtain broadly similar findings if the original effect is real. Exact numerical agreement is not expected in many fields, but consistent patterns across independent studies substantially increase confidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://acmedsci.ac.uk/viewFile/56314e40aac61.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acmedsci.ac.uk">[Academy of Medical Sciences]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acmedsci.ac.uk</span><span class="citation-popover-snippet">In many cases.Read more...</span></span></span>
+Scientific [replication]({{ 'replication/' | relative_url }}) is built around this principle. An independent research group following similar methods should obtain broadly similar findings if the original effect is real. Exact numerical agreement is not expected in many fields, but consistent patterns across independent studies substantially increase confidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://acmedsci.ac.uk/viewFile/56314e40aac61.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acmedsci.ac.uk">[Academy of Medical Sciences]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acmedsci.ac.uk</span><span class="citation-popover-snippet">In many cases.Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UrO__x4R-_M" title="Bayes&#x27; rule: A powerful thinking paradigm | Julia Galef" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UrO__x4R-_M" target="_blank" rel="noopener noreferrer">Bayes&#x27; rule: A powerful thinking paradigm | Julia Galef</a></p><p class="youtube-embed-meta">Channel: The Well</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UrO__x4R-_M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UrO__x4R-_M">Open on YouTube</a></p></div></div></div>
@@ -382,7 +382,7 @@ Common examples include:
 * **Large numbers without comparison.** "Cases increased by 50%" means little without knowing the starting level, comparison group or expected variation.
 * **Expert opinion without evidence.** Expertise matters, but unsupported opinions generally carry less weight than transparent evidence that others can inspect.
 * **Success stories alone.** Testimonials reveal that success is possible, not how likely it is. They rarely include comparable failures.
-* **Single impressive studies.** Initial findings frequently become smaller, disappear or require qualification when examined by multiple independent teams.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofethics.ama-assn.org/article/when-research-evidence-misleading/2013-01" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofethics.ama-assn.org">[Journal of Ethics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofethics.ama-assn.org</span><span class="citation-popover-title">Journal of Ethics When Research Evidence is Misleading</span><span class="citation-popover-snippet">In our era of soaring health care costs...Read more...</span></span></span>
+* **Single impressive studies.** Initial findings frequently become smaller, disappear or require qualification when examined by multiple independent teams. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofethics.ama-assn.org/article/when-research-evidence-misleading/2013-01" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofethics.ama-assn.org">[Journal of Ethics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofethics.ama-assn.org</span><span class="citation-popover-title">Journal of Ethics When Research Evidence is Misleading</span><span class="citation-popover-snippet">In our era of soaring health care costs...Read more...</span></span></span>
 
 </div>
 
@@ -431,194 +431,194 @@ This hierarchy is not absolute. An anecdote may reveal something entirely new, w
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to What Makes Evidence Actually Strong?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to What Makes Evidence Actually Strong?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CiZeDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Art of Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Statistics">The Art of Statistics</a>
-</h4>
-<p class="fr-book-author">By David Spiegelhalter</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CiZeDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Art of Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Statistics">The Art of Statistics</a>
+        </h4>
+        <p class="fr-book-author">By David Spiegelhalter</p>
         
-<p class="fr-book-desc">Shows how to distinguish strong from weak evidence, interpret data, and assess competing explanations.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Art+of+Statistics+by+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Shows how to distinguish strong from weak evidence, interpret data, and assess competing explanations.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-</h4>
-<p class="fr-book-author">By Daniel Kahneman</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Bad+Science+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
+        </h4>
+        <p class="fr-book-author">By Ben Goldacre</p>
         
-<p class="fr-book-desc">Explains cognitive biases and how to evaluate evidence more carefully rather than relying on intuition.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Uses real-world examples to explain why good evidence requires fair comparisons, replication, and sound methodology.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Bad+Science+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
-</h4>
-<p class="fr-book-author">By Ben Goldacre</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y-bvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+        </h4>
+        <p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
         
-<p class="fr-book-desc">Uses real-world examples to explain why good evidence requires fair comparisons, replication, and sound methodology.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Focuses on identifying misleading claims, weak evidence, and unreliable arguments.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S2ZOzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-</h4>
-<p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+        </h4>
+        <p class="fr-book-author">By Daniel Kahneman</p>
         
-<p class="fr-book-desc">Focuses on identifying misleading claims, weak evidence, and unreliable arguments.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains cognitive biases and how to evaluate evidence more carefully rather than relying on intuition.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Statistics</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Statistics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-evidence-actually-strong-science-education-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education kit" data-ebay-reference="what-makes-evidence-actually-strong-science-education-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Kit for Kids + Lab Coat - Over 20 Chemistry Science Experiments Age 5+"><img src="https://i.ebayimg.com/images/g/QPQAAOSw8KtmTzHf/s-l225.jpg" alt="Listing image for Science Kit for Kids + Lab Coat - Over 20 Chemistry Science Experiments Age 5+" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-evidence-actually-strong-science-education-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education kit" data-ebay-reference="what-makes-evidence-actually-strong-science-education-kit" target="_blank" rel="sponsored noopener noreferrer">Science Kit for Kids + Lab Coat - Over 20 Chemistry Science Experiments Age 5+</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-evidence-actually-strong-science-education-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education kit" data-ebay-reference="what-makes-evidence-actually-strong-science-education-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science education kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: science education kit</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-evidence-actually-strong-science-education-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education kit" data-ebay-reference="what-makes-evidence-actually-strong-science-education-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-evidence-actually-strong-science-education-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education kit" data-ebay-reference="what-makes-evidence-actually-strong-science-education-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Kit for Kids + Lab Coat - Over 20 Chemistry Science Experiments Age 5+"><img src="https://i.ebayimg.com/images/g/QPQAAOSw8KtmTzHf/s-l225.jpg" alt="Listing image for Science Kit for Kids + Lab Coat - Over 20 Chemistry Science Experiments Age 5+" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-evidence-actually-strong-science-education-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education kit" data-ebay-reference="what-makes-evidence-actually-strong-science-education-kit" target="_blank" rel="sponsored noopener noreferrer">Science Kit for Kids + Lab Coat - Over 20 Chemistry Science Experiments Age 5+</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-evidence-actually-strong-science-education-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education kit" data-ebay-reference="what-makes-evidence-actually-strong-science-education-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science education kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: science education kit</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-evidence-actually-strong-science-education-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education kit" data-ebay-reference="what-makes-evidence-actually-strong-science-education-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-evidence-actually-strong-science-education-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education kit" data-ebay-reference="what-makes-evidence-actually-strong-science-education-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MEL Chemistry Kits Science for Kids 4 PACK Age 10 plus Factory Sealed Learning"><img src="https://i.ebayimg.com/images/g/XT4AAeSwqj5pxS69/s-l225.jpg" alt="Listing image for MEL Chemistry Kits Science for Kids 4 PACK Age 10 plus Factory Sealed Learning" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-evidence-actually-strong-science-education-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education kit" data-ebay-reference="what-makes-evidence-actually-strong-science-education-kit" target="_blank" rel="sponsored noopener noreferrer">MEL Chemistry Kits Science for Kids 4 PACK Age 10 plus Factory Sealed Learning</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-evidence-actually-strong-science-education-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education kit" data-ebay-reference="what-makes-evidence-actually-strong-science-education-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science education kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: science education kit</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-evidence-actually-strong-science-education-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education kit" data-ebay-reference="what-makes-evidence-actually-strong-science-education-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-evidence-actually-strong-science-education-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education kit" data-ebay-reference="what-makes-evidence-actually-strong-science-education-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MEL Chemistry Kits Science for Kids 4 PACK Age 10 plus Factory Sealed Learning"><img src="https://i.ebayimg.com/images/g/XT4AAeSwqj5pxS69/s-l225.jpg" alt="Listing image for MEL Chemistry Kits Science for Kids 4 PACK Age 10 plus Factory Sealed Learning" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-evidence-actually-strong-science-education-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education kit" data-ebay-reference="what-makes-evidence-actually-strong-science-education-kit" target="_blank" rel="sponsored noopener noreferrer">MEL Chemistry Kits Science for Kids 4 PACK Age 10 plus Factory Sealed Learning</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-evidence-actually-strong-science-education-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education kit" data-ebay-reference="what-makes-evidence-actually-strong-science-education-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science education kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: science education kit</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-evidence-actually-strong-science-education-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education kit" data-ebay-reference="what-makes-evidence-actually-strong-science-education-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-evidence-actually-strong-science-education-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education kit" data-ebay-reference="what-makes-evidence-actually-strong-science-education-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Brainy Beaker Educational Science Kit for Kids - 21 Various Experiments+Name Tag"><img src="https://i.ebayimg.com/images/g/MhsAAOSwOsZmX1Gk/s-l225.jpg" alt="Listing image for Brainy Beaker Educational Science Kit for Kids - 21 Various Experiments+Name Tag" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-evidence-actually-strong-science-education-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education kit" data-ebay-reference="what-makes-evidence-actually-strong-science-education-kit" target="_blank" rel="sponsored noopener noreferrer">Brainy Beaker Educational Science Kit for Kids - 21 Various Experiments+Name Tag</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-evidence-actually-strong-science-education-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education kit" data-ebay-reference="what-makes-evidence-actually-strong-science-education-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science education kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: science education kit</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-evidence-actually-strong-science-education-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education kit" data-ebay-reference="what-makes-evidence-actually-strong-science-education-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-evidence-actually-strong-science-education-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education kit" data-ebay-reference="what-makes-evidence-actually-strong-science-education-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Brainy Beaker Educational Science Kit for Kids - 21 Various Experiments+Name Tag"><img src="https://i.ebayimg.com/images/g/MhsAAOSwOsZmX1Gk/s-l225.jpg" alt="Listing image for Brainy Beaker Educational Science Kit for Kids - 21 Various Experiments+Name Tag" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-evidence-actually-strong-science-education-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education kit" data-ebay-reference="what-makes-evidence-actually-strong-science-education-kit" target="_blank" rel="sponsored noopener noreferrer">Brainy Beaker Educational Science Kit for Kids - 21 Various Experiments+Name Tag</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-evidence-actually-strong-science-education-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education kit" data-ebay-reference="what-makes-evidence-actually-strong-science-education-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science education kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: science education kit</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-evidence-actually-strong-science-education-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education kit" data-ebay-reference="what-makes-evidence-actually-strong-science-education-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-evidence-actually-strong-science-education-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education kit" data-ebay-reference="what-makes-evidence-actually-strong-science-education-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DIY STEM Earth Model Day Night Cycle Wooden Globe Toy Science Kit Kids Education"><img src="https://i.ebayimg.com/images/g/hQsAAeSwTkxqKUQ-/s-l225.jpg" alt="Listing image for DIY STEM Earth Model Day Night Cycle Wooden Globe Toy Science Kit Kids Education" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-evidence-actually-strong-science-education-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education kit" data-ebay-reference="what-makes-evidence-actually-strong-science-education-kit" target="_blank" rel="sponsored noopener noreferrer">DIY STEM Earth Model Day Night Cycle Wooden Globe Toy Science Kit Kids Education</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-evidence-actually-strong-science-education-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education kit" data-ebay-reference="what-makes-evidence-actually-strong-science-education-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science education kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: science education kit</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-evidence-actually-strong-science-education-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education kit" data-ebay-reference="what-makes-evidence-actually-strong-science-education-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-evidence-actually-strong-science-education-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education kit" data-ebay-reference="what-makes-evidence-actually-strong-science-education-kit" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-evidence-actually-strong-science-education-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education kit" data-ebay-reference="what-makes-evidence-actually-strong-science-education-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DIY STEM Earth Model Day Night Cycle Wooden Globe Toy Science Kit Kids Education"><img src="https://i.ebayimg.com/images/g/hQsAAeSwTkxqKUQ-/s-l225.jpg" alt="Listing image for DIY STEM Earth Model Day Night Cycle Wooden Globe Toy Science Kit Kids Education" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-evidence-actually-strong-science-education-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education kit" data-ebay-reference="what-makes-evidence-actually-strong-science-education-kit" target="_blank" rel="sponsored noopener noreferrer">DIY STEM Earth Model Day Night Cycle Wooden Globe Toy Science Kit Kids Education</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-evidence-actually-strong-science-education-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education kit" data-ebay-reference="what-makes-evidence-actually-strong-science-education-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science education kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: science education kit</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-evidence-actually-strong-science-education-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education kit" data-ebay-reference="what-makes-evidence-actually-strong-science-education-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-evidence-actually-strong-science-education-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education kit" data-ebay-reference="what-makes-evidence-actually-strong-science-education-kit" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -634,7 +634,7 @@ This hierarchy is not absolute. An anecdote may reveal something entirely new, w
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -654,7 +654,7 @@ This hierarchy is not absolute. An anecdote may reveal something entirely new, w
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -686,7 +686,7 @@ This hierarchy is not absolute. An anecdote may reveal something entirely new, w
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -738,7 +738,7 @@ This hierarchy is not absolute. An anecdote may reveal something entirely new, w
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -783,7 +783,7 @@ This hierarchy is not absolute. An anecdote may reveal something entirely new, w
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -823,75 +823,75 @@ This hierarchy is not absolute. An anecdote may reveal something entirely new, w
 </section>
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: ncbi.nlm.nih.gov  
-   Link:<a href="https://www.ncbi.nlm.nih.gov/books/NBK557491/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK557491/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Diagnostic Testing Accuracy: Sensitivity, Specificity, Predictive...by J Shreffler · 2023 · Cited by 477 — Sensitivity does not allo...</p></details>
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK557491/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK557491/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Diagnostic Testing Accuracy: Sensitivity, Specificity, Predictive...by J Shreffler · 2023 · Cited by 477 — Sensitivity does not allo...</p></details>
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: acmedsci.ac.uk  
-   Link:<a href="https://acmedsci.ac.uk/viewFile/56314e40aac61.pdf" target="_blank" rel="noopener noreferrer nofollow">https://acmedsci.ac.uk/viewFile/56314e40aac61.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>In many cases.Read more...</p></details>
+   Link: <a href="https://acmedsci.ac.uk/viewFile/56314e40aac61.pdf" target="_blank" rel="noopener noreferrer nofollow">https://acmedsci.ac.uk/viewFile/56314e40aac61.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>In many cases.Read more...</p></details>
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: dera.ioe.ac.uk  
-   Link:<a href="https://dera.ioe.ac.uk/id/eprint/30009/2/SSIF_Classification_of_Evidence_FINAL-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dera.ioe.ac.uk/id/eprint/30009/2/SSIF_Classification_of_Evidence_FINAL-1.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>September 14, 2017 — We recognise that in some areas where improvement is needed, the evidence base is weaker than others because it is e...</p></details>
+   Link: <a href="https://dera.ioe.ac.uk/id/eprint/30009/2/SSIF_Classification_of_Evidence_FINAL-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dera.ioe.ac.uk/id/eprint/30009/2/SSIF_Classification_of_Evidence_FINAL-1.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>September 14, 2017 — We recognise that in some areas where improvement is needed, the evidence base is weaker than others because it is e...</p></details>
    Published: September 14, 2017  
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: journalofethics.ama-assn.org  
    Title: Journal of Ethics When Research Evidence is Misleading  
-   Link:<a href="https://journalofethics.ama-assn.org/article/when-research-evidence-misleading/2013-01" target="_blank" rel="noopener noreferrer nofollow">https://journalofethics.ama-assn.org/article/when-research-evidence-misleading/2013-01</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>In our era of soaring health care costs...Read more...</p></details>
+   Link: <a href="https://journalofethics.ama-assn.org/article/when-research-evidence-misleading/2013-01" target="_blank" rel="noopener noreferrer nofollow">https://journalofethics.ama-assn.org/article/when-research-evidence-misleading/2013-01</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>In our era of soaring health care costs...Read more...</p></details>
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6558629/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6558629/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Diagnostic Tests: A Review of Test Anatomy, Phases...by SD Bolboacă · 2019 · Cited by 119 — This article briefly reviews the steps in th...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6558629/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6558629/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Diagnostic Tests: A Review of Test Anatomy, Phases...by SD Bolboacă · 2019 · Cited by 119 — This article briefly reviews the steps in th...</p></details>
 
 ### Additional References
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: royalsocietypublishing.org  
-   Link:<a href="https://royalsocietypublishing.org/rsos/article/4/12/171085/93045/The-reproducibility-of-research-and-the" target="_blank" rel="noopener noreferrer nofollow">https://royalsocietypublishing.org/rsos/article/4/12/171085/93045/The-reproducibility-of-research-and-the</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>misinterpretation of p...by D Colquhoun · 2017 · Cited by 326 — We wish to answer this question: If you observe a &#x27;significant&#x27; p-value...</p></details>
+   Link: <a href="https://royalsocietypublishing.org/rsos/article/4/12/171085/93045/The-reproducibility-of-research-and-the" target="_blank" rel="noopener noreferrer nofollow">https://royalsocietypublishing.org/rsos/article/4/12/171085/93045/The-reproducibility-of-research-and-the</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>misinterpretation of p...by D Colquhoun · 2017 · Cited by 326 — We wish to answer this question: If you observe a &#x27;significant&#x27; p-value...</p></details>
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: nature.com  
-   Link:<a href="https://www.nature.com/articles/s41374" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41374</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>False-positive pathology: improving reproducibility with the...by BL Mazer · 2019 · Cited by 23 — False positives in pathology affect pa...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41374-019-0257-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41374-019-0257-2</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>False-positive pathology: improving reproducibility with the...by BL Mazer · 2019 · Cited by 23 — False positives in pathology affect pa...</p></details>
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: youtube.com  
    Title: Bayes' rule: A powerful thinking paradigm | Julia Galef  
-   Link:<a href="https://www.youtube.com/watch?v=UrO__x4R-_M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UrO__x4R-_M</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Julia Galef: Think Rationally via Bayes&#x27; Rule | Big Think...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=UrO__x4R-_M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UrO__x4R-_M</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Julia Galef: Think Rationally via Bayes&#x27; Rule | Big Think...</p></details>
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: Likelihood Ratios and The Probability of Diagnosis  
-   Link:<a href="https://www.youtube.com/watch?v=LIDIw3ZAI2I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LIDIw3ZAI2I</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Bayes&#x27; rule: A powerful thinking paradigm | Julia Galef...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=LIDIw3ZAI2I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LIDIw3ZAI2I</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bayes&#x27; rule: A powerful thinking paradigm | Julia Galef...</p></details>
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: The Bayes Theorem: What Are the Odds?  
-   Link:<a href="https://www.youtube.com/watch?v=Ql2jEJ-6e-Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ql2jEJ-6e-Y</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Likelihood Ratios and The Probability of Diagnosis...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=Ql2jEJ-6e-Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ql2jEJ-6e-Y</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Likelihood Ratios and The Probability of Diagnosis...</p></details>
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: When should evidence change your mind?  
-   Link:<a href="https://www.youtube.com/watch?v=5ycjezG1gH0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5ycjezG1gH0</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Bayes Theorem: What Are the Odds?...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=5ycjezG1gH0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5ycjezG1gH0</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Bayes Theorem: What Are the Odds?...</p></details>
 
-12.<a id="endnote-12"></a>
+12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: Julia Galef: Think Rationally via Bayes' Rule | Big Think  
-   Link:<a href="https://www.youtube.com/watch?v=NEqHML98RgU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NEqHML98RgU</a>  
+   Link: <a href="https://www.youtube.com/watch?v=NEqHML98RgU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NEqHML98RgU</a>  
 
-13.<a id="endnote-13"></a>
+13. <a id="endnote-13"></a>
    Source: arxiv.org  
-   Link:<a href="https://arxiv.org/html/2605.17273" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2605.17273</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Models are compared...Read more...</p></details>
+   Link: <a href="https://arxiv.org/html/2605.17273" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2605.17273</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Models are compared...Read more...</p></details>

@@ -447,7 +447,7 @@ image: /assets/images/improving_your_think_da4710_distributed_practice_4a249b-ov
 
 ## Introduction
 
-Distributed practice, often called spacing, means revisiting material across several shorter sessions instead of concentrating the same time into one long burst. For lasting learning, it is one of the most reliable findings in cognitive psychology: information is usually remembered better when study episodes are separated by time, and the best spacing depends on when the learner needs to use the knowledge again. That matters for analytical thinking because reasoning improves when core concepts, examples, methods and counterexamples remain available long after the first lesson, not just during a short period of exam-style fluency. Reviews of learning techniques rate distributed practice highly because it works across many learners, materials and [assessment]({{ 'assessment/' | relative_url }}) formats, while a large meta-analysis of verbal learning found hundreds of [comparisons]({{ 'comparisons/' | relative_url }}) showing benefits from spacing over massing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26173288/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Improving Students&#x27; Learning With Effective...Practice testing and distributed practice received high utility assessments because...</span></span></span>
+Distributed practice, often called spacing, means revisiting material across several shorter sessions instead of concentrating the same time into one long burst. For lasting learning, it is one of the most reliable findings in cognitive psychology: information is usually remembered better when study episodes are separated by time, and the best spacing depends on when the learner needs to use the knowledge again. That matters for analytical thinking because reasoning improves when core concepts, examples, methods and counterexamples remain available long after the first lesson, not just during a short period of exam-style fluency. Reviews of learning techniques rate distributed practice highly because it works across many learners, materials and [assessment]({{ 'assessment/' | relative_url }}) formats, while a large meta-analysis of verbal learning found hundreds of [comparisons]({{ 'comparisons/' | relative_url }}) showing benefits from spacing over massing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26173288/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Improving Students&#x27; Learning With Effective...Practice testing and distributed practice received high utility assessments because...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_distributed_practice_4a249b-overview.webp" | relative_url }}" alt="Overview image for Spacing" loading="eager" decoding="sync" fetchpriority="high">
@@ -459,7 +459,7 @@ Cramming often feels effective because it creates short-term familiarity. After 
 
 That distinction is especially important for thinking and analytical skills. Analysis depends on having useful knowledge ready at the right moment: definitions, distinctions, causal models, [base rates]({{ 'base-rates/' | relative_url }}), examples, common fallacies, formulae, and procedural steps. If those are learned in one dense block and then disappear, the person may “understand” a concept in the moment but fail to use it when a real problem appears weeks later. Spacing turns learning into repeated re-access, which is closer to the way knowledge is needed in practice.
 
-The evidence base is unusually broad for a learning strategy. Cepeda and colleagues’ 2006 review located 839 assessments from 317 experiments in 184 articles, comparing massed and spaced presentations as well as different spacing intervals. Dunlosky and colleagues’ review of ten learning techniques rated distributed practice and [practice testing]({{ 'practice-tests/' | relative_url }}) as high-utility methods because they generalised well across ages, ability levels, tasks and educational settings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/16719566/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Distributed practice in verbal recall tasks: A review and...by NJ Cepeda · 2006 · Cited by 2981 — The authors performed a meta-ana...</span></span></span>
+The evidence base is unusually broad for a learning strategy. Cepeda and colleagues’ 2006 review located 839 assessments from 317 experiments in 184 articles, comparing massed and spaced presentations as well as different spacing intervals. Dunlosky and colleagues’ review of ten learning techniques rated distributed practice and [practice testing]({{ 'practice-tests/' | relative_url }}) as high-utility methods because they generalised well across ages, ability levels, tasks and educational settings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/16719566/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Distributed practice in verbal recall tasks: A review and...by NJ Cepeda · 2006 · Cited by 2981 — The authors performed a meta-ana...</span></span></span>
 
 The practical takeaway is simple but demanding: do not judge a learning session only by how much is covered. Judge it by whether the learner will be able to use the material after time, interference and partial forgetting. For analytical skills, that means spacing not only facts but also [worked examples]({{ 'worked-examples/' | relative_url }}), explanation [prompts]({{ 'prompts/' | relative_url }}), comparison tasks and attempts to solve problems without looking at the solution.
 
@@ -467,7 +467,7 @@ The practical takeaway is simple but demanding: do not judge a learning session 
 
 Spacing helps because it changes what the learner has to do during the next encounter. A second exposure immediately after the first is easy to process, but that ease can mean shallow processing: the learner recognises the material without needing to reconstruct it. A delayed exposure is harder. It asks the learner to retrieve, compare, repair and reconnect.
 
-Researchers describe several mechanisms that may contribute to the spacing effect rather than one single explanation. The UCLA Bjork Learning and Forgetting Lab summarises the basic finding as repeated information being learned better when presentations are spaced rather than massed, while broader reviews discuss how spacing interacts with retrieval, attention, contextual variation and the difficulty of successful remembering.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://bjorklab.psych.ucla.edu/research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bjorklab.psych.ucla.edu">[Bjork Learning and Forgetting Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bjorklab.psych.ucla.edu</span><span class="citation-popover-snippet">Bjork Learning and Forgetting LabResearchThe spacing effect is the finding that information that is presented repeatedly over spaced inte...</span></span></span>
+Researchers describe several mechanisms that may contribute to the spacing effect rather than one single explanation. The UCLA Bjork Learning and Forgetting Lab summarises the basic finding as repeated information being learned better when presentations are spaced rather than massed, while broader reviews discuss how spacing interacts with retrieval, attention, contextual variation and the difficulty of successful remembering. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://bjorklab.psych.ucla.edu/research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bjorklab.psych.ucla.edu">[Bjork Learning and Forgetting Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bjorklab.psych.ucla.edu</span><span class="citation-popover-snippet">Bjork Learning and Forgetting LabResearchThe spacing effect is the finding that information that is presented repeatedly over spaced inte...</span></span></span>
 
 For a learner trying to improve thinking, three mechanisms are especially useful:
 
@@ -480,7 +480,7 @@ For a learner trying to improve thinking, three mechanisms are especially useful
 
 </div>
 
-This is why spacing is more than “reviewing later”. A weak version of spacing is passive rereading after a delay. A stronger version asks the learner to retrieve first, explain, solve, compare, or predict, then check against feedback. Retrieval practice research shows that testing memory can improve long-term retention relative to repeated studying, and recent reviews treat spacing and retrieval as closely connected strategies for effective learning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/20951630/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+This is why spacing is more than “reviewing later”. A weak version of spacing is passive rereading after a delay. A stronger version asks the learner to retrieve first, explain, solve, compare, or predict, then check against feedback. Retrieval practice research shows that testing memory can improve long-term retention relative to repeated studying, and recent reviews treat spacing and retrieval as closely connected strategies for effective learning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/20951630/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_distributed_practice_4a249b-Illustration-1-dark.svg" | relative_url }}" alt="Spacing illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_distributed_practice_4a249b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_distributed_practice_4a249b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -488,7 +488,7 @@ This is why spacing is more than “reviewing later”. A weak version of spacin
 
 The most common mistake is to ask for one universal spacing interval. The better question is: “When will I need this again?” The optimal gap depends on the desired retention period. If the goal is to remember something next week, the best review interval is shorter than if the goal is to remember it months from now.
 
-A large study by Cepeda and colleagues taught more than 1,350 participants factual material, brought them back for a second learning session after different gaps, and tested them after delays up to a year. The pattern was not “longer is always better”. Performance improved as the gap increased up to a point, then declined when the gap became too long. The optimal gap increased as the final test delay increased; as a proportion of the test delay, it ranged from roughly 20–40 per cent of a one-week delay to about 5–10 per cent of a one-year delay.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/19076480/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+A large study by Cepeda and colleagues taught more than 1,350 participants factual material, brought them back for a second learning session after different gaps, and tested them after delays up to a year. The pattern was not “longer is always better”. Performance improved as the gap increased up to a point, then declined when the gap became too long. The optimal gap increased as the final test delay increased; as a proportion of the test delay, it ranged from roughly 20–40 per cent of a one-week delay to about 5–10 per cent of a one-year delay. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/19076480/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
 That finding is useful without turning learning into a precise calendar formula. It suggests that spacing should expand with the time horizon:
 
@@ -525,7 +525,7 @@ For example, someone learning how to evaluate arguments might spread one topic a
 
 This approach is stronger than simply “studying more often” because each session has a retrieval or application demand. The learner is not just refreshing a page; they are practising access and use.
 
-For analytical skills, the best spaced sessions are often short and specific. Ten minutes spent reconstructing a causal diagram, explaining a statistical concept without notes, or identifying the weakest assumption in a decision can be more valuable than an hour of passive rereading. Reviews of effective learning emphasise that spacing and retrieval are underused partly because they feel less fluent than rereading, even though they produce better long-term learning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/362093173_The_science_of_effective_learning_with_a_focus_on_spacing_and_retrieval_practice" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate The science of effective learning with a focus on spacing</span><span class="citation-popover-snippet">Research Gate The science of effective learning with a focus on spacing</span></span></span>
+For analytical skills, the best spaced sessions are often short and specific. Ten minutes spent reconstructing a causal diagram, explaining a statistical concept without notes, or identifying the weakest assumption in a decision can be more valuable than an hour of passive rereading. Reviews of effective learning emphasise that spacing and retrieval are underused partly because they feel less fluent than rereading, even though they produce better long-term learning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/362093173_The_science_of_effective_learning_with_a_focus_on_spacing_and_retrieval_practice" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate The science of effective learning with a focus on spacing</span><span class="citation-popover-snippet">Research Gate The science of effective learning with a focus on spacing</span></span></span>
 
 The planning principle is therefore: schedule the next encounter before the current one feels finished. After learning a concept, decide when it will be recalled, where it will be applied, and what evidence will show that it has survived.
 
@@ -537,7 +537,7 @@ Spacing makes weaknesses visible; feedback turns those weaknesses into learning.
 
 Feedback is especially important for improving thinking because analytical errors are often subtle. A person may remember a term but apply it too broadly, draw a causal conclusion from weak evidence, or confuse correlation with explanation. A spaced practice routine should therefore include checks against answers, worked examples, expert comments, peer critique, or real-world [outcomes]({{ 'outcomes/' | relative_url }}) where available.
 
-Retrieval practice research supports this combination. Roediger and Karpicke’s work helped establish that testing can be more than assessment: the act of retrieval itself improves later retention. Later classroom-focused and review work has stressed that retrieval should be repeated after delays and should include conditions that help learners correct errors, not just produce scores.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/20951630/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+Retrieval practice research supports this combination. Roediger and Karpicke’s work helped establish that testing can be more than assessment: the act of retrieval itself improves later retention. Later classroom-focused and review work has stressed that retrieval should be repeated after delays and should include conditions that help learners correct errors, not just produce scores. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/20951630/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
 A practical feedback loop for spaced analytical practice looks like this:
 
@@ -572,7 +572,7 @@ These examples show why distributed practice belongs inside analytical skill-bui
 
 The main barrier is not that spacing is complicated. It is that it feels worse while it is working. Massed study produces a smooth sense of progress: pages are covered, examples are familiar, and answers come quickly. Spaced practice reintroduces difficulty. The learner may feel slower, less confident and less fluent, even when the method is producing better long-term retention.
 
-Carpenter, Pan and Butler’s review highlights this metacognitive problem: effective learning strategies are often underused because learners have false beliefs about learning, lack awareness of better strategies, or find the strategies counter-intuitive. In other words, people often choose the method that feels good during study rather than the one that supports later performance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://profiles.wustl.edu/en/publications/the-science-of-effective-learning-with-spacing-and-retrieval-prac/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: profiles.wustl.edu">[WashU Research Profiles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">profiles.wustl.edu</span><span class="citation-popover-snippet">WashU Research ProfilesThe science of effective learning with spacing and retrieval...by SK Carpenter · 2022 · Cited by 289 — In this Re...</span></span></span>
+Carpenter, Pan and Butler’s review highlights this metacognitive problem: effective learning strategies are often underused because learners have false beliefs about learning, lack awareness of better strategies, or find the strategies counter-intuitive. In other words, people often choose the method that feels good during study rather than the one that supports later performance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://profiles.wustl.edu/en/publications/the-science-of-effective-learning-with-spacing-and-retrieval-prac/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: profiles.wustl.edu">[WashU Research Profiles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">profiles.wustl.edu</span><span class="citation-popover-snippet">WashU Research ProfilesThe science of effective learning with spacing and retrieval...by SK Carpenter · 2022 · Cited by 289 — In this Re...</span></span></span>
 
 This matters for any programme aimed at improving thinking. If learners expect progress to feel easy, spacing may look like failure: “I learned this already, so why is it hard to recall?” A better interpretation is: “This is the moment where learning becomes durable.” The difficulty is useful only within limits, but some friction is a feature of the method.
 
@@ -582,9 +582,9 @@ Teachers, trainers and self-directed learners can reduce resistance by making th
 <img src="{{ "/assets/images/improving_your_think_da4710_distributed_practice_4a249b-Illustration-3-dark.svg" | relative_url }}" alt="Spacing illustration 3" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_distributed_practice_4a249b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_distributed_practice_4a249b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where the evidence is strong, and where caution is needed
 
-The spacing effect is one of the better-supported principles in learning science, but implementation still matters. Laboratory evidence is extensive, and major reviews support distributed practice as a high-utility strategy. At the same time, classroom and workplace conditions are messier than controlled experiments: learners vary, curricula are crowded, feedback quality differs, and “spacing” can mean many different schedules.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26173288/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Improving Students&#x27; Learning With Effective...Practice testing and distributed practice received high utility assessments because...</span></span></span>
+The spacing effect is one of the better-supported principles in learning science, but implementation still matters. Laboratory evidence is extensive, and major reviews support distributed practice as a high-utility strategy. At the same time, classroom and workplace conditions are messier than controlled experiments: learners vary, curricula are crowded, feedback quality differs, and “spacing” can mean many different schedules. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26173288/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Improving Students&#x27; Learning With Effective...Practice testing and distributed practice received high utility assessments because...</span></span></span>
 
-Recent applied reviews point to this tension. Work on classroom learning notes that distributed practice has strong laboratory support, while applied studies must still clarify which designs work best in real courses, with real assessments and competing instructional demands. A systematic review of retrieval, distributed and interleaved practice in classroom settings found more consistent benefits for retrieval and interleaving than for distributed practice alone, partly reflecting the difficulty of isolating spacing in complex classrooms.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12189222/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Distributed Practice Effect on Classroom Learning</span><span class="citation-popover-snippet">PMCThe Distributed Practice Effect on Classroom Learning</span></span></span>
+Recent applied reviews point to this tension. Work on classroom learning notes that distributed practice has strong laboratory support, while applied studies must still clarify which designs work best in real courses, with real assessments and competing instructional demands. A systematic review of retrieval, distributed and interleaved practice in classroom settings found more consistent benefits for retrieval and interleaving than for distributed practice alone, partly reflecting the difficulty of isolating spacing in complex classrooms. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12189222/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Distributed Practice Effect on Classroom Learning</span><span class="citation-popover-snippet">PMCThe Distributed Practice Effect on Classroom Learning</span></span></span>
 
 That caution should not lead to abandoning spacing. It should lead to better design. Spacing is weakest when it becomes a vague reminder to “revise regularly”. It is strongest when paired with active recall, [varied examples]({{ 'varied-examples/' | relative_url }}), feedback and a clear retention goal.
 
@@ -619,194 +619,194 @@ Spacing makes thinking stick because it respects how memory actually behaves. Un
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Spacing Practice Makes Thinking Stick. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Spacing Practice Makes Thinking Stick. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-</h4>
-<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+We+Learn+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How We Learn on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=R9C2DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How We Learn" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=How+We+Learn+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How We Learn">How We Learn</a>
+        </h4>
+        <p class="fr-book-author">By Stanislas Dehaene</p>
         
-<p class="fr-book-desc">Explains spaced practice, retrieval, and durable learning.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Covers spacing, forgetting, and effective study strategies.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=How+We+Learn+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+We+Learn+by+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How We Learn on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ncgJAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How We Learn" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=How+We+Learn+by+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How We Learn">How We Learn</a>
-</h4>
-<p class="fr-book-author">By Benedict Carey</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oneWAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+        </h4>
+        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-<p class="fr-book-desc">Covers spacing, forgetting, and effective study strategies.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=How+We+Learn+by+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains spaced practice, retrieval, and durable learning.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ultralearning+by+Scott+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ultralearning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d0IdvgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ultralearning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ultralearning">Ultralearning</a>
-</h4>
-<p class="fr-book-author">By Scott Young</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Mind+for+Numbers+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Mind for Numbers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Jv3YCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A Mind for Numbers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=A+Mind+for+Numbers+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Mind for Numbers">A Mind for Numbers</a>
+        </h4>
+        <p class="fr-book-author">By Barbara A. Oakley</p>
         
-<p class="fr-book-desc">Shows practical methods for long-term skill acquisition.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+Young&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Includes practical advice on spacing and learning.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=A+Mind+for+Numbers+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Peak on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eHfkCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Peak" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Peak">Peak</a>
-</h4>
-<p class="fr-book-author">By Anders Ericsson, Robert Pool</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ultralearning+Scott+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ultralearning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d0IdvgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ultralearning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ultralearning+Scott+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ultralearning">Ultralearning</a>
+        </h4>
+        <p class="fr-book-author">By Scott Young</p>
         
-<p class="fr-book-desc">Connects deliberate practice with lasting performance.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Shows practical methods for long-term skill acquisition.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ultralearning+Scott+Young&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+We+Learn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How We Learn</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ultralearning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ultralearning</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+We+Learn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How We Learn</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Mind+for+Numbers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Mind for Numbers</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wooden Office Study Desk Pen Pencil Holder Storage Organizer Box Tidy Case Stand"><img src="{{ '/assets/images/marketplace-covers/cb1551eb30bec8d2ffbe.jpg' | relative_url }}" alt="Listing image for Wooden Office Study Desk Pen Pencil Holder Storage Organizer Box Tidy Case Stand" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Wooden Office Study Desk Pen Pencil Holder Storage Organizer Box Tidy Case Stand</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: study desk organizer</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wooden Office Study Desk Pen Pencil Holder Storage Organizer Box Tidy Case Stand"><img src="{{ '/assets/images/marketplace-covers/cb1551eb30bec8d2ffbe.jpg' | relative_url }}" alt="Listing image for Wooden Office Study Desk Pen Pencil Holder Storage Organizer Box Tidy Case Stand" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Wooden Office Study Desk Pen Pencil Holder Storage Organizer Box Tidy Case Stand</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study desk organizer</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Office Study Desk Wooden Pen Pencil Storage Holder Organizer Box Tidy Shelf Case"><img src="{{ '/assets/images/marketplace-covers/3c508ac2c690fcd4894b.jpg' | relative_url }}" alt="Listing image for Office Study Desk Wooden Pen Pencil Storage Holder Organizer Box Tidy Shelf Case" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Office Study Desk Wooden Pen Pencil Storage Holder Organizer Box Tidy Shelf Case</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: study desk organizer</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Office Study Desk Wooden Pen Pencil Storage Holder Organizer Box Tidy Shelf Case"><img src="{{ '/assets/images/marketplace-covers/3c508ac2c690fcd4894b.jpg' | relative_url }}" alt="Listing image for Office Study Desk Wooden Pen Pencil Storage Holder Organizer Box Tidy Shelf Case" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Office Study Desk Wooden Pen Pencil Storage Holder Organizer Box Tidy Shelf Case</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study desk organizer</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Office Study Desk Organizer Table Box Tidy Case Wooden Pen Pencil Storage Holder"><img src="{{ '/assets/images/marketplace-covers/3e8d025f6bd62fcf6228.jpg' | relative_url }}" alt="Listing image for Office Study Desk Organizer Table Box Tidy Case Wooden Pen Pencil Storage Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Office Study Desk Organizer Table Box Tidy Case Wooden Pen Pencil Storage Holder</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: study desk organizer</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Office Study Desk Organizer Table Box Tidy Case Wooden Pen Pencil Storage Holder"><img src="{{ '/assets/images/marketplace-covers/3e8d025f6bd62fcf6228.jpg' | relative_url }}" alt="Listing image for Office Study Desk Organizer Table Box Tidy Case Wooden Pen Pencil Storage Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Office Study Desk Organizer Table Box Tidy Case Wooden Pen Pencil Storage Holder</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study desk organizer</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HOMCOM Desk Organiser Desktop Bookshelf 180 Degree Rotatable 2 Drawers Bamboo"><img src="{{ '/assets/images/marketplace-covers/9bc0ed0639b2b52e8c30.jpg' | relative_url }}" alt="Listing image for HOMCOM Desk Organiser Desktop Bookshelf 180 Degree Rotatable 2 Drawers Bamboo" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">HOMCOM Desk Organiser Desktop Bookshelf 180 Degree Rotatable 2 Drawers Bamboo</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: study desk organizer</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HOMCOM Desk Organiser Desktop Bookshelf 180 Degree Rotatable 2 Drawers Bamboo"><img src="{{ '/assets/images/marketplace-covers/9bc0ed0639b2b52e8c30.jpg' | relative_url }}" alt="Listing image for HOMCOM Desk Organiser Desktop Bookshelf 180 Degree Rotatable 2 Drawers Bamboo" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">HOMCOM Desk Organiser Desktop Bookshelf 180 Degree Rotatable 2 Drawers Bamboo</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study desk organizer</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="spacing-why-spacing-practice-makes-thinking-stick-improving-your-think-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -822,7 +822,7 @@ Spacing makes thinking stick because it respects how memory actually behaves. Un
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -842,7 +842,7 @@ Spacing makes thinking stick because it respects how memory actually behaves. Un
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -874,7 +874,7 @@ Spacing makes thinking stick because it respects how memory actually behaves. Un
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -926,7 +926,7 @@ Spacing makes thinking stick because it respects how memory actually behaves. Un
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -971,7 +971,7 @@ Spacing makes thinking stick because it respects how memory actually behaves. Un
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1012,167 +1012,167 @@ Spacing makes thinking stick because it respects how memory actually behaves. Un
 
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: bjorklab.psych.ucla.edu  
-   Link:<a href="https://bjorklab.psych.ucla.edu/research/" target="_blank" rel="noopener noreferrer nofollow">https://bjorklab.psych.ucla.edu/research/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Bjork Learning and Forgetting LabResearchThe spacing effect is the finding that information that is presented repeatedly over spaced inte...</p></details>
+   Link: <a href="https://bjorklab.psych.ucla.edu/research/" target="_blank" rel="noopener noreferrer nofollow">https://bjorklab.psych.ucla.edu/research/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bjork Learning and Forgetting LabResearchThe spacing effect is the finding that information that is presented repeatedly over spaced inte...</p></details>
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: researchgate.net  
    Title: Research Gate The science of effective learning with a focus on spacing  
-   Link:<a href="https://www.researchgate.net/publication/362093173_The_science_of_effective_learning_with_a_focus_on_spacing_and_retrieval_practice" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362093173_The_science_of_effective_learning_with_a_focus_on_spacing_and_retrieval_practice</a>  
+   Link: <a href="https://www.researchgate.net/publication/362093173_The_science_of_effective_learning_with_a_focus_on_spacing_and_retrieval_practice" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362093173_The_science_of_effective_learning_with_a_focus_on_spacing_and_retrieval_practice</a>  
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe Distributed Practice Effect on Classroom Learning  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12189222/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12189222/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12189222/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12189222/</a>  
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: distributed.net  
-   Link:<a href="https://www.distributed.net/" target="_blank" rel="noopener noreferrer nofollow">https://www.distributed.net/</a>  
+   Link: <a href="https://www.distributed.net/" target="_blank" rel="noopener noreferrer nofollow">https://www.distributed.net/</a>  
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/7062225_Distributed_Practice_in_Verbal_Recall_Tasks_A_Review_and_Quantitative_Synthesis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/7062225_Distributed_Practice_in_Verbal_Recall_Tasks_A_Review_and_Quantitative_Synthesis</a>  
+   Link: <a href="https://www.researchgate.net/publication/7062225_Distributed_Practice_in_Verbal_Recall_Tasks_A_Review_and_Quantitative_Synthesis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/7062225_Distributed_Practice_in_Verbal_Recall_Tasks_A_Review_and_Quantitative_Synthesis</a>  
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/235983059_Using_Spacing_to_Enhance_Diverse_Forms_of_Learning_Review_of_Recent_Research_and_Implications_for_Instruction" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/235983059_Using_Spacing_to_Enhance_Diverse_Forms_of_Learning_Review_of_Recent_Research_and_Implications_for_Instruction</a>  
+   Link: <a href="https://www.researchgate.net/publication/235983059_Using_Spacing_to_Enhance_Diverse_Forms_of_Learning_Review_of_Recent_Research_and_Implications_for_Instruction" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/235983059_Using_Spacing_to_Enhance_Diverse_Forms_of_Learning_Review_of_Recent_Research_and_Implications_for_Instruction</a>  
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/5574966_The_Critical_Importance_of_Retrieval_for_Learning" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/5574966_The_Critical_Importance_of_Retrieval_for_Learning</a>  
+   Link: <a href="https://www.researchgate.net/publication/5574966_The_Critical_Importance_of_Retrieval_for_Learning" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/5574966_The_Critical_Importance_of_Retrieval_for_Learning</a>  
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/303833330_Distributed_Practice_and_Retrieval_Practice_in_Primary_School_Vocabulary_Learning_A_Multi-classroom_Study_Distributed_Practice_and_Retrieval_Practice" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/303833330_Distributed_Practice_and_Retrieval_Practice_in_Primary_School_Vocabulary_Learning_A_Multi-classroom_Study_Distributed_Practice_and_Retrieval_Practice</a>  
+   Link: <a href="https://www.researchgate.net/publication/303833330_Distributed_Practice_and_Retrieval_Practice_in_Primary_School_Vocabulary_Learning_A_Multi-classroom_Study_Distributed_Practice_and_Retrieval_Practice" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/303833330_Distributed_Practice_and_Retrieval_Practice_in_Primary_School_Vocabulary_Learning_A_Multi-classroom_Study_Distributed_Practice_and_Retrieval_Practice</a>  
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/392383866_The_Distributed_Practice_Effect_on_Classroom_Learning_A_Meta-Analytic_Review_of_Applied_Research" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/392383866_The_Distributed_Practice_Effect_on_Classroom_Learning_A_Meta-Analytic_Review_of_Applied_Research</a>  
+   Link: <a href="https://www.researchgate.net/publication/392383866_The_Distributed_Practice_Effect_on_Classroom_Learning_A_Meta-Analytic_Review_of_Applied_Research" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/392383866_The_Distributed_Practice_Effect_on_Classroom_Learning_A_Meta-Analytic_Review_of_Applied_Research</a>  
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: researchgate.net  
    Title: 23657355 Spacing Effects in Learning A Temporal Ridgeline of Optimal Retention  
-   Link:<a href="https://www.researchgate.net/publication/23657355_Spacing_Effects_in_Learning_A_Temporal_Ridgeline_of_Optimal_Retention" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/23657355_Spacing_Effects_in_Learning_A_Temporal_Ridgeline_of_Optimal_Retention</a>  
+   Link: <a href="https://www.researchgate.net/publication/23657355_Spacing_Effects_in_Learning_A_Temporal_Ridgeline_of_Optimal_Retention" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/23657355_Spacing_Effects_in_Learning_A_Temporal_Ridgeline_of_Optimal_Retention</a>  
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: cirtl.ceils.ucla.edu  
    Title: learning strategies  
-   Link:<a href="https://cirtl.ceils.ucla.edu/learning-strategies/" target="_blank" rel="noopener noreferrer nofollow">https://cirtl.ceils.ucla.edu/learning-strategies/</a>  
+   Link: <a href="https://cirtl.ceils.ucla.edu/learning-strategies/" target="_blank" rel="noopener noreferrer nofollow">https://cirtl.ceils.ucla.edu/learning-strategies/</a>  
 
-12.<a id="endnote-12"></a>
+12. <a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/26173288/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26173288/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Improving Students&#x27; Learning With Effective...Practice testing and distributed practice received high utility assessments because...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26173288/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26173288/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Improving Students&#x27; Learning With Effective...Practice testing and distributed practice received high utility assessments because...</p></details>
 
-13.<a id="endnote-13"></a>
+13. <a id="endnote-13"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/16719566/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/16719566/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Distributed practice in verbal recall tasks: A review and...by NJ Cepeda · 2006 · Cited by 2981 — The authors performed a meta-ana...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/16719566/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/16719566/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Distributed practice in verbal recall tasks: A review and...by NJ Cepeda · 2006 · Cited by 2981 — The authors performed a meta-ana...</p></details>
 
-14.<a id="endnote-14"></a>
+14. <a id="endnote-14"></a>
    Source: profiles.wustl.edu  
-   Link:<a href="https://profiles.wustl.edu/en/publications/the-science-of-effective-learning-with-spacing-and-retrieval-prac/" target="_blank" rel="noopener noreferrer nofollow">https://profiles.wustl.edu/en/publications/the-science-of-effective-learning-with-spacing-and-retrieval-prac/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>WashU Research ProfilesThe science of effective learning with spacing and retrieval...by SK Carpenter · 2022 · Cited by 289 — In this Re...</p></details>
+   Link: <a href="https://profiles.wustl.edu/en/publications/the-science-of-effective-learning-with-spacing-and-retrieval-prac/" target="_blank" rel="noopener noreferrer nofollow">https://profiles.wustl.edu/en/publications/the-science-of-effective-learning-with-spacing-and-retrieval-prac/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>WashU Research ProfilesThe science of effective learning with spacing and retrieval...by SK Carpenter · 2022 · Cited by 289 — In this Re...</p></details>
 
-15.<a id="endnote-15"></a>
+15. <a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/20951630/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/20951630/</a>  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/20951630/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/20951630/</a>  
 
-16.<a id="endnote-16"></a>
+16. <a id="endnote-16"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/19076480/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/19076480/</a>  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/19076480/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/19076480/</a>  
 
-17.<a id="endnote-17"></a>
+17. <a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2930147/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2930147/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2930147/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2930147/</a>  
 
-18.<a id="endnote-18"></a>
+18. <a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11078833/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11078833/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11078833/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11078833/</a>  
 
-19.<a id="endnote-19"></a>
+19. <a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4480221/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4480221/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4480221/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4480221/</a>  
 
-20.<a id="endnote-20"></a>
+20. <a id="endnote-20"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6289840/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6289840/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6289840/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6289840/</a>  
 
-21.<a id="endnote-21"></a>
+21. <a id="endnote-21"></a>
    Source: dictionary.cambridge.org  
-   Link:<a href="https://dictionary.cambridge.org/dictionary/english/spacing" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/spacing</a>  
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/spacing" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/spacing</a>  
 
-22.<a id="endnote-22"></a>
+22. <a id="endnote-22"></a>
    Source: edresearch.edu.au  
    Title: spacing retrieval  
-   Link:<a href="https://www.edresearch.edu.au/summaries-explainers/explainers/spacing-retrieval" target="_blank" rel="noopener noreferrer nofollow">https://www.edresearch.edu.au/summaries-explainers/explainers/spacing-retrieval</a>  
+   Link: <a href="https://www.edresearch.edu.au/summaries-explainers/explainers/spacing-retrieval" target="_blank" rel="noopener noreferrer nofollow">https://www.edresearch.edu.au/summaries-explainers/explainers/spacing-retrieval</a>  
 
-23.<a id="endnote-23"></a>
+23. <a id="endnote-23"></a>
    Source: psychnet.wustl.edu  
    Title: Roediger Karpicke 2006 PPS  
-   Link:<a href="https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Roediger-Karpicke-2006_PPS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Roediger-Karpicke-2006_PPS.pdf</a>  
+   Link: <a href="https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Roediger-Karpicke-2006_PPS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Roediger-Karpicke-2006_PPS.pdf</a>  
 
-24.<a id="endnote-24"></a>
+24. <a id="endnote-24"></a>
    Source: education-ni.gov.uk  
    Title: Retrieval Practice  
-   Link:<a href="https://www.education-ni.gov.uk/sites/default/files/2025-04/May%20Newsletter%20-%20Retrieval%20Practice%20%20What%20it%20is%2C%20Why%20it%20Works%20and%20How%20to%20Do%20It%20Better.PDF" target="_blank" rel="noopener noreferrer nofollow">https://www.education-ni.gov.uk/sites/default/files/2025-04/May%20Newsletter%20-%20Retrieval%20Practice%20%20What%20it%20is%2C%20Why%20it%20Works%20and%20How%20to%20Do%20It%20Better.PDF</a>  
+   Link: <a href="https://www.education-ni.gov.uk/sites/default/files/2025-04/May%20Newsletter%20-%20Retrieval%20Practice%20%20What%20it%20is%2C%20Why%20it%20Works%20and%20How%20to%20Do%20It%20Better.PDF" target="_blank" rel="noopener noreferrer nofollow">https://www.education-ni.gov.uk/sites/default/files/2025-04/May%20Newsletter%20-%20Retrieval%20Practice%20%20What%20it%20is%2C%20Why%20it%20Works%20and%20How%20to%20Do%20It%20Better.PDF</a>  
 
-25.<a id="endnote-25"></a>
+25. <a id="endnote-25"></a>
    Source: get-alfred.ai  
    Title: spacing effect  
-   Link:<a href="https://get-alfred.ai/blog/spacing-effect" target="_blank" rel="noopener noreferrer nofollow">https://get-alfred.ai/blog/spacing-effect</a>  
+   Link: <a href="https://get-alfred.ai/blog/spacing-effect" target="_blank" rel="noopener noreferrer nofollow">https://get-alfred.ai/blog/spacing-effect</a>  
 
-26.<a id="endnote-26"></a>
+26. <a id="endnote-26"></a>
    Source: donaldclarkplanb.blogspot.com  
    Title: Roediger and Karpicke  
-   Link:<a href="https://donaldclarkplanb.blogspot.com/2021/10/roediger-and-karpicke-retrieval.html" target="_blank" rel="noopener noreferrer nofollow">https://donaldclarkplanb.blogspot.com/2021/10/roediger-and-karpicke-retrieval.html</a>  
+   Link: <a href="https://donaldclarkplanb.blogspot.com/2021/10/roediger-and-karpicke-retrieval.html" target="_blank" rel="noopener noreferrer nofollow">https://donaldclarkplanb.blogspot.com/2021/10/roediger-and-karpicke-retrieval.html</a>  
 
 ### Additional References
 
-27.<a id="endnote-27"></a>
+27. <a id="endnote-27"></a>
    Source: youtube.com  
    Title: What is spaced practice, and how can it be used as a teaching tool?  
-   Link:<a href="https://www.youtube.com/watch?v=9irar_7ceMs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9irar_7ceMs</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Benedict Carey on Study Hacks for Better Learning | Amber Book...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=9irar_7ceMs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9irar_7ceMs</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Benedict Carey on Study Hacks for Better Learning | Amber Book...</p></details>
 
-28.<a id="endnote-28"></a>
+28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: Spaced Practice – Helping Students Remember More  
-   Link:<a href="https://www.youtube.com/watch?v=LQ56qupqlO0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LQ56qupqlO0</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Most Powerful Way to Remember What You Study | Spaced Repetition (Evidence Based)...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=LQ56qupqlO0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LQ56qupqlO0</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Most Powerful Way to Remember What You Study | Spaced Repetition (Evidence Based)...</p></details>
 
-29.<a id="endnote-29"></a>
+29. <a id="endnote-29"></a>
    Source: youtube.com  
    Title: Benedict Carey on Study Hacks for Better Learning | Amber Book  
-   Link:<a href="https://www.youtube.com/watch?v=5inkPKmC0i4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5inkPKmC0i4</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Spaced Practice – Helping Students Remember More...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=5inkPKmC0i4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5inkPKmC0i4</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spaced Practice – Helping Students Remember More...</p></details>
 
-30.<a id="endnote-30"></a>
+30. <a id="endnote-30"></a>
    Source: yorku.ca  
-   Link:<a href="https://www.yorku.ca/ncepeda/publications/WKWKKF2019.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.yorku.ca/ncepeda/publications/WKWKKF2019.pdf</a>  
+   Link: <a href="https://www.yorku.ca/ncepeda/publications/WKWKKF2019.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.yorku.ca/ncepeda/publications/WKWKKF2019.pdf</a>  
 
-31.<a id="endnote-31"></a>
+31. <a id="endnote-31"></a>
    Source: ase.org.uk  
-   Link:<a href="https://www.ase.org.uk/system/files/17-21%20SSRD%20392%20Bates.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ase.org.uk/system/files/17-21%20SSRD%20392%20Bates.pdf</a>  
+   Link: <a href="https://www.ase.org.uk/system/files/17-21%20SSRD%20392%20Bates.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ase.org.uk/system/files/17-21%20SSRD%20392%20Bates.pdf</a>  
 
-32.<a id="endnote-32"></a>
+32. <a id="endnote-32"></a>
    Source: slideshare.net  
-   Link:<a href="https://www.slideshare.net/slideshow/distributed-practice-in-verbal-recall-tasks-a-review-and-quantitative-synthesis/4693541" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/distributed-practice-in-verbal-recall-tasks-a-review-and-quantitative-synthesis/4693541</a>  
+   Link: <a href="https://www.slideshare.net/slideshow/distributed-practice-in-verbal-recall-tasks-a-review-and-quantitative-synthesis/4693541" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/distributed-practice-in-verbal-recall-tasks-a-review-and-quantitative-synthesis/4693541</a>  
 
-33.<a id="endnote-33"></a>
+33. <a id="endnote-33"></a>
    Source: semanticscholar.org  
-   Link:<a href="https://www.semanticscholar.org/paper/Distributed-Practice-or-Spacing-Effect-Oxford-of-Carpenter/9f0090444bdf81a74637b4c14fb62d111051c71c" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Distributed-Practice-or-Spacing-Effect-Oxford-of-Carpenter/9f0090444bdf81a74637b4c14fb62d111051c71c</a>  
+   Link: <a href="https://www.semanticscholar.org/paper/Distributed-Practice-or-Spacing-Effect-Oxford-of-Carpenter/9f0090444bdf81a74637b4c14fb62d111051c71c" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Distributed-Practice-or-Spacing-Effect-Oxford-of-Carpenter/9f0090444bdf81a74637b4c14fb62d111051c71c</a>  
 
-34.<a id="endnote-34"></a>
+34. <a id="endnote-34"></a>
    Source: medium.com  
-   Link:<a href="https://medium.com/education-shortform/distributed-practice-bd429fb728a6" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/education-shortform/distributed-practice-bd429fb728a6</a>  
+   Link: <a href="https://medium.com/education-shortform/distributed-practice-bd429fb728a6" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/education-shortform/distributed-practice-bd429fb728a6</a>  
 
-35.<a id="endnote-35"></a>
+35. <a id="endnote-35"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link:<a href="https://educationendowmentfoundation.org.uk/projects-and-evaluation/research-agenda-themes-priority-areas/research-agenda-theme-cognitive-science" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/projects-and-evaluation/research-agenda-themes-priority-areas/research-agenda-theme-cognitive-science</a>  
+   Link: <a href="https://educationendowmentfoundation.org.uk/projects-and-evaluation/research-agenda-themes-priority-areas/research-agenda-theme-cognitive-science" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/projects-and-evaluation/research-agenda-themes-priority-areas/research-agenda-theme-cognitive-science</a>  
 
-36.<a id="endnote-36"></a>
+36. <a id="endnote-36"></a>
    Source: evidencebased.education  
-   Link:<a href="https://evidencebased.education/resource/retrieval-and-spaced-practice-study-strategies-that-must-be-combined/" target="_blank" rel="noopener noreferrer nofollow">https://evidencebased.education/resource/retrieval-and-spaced-practice-study-strategies-that-must-be-combined/</a>  
+   Link: <a href="https://evidencebased.education/resource/retrieval-and-spaced-practice-study-strategies-that-must-be-combined/" target="_blank" rel="noopener noreferrer nofollow">https://evidencebased.education/resource/retrieval-and-spaced-practice-study-strategies-that-must-be-combined/</a>  

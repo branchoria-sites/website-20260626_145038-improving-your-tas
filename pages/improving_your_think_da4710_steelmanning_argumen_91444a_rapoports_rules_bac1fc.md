@@ -280,7 +280,7 @@ image: /assets/images/improving_your_think_da4710_steelmanning_argumen_91444a_ra
 
 ## Introduction
 
-Rapoport’s rules provide a disciplined order for criticism: first show that you genuinely understand another person’s position, then identify areas of agreement, acknowledge what you have learned, and only afterwards present objections. Philosopher Daniel Dennett popularised this sequence in *Intuition Pumps and Other Tools for Thinking*, crediting it to the social psychologist and game theorist Anatol Rapoport. The rules are closely related to [steelmanning]({{ 'steelmanning/' | relative_url }}) because they force critics to engage with the strongest version of an opposing view before attempting to refute it. Rather than making disagreement weaker, they make criticism more accurate, more persuasive, and less likely to degenerate into talking past one another.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.themarginalian.org/2014/03/28/daniel-dennett-rapoport-rules-criticism/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themarginalian.org">[The Marginalian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themarginalian.org</span><span class="citation-popover-title">daniel dennett rapoport rules criticism</span><span class="citation-popover-snippet">The MarginalianHow to Criticize with Kindness: Philosopher Daniel Dennett ...28 Mar 2014 — There are ways to be critical while remaining...</span></span></span>
+Rapoport’s rules provide a disciplined order for criticism: first show that you genuinely understand another person’s position, then identify areas of agreement, acknowledge what you have learned, and only afterwards present objections. Philosopher Daniel Dennett popularised this sequence in *Intuition Pumps and Other Tools for Thinking*, crediting it to the social psychologist and game theorist Anatol Rapoport. The rules are closely related to [steelmanning]({{ 'steelmanning/' | relative_url }}) because they force critics to engage with the strongest version of an opposing view before attempting to refute it. Rather than making disagreement weaker, they make criticism more accurate, more persuasive, and less likely to degenerate into talking past one another. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.themarginalian.org/2014/03/28/daniel-dennett-rapoport-rules-criticism/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themarginalian.org">[The Marginalian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themarginalian.org</span><span class="citation-popover-title">daniel dennett rapoport rules criticism</span><span class="citation-popover-snippet">The MarginalianHow to Criticize with Kindness: Philosopher Daniel Dennett ...28 Mar 2014 — There are ways to be critical while remaining...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PHvQn7XxfV4" title="Critical Thinking Skill: Understand What Someone Is Saying Before You Criticize" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PHvQn7XxfV4" target="_blank" rel="noopener noreferrer">Critical Thinking Skill: Understand What Someone Is Saying Before You Criticize</a></p><p class="youtube-embed-meta">Channel: GoldAcademy</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PHvQn7XxfV4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PHvQn7XxfV4">Open on YouTube</a></p></div></div></div>
@@ -306,178 +306,178 @@ Dennett presents the rules as a practical recipe for composing a successful crit
 3. **State what you learned from the other person.** This step requires intellectual humility. If the exchange has changed your understanding in any respect, however small, you should acknowledge it explicitly. [Psychology Today](https://www.psychologytoday.com/us/blog/the-biology-of-human-nature/202312/the-art-of-thinking-well)
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to A Better Order for Criticising Ideas. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to A Better Order for Criticising Ideas. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Intuition+Pumps+and+Other+Tools+for+Thinking+by+Daniel+C.+Dennett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Intuition Pumps and Other Tools for Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9SduAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Intuition Pumps and Other Tools for Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Intuition+Pumps+and+Other+Tools+for+Thinking+by+Daniel+C.+Dennett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Intuition Pumps and Other Tools for Thinking">Intuition Pumps and Other Tools for Thinking</a>
-</h4>
-<p class="fr-book-author">By Daniel C. Dennett</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Intuition+Pumps+and+Other+Tools+for+Thinking+Daniel+C.+Dennett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Intuition Pumps and Other Tools for Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9SduAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Intuition Pumps and Other Tools for Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Intuition+Pumps+and+Other+Tools+for+Thinking+Daniel+C.+Dennett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Intuition Pumps and Other Tools for Thinking">Intuition Pumps and Other Tools for Thinking</a>
+        </h4>
+        <p class="fr-book-author">By Daniel C. Dennett</p>
         
-<p class="fr-book-desc">Popularises Rapoport&#x27;s rules and explains charitable criticism and steelmanning.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Intuition+Pumps+and+Other+Tools+for+Thinking+by+Daniel+C.+Dennett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Popularises Rapoport&#x27;s rules and explains charitable criticism and steelmanning.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Intuition+Pumps+and+Other+Tools+for+Thinking+Daniel+C.+Dennett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Have+Impossible+Conversations+by+Peter+Boghossian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Have Impossible Conversations on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=H62HDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Have Impossible Conversations" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=How+to+Have+Impossible+Conversations+by+Peter+Boghossian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Have Impossible Conversations">How to Have Impossible Conversations</a>
-</h4>
-<p class="fr-book-author">By Peter Boghossian, James Lindsay</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Rulebook for Arguments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhVNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Rulebook for Arguments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Rulebook for Arguments">A Rulebook for Arguments</a>
+        </h4>
+        <p class="fr-book-author">By Anthony Weston</p>
         
-<p class="fr-book-desc">Teaches productive disagreement, charitable listening, and respectful criticism.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=How+to+Have+Impossible+Conversations+by+Peter+Boghossian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains sound criticism and avoiding weak argumentative tactics.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments+Anthony+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-</h4>
-<p class="fr-book-author">By Daniel Kahneman</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Have+Impossible+Conversations+Peter+Boghossian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Have Impossible Conversations on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=H62HDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Have Impossible Conversations" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=How+to+Have+Impossible+Conversations+Peter+Boghossian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Have Impossible Conversations">How to Have Impossible Conversations</a>
+        </h4>
+        <p class="fr-book-author">By Peter Boghossian, James Lindsay</p>
         
-<p class="fr-book-desc">Provides cognitive foundations for improving judgement before criticism.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Teaches productive disagreement, charitable listening, and respectful criticism.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=How+to+Have+Impossible+Conversations+Peter+Boghossian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Being Logical on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xRCkNvDlRtYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Being Logical" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Being Logical">Being Logical</a>
-</h4>
-<p class="fr-book-author">By D.Q. McInerny</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Being+Logical+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Being Logical on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xRCkNvDlRtYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Being Logical" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Being+Logical+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Being Logical">Being Logical</a>
+        </h4>
+        <p class="fr-book-author">By D.Q. McInerny</p>
         
-<p class="fr-book-desc">Helps readers structure fair, disciplined arguments.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Being+Logical+by+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Helps readers structure fair, disciplined arguments.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Being+Logical+D.Q.+McInerny&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Intuition+Pumps+and+Other+Tools+for+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Intuition Pumps and Other Tools for Thinking</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Have+Impossible+Conversations&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Have Impossible Conversations</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Intuition+Pumps+and+Other+Tools+for+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Intuition Pumps and Other Tools for Thinking</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Rulebook+for+Arguments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Rulebook for Arguments</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Have+Impossible+Conversations&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Have Impossible Conversations</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ideas+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-better-order-for-criticising-ideas-ideas-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ideas poster -book -books -dvd" data-ebay-reference="a-better-order-for-criticising-ideas-ideas-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office"><img src="https://i.ebayimg.com/images/g/Pi4AAeSwtQhpFjWa/s-l225.jpg" alt="Listing image for Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ideas+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-better-order-for-criticising-ideas-ideas-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ideas poster -book -books -dvd" data-ebay-reference="a-better-order-for-criticising-ideas-ideas-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ideas+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-better-order-for-criticising-ideas-ideas-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ideas poster -book -books -dvd" data-ebay-reference="a-better-order-for-criticising-ideas-ideas-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ideas poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ideas poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ideas+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-better-order-for-criticising-ideas-ideas-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ideas poster -book -books -dvd" data-ebay-reference="a-better-order-for-criticising-ideas-ideas-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ideas+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-better-order-for-criticising-ideas-ideas-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ideas poster -book -books -dvd" data-ebay-reference="a-better-order-for-criticising-ideas-ideas-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office"><img src="https://i.ebayimg.com/images/g/Pi4AAeSwtQhpFjWa/s-l225.jpg" alt="Listing image for Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ideas+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-better-order-for-criticising-ideas-ideas-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ideas poster -book -books -dvd" data-ebay-reference="a-better-order-for-criticising-ideas-ideas-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ideas+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-better-order-for-criticising-ideas-ideas-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ideas poster -book -books -dvd" data-ebay-reference="a-better-order-for-criticising-ideas-ideas-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ideas poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ideas poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ideas+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-better-order-for-criticising-ideas-ideas-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ideas poster -book -books -dvd" data-ebay-reference="a-better-order-for-criticising-ideas-ideas-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ideas+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-better-order-for-criticising-ideas-ideas-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ideas poster -book -books -dvd" data-ebay-reference="a-better-order-for-criticising-ideas-ideas-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Association of ideas Framed Art Pri Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/IeoAAeSwc-Fp1~d9/s-l225.jpg" alt="Listing image for Association of ideas Framed Art Pri Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ideas+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-better-order-for-criticising-ideas-ideas-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ideas poster -book -books -dvd" data-ebay-reference="a-better-order-for-criticising-ideas-ideas-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Association of ideas Framed Art Pri Framed Wall Art Poster Canvas Print Picture</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ideas+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-better-order-for-criticising-ideas-ideas-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ideas poster -book -books -dvd" data-ebay-reference="a-better-order-for-criticising-ideas-ideas-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ideas poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ideas poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ideas+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-better-order-for-criticising-ideas-ideas-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ideas poster -book -books -dvd" data-ebay-reference="a-better-order-for-criticising-ideas-ideas-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ideas+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-better-order-for-criticising-ideas-ideas-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ideas poster -book -books -dvd" data-ebay-reference="a-better-order-for-criticising-ideas-ideas-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Association of ideas Framed Art Pri Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/IeoAAeSwc-Fp1~d9/s-l225.jpg" alt="Listing image for Association of ideas Framed Art Pri Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ideas+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-better-order-for-criticising-ideas-ideas-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ideas poster -book -books -dvd" data-ebay-reference="a-better-order-for-criticising-ideas-ideas-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Association of ideas Framed Art Pri Framed Wall Art Poster Canvas Print Picture</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ideas+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-better-order-for-criticising-ideas-ideas-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ideas poster -book -books -dvd" data-ebay-reference="a-better-order-for-criticising-ideas-ideas-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ideas poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ideas poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ideas+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-better-order-for-criticising-ideas-ideas-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ideas poster -book -books -dvd" data-ebay-reference="a-better-order-for-criticising-ideas-ideas-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ideas+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-better-order-for-criticising-ideas-ideas-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ideas poster -book -books -dvd" data-ebay-reference="a-better-order-for-criticising-ideas-ideas-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Exhibition Poster - Ideas For Christmas Design Centre - Original 70s #2110"><img src="https://i.ebayimg.com/images/g/~AQAAeSwwaBo~9a-/s-l225.jpg" alt="Listing image for Exhibition Poster - Ideas For Christmas Design Centre - Original 70s #2110" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ideas+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-better-order-for-criticising-ideas-ideas-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ideas poster -book -books -dvd" data-ebay-reference="a-better-order-for-criticising-ideas-ideas-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Exhibition Poster - Ideas For Christmas Design Centre - Original 70s #2110</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ideas+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-better-order-for-criticising-ideas-ideas-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ideas poster -book -books -dvd" data-ebay-reference="a-better-order-for-criticising-ideas-ideas-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ideas poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ideas poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ideas+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-better-order-for-criticising-ideas-ideas-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ideas poster -book -books -dvd" data-ebay-reference="a-better-order-for-criticising-ideas-ideas-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ideas+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-better-order-for-criticising-ideas-ideas-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ideas poster -book -books -dvd" data-ebay-reference="a-better-order-for-criticising-ideas-ideas-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ideas+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-better-order-for-criticising-ideas-ideas-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ideas poster -book -books -dvd" data-ebay-reference="a-better-order-for-criticising-ideas-ideas-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Exhibition Poster - Ideas For Christmas Design Centre - Original 70s #2110"><img src="https://i.ebayimg.com/images/g/~AQAAeSwwaBo~9a-/s-l225.jpg" alt="Listing image for Exhibition Poster - Ideas For Christmas Design Centre - Original 70s #2110" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ideas+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-better-order-for-criticising-ideas-ideas-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ideas poster -book -books -dvd" data-ebay-reference="a-better-order-for-criticising-ideas-ideas-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Exhibition Poster - Ideas For Christmas Design Centre - Original 70s #2110</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ideas+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-better-order-for-criticising-ideas-ideas-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ideas poster -book -books -dvd" data-ebay-reference="a-better-order-for-criticising-ideas-ideas-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ideas poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ideas poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ideas+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-better-order-for-criticising-ideas-ideas-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ideas poster -book -books -dvd" data-ebay-reference="a-better-order-for-criticising-ideas-ideas-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ideas+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-better-order-for-criticising-ideas-ideas-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ideas poster -book -books -dvd" data-ebay-reference="a-better-order-for-criticising-ideas-ideas-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -493,7 +493,7 @@ Dennett presents the rules as a practical recipe for composing a successful crit
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -513,7 +513,7 @@ Dennett presents the rules as a practical recipe for composing a successful crit
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -545,7 +545,7 @@ Dennett presents the rules as a practical recipe for composing a successful crit
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -597,7 +597,7 @@ Dennett presents the rules as a practical recipe for composing a successful crit
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -642,7 +642,7 @@ Dennett presents the rules as a practical recipe for composing a successful crit
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -682,106 +682,106 @@ Dennett presents the rules as a practical recipe for composing a successful crit
 </section>
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: hliyan.medium.com  
    Title: How to disagree thoughtfully with Rapoport's Rules  
-   Link:<a href="https://hliyan.medium.com/how-to-disagree-thoughtfully-with-rapoports-rules-6ab7366ff894" target="_blank" rel="noopener noreferrer nofollow">https://hliyan.medium.com/how-to-disagree-thoughtfully-with-rapoports-rules-6ab7366ff894</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>How to disagree thoughtfully with Rapoport&#x27;s Rules - hliyanTo quote Dennett: “One immediate effect of following these rules is that...</p></details>
+   Link: <a href="https://hliyan.medium.com/how-to-disagree-thoughtfully-with-rapoports-rules-6ab7366ff894" target="_blank" rel="noopener noreferrer nofollow">https://hliyan.medium.com/how-to-disagree-thoughtfully-with-rapoports-rules-6ab7366ff894</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to disagree thoughtfully with Rapoport&#x27;s Rules - hliyanTo quote Dennett: “One immediate effect of following these rules is that...</p></details>
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Rogerian argument  
-   Link:<a href="https://en.wikipedia.org/wiki/Rogerian_argument" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rogerian_argument</a>  
+   Link: <a href="https://en.wikipedia.org/wiki/Rogerian_argument" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rogerian_argument</a>  
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: medium.com  
-   Link:<a href="https://medium.com/%40ramidoss/mastering-disagreements-how-rapoports-rules-can-transform-your-conversations-a343d23bee5d" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40ramidoss/mastering-disagreements-how-rapoports-rules-can-transform-your-conversations-a343d23bee5d</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>e communication, particularly in debates or disagreements.Read more...</p></details>
+   Link: <a href="https://medium.com/%40ramidoss/mastering-disagreements-how-rapoports-rules-can-transform-your-conversations-a343d23bee5d" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40ramidoss/mastering-disagreements-how-rapoports-rules-can-transform-your-conversations-a343d23bee5d</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>e communication, particularly in debates or disagreements.Read more...</p></details>
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: youtube.com  
    Title: Steel Man Arguments: How to Debate with Respect and Build Better Ideas  
-   Link:<a href="https://www.youtube.com/watch?v=2ElaykG0dUg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2ElaykG0dUg</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Intuition Pumps and Other Tools for Thinking | Daniel Dennett | Talks at Google...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=2ElaykG0dUg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2ElaykG0dUg</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Intuition Pumps and Other Tools for Thinking | Daniel Dennett | Talks at Google...</p></details>
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: youtube.com  
    Title: Intuition Pumps and Other Tools for Thinking | Daniel Dennett | Talks at Google  
-   Link:<a href="https://www.youtube.com/watch?v=4Q_mY54hjM0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4Q_mY54hjM0</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Rapoport&#x27;s Rules for Dialogue and Criticism...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=4Q_mY54hjM0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4Q_mY54hjM0</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rapoport&#x27;s Rules for Dialogue and Criticism...</p></details>
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: thoughtshrapnel.com  
    Title: the best antidote  
-   Link:<a href="https://thoughtshrapnel.com/2024/03/29/the-best-antidote.html" target="_blank" rel="noopener noreferrer nofollow">https://thoughtshrapnel.com/2024/03/29/the-best-antidote.html</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>for the tendency to caricature one&#x27;s...Mar 29, 2024 — Maria Popova has extracted four rules which Dennett cites in Intuition Pumps which...</p></details>
+   Link: <a href="https://thoughtshrapnel.com/2024/03/29/the-best-antidote.html" target="_blank" rel="noopener noreferrer nofollow">https://thoughtshrapnel.com/2024/03/29/the-best-antidote.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>for the tendency to caricature one&#x27;s...Mar 29, 2024 — Maria Popova has extracted four rules which Dennett cites in Intuition Pumps which...</p></details>
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: rightattitudes.com  
    Title: rapoport rules criticism  
-   Link:<a href="https://www.rightattitudes.com/2017/06/16/rapoport-rules-criticism/" target="_blank" rel="noopener noreferrer nofollow">https://www.rightattitudes.com/2017/06/16/rapoport-rules-criticism/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Rapoport&#x27;s Rules to Criticize Someone Constructively16 June 2017 — In Intuition Pumps and Other Tools for Thinking, philosopher Daniel De...</p></details>
+   Link: <a href="https://www.rightattitudes.com/2017/06/16/rapoport-rules-criticism/" target="_blank" rel="noopener noreferrer nofollow">https://www.rightattitudes.com/2017/06/16/rapoport-rules-criticism/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rapoport&#x27;s Rules to Criticize Someone Constructively16 June 2017 — In Intuition Pumps and Other Tools for Thinking, philosopher Daniel De...</p></details>
    Published: June 2017  
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: zhurnaly.com  
    Title: Intuition Pumps  
-   Link:<a href="https://zhurnaly.com/z/Intuition%20Pumps.html" target="_blank" rel="noopener noreferrer nofollow">https://zhurnaly.com/z/Intuition%20Pumps.html</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>9 Oct 2024 — Dennett defines them loosely as &quot;intuition pumps&quot;, stories that perhaps provoke and develop one&#x27;s instincts about an issue...</p></details>
+   Link: <a href="https://zhurnaly.com/z/Intuition%20Pumps.html" target="_blank" rel="noopener noreferrer nofollow">https://zhurnaly.com/z/Intuition%20Pumps.html</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>9 Oct 2024 — Dennett defines them loosely as &quot;intuition pumps&quot;, stories that perhaps provoke and develop one&#x27;s instincts about an issue...</p></details>
 
 ### Additional References
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: themindcollection.com  
-   Link:<a href="https://themindcollection.com/rapoports-rules/" target="_blank" rel="noopener noreferrer nofollow">https://themindcollection.com/rapoports-rules/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Rapoport&#x27;s Rules: How to Criticise ConstructivelyRapoport&#x27;s Rules, also known as Dennett&#x27;s Rules, is a list of four guidelines that detai...</p></details>
+   Link: <a href="https://themindcollection.com/rapoports-rules/" target="_blank" rel="noopener noreferrer nofollow">https://themindcollection.com/rapoports-rules/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rapoport&#x27;s Rules: How to Criticise ConstructivelyRapoport&#x27;s Rules, also known as Dennett&#x27;s Rules, is a list of four guidelines that detai...</p></details>
 
-12.<a id="endnote-12"></a>
+12. <a id="endnote-12"></a>
    Source: openculture.com  
    Title: how to argue with kindness and care 4 rules from philosopher daniel dennett  
-   Link:<a href="https://www.openculture.com/2019/06/how-to-argue-with-kindness-and-care-4-rules-from-philosopher-daniel-dennett.html" target="_blank" rel="noopener noreferrer nofollow">https://www.openculture.com/2019/06/how-to-argue-with-kindness-and-care-4-rules-from-philosopher-daniel-dennett.html</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>4 Rules from Philosopher Daniel Dennett19 Jun 2019 — In his book Intuition Pumps and Other Tools for Thinking, Dennett summarizes the cen...</p></details>
+   Link: <a href="https://www.openculture.com/2019/06/how-to-argue-with-kindness-and-care-4-rules-from-philosopher-daniel-dennett.html" target="_blank" rel="noopener noreferrer nofollow">https://www.openculture.com/2019/06/how-to-argue-with-kindness-and-care-4-rules-from-philosopher-daniel-dennett.html</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Rules from Philosopher Daniel Dennett19 Jun 2019 — In his book Intuition Pumps and Other Tools for Thinking, Dennett summarizes the cen...</p></details>
 
-13.<a id="endnote-13"></a>
+13. <a id="endnote-13"></a>
    Source: penguin.co.uk  
    Title: intuition pumps and other tools for thinking by dennett daniel c  
-   Link:<a href="https://www.penguin.co.uk/books/181880/intuition-pumps-and-other-tools-for-thinking-by-dennett-daniel-c/9780241954621" target="_blank" rel="noopener noreferrer nofollow">https://www.penguin.co.uk/books/181880/intuition-pumps-and-other-tools-for-thinking-by-dennett-daniel-c/9780241954621</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Intuition Pumps and Other Tools for Thinking3 Apr 2014 — Daniel Dennett, one of the world&#x27;s most original thinkers, reveals a collection...</p></details>
+   Link: <a href="https://www.penguin.co.uk/books/181880/intuition-pumps-and-other-tools-for-thinking-by-dennett-daniel-c/9780241954621" target="_blank" rel="noopener noreferrer nofollow">https://www.penguin.co.uk/books/181880/intuition-pumps-and-other-tools-for-thinking-by-dennett-daniel-c/9780241954621</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Intuition Pumps and Other Tools for Thinking3 Apr 2014 — Daniel Dennett, one of the world&#x27;s most original thinkers, reveals a collection...</p></details>
 
-14.<a id="endnote-14"></a>
+14. <a id="endnote-14"></a>
    Source: scottkeylaw.com  
-   Link:<a href="https://scottkeylaw.com/a-helpful-guide-for-argument-rapoports-rules/" target="_blank" rel="noopener noreferrer nofollow">https://scottkeylaw.com/a-helpful-guide-for-argument-rapoports-rules/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>A Helpful Guide for Argument: Rapoport&#x27;s Rules17 Oct 2016 — You should mention anything you have learned from your target...</p></details>
+   Link: <a href="https://scottkeylaw.com/a-helpful-guide-for-argument-rapoports-rules/" target="_blank" rel="noopener noreferrer nofollow">https://scottkeylaw.com/a-helpful-guide-for-argument-rapoports-rules/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Helpful Guide for Argument: Rapoport&#x27;s Rules17 Oct 2016 — You should mention anything you have learned from your target...</p></details>
 
-15.<a id="endnote-15"></a>
+15. <a id="endnote-15"></a>
    Source: reddit.com  
    Title: daniel dennetts formula for steelmanning from his  
-   Link:<a href="https://www.reddit.com/r/samharris/comments/9agcoy/daniel_dennetts_formula_for_steelmanning_from_his/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/samharris/comments/9agcoy/daniel_dennetts_formula_for_steelmanning_from_his/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Daniel Dennett&#x27;s formula for &quot;steelmanning&quot; (from his 2013...Instead of &quot;steelmanning,&quot; which I think is a new phrase, Dennett refers to...</p></details>
+   Link: <a href="https://www.reddit.com/r/samharris/comments/9agcoy/daniel_dennetts_formula_for_steelmanning_from_his/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/samharris/comments/9agcoy/daniel_dennetts_formula_for_steelmanning_from_his/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Daniel Dennett&#x27;s formula for &quot;steelmanning&quot; (from his 2013...Instead of &quot;steelmanning,&quot; which I think is a new phrase, Dennett refers to...</p></details>
 
-16.<a id="endnote-16"></a>
+16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link:<a href="https://www.facebook.com/TheMarginalian/posts/on-philosopher-daniel-dennetts-birthday-his-enduring-wisdom-on-the-art-science-o/10159453383695745/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheMarginalian/posts/on-philosopher-daniel-dennetts-birthday-his-enduring-wisdom-on-the-art-science-o/10159453383695745/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>one&#x27;s position, Dennett says you should: 1. Restate their...Read more...</p></details>
+   Link: <a href="https://www.facebook.com/TheMarginalian/posts/on-philosopher-daniel-dennetts-birthday-his-enduring-wisdom-on-the-art-science-o/10159453383695745/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheMarginalian/posts/on-philosopher-daniel-dennetts-birthday-his-enduring-wisdom-on-the-art-science-o/10159453383695745/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>one&#x27;s position, Dennett says you should: 1. Restate their...Read more...</p></details>
 
-17.<a id="endnote-17"></a>
+17. <a id="endnote-17"></a>
    Source: reddit.com  
-   Link:<a href="https://www.reddit.com/r/philosophy/comments/rvn45t/how_to_criticize_with_kindness_philosopher_daniel/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/philosophy/comments/rvn45t/how_to_criticize_with_kindness_philosopher_daniel/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Philosopher Daniel Dennett on the Four Steps to Arguing...Here are the 4 steps to do it, from the article: How to compose a successful c...</p></details>
+   Link: <a href="https://www.reddit.com/r/philosophy/comments/rvn45t/how_to_criticize_with_kindness_philosopher_daniel/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/philosophy/comments/rvn45t/how_to_criticize_with_kindness_philosopher_daniel/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Philosopher Daniel Dennett on the Four Steps to Arguing...Here are the 4 steps to do it, from the article: How to compose a successful c...</p></details>
 
-18.<a id="endnote-18"></a>
+18. <a id="endnote-18"></a>
    Source: andykant.io  
    Title: Andy's Blog Rapoport's Rules: Ethical Debate  
-   Link:<a href="https://andykant.io/post/2020-04-15-rapoport-s-rules-ethical-debate/" target="_blank" rel="noopener noreferrer nofollow">https://andykant.io/post/2020-04-15-rapoport-s-rules-ethical-debate/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Andy&#x27;s BlogRapoport&#x27;s Rules: Ethical Debate - Andy&#x27;s Blog15 Apr 2020 — Rapoport&#x27;s Rules by way of Daniel Dennett · You should attempt to...</p></details>
+   Link: <a href="https://andykant.io/post/2020-04-15-rapoport-s-rules-ethical-debate/" target="_blank" rel="noopener noreferrer nofollow">https://andykant.io/post/2020-04-15-rapoport-s-rules-ethical-debate/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Andy&#x27;s BlogRapoport&#x27;s Rules: Ethical Debate - Andy&#x27;s Blog15 Apr 2020 — Rapoport&#x27;s Rules by way of Daniel Dennett · You should attempt to...</p></details>
 
-19.<a id="endnote-19"></a>
+19. <a id="endnote-19"></a>
    Source: bigthink.com  
-   Link:<a href="https://bigthink.com/the-learning-curve/rapoports-rules-arguments/" target="_blank" rel="noopener noreferrer nofollow">https://bigthink.com/the-learning-curve/rapoports-rules-arguments/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Big ThinkRapoport&#x27;s rules: 4 steps to de-escalate arguments26 Mar 2023 — Rapoport&#x27;s rules ask us to affirm the other&#x27;s position before ut...</p></details>
+   Link: <a href="https://bigthink.com/the-learning-curve/rapoports-rules-arguments/" target="_blank" rel="noopener noreferrer nofollow">https://bigthink.com/the-learning-curve/rapoports-rules-arguments/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Big ThinkRapoport&#x27;s rules: 4 steps to de-escalate arguments26 Mar 2023 — Rapoport&#x27;s rules ask us to affirm the other&#x27;s position before ut...</p></details>
 
-20.<a id="endnote-20"></a>
+20. <a id="endnote-20"></a>
    Source: emmyvandeurzen.com  
    Title: blog post title one jel26 ajj7d  
-   Link:<a href="https://www.emmyvandeurzen.com/blog-2-1/blog-post-title-one-jel26-ajj7d" target="_blank" rel="noopener noreferrer nofollow">https://www.emmyvandeurzen.com/blog-2-1/blog-post-title-one-jel26-ajj7d</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Daniel Dennett &#x27;s Intuition Pumps2 Oct 2025 — Although Rapoport&#x27;s rules of critical commentary (p.33) are useful they bear all th...</p></details>
+   Link: <a href="https://www.emmyvandeurzen.com/blog-2-1/blog-post-title-one-jel26-ajj7d" target="_blank" rel="noopener noreferrer nofollow">https://www.emmyvandeurzen.com/blog-2-1/blog-post-title-one-jel26-ajj7d</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Daniel Dennett &#x27;s Intuition Pumps2 Oct 2025 — Although Rapoport&#x27;s rules of critical commentary (p.33) are useful they bear all th...</p></details>

@@ -274,7 +274,7 @@ image: /assets/images/improving_your_think_da4710_myside_bias_de0ec5_motivated_s
 
 ## Introduction
 
-Motivated scepticism is the tendency to apply far tougher standards to evidence that challenges a belief than to evidence that supports it. Unlike simple gullibility, it often feels like rigorous [critical thinking]({{ 'critical-skills/' | relative_url }}) because the person really is identifying weaknesses, asking probing questions, and demanding better evidence. The catch is that this scrutiny is applied unevenly. Friendly claims are accepted with relatively little resistance, while unwelcome claims face a much higher evidential bar. This mechanism helps explain why intelligent, sincere people can become increasingly confident in their existing views after encountering mixed evidence rather than reconsidering them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fbaum.unc.edu/teaching/articles/AJPS-2006-Taber.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbaum.unc.edu">[Frank Baumgartner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbaum.unc.edu</span><span class="citation-popover-title">AJPS 2006 Taber</span><span class="citation-popover-snippet">Author(s): Charles S. Taber and Milton Lodge...</span></span></span>
+Motivated scepticism is the tendency to apply far tougher standards to evidence that challenges a belief than to evidence that supports it. Unlike simple gullibility, it often feels like rigorous [critical thinking]({{ 'critical-skills/' | relative_url }}) because the person really is identifying weaknesses, asking probing questions, and demanding better evidence. The catch is that this scrutiny is applied unevenly. Friendly claims are accepted with relatively little resistance, while unwelcome claims face a much higher evidential bar. This mechanism helps explain why intelligent, sincere people can become increasingly confident in their existing views after encountering mixed evidence rather than reconsidering them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fbaum.unc.edu/teaching/articles/AJPS-2006-Taber.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbaum.unc.edu">[Frank Baumgartner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbaum.unc.edu</span><span class="citation-popover-title">AJPS 2006 Taber</span><span class="citation-popover-snippet">Author(s): Charles S. Taber and Milton Lodge...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_myside_bias_de0ec5_motivated_scepticism_a93c8d-Illustration-1-dark.svg" | relative_url }}" alt="Uneven Doubt illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_myside_bias_de0ec5_motivated_scepticism_a93c8d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_myside_bias_de0ec5_motivated_scepticism_a93c8d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -300,9 +300,9 @@ The result is not simply rejecting contrary evidence. It is feeling increasingly
 
 ## Taber and Lodge's political argument experiments
 
-Charles Taber and Milton Lodge provided one of the clearest demonstrations of motivated scepticism. In experiments on politically contentious issues including affirmative action and gun control, participants read arguments both supporting and opposing their existing attitudes. Rather than evaluating both sides by identical standards, participants consistently judged congenial arguments as stronger and opposing arguments as weaker.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fbaum.unc.edu/teaching/articles/AJPS-2006-Taber.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbaum.unc.edu">[Frank Baumgartner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbaum.unc.edu</span><span class="citation-popover-title">AJPS 2006 Taber</span><span class="citation-popover-snippet">Author(s): Charles S. Taber and Milton Lodge...</span></span></span>
+Charles Taber and Milton Lodge provided one of the clearest demonstrations of motivated scepticism. In experiments on politically contentious issues including affirmative action and gun control, participants read arguments both supporting and opposing their existing attitudes. Rather than evaluating both sides by identical standards, participants consistently judged congenial arguments as stronger and opposing arguments as weaker. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fbaum.unc.edu/teaching/articles/AJPS-2006-Taber.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbaum.unc.edu">[Frank Baumgartner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbaum.unc.edu</span><span class="citation-popover-title">AJPS 2006 Taber</span><span class="citation-popover-snippet">Author(s): Charles S. Taber and Milton Lodge...</span></span></span>
 
-The researchers also observed something especially revealing. Participants spent more cognitive effort processing arguments they disliked than arguments they agreed with. They actively generated counterarguments against opposing evidence while producing relatively few objections to evidence supporting their own position. In other words, people were not thinking *less* about disagreeable information—they were thinking *harder*, but in a defensive direction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fbaum.unc.edu/teaching/articles/AJPS-2006-Taber.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbaum.unc.edu">[Frank Baumgartner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbaum.unc.edu</span><span class="citation-popover-title">AJPS 2006 Taber</span><span class="citation-popover-snippet">Author(s): Charles S. Taber and Milton Lodge...</span></span></span>
+The researchers also observed something especially revealing. Participants spent more cognitive effort processing arguments they disliked than arguments they agreed with. They actively generated counterarguments against opposing evidence while producing relatively few objections to evidence supporting their own position. In other words, people were not thinking *less* about disagreeable information—they were thinking *harder*, but in a defensive direction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fbaum.unc.edu/teaching/articles/AJPS-2006-Taber.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbaum.unc.edu">[Frank Baumgartner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbaum.unc.edu</span><span class="citation-popover-title">AJPS 2006 Taber</span><span class="citation-popover-snippet">Author(s): Charles S. Taber and Milton Lodge...</span></span></span>
 
 This distinction matters because it overturns the common assumption that bias comes mainly from laziness or inattention. Here, additional reasoning amplified rather than reduced bias. More mental effort produced better arguments for preserving an existing belief.
 
@@ -328,7 +328,7 @@ Instead of beginning with the question, "Is this true?", the mind rapidly begins
 
 These are excellent questions in themselves. The problem is that they are often asked asymmetrically. A supportive study may receive little equivalent interrogation.
 
-Psychologists describe this as motivated reasoning because the goal subtly shifts from discovering the strongest explanation to defending an existing conclusion. Importantly, this need not involve conscious dishonesty. People genuinely experience their objections as evidence of careful analysis because many of the objections are perfectly legitimate. The imbalance lies in *when* that analytical effort is deployed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fbaum.unc.edu/teaching/articles/AJPS-2006-Taber.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbaum.unc.edu">[Frank Baumgartner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbaum.unc.edu</span><span class="citation-popover-title">AJPS 2006 Taber</span><span class="citation-popover-snippet">Author(s): Charles S. Taber and Milton Lodge...</span></span></span>
+Psychologists describe this as motivated reasoning because the goal subtly shifts from discovering the strongest explanation to defending an existing conclusion. Importantly, this need not involve conscious dishonesty. People genuinely experience their objections as evidence of careful analysis because many of the objections are perfectly legitimate. The imbalance lies in *when* that analytical effort is deployed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fbaum.unc.edu/teaching/articles/AJPS-2006-Taber.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbaum.unc.edu">[Frank Baumgartner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbaum.unc.edu</span><span class="citation-popover-title">AJPS 2006 Taber</span><span class="citation-popover-snippet">Author(s): Charles S. Taber and Milton Lodge...</span></span></span>
 
 This helps explain why debates between thoughtful people frequently produce stalemate rather than convergence. Each side becomes highly skilled at finding defects in the other's evidence while remaining comparatively forgiving of weaknesses on its own side.
 
@@ -385,194 +385,194 @@ When the same intellectual searchlight illuminates both your own beliefs and you
 <img src="{{ "/assets/images/improving_your_think_da4710_myside_bias_de0ec5_motivated_scepticism_a93c8d-Illustration-3-dark.svg" | relative_url }}" alt="Uneven Doubt illustration 3" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_myside_bias_de0ec5_motivated_scepticism_a93c8d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_myside_bias_de0ec5_motivated_scepticism_a93c8d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to When Doubt Works Harder for One Side. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to When Doubt Works Harder for One Side. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A1NYvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
-</h4>
-<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
+        </h4>
+        <p class="fr-book-author">By Julia Galef</p>
         
-<p class="fr-book-desc">Explains self-justification, motivated reasoning, and why people defend existing beliefs.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly addresses motivated reasoning, intellectual honesty, and applying equal standards to evidence.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-</h4>
-<p class="fr-book-author">By Daniel Kahneman</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A1NYvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
+        </h4>
+        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-<p class="fr-book-desc">Provides the foundational psychology behind biased evaluation, confidence, and judgment.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains self-justification, motivated reasoning, and why people defend existing beliefs.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-</h4>
-<p class="fr-book-author">By Michael Shermer</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Believing+Brain+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+        </h4>
+        <p class="fr-book-author">By Michael Shermer</p>
         
-<p class="fr-book-desc">Explores how beliefs form and why evidence is interpreted asymmetrically.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explores how beliefs form and why evidence is interpreted asymmetrically.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Believing+Brain+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Rationality+by+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rationality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HT0NEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Rationality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Rationality+by+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rationality">Rationality</a>
-</h4>
-<p class="fr-book-author">By Steven Pinker</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Rationality+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rationality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HT0NEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Rationality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Rationality+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rationality">Rationality</a>
+        </h4>
+        <p class="fr-book-author">By Steven Pinker</p>
         
-<p class="fr-book-desc">Focuses on better reasoning, evaluating evidence fairly, and overcoming systematic thinking errors.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Rationality+by+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Focuses on better reasoning, evaluating evidence fairly, and overcoming systematic thinking errors.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Rationality+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me)</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scout Mindset</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me)</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sale. Paris Memorabilia - Keyring of Eiffel Tower bought when I went up in 1973"><img src="https://i.ebayimg.com/images/g/Hl8AAeSwdqNpodLW/s-l225.jpg" alt="Listing image for Sale. Paris Memorabilia - Keyring of Eiffel Tower bought when I went up in 1973" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Sale. Paris Memorabilia - Keyring of Eiffel Tower bought when I went up in 1973</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for when memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: when memorabilia</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sale. Paris Memorabilia - Keyring of Eiffel Tower bought when I went up in 1973"><img src="https://i.ebayimg.com/images/g/Hl8AAeSwdqNpodLW/s-l225.jpg" alt="Listing image for Sale. Paris Memorabilia - Keyring of Eiffel Tower bought when I went up in 1973" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Sale. Paris Memorabilia - Keyring of Eiffel Tower bought when I went up in 1973</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for when memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: when memorabilia</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WHEN RIVERS MEET Concert poster -- Glasgow oct.2024 show tour - Gig memorabilia."><img src="https://i.ebayimg.com/images/g/qUkAAOSw1IRngmZH/s-l225.jpg" alt="Listing image for WHEN RIVERS MEET Concert poster -- Glasgow oct.2024 show tour - Gig memorabilia." loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">WHEN RIVERS MEET Concert poster -- Glasgow oct.2024 show tour - Gig memorabilia.</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for when memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: when memorabilia</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WHEN RIVERS MEET Concert poster -- Glasgow oct.2024 show tour - Gig memorabilia."><img src="https://i.ebayimg.com/images/g/qUkAAOSw1IRngmZH/s-l225.jpg" alt="Listing image for WHEN RIVERS MEET Concert poster -- Glasgow oct.2024 show tour - Gig memorabilia." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">WHEN RIVERS MEET Concert poster -- Glasgow oct.2024 show tour - Gig memorabilia.</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for when memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: when memorabilia</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BROS WHEN WILL I BE FAMOUS MEMORABILIA original music press advert from 1987 - t"><img src="https://i.ebayimg.com/images/g/XJAAAeSwUHJqGCKI/s-l225.jpg" alt="Listing image for BROS WHEN WILL I BE FAMOUS MEMORABILIA original music press advert from 1987 - t" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">BROS WHEN WILL I BE FAMOUS MEMORABILIA original music press advert from 1987 - t</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for when memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: when memorabilia</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BROS WHEN WILL I BE FAMOUS MEMORABILIA original music press advert from 1987 - t"><img src="https://i.ebayimg.com/images/g/XJAAAeSwUHJqGCKI/s-l225.jpg" alt="Listing image for BROS WHEN WILL I BE FAMOUS MEMORABILIA original music press advert from 1987 - t" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">BROS WHEN WILL I BE FAMOUS MEMORABILIA original music press advert from 1987 - t</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for when memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: when memorabilia</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Skiing Memorabilia Soft beever like Toy + red heart -Wolf Whistles when pressed"><img src="https://i.ebayimg.com/images/g/IdkAAeSwTjZo1nN9/s-l225.jpg" alt="Listing image for Skiing Memorabilia Soft beever like Toy + red heart -Wolf Whistles when pressed" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Skiing Memorabilia Soft beever like Toy + red heart -Wolf Whistles when pressed</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for when memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: when memorabilia</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Skiing Memorabilia Soft beever like Toy + red heart -Wolf Whistles when pressed"><img src="https://i.ebayimg.com/images/g/IdkAAeSwTjZo1nN9/s-l225.jpg" alt="Listing image for Skiing Memorabilia Soft beever like Toy + red heart -Wolf Whistles when pressed" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Skiing Memorabilia Soft beever like Toy + red heart -Wolf Whistles when pressed</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for when memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: when memorabilia</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="when-doubt-works-harder-for-one-side-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -588,7 +588,7 @@ When the same intellectual searchlight illuminates both your own beliefs and you
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -608,7 +608,7 @@ When the same intellectual searchlight illuminates both your own beliefs and you
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -640,7 +640,7 @@ When the same intellectual searchlight illuminates both your own beliefs and you
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -692,7 +692,7 @@ When the same intellectual searchlight illuminates both your own beliefs and you
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -737,7 +737,7 @@ When the same intellectual searchlight illuminates both your own beliefs and you
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -777,63 +777,63 @@ When the same intellectual searchlight illuminates both your own beliefs and you
 </section>
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: fbaum.unc.edu  
    Title: AJPS 2006 Taber  
-   Link:<a href="https://fbaum.unc.edu/teaching/articles/AJPS-2006-Taber.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fbaum.unc.edu/teaching/articles/AJPS-2006-Taber.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Author(s): Charles S. Taber and Milton Lodge...</p></details>
+   Link: <a href="https://fbaum.unc.edu/teaching/articles/AJPS-2006-Taber.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fbaum.unc.edu/teaching/articles/AJPS-2006-Taber.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Author(s): Charles S. Taber and Milton Lodge...</p></details>
 
 ### Additional References
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: readthesequences.com  
-   Link:<a href="https://www.readthesequences.com/Knowing-About-Biases-Can-Hurt-People" target="_blank" rel="noopener noreferrer nofollow">https://www.readthesequences.com/Knowing-About-Biases-Can-Hurt-People</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Knowing About Biases Can Hurt PeopleI&#x27;m going to use it all the time!” Taber and Lodge&#x27;s “Motivated skepticism in the evaluation of polit...</p></details>
+   Link: <a href="https://www.readthesequences.com/Knowing-About-Biases-Can-Hurt-People" target="_blank" rel="noopener noreferrer nofollow">https://www.readthesequences.com/Knowing-About-Biases-Can-Hurt-People</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Knowing About Biases Can Hurt PeopleI&#x27;m going to use it all the time!” Taber and Lodge&#x27;s “Motivated skepticism in the evaluation of polit...</p></details>
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: academia.edu  
-   Link:<a href="https://www.academia.edu/143898119/Motivated_Skepticism_in_the_Evaluation_of_Political_Beliefs" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/143898119/Motivated_Skepticism_in_the_Evaluation_of_Political_Beliefs</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Motivated Skepticism in the Evaluation of Political BeliefsThe research indicates motivated skepticism derives from individuals&#x27; prior at...</p></details>
+   Link: <a href="https://www.academia.edu/143898119/Motivated_Skepticism_in_the_Evaluation_of_Political_Beliefs" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/143898119/Motivated_Skepticism_in_the_Evaluation_of_Political_Beliefs</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Motivated Skepticism in the Evaluation of Political BeliefsThe research indicates motivated skepticism derives from individuals&#x27; prior at...</p></details>
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/profile/Charles-Taber/publication/225756503_The_Motivated_Processing_of_Political_Arguments/links/0deec5203de865394b000000/The-Motivated-Processing-of-Political-Arguments.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Charles-Taber/publication/225756503_The_Motivated_Processing_of_Political_Arguments/links/0deec5203de865394b000000/The-Motivated-Processing-of-Political-Arguments.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Motivated Processing of Political ArgumentsResearch on the motivated processing of political arguments has shown that we should not e...</p></details>
+   Link: <a href="https://www.researchgate.net/profile/Charles-Taber/publication/225756503_The_Motivated_Processing_of_Political_Arguments/links/0deec5203de865394b000000/The-Motivated-Processing-of-Political-Arguments.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Charles-Taber/publication/225756503_The_Motivated_Processing_of_Political_Arguments/links/0deec5203de865394b000000/The-Motivated-Processing-of-Political-Arguments.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Motivated Processing of Political ArgumentsResearch on the motivated processing of political arguments has shown that we should not e...</p></details>
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: data.gesis.org  
    Title: reference gesis ssoar 56473 zis TaberLodge2006Motivated outcite  
-   Link:<a href="https://data.gesis.org/gesiskg/resource/reference_gesis-ssoar-56473_zis-TaberLodge2006Motivated_outcite" target="_blank" rel="noopener noreferrer nofollow">https://data.gesis.org/gesiskg/resource/reference_gesis-ssoar-56473_zis-TaberLodge2006Motivated_outcite</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>gesis.orgreference_gesis-ssoar-56473_zis-...Taber CS and Lodge M (2006) Motivated Skepticism in the Evaluation of Political Beliefs. Ame...</p></details>
+   Link: <a href="https://data.gesis.org/gesiskg/resource/reference_gesis-ssoar-56473_zis-TaberLodge2006Motivated_outcite" target="_blank" rel="noopener noreferrer nofollow">https://data.gesis.org/gesiskg/resource/reference_gesis-ssoar-56473_zis-TaberLodge2006Motivated_outcite</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>gesis.orgreference_gesis-ssoar-56473_zis-...Taber CS and Lodge M (2006) Motivated Skepticism in the Evaluation of Political Beliefs. Ame...</p></details>
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: data.gesis.org  
    Title: reference gesis ssoar 83695 zis TaberLodge2006Motivated outcite  
-   Link:<a href="https://data.gesis.org/gesiskg/resource/reference_gesis-ssoar-83695_zis-TaberLodge2006Motivated_outcite" target="_blank" rel="noopener noreferrer nofollow">https://data.gesis.org/gesiskg/resource/reference_gesis-ssoar-83695_zis-TaberLodge2006Motivated_outcite</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>gesis.orgreference_gesis-ssoar-83695_zis-...Taber CS and Lodge M (2006) Motivated Skepticism in the Evaluation of Political Beliefs. Ame...</p></details>
+   Link: <a href="https://data.gesis.org/gesiskg/resource/reference_gesis-ssoar-83695_zis-TaberLodge2006Motivated_outcite" target="_blank" rel="noopener noreferrer nofollow">https://data.gesis.org/gesiskg/resource/reference_gesis-ssoar-83695_zis-TaberLodge2006Motivated_outcite</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>gesis.orgreference_gesis-ssoar-83695_zis-...Taber CS and Lodge M (2006) Motivated Skepticism in the Evaluation of Political Beliefs. Ame...</p></details>
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: data.gesis.org  
    Title: reference gesis ssoar 93713 zis TaberLodge2006Motivated outcite  
-   Link:<a href="https://data.gesis.org/gesiskg/resource/reference_gesis-ssoar-93713_zis-TaberLodge2006Motivated_outcite" target="_blank" rel="noopener noreferrer nofollow">https://data.gesis.org/gesiskg/resource/reference_gesis-ssoar-93713_zis-TaberLodge2006Motivated_outcite</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>gesis.orgreference_gesis-ssoar-93713_zis-...Taber CS and Lodge M (2006) Motivated Skepticism in the Evaluation of Political Beliefs. Ame...</p></details>
+   Link: <a href="https://data.gesis.org/gesiskg/resource/reference_gesis-ssoar-93713_zis-TaberLodge2006Motivated_outcite" target="_blank" rel="noopener noreferrer nofollow">https://data.gesis.org/gesiskg/resource/reference_gesis-ssoar-93713_zis-TaberLodge2006Motivated_outcite</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>gesis.orgreference_gesis-ssoar-93713_zis-...Taber CS and Lodge M (2006) Motivated Skepticism in the Evaluation of Political Beliefs. Ame...</p></details>
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: semanticscholar.org  
-   Link:<a href="https://www.semanticscholar.org/paper/Motivated-Skepticism-in-the-Evaluation-of-Political-Taber-Lodge/49dc7768eeaf4dd5ae295c3bb353b8d57c12bb54" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Motivated-Skepticism-in-the-Evaluation-of-Political-Taber-Lodge/49dc7768eeaf4dd5ae295c3bb353b8d57c12bb54</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Motivated Skepticism in the Evaluation of Political Beliefs1 Jul 2006 — We propose a model of motivated skepticism that helps explain whe...</p></details>
+   Link: <a href="https://www.semanticscholar.org/paper/Motivated-Skepticism-in-the-Evaluation-of-Political-Taber-Lodge/49dc7768eeaf4dd5ae295c3bb353b8d57c12bb54" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Motivated-Skepticism-in-the-Evaluation-of-Political-Taber-Lodge/49dc7768eeaf4dd5ae295c3bb353b8d57c12bb54</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Motivated Skepticism in the Evaluation of Political Beliefs1 Jul 2006 — We propose a model of motivated skepticism that helps explain whe...</p></details>
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/240604429_Motivated_Skepticism_in_the_Evaluation_of_Political_Beliefs" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/240604429_Motivated_Skepticism_in_the_Evaluation_of_Political_Beliefs</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>n and why citizens are biased-information processors.Read more...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/240604429_Motivated_Skepticism_in_the_Evaluation_of_Political_Beliefs" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/240604429_Motivated_Skepticism_in_the_Evaluation_of_Political_Beliefs</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>n and why citizens are biased-information processors.Read more...</p></details>
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: scholar.google.it  
-   Link:<a href="https://scholar.google.it/citations?hl=vi&amp;user=9VwvxRIAAAAJ" target="_blank" rel="noopener noreferrer nofollow">https://scholar.google.it/citations?hl=vi&amp;user=9VwvxRIAAAAJ</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>TaberMotivated skepticism in the evaluation of political beliefs. CS Taber, M Lodge. American journal of political science 50 (3), 755-76...</p></details>
+   Link: <a href="https://scholar.google.it/citations?hl=vi&amp;user=9VwvxRIAAAAJ" target="_blank" rel="noopener noreferrer nofollow">https://scholar.google.it/citations?hl=vi&amp;user=9VwvxRIAAAAJ</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>TaberMotivated skepticism in the evaluation of political beliefs. CS Taber, M Lodge. American journal of political science 50 (3), 755-76...</p></details>
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: youtube.com  
-   Link:<a href="https://www.youtube.com/watch?v=iQRSZpBWoPE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iQRSZpBWoPE</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>False Beliefs in a Post-Truth World: Psychological Causes and Antidotes...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=iQRSZpBWoPE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iQRSZpBWoPE</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>False Beliefs in a Post-Truth World: Psychological Causes and Antidotes...</p></details>

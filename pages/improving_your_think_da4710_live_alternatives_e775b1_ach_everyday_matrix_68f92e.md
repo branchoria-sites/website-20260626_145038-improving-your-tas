@@ -274,7 +274,7 @@ image: /assets/images/improving_your_think_da4710_live_alternatives_e775b1_ach_e
 
 ## Introduction
 
-When you have several plausible explanations for the same situation, the goal is not to prove your favourite right but to discover which explanation best survives comparison. That is the central idea behind the Analysis of Competing Hypotheses (ACH), a structured technique developed for intelligence analysis that can be adapted into a lightweight tool for everyday decisions. Rather than asking, “Does this explanation fit the facts?”, ACH asks, “Which explanation is least contradicted by the available evidence?” This small change in perspective helps reduce the tendency to give one attractive story all the benefit of the doubt and encourages evidence to compete on equal terms.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ialeia.org/docs/Psychology_of_Intelligence_Analysis.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ialeia.org">[ialeia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ialeia.org</span><span class="citation-popover-title">mends using a matrix to array evidence for and against competing hy-.Read more</span><span class="citation-popover-snippet">PDF] The Psychology of Intelligence AnalysisDecember 13, 2005 — Heuer&#x27;s concept of “Analysis of Competing Hypotheses” (ACH) is among his...</span><span class="citation-popover-meta">Published: December 13, 2005</span></span></span>
+When you have several plausible explanations for the same situation, the goal is not to prove your favourite right but to discover which explanation best survives comparison. That is the central idea behind the Analysis of Competing Hypotheses (ACH), a structured technique developed for intelligence analysis that can be adapted into a lightweight tool for everyday decisions. Rather than asking, “Does this explanation fit the facts?”, ACH asks, “Which explanation is least contradicted by the available evidence?” This small change in perspective helps reduce the tendency to give one attractive story all the benefit of the doubt and encourages evidence to compete on equal terms. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ialeia.org/docs/Psychology_of_Intelligence_Analysis.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ialeia.org">[ialeia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ialeia.org</span><span class="citation-popover-title">mends using a matrix to array evidence for and against competing hy-.Read more</span><span class="citation-popover-snippet">PDF] The Psychology of Intelligence AnalysisDecember 13, 2005 — Heuer&#x27;s concept of “Analysis of Competing Hypotheses” (ACH) is among his...</span><span class="citation-popover-meta">Published: December 13, 2005</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_live_alternatives_e775b1_ach_everyday_matrix_68f92e-Illustration-1-dark.svg" | relative_url }}" alt="ACH Lite illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_live_alternatives_e775b1_ach_everyday_matrix_68f92e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_live_alternatives_e775b1_ach_everyday_matrix_68f92e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,7 +282,7 @@ For ordinary decisions, a simplified version is usually enough. You do not need 
 
 ## What intelligence analysis contributes to everyday reasoning
 
-ACH was originally developed by intelligence analyst Richards J. Heuer Jr. for situations where decisions must be made despite incomplete, uncertain, or conflicting information. Instead of accumulating supporting evidence for one preferred theory, analysts deliberately compare every important piece of evidence against every plausible explanation. The emphasis falls on evidence that discriminates between alternatives rather than evidence that is consistent with all of them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ialeia.org/docs/Psychology_of_Intelligence_Analysis.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ialeia.org">[ialeia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ialeia.org</span><span class="citation-popover-title">mends using a matrix to array evidence for and against competing hy-.Read more</span><span class="citation-popover-snippet">PDF] The Psychology of Intelligence AnalysisDecember 13, 2005 — Heuer&#x27;s concept of “Analysis of Competing Hypotheses” (ACH) is among his...</span><span class="citation-popover-meta">Published: December 13, 2005</span></span></span>
+ACH was originally developed by intelligence analyst Richards J. Heuer Jr. for situations where decisions must be made despite incomplete, uncertain, or conflicting information. Instead of accumulating supporting evidence for one preferred theory, analysts deliberately compare every important piece of evidence against every plausible explanation. The emphasis falls on evidence that discriminates between alternatives rather than evidence that is consistent with all of them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ialeia.org/docs/Psychology_of_Intelligence_Analysis.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ialeia.org">[ialeia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ialeia.org</span><span class="citation-popover-title">mends using a matrix to array evidence for and against competing hy-.Read more</span><span class="citation-popover-snippet">PDF] The Psychology of Intelligence AnalysisDecember 13, 2005 — Heuer&#x27;s concept of “Analysis of Competing Hypotheses” (ACH) is among his...</span><span class="citation-popover-meta">Published: December 13, 2005</span></span></span>
 
 That principle transfers well to everyday reasoning because many common mistakes follow the same pattern:
 
@@ -298,7 +298,7 @@ That principle transfers well to everyday reasoning because many common mistakes
 
 In each case, the first explanation may be reasonable, but it becomes stronger only after surviving comparison with realistic alternatives.
 
-The intelligence version of ACH can be detailed and time-consuming, but its underlying habit—evaluating evidence symmetrically across competing explanations—is the part that remains useful in everyday life.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ptgmedia.pearsoncmg.com/imprint_downloads/ftpress/bookreg/9780131873667/Ch28.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ptgmedia.pearsoncmg.com">[ptgmedia.pearsoncmg.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ptgmedia.pearsoncmg.com</span><span class="citation-popover-snippet">28 Analysis of Competing HypothesisFebruary 28, 2007 — ACH is a process for refuting hypotheses. • Typical: analysts choose what they int...</span><span class="citation-popover-meta">Published: February 28, 2007</span></span></span>
+The intelligence version of ACH can be detailed and time-consuming, but its underlying habit—evaluating evidence symmetrically across competing explanations—is the part that remains useful in everyday life. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ptgmedia.pearsoncmg.com/imprint_downloads/ftpress/bookreg/9780131873667/Ch28.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ptgmedia.pearsoncmg.com">[ptgmedia.pearsoncmg.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ptgmedia.pearsoncmg.com</span><span class="citation-popover-snippet">28 Analysis of Competing HypothesisFebruary 28, 2007 — ACH is a process for refuting hypotheses. • Typical: analysts choose what they int...</span><span class="citation-popover-meta">Published: February 28, 2007</span></span></span>
 
 ## How to compare evidence across explanations symmetrically
 
@@ -310,7 +310,7 @@ Notice that not every fact is equally valuable.
 
 Some observations are **non-diagnostic**: they fit almost every explanation and therefore tell you very little.
 
-Other observations are **diagnostic** because they strongly favour one explanation while making another less likely. Heuer argued that these discriminating pieces of evidence deserve the greatest attention because they actually separate competing hypotheses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ialeia.org/docs/Psychology_of_Intelligence_Analysis.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ialeia.org">[ialeia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ialeia.org</span><span class="citation-popover-title">mends using a matrix to array evidence for and against competing hy-.Read more</span><span class="citation-popover-snippet">PDF] The Psychology of Intelligence AnalysisDecember 13, 2005 — Heuer&#x27;s concept of “Analysis of Competing Hypotheses” (ACH) is among his...</span><span class="citation-popover-meta">Published: December 13, 2005</span></span></span>
+Other observations are **diagnostic** because they strongly favour one explanation while making another less likely. Heuer argued that these discriminating pieces of evidence deserve the greatest attention because they actually separate competing hypotheses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ialeia.org/docs/Psychology_of_Intelligence_Analysis.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ialeia.org">[ialeia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ialeia.org</span><span class="citation-popover-title">mends using a matrix to array evidence for and against competing hy-.Read more</span><span class="citation-popover-snippet">PDF] The Psychology of Intelligence AnalysisDecember 13, 2005 — Heuer&#x27;s concept of “Analysis of Competing Hypotheses” (ACH) is among his...</span><span class="citation-popover-meta">Published: December 13, 2005</span></span></span>
 
 When filling in a matrix, three questions are especially useful:
 
@@ -369,7 +369,7 @@ Without a structured comparison, people commonly gather evidence in an uneven wa
 
 A comparison matrix interrupts this process by requiring every important observation to be considered against every live alternative.
 
-Psychological research on "considering alternatives" likewise suggests that deliberately generating multiple explanations can reduce overconfidence and [hindsight bias]({{ 'hindsight-bias/' | relative_url }}), provided the alternatives are genuine rather than artificial.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.communicationcache.com/uploads/1/0/8/8/10887248/multiple_explanation-_a_consider-an-alternative_strategy_for_debiasing_judgments.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communicationcache.com">[Communication Cache]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communicationcache.com</span><span class="citation-popover-title">multiple explanation a consider an alternative strategy for debiasing judgments</span><span class="citation-popover-snippet">Communication CacheA Consider-an-Alternative Strategy for Debiasing Judgmentsby ER Hirt · 1995 · Cited by 469 — Previous research has sug...</span></span></span>
+Psychological research on "considering alternatives" likewise suggests that deliberately generating multiple explanations can reduce overconfidence and [hindsight bias]({{ 'hindsight-bias/' | relative_url }}), provided the alternatives are genuine rather than artificial. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.communicationcache.com/uploads/1/0/8/8/10887248/multiple_explanation-_a_consider-an-alternative_strategy_for_debiasing_judgments.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communicationcache.com">[Communication Cache]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communicationcache.com</span><span class="citation-popover-title">multiple explanation a consider an alternative strategy for debiasing judgments</span><span class="citation-popover-snippet">Communication CacheA Consider-an-Alternative Strategy for Debiasing Judgmentsby ER Hirt · 1995 · Cited by 469 — Previous research has sug...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/t6GEvRYMIxs" title="Analysis of Competing Hypotheses" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=t6GEvRYMIxs" target="_blank" rel="noopener noreferrer">Analysis of Competing Hypotheses</a></p><p class="youtube-embed-meta">Channel: S2 Underground</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=t6GEvRYMIxs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=t6GEvRYMIxs">Open on YouTube</a></p></div></div></div>
@@ -415,7 +415,7 @@ The aim is better calibration, not excessive analysis. Spending thirty minutes c
 
 ACH has become influential, but research suggests it should not be treated as a guaranteed debiasing tool.
 
-Experimental studies involving intelligence analysts have found mixed evidence that formal ACH consistently reduces confirmation bias. Analysts often omit parts of the method, and in some settings the structured process may increase inconsistency or cognitive workload rather than improve accuracy. More recent research has similarly questioned whether matrix structure alone reliably reduces confirmation bias across different tasks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://strathprints.strath.ac.uk/69049/1/Dhami_etal_ACP_2019_The_analysis_of_competing_hypotheses_in_intelligence.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strathprints.strath.ac.uk">[Strathprints]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strathprints.strath.ac.uk</span><span class="citation-popover-title">Strathprints The “analysis of competing hypotheses” in intelligence analysis</span><span class="citation-popover-snippet">The “analysis of competing hypotheses” in intelligence analysisJuly 26, 2019 — by MK Dhami · 2019 · Cited by 81 — We examined...</span><span class="citation-popover-meta">Published: July 26, 2019</span></span></span>
+Experimental studies involving intelligence analysts have found mixed evidence that formal ACH consistently reduces confirmation bias. Analysts often omit parts of the method, and in some settings the structured process may increase inconsistency or cognitive workload rather than improve accuracy. More recent research has similarly questioned whether matrix structure alone reliably reduces confirmation bias across different tasks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://strathprints.strath.ac.uk/69049/1/Dhami_etal_ACP_2019_The_analysis_of_competing_hypotheses_in_intelligence.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strathprints.strath.ac.uk">[Strathprints]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strathprints.strath.ac.uk</span><span class="citation-popover-title">Strathprints The “analysis of competing hypotheses” in intelligence analysis</span><span class="citation-popover-snippet">The “analysis of competing hypotheses” in intelligence analysisJuly 26, 2019 — by MK Dhami · 2019 · Cited by 81 — We examined...</span><span class="citation-popover-meta">Published: July 26, 2019</span></span></span>
 
 These findings point to an important lesson for everyday use: the matrix is a thinking aid, not a substitute for judgement.
 
@@ -440,181 +440,181 @@ For everyday reasoning, an abbreviated process is usually sufficient:
 5. Ask what single new observation would most change your conclusion.
 6. Leave open the possibility that none of the current explanations is complete.
 
-This approach preserves the most useful insight from intelligence analysis: explanations should compete on the same evidence under the [same standards]({{ 'same-standard/' | relative_url }}). When that happens, the strongest explanation is less likely to win because it was your favourite from the beginning, and more likely to win because it best accounts for what you actually know.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pherson.org/wp-content/uploads/2013/06/06.-How-Does-ACH-Improve-Analysis_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pherson.org">[Pherson]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pherson.org</span><span class="citation-popover-snippet">This paper identifies three different approaches to Analysis of Competing Hypotheses (ACH) and four major steps in the intelligence analy...</span></span></span>
+This approach preserves the most useful insight from intelligence analysis: explanations should compete on the same evidence under the [same standards]({{ 'same-standard/' | relative_url }}). When that happens, the strongest explanation is less likely to win because it was your favourite from the beginning, and more likely to win because it best accounts for what you actually know. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pherson.org/wp-content/uploads/2013/06/06.-How-Does-ACH-Improve-Analysis_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pherson.org">[Pherson]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pherson.org</span><span class="citation-popover-snippet">This paper identifies three different approaches to Analysis of Competing Hypotheses (ACH) and four major steps in the intelligence analy...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to A Simple Matrix For Rival Ideas. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to A Simple Matrix For Rival Ideas. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Psychology+of+Intelligence+Analysis+by+Richards+J.+Heuer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Psychology of Intelligence Analysis on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NWwkQoHlsCcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Psychology of Intelligence Analysis" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Psychology+of+Intelligence+Analysis+by+Richards+J.+Heuer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Psychology of Intelligence Analysis">Psychology of Intelligence Analysis</a>
-</h4>
-<p class="fr-book-author">By Richards J. Heuer</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Psychology+of+Intelligence+Analysis+Richards+J.+Heuer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Psychology of Intelligence Analysis on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NWwkQoHlsCcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Psychology of Intelligence Analysis" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Psychology+of+Intelligence+Analysis+Richards+J.+Heuer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Psychology of Intelligence Analysis">Psychology of Intelligence Analysis</a>
+        </h4>
+        <p class="fr-book-author">By Richards J. Heuer</p>
         
-<p class="fr-book-desc">Introduces ACH and evidence comparison directly.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Psychology+of+Intelligence+Analysis+by+Richards+J.+Heuer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Introduces ACH and evidence comparison directly.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Psychology+of+Intelligence+Analysis+Richards+J.+Heuer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=45OmCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
-</h4>
-<p class="fr-book-author">By Philip Tetlock, Dan Gardner</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=45OmCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Superforecasting+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
+        </h4>
+        <p class="fr-book-author">By Philip Tetlock, Dan Gardner</p>
         
-<p class="fr-book-desc">Shows disciplined comparison of competing hypotheses.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Shows disciplined comparison of competing hypotheses.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Superforecasting+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-</h4>
-<p class="fr-book-author">By Daniel Kahneman</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
+        </h4>
+        <p class="fr-book-author">By Julia Galef</p>
         
-<p class="fr-book-desc">Explains biases that structured comparison helps reduce.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Promotes comparing alternatives instead of defending beliefs.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Measure Anything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CBAh4eM-g3AC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Measure Anything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Measure Anything">How to Measure Anything</a>
-</h4>
-<p class="fr-book-author">By Douglas W. Hubbard</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Measure+Anything+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Measure Anything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CBAh4eM-g3AC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Measure Anything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=How+to+Measure+Anything+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Measure Anything">How to Measure Anything</a>
+        </h4>
+        <p class="fr-book-author">By Douglas W. Hubbard</p>
         
-<p class="fr-book-desc">Encourages disciplined evaluation of uncertain evidence.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Encourages disciplined evaluation of uncertain evidence.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=How+to+Measure+Anything+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Psychology+of+Intelligence+Analysis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Psychology of Intelligence Analysis</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Psychology+of+Intelligence+Analysis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Psychology of Intelligence Analysis</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scout Mindset</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rival+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-simple-matrix-for-rival-ideas-rival-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rival poster -book -books -dvd" data-ebay-reference="a-simple-matrix-for-rival-ideas-rival-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RIVAL SCHOOLS PS1 Store Promo Poster Display 1998 PlayStation 1 CAPCOM JP RARE"><img src="https://i.ebayimg.com/images/g/-b4AAeSw0olqPZ2e/s-l225.jpg" alt="Listing image for RIVAL SCHOOLS PS1 Store Promo Poster Display 1998 PlayStation 1 CAPCOM JP RARE" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=rival+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-simple-matrix-for-rival-ideas-rival-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rival poster -book -books -dvd" data-ebay-reference="a-simple-matrix-for-rival-ideas-rival-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">RIVAL SCHOOLS PS1 Store Promo Poster Display 1998 PlayStation 1 CAPCOM JP RARE</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rival+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-simple-matrix-for-rival-ideas-rival-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rival poster -book -books -dvd" data-ebay-reference="a-simple-matrix-for-rival-ideas-rival-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rival poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: rival poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=rival+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-simple-matrix-for-rival-ideas-rival-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rival poster -book -books -dvd" data-ebay-reference="a-simple-matrix-for-rival-ideas-rival-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rival+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-simple-matrix-for-rival-ideas-rival-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rival poster -book -books -dvd" data-ebay-reference="a-simple-matrix-for-rival-ideas-rival-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RIVAL SCHOOLS PS1 Store Promo Poster Display 1998 PlayStation 1 CAPCOM JP RARE"><img src="https://i.ebayimg.com/images/g/-b4AAeSw0olqPZ2e/s-l225.jpg" alt="Listing image for RIVAL SCHOOLS PS1 Store Promo Poster Display 1998 PlayStation 1 CAPCOM JP RARE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rival+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-simple-matrix-for-rival-ideas-rival-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rival poster -book -books -dvd" data-ebay-reference="a-simple-matrix-for-rival-ideas-rival-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">RIVAL SCHOOLS PS1 Store Promo Poster Display 1998 PlayStation 1 CAPCOM JP RARE</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rival+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-simple-matrix-for-rival-ideas-rival-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rival poster -book -books -dvd" data-ebay-reference="a-simple-matrix-for-rival-ideas-rival-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rival poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: rival poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rival+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-simple-matrix-for-rival-ideas-rival-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rival poster -book -books -dvd" data-ebay-reference="a-simple-matrix-for-rival-ideas-rival-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rival+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-simple-matrix-for-rival-ideas-rival-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rival poster -book -books -dvd" data-ebay-reference="a-simple-matrix-for-rival-ideas-rival-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rival sons rockfest Framed Art Prin Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/BeMAAeSwXhNp1ToO/s-l225.jpg" alt="Listing image for Rival sons rockfest Framed Art Prin Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=rival+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-simple-matrix-for-rival-ideas-rival-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rival poster -book -books -dvd" data-ebay-reference="a-simple-matrix-for-rival-ideas-rival-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Rival sons rockfest Framed Art Prin Framed Wall Art Poster Canvas Print Picture</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rival+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-simple-matrix-for-rival-ideas-rival-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rival poster -book -books -dvd" data-ebay-reference="a-simple-matrix-for-rival-ideas-rival-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rival poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: rival poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=rival+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-simple-matrix-for-rival-ideas-rival-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rival poster -book -books -dvd" data-ebay-reference="a-simple-matrix-for-rival-ideas-rival-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rival+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-simple-matrix-for-rival-ideas-rival-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rival poster -book -books -dvd" data-ebay-reference="a-simple-matrix-for-rival-ideas-rival-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rival sons rockfest Framed Art Prin Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/BeMAAeSwXhNp1ToO/s-l225.jpg" alt="Listing image for Rival sons rockfest Framed Art Prin Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rival+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-simple-matrix-for-rival-ideas-rival-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rival poster -book -books -dvd" data-ebay-reference="a-simple-matrix-for-rival-ideas-rival-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Rival sons rockfest Framed Art Prin Framed Wall Art Poster Canvas Print Picture</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rival+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-simple-matrix-for-rival-ideas-rival-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rival poster -book -books -dvd" data-ebay-reference="a-simple-matrix-for-rival-ideas-rival-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rival poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: rival poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rival+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-simple-matrix-for-rival-ideas-rival-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rival poster -book -books -dvd" data-ebay-reference="a-simple-matrix-for-rival-ideas-rival-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rival+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-simple-matrix-for-rival-ideas-rival-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rival poster -book -books -dvd" data-ebay-reference="a-simple-matrix-for-rival-ideas-rival-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RIVAL SONS LIGHTBRINGER MANCHESTER UK OCT 23 ORIGINAL SCREENPRINT SHOW POSTER"><img src="https://i.ebayimg.com/images/g/Q0IAAOSw1CRmBDCd/s-l225.jpg" alt="Listing image for RIVAL SONS LIGHTBRINGER MANCHESTER UK OCT 23 ORIGINAL SCREENPRINT SHOW POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=rival+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-simple-matrix-for-rival-ideas-rival-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rival poster -book -books -dvd" data-ebay-reference="a-simple-matrix-for-rival-ideas-rival-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">RIVAL SONS LIGHTBRINGER MANCHESTER UK OCT 23 ORIGINAL SCREENPRINT SHOW POSTER</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rival+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-simple-matrix-for-rival-ideas-rival-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rival poster -book -books -dvd" data-ebay-reference="a-simple-matrix-for-rival-ideas-rival-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rival poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: rival poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=rival+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-simple-matrix-for-rival-ideas-rival-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rival poster -book -books -dvd" data-ebay-reference="a-simple-matrix-for-rival-ideas-rival-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=rival+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-simple-matrix-for-rival-ideas-rival-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rival poster -book -books -dvd" data-ebay-reference="a-simple-matrix-for-rival-ideas-rival-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rival+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-simple-matrix-for-rival-ideas-rival-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rival poster -book -books -dvd" data-ebay-reference="a-simple-matrix-for-rival-ideas-rival-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RIVAL SONS LIGHTBRINGER MANCHESTER UK OCT 23 ORIGINAL SCREENPRINT SHOW POSTER"><img src="https://i.ebayimg.com/images/g/Q0IAAOSw1CRmBDCd/s-l225.jpg" alt="Listing image for RIVAL SONS LIGHTBRINGER MANCHESTER UK OCT 23 ORIGINAL SCREENPRINT SHOW POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rival+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-simple-matrix-for-rival-ideas-rival-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rival poster -book -books -dvd" data-ebay-reference="a-simple-matrix-for-rival-ideas-rival-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">RIVAL SONS LIGHTBRINGER MANCHESTER UK OCT 23 ORIGINAL SCREENPRINT SHOW POSTER</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rival+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-simple-matrix-for-rival-ideas-rival-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rival poster -book -books -dvd" data-ebay-reference="a-simple-matrix-for-rival-ideas-rival-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rival poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: rival poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rival+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-simple-matrix-for-rival-ideas-rival-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rival poster -book -books -dvd" data-ebay-reference="a-simple-matrix-for-rival-ideas-rival-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=rival+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-simple-matrix-for-rival-ideas-rival-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rival poster -book -books -dvd" data-ebay-reference="a-simple-matrix-for-rival-ideas-rival-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -630,7 +630,7 @@ This approach preserves the most useful insight from intelligence analysis: expl
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -650,7 +650,7 @@ This approach preserves the most useful insight from intelligence analysis: expl
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -682,7 +682,7 @@ This approach preserves the most useful insight from intelligence analysis: expl
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -734,7 +734,7 @@ This approach preserves the most useful insight from intelligence analysis: expl
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -779,7 +779,7 @@ This approach preserves the most useful insight from intelligence analysis: expl
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -819,116 +819,116 @@ This approach preserves the most useful insight from intelligence analysis: expl
 </section>
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: ialeia.org  
    Title: mends using a matrix to array evidence for and against competing hy-.Read more  
-   Link:<a href="https://www.ialeia.org/docs/Psychology_of_Intelligence_Analysis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ialeia.org/docs/Psychology_of_Intelligence_Analysis.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>[PDF] The Psychology of Intelligence AnalysisDecember 13, 2005 — Heuer&#x27;s concept of “Analysis of Competing Hypotheses” (ACH) is among his...</p></details>
+   Link: <a href="https://www.ialeia.org/docs/Psychology_of_Intelligence_Analysis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ialeia.org/docs/Psychology_of_Intelligence_Analysis.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>[PDF] The Psychology of Intelligence AnalysisDecember 13, 2005 — Heuer&#x27;s concept of “Analysis of Competing Hypotheses” (ACH) is among his...</p></details>
    Published: December 13, 2005  
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: pherson.org  
-   Link:<a href="https://pherson.org/wp-content/uploads/2013/06/06.-How-Does-ACH-Improve-Analysis_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pherson.org/wp-content/uploads/2013/06/06.-How-Does-ACH-Improve-Analysis_FINAL.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>This paper identifies three different approaches to Analysis of Competing Hypotheses (ACH) and four major steps in the intelligence analy...</p></details>
+   Link: <a href="https://pherson.org/wp-content/uploads/2013/06/06.-How-Does-ACH-Improve-Analysis_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pherson.org/wp-content/uploads/2013/06/06.-How-Does-ACH-Improve-Analysis_FINAL.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>This paper identifies three different approaches to Analysis of Competing Hypotheses (ACH) and four major steps in the intelligence analy...</p></details>
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: ptgmedia.pearsoncmg.com  
-   Link:<a href="https://ptgmedia.pearsoncmg.com/imprint_downloads/ftpress/bookreg/9780131873667/Ch28.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ptgmedia.pearsoncmg.com/imprint_downloads/ftpress/bookreg/9780131873667/Ch28.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>28 Analysis of Competing HypothesisFebruary 28, 2007 — ACH is a process for refuting hypotheses. • Typical: analysts choose what they int...</p></details>
+   Link: <a href="https://ptgmedia.pearsoncmg.com/imprint_downloads/ftpress/bookreg/9780131873667/Ch28.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ptgmedia.pearsoncmg.com/imprint_downloads/ftpress/bookreg/9780131873667/Ch28.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>28 Analysis of Competing HypothesisFebruary 28, 2007 — ACH is a process for refuting hypotheses. • Typical: analysts choose what they int...</p></details>
    Published: February 28, 2007  
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: pherson.org  
-   Link:<a href="https://pherson.org/wp-content/uploads/2013/06/Improving-Intelligence-Analysis-with-ACH.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pherson.org/wp-content/uploads/2013/06/Improving-Intelligence-Analysis-with-ACH.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Center for the Study of Intelligence, 1999). His book is used throughout.Read more...</p></details>
+   Link: <a href="https://pherson.org/wp-content/uploads/2013/06/Improving-Intelligence-Analysis-with-ACH.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pherson.org/wp-content/uploads/2013/06/Improving-Intelligence-Analysis-with-ACH.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for the Study of Intelligence, 1999). His book is used throughout.Read more...</p></details>
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: youtube.com  
    Title: Intelligence Analysis Skills: Analysis of Competing Hypotheses (Part 1)  
-   Link:<a href="https://www.youtube.com/watch?v=J_eDCBf7R2I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=J_eDCBf7R2I</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of Competing Hypotheses...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=J_eDCBf7R2I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=J_eDCBf7R2I</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of Competing Hypotheses...</p></details>
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: youtube.com  
    Title: Analysis of Competing Hypotheses  
-   Link:<a href="https://www.youtube.com/watch?v=t6GEvRYMIxs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6GEvRYMIxs</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Structured Analytic Techniques: Can One Method Beat Gut Feel?...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=t6GEvRYMIxs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6GEvRYMIxs</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Structured Analytic Techniques: Can One Method Beat Gut Feel?...</p></details>
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: communicationcache.com  
    Title: multiple explanation a consider an alternative strategy for debiasing judgments  
-   Link:<a href="https://www.communicationcache.com/uploads/1/0/8/8/10887248/multiple_explanation-_a_consider-an-alternative_strategy_for_debiasing_judgments.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.communicationcache.com/uploads/1/0/8/8/10887248/multiple_explanation-_a_consider-an-alternative_strategy_for_debiasing_judgments.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Communication CacheA Consider-an-Alternative Strategy for Debiasing Judgmentsby ER Hirt · 1995 · Cited by 469 — Previous research has sug...</p></details>
+   Link: <a href="https://www.communicationcache.com/uploads/1/0/8/8/10887248/multiple_explanation-_a_consider-an-alternative_strategy_for_debiasing_judgments.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.communicationcache.com/uploads/1/0/8/8/10887248/multiple_explanation-_a_consider-an-alternative_strategy_for_debiasing_judgments.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Communication CacheA Consider-an-Alternative Strategy for Debiasing Judgmentsby ER Hirt · 1995 · Cited by 469 — Previous research has sug...</p></details>
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: strathprints.strath.ac.uk  
    Title: Strathprints The “analysis of competing hypotheses” in intelligence analysis  
-   Link:<a href="https://strathprints.strath.ac.uk/69049/1/Dhami_etal_ACP_2019_The_analysis_of_competing_hypotheses_in_intelligence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://strathprints.strath.ac.uk/69049/1/Dhami_etal_ACP_2019_The_analysis_of_competing_hypotheses_in_intelligence.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The “analysis of competing hypotheses” in intelligence analysisJuly 26, 2019 — by MK Dhami · 2019 · Cited by 81 — We examined...</p></details>
+   Link: <a href="https://strathprints.strath.ac.uk/69049/1/Dhami_etal_ACP_2019_The_analysis_of_competing_hypotheses_in_intelligence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://strathprints.strath.ac.uk/69049/1/Dhami_etal_ACP_2019_The_analysis_of_competing_hypotheses_in_intelligence.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The “analysis of competing hypotheses” in intelligence analysisJuly 26, 2019 — by MK Dhami · 2019 · Cited by 81 — We examined...</p></details>
    Published: July 26, 2019  
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: strathprints.strath.ac.uk  
-   Link:<a href="https://strathprints.strath.ac.uk/89640/" target="_blank" rel="noopener noreferrer nofollow">https://strathprints.strath.ac.uk/89640/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of task structure and confirmation bias in alternative...by MK Dhami · 2024 · Cited by 2 — We empirically examined t...</p></details>
+   Link: <a href="https://strathprints.strath.ac.uk/89640/" target="_blank" rel="noopener noreferrer nofollow">https://strathprints.strath.ac.uk/89640/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of task structure and confirmation bias in alternative...by MK Dhami · 2024 · Cited by 2 — We empirically examined t...</p></details>
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Analysis of competing hypotheses  
-   Link:<a href="https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of competing hypothesesThe analysis of competing hypotheses (ACH) is a methodology for evaluating multiple competing hypothes...</p></details>
+   Link: <a href="https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of competing hypothesesThe analysis of competing hypotheses (ACH) is a methodology for evaluating multiple competing hypothes...</p></details>
 
 ### Additional References
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: futuribles.com  
-   Link:<a href="https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706" target="_blank" rel="noopener noreferrer nofollow">https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of Competing HypothesesAnalysis of Competing Hypotheses (ACH) is an intelligence analysis method based on evaluating plausible a...</p></details>
+   Link: <a href="https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706" target="_blank" rel="noopener noreferrer nofollow">https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of Competing HypothesesAnalysis of Competing Hypotheses (ACH) is an intelligence analysis method based on evaluating plausible a...</p></details>
 
-12.<a id="endnote-12"></a>
+12. <a id="endnote-12"></a>
    Source: sosintel.co.uk  
-   Link:<a href="https://sosintel.co.uk/mastering-the-analysis-of-competing-hypotheses-ach-a-practical-framework-for-clear-thinking/" target="_blank" rel="noopener noreferrer nofollow">https://sosintel.co.uk/mastering-the-analysis-of-competing-hypotheses-ach-a-practical-framework-for-clear-thinking/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>SOS IntelligenceMastering the Analysis of Competing Hypotheses (ACH)20 Jun 2025 — At its core, ACH shifts the analytical focus from provi...</p></details>
+   Link: <a href="https://sosintel.co.uk/mastering-the-analysis-of-competing-hypotheses-ach-a-practical-framework-for-clear-thinking/" target="_blank" rel="noopener noreferrer nofollow">https://sosintel.co.uk/mastering-the-analysis-of-competing-hypotheses-ach-a-practical-framework-for-clear-thinking/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>SOS IntelligenceMastering the Analysis of Competing Hypotheses (ACH)20 Jun 2025 — At its core, ACH shifts the analytical focus from provi...</p></details>
 
-13.<a id="endnote-13"></a>
+13. <a id="endnote-13"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/331942237_The_analysis_of_competing_hypotheses_in_intelligence_analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/331942237_The_analysis_of_competing_hypotheses_in_intelligence_analysis</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>to reduce “confirmation bias.” Fifty intelligence analysts were randomly...Read more...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/331942237_The_analysis_of_competing_hypotheses_in_intelligence_analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/331942237_The_analysis_of_competing_hypotheses_in_intelligence_analysis</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>to reduce “confirmation bias.” Fifty intelligence analysts were randomly...Read more...</p></details>
 
-14.<a id="endnote-14"></a>
+14. <a id="endnote-14"></a>
    Source: watchmycompetitor.com  
-   Link:<a href="https://www.watchmycompetitor.com/resources/a-complete-guide-to-analysis-of-competing-hypotheses-ach/" target="_blank" rel="noopener noreferrer nofollow">https://www.watchmycompetitor.com/resources/a-complete-guide-to-analysis-of-competing-hypotheses-ach/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>g that helps you identify and evaluate different explanations for a given...</p></details>
+   Link: <a href="https://www.watchmycompetitor.com/resources/a-complete-guide-to-analysis-of-competing-hypotheses-ach/" target="_blank" rel="noopener noreferrer nofollow">https://www.watchmycompetitor.com/resources/a-complete-guide-to-analysis-of-competing-hypotheses-ach/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>g that helps you identify and evaluate different explanations for a given...</p></details>
 
-15.<a id="endnote-15"></a>
+15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: Structured Analytic Techniques: Can One Method Beat Gut Feel?  
-   Link:<a href="https://www.youtube.com/watch?v=YvuEv-aR97Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YvuEv-aR97Y</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>[Analysis of Competing Hypotheses Matrix] This video on the Analysis of Competing Hypotheses details how to systematically evaluate multi...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=YvuEv-aR97Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YvuEv-aR97Y</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Analysis of Competing Hypotheses Matrix] This video on the Analysis of Competing Hypotheses details how to systematically evaluate multi...</p></details>
 
-16.<a id="endnote-16"></a>
+16. <a id="endnote-16"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Abduction  
-   Link:<a href="https://plato.stanford.edu/entries/abduction/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/abduction/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyAbduction - Stanford Encyclopedia of Philosophyby I Douven · 2011 · Cited by 1188 — Abduction is norma...</p></details>
+   Link: <a href="https://plato.stanford.edu/entries/abduction/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/abduction/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyAbduction - Stanford Encyclopedia of Philosophyby I Douven · 2011 · Cited by 1188 — Abduction is norma...</p></details>
 
-17.<a id="endnote-17"></a>
+17. <a id="endnote-17"></a>
    Source: repository.mdx.ac.uk  
-   Link:<a href="https://repository.mdx.ac.uk/download/56199b865755f7ffe0f2e697a221094d9723cc68c1db2314d90d96fcdd117016/1342655/s41235-024-00560-y.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.mdx.ac.uk/download/56199b865755f7ffe0f2e697a221094d9723cc68c1db2314d90d96fcdd117016/1342655/s41235-024-00560-y.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>of task structure and confirmation bias in alternative...by MK Dhami · 2024 · Cited by 2 — To our knowledge, no research has yet examine...</p></details>
+   Link: <a href="https://repository.mdx.ac.uk/download/56199b865755f7ffe0f2e697a221094d9723cc68c1db2314d90d96fcdd117016/1342655/s41235-024-00560-y.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.mdx.ac.uk/download/56199b865755f7ffe0f2e697a221094d9723cc68c1db2314d90d96fcdd117016/1342655/s41235-024-00560-y.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>of task structure and confirmation bias in alternative...by MK Dhami · 2024 · Cited by 2 — To our knowledge, no research has yet examine...</p></details>
 
-18.<a id="endnote-18"></a>
+18. <a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>of task structure and confirmation bias in alternative...by MK Dhami · 2024 · Cited by 2 — We empirically examined the effectiveness of...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>of task structure and confirmation bias in alternative...by MK Dhami · 2024 · Cited by 2 — We empirically examined the effectiveness of...</p></details>
 
-19.<a id="endnote-19"></a>
+19. <a id="endnote-19"></a>
    Source: tandfonline.com  
-   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/02684527.2022.2076332" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/02684527.2022.2076332</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Full article: Justified true belief theory for intelligence analysisby M Whitesmith · 2022 · Cited by 20 — Valid counter-arguments outsid...</p></details>
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/02684527.2022.2076332" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/02684527.2022.2076332</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Full article: Justified true belief theory for intelligence analysisby M Whitesmith · 2022 · Cited by 20 — Valid counter-arguments outsid...</p></details>
 
-20.<a id="endnote-20"></a>
+20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: This CIA Manual Trains the World's Sharpest Analytical Minds  
-   Link:<a href="https://www.youtube.com/watch?v=NMElghTG_kI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NMElghTG_kI</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Intelligence Analysis Skills: Analysis of Competing Hypotheses (Part 1)...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=NMElghTG_kI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NMElghTG_kI</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Intelligence Analysis Skills: Analysis of Competing Hypotheses (Part 1)...</p></details>

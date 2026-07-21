@@ -284,7 +284,7 @@ When two explanations both fit the facts you already know, asking whether the ev
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_live_alternatives_e775b1_prediction_tests_riv_be4001-Illustration-1-dark.svg" | relative_url }}" alt="Prediction Tests illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_live_alternatives_e775b1_prediction_tests_riv_be4001-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_live_alternatives_e775b1_prediction_tests_riv_be4001-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This approach improves analytical thinking because it forces explanations to compete on what they expect to happen, not merely on how well they explain the past. It also reduces the risk of confirmation bias by making you look for evidence that could genuinely change your mind rather than evidence that merely fits a preferred story. Research in psychology, philosophy of science and intelligence analysis consistently finds that evidence is most valuable when it discriminates between competing hypotheses rather than simply accumulating support for one of them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pages.ucsd.edu">[UC San Diego Pages+2Strathprints]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pages.ucsd.edu</span><span class="citation-popover-title">UC San Diego Pages Confirmation Bias: A Ubiquitous Phenomenon in Many</span><span class="citation-popover-snippet">UC San Diego PagesConfirmation Bias: A Ubiquitous Phenomenon in Many...October 6, 2004 — by RS Nickerson · 1998 · Cited by 12458 — Confi...</span><span class="citation-popover-meta">Published: October 6, 2004</span></span></span>
+This approach improves analytical thinking because it forces explanations to compete on what they expect to happen, not merely on how well they explain the past. It also reduces the risk of confirmation bias by making you look for evidence that could genuinely change your mind rather than evidence that merely fits a preferred story. Research in psychology, philosophy of science and intelligence analysis consistently finds that evidence is most valuable when it discriminates between competing hypotheses rather than simply accumulating support for one of them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pages.ucsd.edu">[UC San Diego Pages+2Strathprints]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pages.ucsd.edu</span><span class="citation-popover-title">UC San Diego Pages Confirmation Bias: A Ubiquitous Phenomenon in Many</span><span class="citation-popover-snippet">UC San Diego PagesConfirmation Bias: A Ubiquitous Phenomenon in Many...October 6, 2004 — by RS Nickerson · 1998 · Cited by 12458 — Confi...</span><span class="citation-popover-meta">Published: October 6, 2004</span></span></span>
 
 ## Turning explanations into expected observations
 
@@ -315,7 +315,7 @@ A good prediction test therefore has three features:
 * it specifies what each explanation predicts before looking;
 * it allows the competing explanations to make different [predictions]({{ 'predictions/' | relative_url }}).
 
-This reflects a long-standing principle in scientific reasoning: explanations gain credibility not merely by accommodating known facts but by successfully predicting observations that were not built into the explanation after the fact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://escholarship.org/content/qt4b8349fn/qt4b8349fn.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: escholarship.org">[eScholarship]</a><span class="citation-popover" role="note"><span class="citation-popover-source">escholarship.org</span><span class="citation-popover-snippet">UC MercedMarch 11, 2025 — by LE Strittmatter · 2023 — Theories can be designed to predict novel evidence or to accommodate kn...</span><span class="citation-popover-meta">Published: March 11, 2025</span></span></span>
+This reflects a long-standing principle in scientific reasoning: explanations gain credibility not merely by accommodating known facts but by successfully predicting observations that were not built into the explanation after the fact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://escholarship.org/content/qt4b8349fn/qt4b8349fn.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: escholarship.org">[eScholarship]</a><span class="citation-popover" role="note"><span class="citation-popover-source">escholarship.org</span><span class="citation-popover-snippet">UC MercedMarch 11, 2025 — by LE Strittmatter · 2023 — Theories can be designed to predict novel evidence or to accommodate kn...</span><span class="citation-popover-meta">Published: March 11, 2025</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zgir07qRdGw" title="Probability is not Likelihood" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zgir07qRdGw" target="_blank" rel="noopener noreferrer">Probability is not Likelihood</a></p><p class="youtube-embed-meta">Channel: DataMListic</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zgir07qRdGw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zgir07qRdGw">Open on YouTube</a></p></div></div></div>
@@ -356,7 +356,7 @@ Strong discrimination:
 
 The second observation changes the relative balance between explanations. The first mostly increases confidence in all of them simultaneously.
 
-Structured analytical methods such as the Analysis of Competing Hypotheses (ACH) explicitly encourage analysts to identify evidence that distinguishes hypotheses instead of simply counting supporting facts. They also emphasise paying particular attention to inconsistent evidence because disagreement often carries more information than agreement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://strathprints.strath.ac.uk/69049/1/Dhami_etal_ACP_2019_The_analysis_of_competing_hypotheses_in_intelligence.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strathprints.strath.ac.uk">[Strathprints+2Futuribles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strathprints.strath.ac.uk</span><span class="citation-popover-title">Dhami etal ACP 2019 The analysis of competing hypotheses in intelligence</span><span class="citation-popover-snippet">bcIn ACH, the credibility and...</span></span></span>
+Structured analytical methods such as the Analysis of Competing Hypotheses (ACH) explicitly encourage analysts to identify evidence that distinguishes hypotheses instead of simply counting supporting facts. They also emphasise paying particular attention to inconsistent evidence because disagreement often carries more information than agreement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://strathprints.strath.ac.uk/69049/1/Dhami_etal_ACP_2019_The_analysis_of_competing_hypotheses_in_intelligence.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strathprints.strath.ac.uk">[Strathprints+2Futuribles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strathprints.strath.ac.uk</span><span class="citation-popover-title">Dhami etal ACP 2019 The analysis of competing hypotheses in intelligence</span><span class="citation-popover-snippet">bcIn ACH, the credibility and...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_live_alternatives_e775b1_prediction_tests_riv_be4001-Illustration-2-dark.svg" | relative_url }}" alt="Prediction Tests illustration 2" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_live_alternatives_e775b1_prediction_tests_riv_be4001-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_live_alternatives_e775b1_prediction_tests_riv_be4001-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -386,7 +386,7 @@ with:
 
 The second creates a meaningful opportunity for explanations to succeed or fail.
 
-Philosophers of science have long distinguished theories that merely accommodate existing evidence from those that successfully predict new observations. Although prediction is not automatically superior in every circumstance, successful novel predictions often provide stronger support because they were not constructed after the outcome became known.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://escholarship.org/content/qt4b8349fn/qt4b8349fn.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: escholarship.org">[eScholarship]</a><span class="citation-popover" role="note"><span class="citation-popover-source">escholarship.org</span><span class="citation-popover-snippet">UC MercedMarch 11, 2025 — by LE Strittmatter · 2023 — Theories can be designed to predict novel evidence or to accommodate kn...</span><span class="citation-popover-meta">Published: March 11, 2025</span></span></span>
+Philosophers of science have long distinguished theories that merely accommodate existing evidence from those that successfully predict new observations. Although prediction is not automatically superior in every circumstance, successful novel predictions often provide stronger support because they were not constructed after the outcome became known. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://escholarship.org/content/qt4b8349fn/qt4b8349fn.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: escholarship.org">[eScholarship]</a><span class="citation-popover" role="note"><span class="citation-popover-source">escholarship.org</span><span class="citation-popover-snippet">UC MercedMarch 11, 2025 — by LE Strittmatter · 2023 — Theories can be designed to predict novel evidence or to accommodate kn...</span><span class="citation-popover-meta">Published: March 11, 2025</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Y-J0FYOQRMY" title="Analysis of Competing Hypotheses (ACH): A Structured Analytic Technique (SAT) for FinCrime" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Y-J0FYOQRMY" target="_blank" rel="noopener noreferrer">Analysis of Competing Hypotheses (ACH): A Structured Analytic Technique (SAT) for FinCrime</a></p><p class="youtube-embed-meta">Channel: Atlas Analytics: Intelligence Analysis</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Y-J0FYOQRMY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Y-J0FYOQRMY">Open on YouTube</a></p></div></div></div>
@@ -442,7 +442,7 @@ Ask:
 
 If no imaginable evidence could distinguish between competing explanations, then the disagreement may be more about storytelling than about evidence.
 
-This idea also appears in discussions of confirmation bias. Simply finding additional compatible evidence is often much less informative than deliberately searching for observations that could differentiate competing hypotheses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pages.ucsd.edu">[UC San Diego Pages]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pages.ucsd.edu</span><span class="citation-popover-title">UC San Diego Pages Confirmation Bias: A Ubiquitous Phenomenon in Many</span><span class="citation-popover-snippet">UC San Diego PagesConfirmation Bias: A Ubiquitous Phenomenon in Many...October 6, 2004 — by RS Nickerson · 1998 · Cited by 12458 — Confi...</span><span class="citation-popover-meta">Published: October 6, 2004</span></span></span>
+This idea also appears in discussions of confirmation bias. Simply finding additional compatible evidence is often much less informative than deliberately searching for observations that could differentiate competing hypotheses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pages.ucsd.edu">[UC San Diego Pages]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pages.ucsd.edu</span><span class="citation-popover-title">UC San Diego Pages Confirmation Bias: A Ubiquitous Phenomenon in Many</span><span class="citation-popover-snippet">UC San Diego PagesConfirmation Bias: A Ubiquitous Phenomenon in Many...October 6, 2004 — by RS Nickerson · 1998 · Cited by 12458 — Confi...</span><span class="citation-popover-meta">Published: October 6, 2004</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/t6GEvRYMIxs" title="Analysis of Competing Hypotheses" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=t6GEvRYMIxs" target="_blank" rel="noopener noreferrer">Analysis of Competing Hypotheses</a></p><p class="youtube-embed-meta">Channel: S2 Underground</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=t6GEvRYMIxs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=t6GEvRYMIxs">Open on YouTube</a></p></div></div></div>
@@ -462,7 +462,7 @@ When several plausible explanations remain alive, a structured sequence helps pr
 
 </div>
 
-This approach mirrors Bayesian thinking, where evidence is evaluated by how much more expected it is under one hypothesis than another, rather than by whether it is merely compatible with a preferred explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12994668/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2strevens.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCA Tutorial on Conducting and Interpreting a Bayesian</span><span class="citation-popover-snippet">by HE Malone · 2025 · Cited by 3 — Researchers formulate a hypothesis and collect data to test that hypothesis. Bayesian analysis focu...</span></span></span>
+This approach mirrors Bayesian thinking, where evidence is evaluated by how much more expected it is under one hypothesis than another, rather than by whether it is merely compatible with a preferred explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12994668/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2strevens.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCA Tutorial on Conducting and Interpreting a Bayesian</span><span class="citation-popover-snippet">by HE Malone · 2025 · Cited by 3 — Researchers formulate a hypothesis and collect data to test that hypothesis. Bayesian analysis focu...</span></span></span>
 
 ## Why this habit improves analytical thinking
 
@@ -480,197 +480,197 @@ The habit produces several benefits:
 
 </div>
 
-Most importantly, prediction tests transform [uncertainty]({{ 'uncertainty/' | relative_url }}) from a weakness into a productive stage of reasoning. When several explanations remain plausible, the objective is not to defend a favourite but to discover which explanation makes the most accurate predictions about observations that have not yet been seen. That is the point at which competing explanations stop being stories and begin functioning as genuine tests of understanding.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pages.ucsd.edu">[Wikipedia+3UC San Diego Pages+3Strathprints]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pages.ucsd.edu</span><span class="citation-popover-title">UC San Diego Pages Confirmation Bias: A Ubiquitous Phenomenon in Many</span><span class="citation-popover-snippet">UC San Diego PagesConfirmation Bias: A Ubiquitous Phenomenon in Many...October 6, 2004 — by RS Nickerson · 1998 · Cited by 12458 — Confi...</span><span class="citation-popover-meta">Published: October 6, 2004</span></span></span>
+Most importantly, prediction tests transform [uncertainty]({{ 'uncertainty/' | relative_url }}) from a weakness into a productive stage of reasoning. When several explanations remain plausible, the objective is not to defend a favourite but to discover which explanation makes the most accurate predictions about observations that have not yet been seen. That is the point at which competing explanations stop being stories and begin functioning as genuine tests of understanding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pages.ucsd.edu">[Wikipedia+3UC San Diego Pages+3Strathprints]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pages.ucsd.edu</span><span class="citation-popover-title">UC San Diego Pages Confirmation Bias: A Ubiquitous Phenomenon in Many</span><span class="citation-popover-snippet">UC San Diego PagesConfirmation Bias: A Ubiquitous Phenomenon in Many...October 6, 2004 — by RS Nickerson · 1998 · Cited by 12458 — Confi...</span><span class="citation-popover-meta">Published: October 6, 2004</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to The Test That Breaks A Tie. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to The Test That Breaks A Tie. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=45OmCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
-</h4>
-<p class="fr-book-author">By Philip Tetlock, Dan Gardner</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=45OmCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Superforecasting+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
+        </h4>
+        <p class="fr-book-author">By Philip Tetlock, Dan Gardner</p>
         
-<p class="fr-book-desc">Directly addresses prediction-based evaluation of competing explanations.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly addresses prediction-based evaluation of competing explanations.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Superforecasting+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Psychology+of+Intelligence+Analysis+by+Richards+J.+Heuer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Psychology of Intelligence Analysis on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NWwkQoHlsCcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Psychology of Intelligence Analysis" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Psychology+of+Intelligence+Analysis+by+Richards+J.+Heuer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Psychology of Intelligence Analysis">Psychology of Intelligence Analysis</a>
-</h4>
-<p class="fr-book-author">By Richards J. Heuer</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Psychology+of+Intelligence+Analysis+Richards+J.+Heuer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Psychology of Intelligence Analysis on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NWwkQoHlsCcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Psychology of Intelligence Analysis" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Psychology+of+Intelligence+Analysis+Richards+J.+Heuer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Psychology of Intelligence Analysis">Psychology of Intelligence Analysis</a>
+        </h4>
+        <p class="fr-book-author">By Richards J. Heuer</p>
         
-<p class="fr-book-desc">Explains discriminating evidence and rival hypotheses.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Psychology+of+Intelligence+Analysis+by+Richards+J.+Heuer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains discriminating evidence and rival hypotheses.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Psychology+of+Intelligence+Analysis+Richards+J.+Heuer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d6yMEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
-</h4>
-<p class="fr-book-author">By Nate Silver</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Measure+Anything+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Measure Anything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CBAh4eM-g3AC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Measure Anything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=How+to+Measure+Anything+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Measure Anything">How to Measure Anything</a>
+        </h4>
+        <p class="fr-book-author">By Douglas W. Hubbard</p>
         
-<p class="fr-book-desc">Shows how successful predictions distinguish useful models.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides methods for gathering informative evidence.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=How+to+Measure+Anything+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Measure Anything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CBAh4eM-g3AC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Measure Anything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Measure Anything">How to Measure Anything</a>
-</h4>
-<p class="fr-book-author">By Douglas W. Hubbard</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+        </h4>
+        <p class="fr-book-author">By Nate Silver</p>
         
-<p class="fr-book-desc">Provides methods for gathering informative evidence.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Shows how successful predictions distinguish useful models.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Psychology+of+Intelligence+Analysis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Psychology of Intelligence Analysis</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Psychology+of+Intelligence+Analysis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Psychology of Intelligence Analysis</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Measure+Anything&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Measure Anything</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-that-breaks-a-tie-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="the-test-that-breaks-a-tie-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 Take That Poster"><img src="https://i.ebayimg.com/images/g/PjoAAeSw3YRqFf5p/s-l225.jpg" alt="Listing image for Large A3 Take That Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-that-breaks-a-tie-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="the-test-that-breaks-a-tie-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Large A3 Take That Poster</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-that-breaks-a-tie-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="the-test-that-breaks-a-tie-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for that poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: that poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-that-breaks-a-tie-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="the-test-that-breaks-a-tie-that-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-that-breaks-a-tie-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="the-test-that-breaks-a-tie-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 Take That Poster"><img src="https://i.ebayimg.com/images/g/PjoAAeSw3YRqFf5p/s-l225.jpg" alt="Listing image for Large A3 Take That Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-that-breaks-a-tie-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="the-test-that-breaks-a-tie-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Large A3 Take That Poster</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-that-breaks-a-tie-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="the-test-that-breaks-a-tie-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for that poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: that poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-that-breaks-a-tie-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="the-test-that-breaks-a-tie-that-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-that-breaks-a-tie-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="the-test-that-breaks-a-tie-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 Take That Poster"><img src="https://i.ebayimg.com/images/g/oSoAAeSwkxNqFf0c/s-l225.jpg" alt="Listing image for Large A3 Take That Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-that-breaks-a-tie-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="the-test-that-breaks-a-tie-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Large A3 Take That Poster</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-that-breaks-a-tie-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="the-test-that-breaks-a-tie-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for that poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: that poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-that-breaks-a-tie-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="the-test-that-breaks-a-tie-that-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-that-breaks-a-tie-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="the-test-that-breaks-a-tie-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 Take That Poster"><img src="https://i.ebayimg.com/images/g/oSoAAeSwkxNqFf0c/s-l225.jpg" alt="Listing image for Large A3 Take That Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-that-breaks-a-tie-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="the-test-that-breaks-a-tie-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Large A3 Take That Poster</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-that-breaks-a-tie-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="the-test-that-breaks-a-tie-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for that poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: that poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-that-breaks-a-tie-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="the-test-that-breaks-a-tie-that-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-that-breaks-a-tie-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="the-test-that-breaks-a-tie-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for POSTER VINTAGE MOVIE POSTERS 1940S 40S FILM POSTER FILMS HD BORDERLESS PRINTING"><img src="https://i.ebayimg.com/images/g/N4UAAeSwLDppyGOW/s-l225.jpg" alt="Listing image for POSTER VINTAGE MOVIE POSTERS 1940S 40S FILM POSTER FILMS HD BORDERLESS PRINTING" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-that-breaks-a-tie-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="the-test-that-breaks-a-tie-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">POSTER VINTAGE MOVIE POSTERS 1940S 40S FILM POSTER FILMS HD BORDERLESS PRINTING</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-that-breaks-a-tie-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="the-test-that-breaks-a-tie-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for that poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: that poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-that-breaks-a-tie-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="the-test-that-breaks-a-tie-that-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-that-breaks-a-tie-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="the-test-that-breaks-a-tie-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for POSTER VINTAGE MOVIE POSTERS 1940S 40S FILM POSTER FILMS HD BORDERLESS PRINTING"><img src="https://i.ebayimg.com/images/g/N4UAAeSwLDppyGOW/s-l225.jpg" alt="Listing image for POSTER VINTAGE MOVIE POSTERS 1940S 40S FILM POSTER FILMS HD BORDERLESS PRINTING" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-that-breaks-a-tie-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="the-test-that-breaks-a-tie-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">POSTER VINTAGE MOVIE POSTERS 1940S 40S FILM POSTER FILMS HD BORDERLESS PRINTING</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-that-breaks-a-tie-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="the-test-that-breaks-a-tie-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for that poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: that poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-that-breaks-a-tie-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="the-test-that-breaks-a-tie-that-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-that-breaks-a-tie-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="the-test-that-breaks-a-tie-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 Take That Poster"><img src="https://i.ebayimg.com/images/g/qrQAAeSwSzpqFf49/s-l225.jpg" alt="Listing image for Large A3 Take That Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-that-breaks-a-tie-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="the-test-that-breaks-a-tie-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Large A3 Take That Poster</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-that-breaks-a-tie-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="the-test-that-breaks-a-tie-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for that poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: that poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-that-breaks-a-tie-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="the-test-that-breaks-a-tie-that-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-that-breaks-a-tie-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="the-test-that-breaks-a-tie-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-that-breaks-a-tie-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="the-test-that-breaks-a-tie-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 Take That Poster"><img src="https://i.ebayimg.com/images/g/qrQAAeSwSzpqFf49/s-l225.jpg" alt="Listing image for Large A3 Take That Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-that-breaks-a-tie-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="the-test-that-breaks-a-tie-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Large A3 Take That Poster</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-that-breaks-a-tie-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="the-test-that-breaks-a-tie-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for that poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: that poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-that-breaks-a-tie-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="the-test-that-breaks-a-tie-that-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-that-breaks-a-tie-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="the-test-that-breaks-a-tie-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -686,7 +686,7 @@ Most importantly, prediction tests transform [uncertainty]({{ 'uncertainty/' | r
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -706,7 +706,7 @@ Most importantly, prediction tests transform [uncertainty]({{ 'uncertainty/' | r
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -738,7 +738,7 @@ Most importantly, prediction tests transform [uncertainty]({{ 'uncertainty/' | r
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -790,7 +790,7 @@ Most importantly, prediction tests transform [uncertainty]({{ 'uncertainty/' | r
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -835,7 +835,7 @@ Most importantly, prediction tests transform [uncertainty]({{ 'uncertainty/' | r
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -875,123 +875,123 @@ Most importantly, prediction tests transform [uncertainty]({{ 'uncertainty/' | r
 </section>
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>of task structure and confirmation bias in alternative...by MK Dhami · 2024 · Cited by 2 — We empirically examined the effectiveness of...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>of task structure and confirmation bias in alternative...by MK Dhami · 2024 · Cited by 2 — We empirically examined the effectiveness of...</p></details>
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: escholarship.org  
-   Link:<a href="https://escholarship.org/content/qt4b8349fn/qt4b8349fn.pdf" target="_blank" rel="noopener noreferrer nofollow">https://escholarship.org/content/qt4b8349fn/qt4b8349fn.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>UC MercedMarch 11, 2025 — by LE Strittmatter · 2023 — Theories can be designed to predict novel evidence or to accommodate kn...</p></details>
+   Link: <a href="https://escholarship.org/content/qt4b8349fn/qt4b8349fn.pdf" target="_blank" rel="noopener noreferrer nofollow">https://escholarship.org/content/qt4b8349fn/qt4b8349fn.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UC MercedMarch 11, 2025 — by LE Strittmatter · 2023 — Theories can be designed to predict novel evidence or to accommodate kn...</p></details>
    Published: March 11, 2025  
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Strong inference  
-   Link:<a href="https://en.wikipedia.org/wiki/Strong_inference" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Strong_inference</a>  
+   Link: <a href="https://en.wikipedia.org/wiki/Strong_inference" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Strong_inference</a>  
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: futuribles.com  
-   Link:<a href="https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706" target="_blank" rel="noopener noreferrer nofollow">https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of Competing HypothesesAnalysis of Competing Hypotheses (ACH) is an intelligence analysis method based on evaluating plausible a...</p></details>
+   Link: <a href="https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706" target="_blank" rel="noopener noreferrer nofollow">https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of Competing HypothesesAnalysis of Competing Hypotheses (ACH) is an intelligence analysis method based on evaluating plausible a...</p></details>
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: strevens.org  
-   Link:<a href="https://www.strevens.org/bct/BCT.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.strevens.org/bct/BCT.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Notes on Bayesian Confirmation Theoryby M Strevens · 2017 · Cited by 51 — The Bayesian apparatus, it seems, is a complete guide to how yo...</p></details>
+   Link: <a href="https://www.strevens.org/bct/BCT.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.strevens.org/bct/BCT.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Notes on Bayesian Confirmation Theoryby M Strevens · 2017 · Cited by 51 — The Bayesian apparatus, it seems, is a complete guide to how yo...</p></details>
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Confirmation bias  
-   Link:<a href="https://en.wikipedia.org/wiki/Confirmation_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Confirmation_bias</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Confirmation biasConfirmation bias is the tendency to search for, interpret, favor and recall information in a way that confirms or su...</p></details>
+   Link: <a href="https://en.wikipedia.org/wiki/Confirmation_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Confirmation_bias</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Confirmation biasConfirmation bias is the tendency to search for, interpret, favor and recall information in a way that confirms or su...</p></details>
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: youtube.com  
    Title: Intelligence Analysis Skills: Analysis of Competing Hypotheses (Part 1)  
-   Link:<a href="https://www.youtube.com/watch?v=J_eDCBf7R2I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=J_eDCBf7R2I</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of Competing Hypotheses...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=J_eDCBf7R2I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=J_eDCBf7R2I</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of Competing Hypotheses...</p></details>
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: youtube.com  
    Title: Analysis of Competing Hypotheses  
-   Link:<a href="https://www.youtube.com/watch?v=t6GEvRYMIxs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6GEvRYMIxs</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>(ACH): A Structured Analytic Technique (SAT) for FinCrime...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=t6GEvRYMIxs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6GEvRYMIxs</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>(ACH): A Structured Analytic Technique (SAT) for FinCrime...</p></details>
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: pages.ucsd.edu  
    Title: UC San Diego Pages Confirmation Bias: A Ubiquitous Phenomenon in Many  
-   Link:<a href="https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>UC San Diego PagesConfirmation Bias: A Ubiquitous Phenomenon in Many...October 6, 2004 — by RS Nickerson · 1998 · Cited by 12458 — Confi...</p></details>
+   Link: <a href="https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UC San Diego PagesConfirmation Bias: A Ubiquitous Phenomenon in Many...October 6, 2004 — by RS Nickerson · 1998 · Cited by 12458 — Confi...</p></details>
    Published: October 6, 2004  
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: strathprints.strath.ac.uk  
    Title: Dhami etal ACP 2019 The analysis of competing hypotheses in intelligence  
-   Link:<a href="https://strathprints.strath.ac.uk/69049/1/Dhami_etal_ACP_2019_The_analysis_of_competing_hypotheses_in_intelligence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://strathprints.strath.ac.uk/69049/1/Dhami_etal_ACP_2019_The_analysis_of_competing_hypotheses_in_intelligence.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>bcIn ACH, the credibility and...</p></details>
+   Link: <a href="https://strathprints.strath.ac.uk/69049/1/Dhami_etal_ACP_2019_The_analysis_of_competing_hypotheses_in_intelligence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://strathprints.strath.ac.uk/69049/1/Dhami_etal_ACP_2019_The_analysis_of_competing_hypotheses_in_intelligence.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>bcIn ACH, the credibility and...</p></details>
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCA Tutorial on Conducting and Interpreting a Bayesian  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12994668/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12994668/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>by HE Malone · 2025 · Cited by 3 — Researchers formulate a hypothesis and collect data to test that hypothesis. Bayesian analysis focu...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12994668/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12994668/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by HE Malone · 2025 · Cited by 3 — Researchers formulate a hypothesis and collect data to test that hypothesis. Bayesian analysis focu...</p></details>
 
-12.<a id="endnote-12"></a>
+12. <a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8111937/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8111937/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>predictions arise from contradictions - PMC - NIHby I Yanai · 2021 · Cited by 9 — Confirmation bias leads scientists to dismiss or misint...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8111937/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8111937/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>predictions arise from contradictions - PMC - NIHby I Yanai · 2021 · Cited by 9 — Confirmation bias leads scientists to dismiss or misint...</p></details>
 
 ### Additional References
 
-13.<a id="endnote-13"></a>
+13. <a id="endnote-13"></a>
    Source: nyu-cdsc.github.io  
-   Link:<a href="https://nyu-cdsc.github.io/learningr/assets/kruschke_bayesian_in_R.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nyu-cdsc.github.io/learningr/assets/kruschke_bayesian_in_R.pdf</a>  
+   Link: <a href="https://nyu-cdsc.github.io/learningr/assets/kruschke_bayesian_in_R.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nyu-cdsc.github.io/learningr/assets/kruschke_bayesian_in_R.pdf</a>  
 
-14.<a id="endnote-14"></a>
+14. <a id="endnote-14"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/331029513_A_Tutorial_on_Testing_Hypotheses_Using_the_Bayes_Factor" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/331029513_A_Tutorial_on_Testing_Hypotheses_Using_the_Bayes_Factor</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>A Tutorial on Testing Hypotheses Using the Bayes FactorIn this tutorial it is elaborated how researchers can use the Bayes factor for the...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/331029513_A_Tutorial_on_Testing_Hypotheses_Using_the_Bayes_Factor" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/331029513_A_Tutorial_on_Testing_Hypotheses_Using_the_Bayes_Factor</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Tutorial on Testing Hypotheses Using the Bayes FactorIn this tutorial it is elaborated how researchers can use the Bayes factor for the...</p></details>
 
-15.<a id="endnote-15"></a>
+15. <a id="endnote-15"></a>
    Source: sosintel.co.uk  
-   Link:<a href="https://sosintel.co.uk/mastering-the-analysis-of-competing-hypotheses-ach-a-practical-framework-for-clear-thinking/" target="_blank" rel="noopener noreferrer nofollow">https://sosintel.co.uk/mastering-the-analysis-of-competing-hypotheses-ach-a-practical-framework-for-clear-thinking/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Mastering the Analysis of Competing Hypotheses (ACH)20 Jun 2025 — The Analysis of Competing Hypotheses (ACH) is a structured method desig...</p></details>
+   Link: <a href="https://sosintel.co.uk/mastering-the-analysis-of-competing-hypotheses-ach-a-practical-framework-for-clear-thinking/" target="_blank" rel="noopener noreferrer nofollow">https://sosintel.co.uk/mastering-the-analysis-of-competing-hypotheses-ach-a-practical-framework-for-clear-thinking/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mastering the Analysis of Competing Hypotheses (ACH)20 Jun 2025 — The Analysis of Competing Hypotheses (ACH) is a structured method desig...</p></details>
 
-16.<a id="endnote-16"></a>
+16. <a id="endnote-16"></a>
    Source: repository.mdx.ac.uk  
    Title: evidence from various dif- ferent sources relates to two competing hypotheses  
-   Link:<a href="https://repository.mdx.ac.uk/download/56199b865755f7ffe0f2e697a221094d9723cc68c1db2314d90d96fcdd117016/1342655/s41235-024-00560-y.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.mdx.ac.uk/download/56199b865755f7ffe0f2e697a221094d9723cc68c1db2314d90d96fcdd117016/1342655/s41235-024-00560-y.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>of task structure and confirmation bias in alternative...by MK Dhami · 2024 · Cited by 2 — Similarly, early research has shown that a &#x27;c...</p></details>
+   Link: <a href="https://repository.mdx.ac.uk/download/56199b865755f7ffe0f2e697a221094d9723cc68c1db2314d90d96fcdd117016/1342655/s41235-024-00560-y.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.mdx.ac.uk/download/56199b865755f7ffe0f2e697a221094d9723cc68c1db2314d90d96fcdd117016/1342655/s41235-024-00560-y.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>of task structure and confirmation bias in alternative...by MK Dhami · 2024 · Cited by 2 — Similarly, early research has shown that a &#x27;c...</p></details>
 
-17.<a id="endnote-17"></a>
+17. <a id="endnote-17"></a>
    Source: thechangelab.stanford.edu  
    Title: the basics of the bayesian approach an introductory tutorial  
-   Link:<a href="https://thechangelab.stanford.edu/tutorials/bayesian-methods/the-basics-of-the-bayesian-approach-an-introductory-tutorial/" target="_blank" rel="noopener noreferrer nofollow">https://thechangelab.stanford.edu/tutorials/bayesian-methods/the-basics-of-the-bayesian-approach-an-introductory-tutorial/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Basics of the Bayesian Approach: An Introductory TutorialIn this tutorial, we begin laying the groundwork for understanding the Bayesian...</p></details>
+   Link: <a href="https://thechangelab.stanford.edu/tutorials/bayesian-methods/the-basics-of-the-bayesian-approach-an-introductory-tutorial/" target="_blank" rel="noopener noreferrer nofollow">https://thechangelab.stanford.edu/tutorials/bayesian-methods/the-basics-of-the-bayesian-approach-an-introductory-tutorial/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Basics of the Bayesian Approach: An Introductory TutorialIn this tutorial, we begin laying the groundwork for understanding the Bayesian...</p></details>
 
-18.<a id="endnote-18"></a>
+18. <a id="endnote-18"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/220480585_Seeking_Confirmation_Is_Rational_for_Deterministic_Hypotheses" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/220480585_Seeking_Confirmation_Is_Rational_for_Deterministic_Hypotheses</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>hen those hypotheses are deterministic, each making a single prediction about...Read more...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/220480585_Seeking_Confirmation_Is_Rational_for_Deterministic_Hypotheses" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/220480585_Seeking_Confirmation_Is_Rational_for_Deterministic_Hypotheses</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>hen those hypotheses are deterministic, each making a single prediction about...Read more...</p></details>
 
-19.<a id="endnote-19"></a>
+19. <a id="endnote-19"></a>
    Source: uu.nl  
-   Link:<a href="https://www.uu.nl/en/research/the-bettr-project/about/bayesian-and-non-bayesian-evaluation-of-informative-hypotheses" target="_blank" rel="noopener noreferrer nofollow">https://www.uu.nl/en/research/the-bettr-project/about/bayesian-and-non-bayesian-evaluation-of-informative-hypotheses</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>They allow us to calculate different model comparison metrics (e.g....Read more...</p></details>
+   Link: <a href="https://www.uu.nl/en/research/the-bettr-project/about/bayesian-and-non-bayesian-evaluation-of-informative-hypotheses" target="_blank" rel="noopener noreferrer nofollow">https://www.uu.nl/en/research/the-bettr-project/about/bayesian-and-non-bayesian-evaluation-of-informative-hypotheses</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>They allow us to calculate different model comparison metrics (e.g....Read more...</p></details>
 
-20.<a id="endnote-20"></a>
+20. <a id="endnote-20"></a>
    Source: academia.edu  
-   Link:<a href="https://www.academia.edu/47828252/The_Analysis_of_Competing_Hypotheses_in_Intelligence_Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/47828252/The_Analysis_of_Competing_Hypotheses_in_Intelligence_Analysis</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>esigned to reduce &quot;confirmation bias.&quot; Fifty intelligence analysts were randomly...</p></details>
+   Link: <a href="https://www.academia.edu/47828252/The_Analysis_of_Competing_Hypotheses_in_Intelligence_Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/47828252/The_Analysis_of_Competing_Hypotheses_in_Intelligence_Analysis</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>esigned to reduce &quot;confirmation bias.&quot; Fifty intelligence analysts were randomly...</p></details>
 
-21.<a id="endnote-21"></a>
+21. <a id="endnote-21"></a>
    Source: kicj.re.kr  
-   Link:<a href="https://www.kicj.re.kr/boardDownload.es?bid=0034&amp;list_no=12219&amp;seq=1" target="_blank" rel="noopener noreferrer nofollow">https://www.kicj.re.kr/boardDownload.es?bid=0034&amp;list_no=12219&amp;seq=1</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>CH) efficacy. The technique was developed by the Central Intelligence...</p></details>
+   Link: <a href="https://www.kicj.re.kr/boardDownload.es?bid=0034&amp;list_no=12219&amp;seq=1" target="_blank" rel="noopener noreferrer nofollow">https://www.kicj.re.kr/boardDownload.es?bid=0034&amp;list_no=12219&amp;seq=1</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>CH) efficacy. The technique was developed by the Central Intelligence...</p></details>
 
-22.<a id="endnote-22"></a>
+22. <a id="endnote-22"></a>
    Source: youtu.be  
-   Link:<a href="https://youtu.be/dd5KU9VzwWo" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/dd5KU9VzwWo</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Gaussian Distribution - ML Snippets: [https://youtu.be/ySrK1DCQYA4](https://youtu.be/ySrK1DCQYA4) Statistical Moments: Mean, Variation, Skewness, Kurtosis: [https://youtu...&quot;](https://youtu...&quot;)...</p></details>
+   Link: <a href="https://youtu.be/dd5KU9VzwWo" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/dd5KU9VzwWo</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Gaussian Distribution - ML Snippets: [https://youtu.be/ySrK1DCQYA4](https://youtu.be/ySrK1DCQYA4) Statistical Moments: Mean, Variation, Skewness, Kurtosis: [https://youtu...&quot;](https://youtu...&quot;)...</p></details>

@@ -451,15 +451,15 @@ Familiarity is the feeling that something is easy to recognise; real understandi
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_familiarity_trap_82f724-overview.webp" | relative_url }}" alt="Overview image for Fluency Trap" loading="eager" decoding="sync" fetchpriority="high">
-A better test is simple: close the source, produce the idea yourself, explain the mechanism, make a prediction, solve a new example, or identify what would change your mind. These activities feel harder than review because they expose gaps. That discomfort is useful. Research on [retrieval practice]({{ 'retrieval/' | relative_url }}), desirable difficulties, self-explanation and the illusion of explanatory depth points to the same lesson: understanding becomes trustworthy when it survives active use, not when it merely feels familiar.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/16507066/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Bjork Learning and Forgetting Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">taking memory tests improves long-term retentionby HL Roediger · 2006 · Cited by 4886 — Taking a memory test not only assesses what...</span></span></span>
+A better test is simple: close the source, produce the idea yourself, explain the mechanism, make a prediction, solve a new example, or identify what would change your mind. These activities feel harder than review because they expose gaps. That discomfort is useful. Research on [retrieval practice]({{ 'retrieval/' | relative_url }}), desirable difficulties, self-explanation and the illusion of explanatory depth points to the same lesson: understanding becomes trustworthy when it survives active use, not when it merely feels familiar. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/16507066/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Bjork Learning and Forgetting Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">taking memory tests improves long-term retentionby HL Roediger · 2006 · Cited by 4886 — Taking a memory test not only assesses what...</span></span></span>
 
 ## Why fluency can mislead
 
 The fluency trap starts with a perfectly normal mental shortcut. When a sentence, diagram, method or argument becomes easier to process, the brain often reads that ease as progress. After two or three passes through the same page, the material looks less threatening. Key phrases come to mind more quickly. The structure feels obvious. But some of that improvement belongs to the page, not to the learner: the cues are still present, the order is still supplied, and the wording still does much of the work.
 
-This is why rereading can feel more productive than it is. In classic research on the testing effect, Roediger and Karpicke reported that taking a test does more than assess memory; it improves later retention. Their work helped show why passive review can be deceptive: rereading increases immediate familiarity, while retrieval strengthens the ability to bring knowledge back when the original prompt is absent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/16507066/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">taking memory tests improves long-term retentionby HL Roediger · 2006 · Cited by 4886 — Taking a memory test not only assesses what...</span></span></span>
+This is why rereading can feel more productive than it is. In classic research on the testing effect, Roediger and Karpicke reported that taking a test does more than assess memory; it improves later retention. Their work helped show why passive review can be deceptive: rereading increases immediate familiarity, while retrieval strengthens the ability to bring knowledge back when the original prompt is absent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/16507066/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">taking memory tests improves long-term retentionby HL Roediger · 2006 · Cited by 4886 — Taking a memory test not only assesses what...</span></span></span>
 
-The same distinction appears in Robert Bjork’s work on “desirable difficulties”. The Bjork Learning and Forgetting Lab describes a common classroom pattern: students may look fluent after practising one type of problem repeatedly, yet show weak performance later. More difficult practice conditions, such as [spacing]({{ 'spacing/' | relative_url }}), interleaving and testing rather than restudying, can feel worse during training but produce better long-term learning. The unsettling implication is that smooth practice can be a poor guide to durable understanding.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://bjorklab.psych.ucla.edu/research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bjorklab.psych.ucla.edu">[Bjork Learning and Forgetting Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bjorklab.psych.ucla.edu</span><span class="citation-popover-title">Bjork Learning and Forgetting Lab Research – Bjork Learning and Forgetting Lab</span><span class="citation-popover-snippet">Bjork Learning and Forgetting Lab Research – Bjork Learning and Forgetting Lab</span></span></span>
+The same distinction appears in Robert Bjork’s work on “desirable difficulties”. The Bjork Learning and Forgetting Lab describes a common classroom pattern: students may look fluent after practising one type of problem repeatedly, yet show weak performance later. More difficult practice conditions, such as [spacing]({{ 'spacing/' | relative_url }}), interleaving and testing rather than restudying, can feel worse during training but produce better long-term learning. The unsettling implication is that smooth practice can be a poor guide to durable understanding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://bjorklab.psych.ucla.edu/research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bjorklab.psych.ucla.edu">[Bjork Learning and Forgetting Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bjorklab.psych.ucla.edu</span><span class="citation-popover-title">Bjork Learning and Forgetting Lab Research – Bjork Learning and Forgetting Lab</span><span class="citation-popover-snippet">Bjork Learning and Forgetting Lab Research – Bjork Learning and Forgetting Lab</span></span></span>
 
 Fluency is not useless. It can signal that a term has been seen before, that a procedure is becoming less alien, or that the surface structure of a topic is becoming familiar. The mistake is treating that feeling as a final verdict. In thinking and analytical work, the danger is especially sharp because many weak arguments feel strong when they are written clearly, repeated often, or supported by examples that are too similar to the original case.
 
@@ -467,7 +467,7 @@ Fluency is not useless. It can signal that a term has been seen before, that a p
 <img src="{{ "/assets/images/improving_your_think_da4710_familiarity_trap_82f724-Illustration-1-dark.svg" | relative_url }}" alt="Fluency Trap illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_familiarity_trap_82f724-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_familiarity_trap_82f724-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Familiarity recognises; understanding reconstructs
 
-A familiar idea is easy to recognise in its original setting. A understood idea can be reconstructed in a new one. This difference is easiest to see with [mechanisms]({{ 'mechanisms/' | relative_url }}). Many people feel they understand everyday objects such as toilets, zips or bicycles until they are asked to explain exactly how they work. Rozenblit and Keil’s research on the “illusion of explanatory depth” found that people often overestimate their grasp of causal systems; attempting a detailed explanation can sharply reduce that confidence because hidden gaps become visible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3062901/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by L Rozenblit · 2002 · Cited by 1507 — We argue here that people&#x27;s limited knowledge and their misleading intuitive epistemology comb...</span></span></span>
+A familiar idea is easy to recognise in its original setting. A understood idea can be reconstructed in a new one. This difference is easiest to see with [mechanisms]({{ 'mechanisms/' | relative_url }}). Many people feel they understand everyday objects such as toilets, zips or bicycles until they are asked to explain exactly how they work. Rozenblit and Keil’s research on the “illusion of explanatory depth” found that people often overestimate their grasp of causal systems; attempting a detailed explanation can sharply reduce that confidence because hidden gaps become visible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3062901/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by L Rozenblit · 2002 · Cited by 1507 — We argue here that people&#x27;s limited knowledge and their misleading intuitive epistemology comb...</span></span></span>
 
 That finding matters beyond mechanical gadgets. Analytical thinking often depends on causal understanding: why a policy might fail, why a business metric moved, why a study result might not generalise, why a machine-learning system gives plausible but unreliable output, or why a personal decision keeps producing the same result. Recognition says, “I have seen this before.” Understanding says, “I can trace the moving parts, state the conditions, and notice where the explanation might break.”
 
@@ -488,9 +488,9 @@ The fluency trap hides between the first and the last four. A person may recogni
 
 The best tests of understanding remove the support that created the feeling of fluency. They do not need to be formal exams. They can be short, private checks that force the mind to produce, connect and apply.
 
-**Close-the-source recall** is the most direct test. Read a section, close it, and write the main point, key steps and one example from memory. If the idea vanishes as soon as the page disappears, the earlier confidence was probably recognition, not retrieval. This is why retrieval practice is so valuable: it makes memory do the work that rereading only seems to do.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/16507066/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">taking memory tests improves long-term retentionby HL Roediger · 2006 · Cited by 4886 — Taking a memory test not only assesses what...</span></span></span>
+**Close-the-source recall** is the most direct test. Read a section, close it, and write the main point, key steps and one example from memory. If the idea vanishes as soon as the page disappears, the earlier confidence was probably recognition, not retrieval. This is why retrieval practice is so valuable: it makes memory do the work that rereading only seems to do. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/16507066/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">taking memory tests improves long-term retentionby HL Roediger · 2006 · Cited by 4886 — Taking a memory test not only assesses what...</span></span></span>
 
-**Self-explanation** tests whether the parts are connected. Research by Michelene Chi and colleagues on self-explanations examined how students study and use examples when learning to solve problems, and the method remains influential because it shifts learners from “I followed that” to “I can account for each step.”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://education.asu.edu/lcl/publications/chi-m-t-h-bassok-m-lewis-m-reimann-p-glaser-r-1989-self-explanations-how-students" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.asu.edu">[Mary Lou Fulton College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.asu.edu</span><span class="citation-popover-snippet">Open source on asu.edu.</span></span></span> A weak explanation often sounds like paraphrase: it repeats the words without showing the mechanism. A stronger explanation uses because, therefore, if, unless and depends on.
+**Self-explanation** tests whether the parts are connected. Research by Michelene Chi and colleagues on self-explanations examined how students study and use examples when learning to solve problems, and the method remains influential because it shifts learners from “I followed that” to “I can account for each step.” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://education.asu.edu/lcl/publications/chi-m-t-h-bassok-m-lewis-m-reimann-p-glaser-r-1989-self-explanations-how-students" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.asu.edu">[Mary Lou Fulton College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.asu.edu</span><span class="citation-popover-snippet">Open source on asu.edu.</span></span></span> A weak explanation often sounds like paraphrase: it repeats the words without showing the mechanism. A stronger explanation uses because, therefore, if, unless and depends on.
 
 **[Prediction before]({{ 'predict-first/' | relative_url }}) feedback** is a sharper test for analytical thinking. Before checking an answer, reading the next paragraph, or running a model, ask: “What should happen next if I understand this?” Prediction forces a commitment. It also prevents hindsight fluency, where the answer feels obvious only after it has been shown.
 
@@ -504,11 +504,11 @@ The best tests of understanding remove the support that created the feeling of f
 
 Poor learning methods survive partly because they are pleasant to monitor. Rereading gives repeated signals of ease. Highlighting creates visible progress. Watching a polished explanation reduces confusion quickly. These activities are not worthless, but they often provide weak evidence about what the learner can do alone.
 
-More effective methods often feel worse. Retrieval feels effortful because the answer is not in view. Spacing feels inefficient because some forgetting has occurred. Interleaving feels messy because the next problem type is not obvious. Generation feels slow because the learner must produce something rather than receive it. Yet the research literature repeatedly treats these difficulties as part of why the methods work, not as signs that they are failing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://bjorklab.psych.ucla.edu/research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bjorklab.psych.ucla.edu">[Bjork Learning and Forgetting Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bjorklab.psych.ucla.edu</span><span class="citation-popover-title">Bjork Learning and Forgetting Lab Research – Bjork Learning and Forgetting Lab</span><span class="citation-popover-snippet">Bjork Learning and Forgetting Lab Research – Bjork Learning and Forgetting Lab</span></span></span>
+More effective methods often feel worse. Retrieval feels effortful because the answer is not in view. Spacing feels inefficient because some forgetting has occurred. Interleaving feels messy because the next problem type is not obvious. Generation feels slow because the learner must produce something rather than receive it. Yet the research literature repeatedly treats these difficulties as part of why the methods work, not as signs that they are failing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://bjorklab.psych.ucla.edu/research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bjorklab.psych.ucla.edu">[Bjork Learning and Forgetting Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bjorklab.psych.ucla.edu</span><span class="citation-popover-title">Bjork Learning and Forgetting Lab Research – Bjork Learning and Forgetting Lab</span><span class="citation-popover-snippet">Bjork Learning and Forgetting Lab Research – Bjork Learning and Forgetting Lab</span></span></span>
 
-The generation effect is a useful example. A study on the neural basis of generation described it as a robust memory phenomenon in which actively producing material during encoding improves later memory performance. In the experiment, participants who generated target words from fragments later recognised them better than participants who simply read the completed pairs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3556209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Generation Effect: Activating Broad Neural Circuits During Memory Encoding - PMC...</span></span></span> The broader lesson is not that every task should be made artificially difficult, but that some productive struggle is evidence that the learner is building access routes, not merely admiring a finished answer.
+The generation effect is a useful example. A study on the neural basis of generation described it as a robust memory phenomenon in which actively producing material during encoding improves later memory performance. In the experiment, participants who generated target words from fragments later recognised them better than participants who simply read the completed pairs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3556209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Generation Effect: Activating Broad Neural Circuits During Memory Encoding - PMC...</span></span></span> The broader lesson is not that every task should be made artificially difficult, but that some productive struggle is evidence that the learner is building access routes, not merely admiring a finished answer.
 
-This is also why confidence can be most dangerous at the middle stage of learning. A beginner may know they are lost. An expert can usually check their own reasoning. The vulnerable learner is often the person who has enough exposure to recognise the language of a topic but not enough practice to notice the hidden exceptions, missing conditions or weak inferences. Dunning and Kruger’s well-known work on inflated self-assessment among low performers is relevant here because it links poor performance with difficulty recognising the limits of one’s own competence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/10626367/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+This is also why confidence can be most dangerous at the middle stage of learning. A beginner may know they are lost. An expert can usually check their own reasoning. The vulnerable learner is often the person who has enough exposure to recognise the language of a topic but not enough practice to notice the hidden exceptions, missing conditions or weak inferences. Dunning and Kruger’s well-known work on inflated self-assessment among low performers is relevant here because it links poor performance with difficulty recognising the limits of one’s own competence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/10626367/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/toC1UzrrklU" title="Why Watching Tutorials Keeps You Stuck (The Fluency Trap)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=toC1UzrrklU" target="_blank" rel="noopener noreferrer">Why Watching Tutorials Keeps You Stuck (The Fluency Trap)</a></p><p class="youtube-embed-meta">Channel: Tiny Aha Lens</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=toC1UzrrklU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=toC1UzrrklU">Open on YouTube</a></p></div></div></div>
@@ -532,7 +532,7 @@ A practical rebuild cycle looks like this:
 
 </div>
 
-This cycle fits the broader metacognitive skill of planning, monitoring and evaluating learning. MIT’s Teaching and Learning Lab describes metacognition as using knowledge of the task, strategies and oneself to plan learning, monitor progress and evaluate [outcomes]({{ 'outcomes/' | relative_url }}). That is exactly what the fluency trap disrupts: it gives a misleading monitoring signal.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tll.mit.edu/teaching-resources/how-people-learn/metacognition/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tll.mit.edu">[Teaching + Learning Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tll.mit.edu</span><span class="citation-popover-title">Teaching + Learning Lab Metacognition &#124; Teaching + Learning Lab</span><span class="citation-popover-snippet">Teaching + Learning Lab Metacognition &#124; Teaching + Learning Lab</span></span></span>
+This cycle fits the broader metacognitive skill of planning, monitoring and evaluating learning. MIT’s Teaching and Learning Lab describes metacognition as using knowledge of the task, strategies and oneself to plan learning, monitor progress and evaluate [outcomes]({{ 'outcomes/' | relative_url }}). That is exactly what the fluency trap disrupts: it gives a misleading monitoring signal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tll.mit.edu/teaching-resources/how-people-learn/metacognition/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tll.mit.edu">[Teaching + Learning Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tll.mit.edu</span><span class="citation-popover-title">Teaching + Learning Lab Metacognition &#124; Teaching + Learning Lab</span><span class="citation-popover-snippet">Teaching + Learning Lab Metacognition &#124; Teaching + Learning Lab</span></span></span>
 
 For thinking and analytical skills, the same method applies outside study. When reading an argument, close the article and reconstruct the case. When evaluating a decision, state what evidence would change your view. When using an expert explanation, try to apply it to a fresh example. When learning from feedback, separate “I got the answer right” from “I used a reliable method.” Real understanding is not just having the right sentence available; it is knowing why that sentence earns its place.
 
@@ -551,194 +551,194 @@ This is where familiarity can still play a role. Familiarity gives you entry poi
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to When Familiarity Feels Like Understanding. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to When Familiarity Feels Like Understanding. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-</h4>
-<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+We+Learn+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How We Learn on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=R9C2DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How We Learn" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=How+We+Learn+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How We Learn">How We Learn</a>
+        </h4>
+        <p class="fr-book-author">By Stanislas Dehaene</p>
         
-<p class="fr-book-desc">Directly addresses retrieval practice, fluency illusions and durable understanding.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains why familiar study habits can mislead and what works instead.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=How+We+Learn+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+We+Learn+by+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How We Learn on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ncgJAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How We Learn" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=How+We+Learn+by+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How We Learn">How We Learn</a>
-</h4>
-<p class="fr-book-author">By Benedict Carey</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oneWAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+        </h4>
+        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-<p class="fr-book-desc">Explains why familiar study habits can mislead and what works instead.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=How+We+Learn+by+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly addresses retrieval practice, fluency illusions and durable understanding.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-</h4>
-<p class="fr-book-author">By Daniel Kahneman</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+        </h4>
+        <p class="fr-book-author">By Daniel Kahneman</p>
         
-<p class="fr-book-desc">Provides broader context for cognitive biases and misjudgments.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides broader context for cognitive biases and misjudgments.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DlMlEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
-</h4>
-<p class="fr-book-author">By Daniel T. Willingham</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DlMlEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
+        </h4>
+        <p class="fr-book-author">By Daniel T. Willingham</p>
         
-<p class="fr-book-desc">Covers cognitive principles behind genuine understanding.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Covers cognitive principles behind genuine understanding.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+We+Learn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How We Learn</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+We+Learn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How We Learn</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster"><img src="https://i.ebayimg.com/images/g/2yEAAeSwlVtouaG1/s-l225.jpg" alt="Listing image for A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster"><img src="https://i.ebayimg.com/images/g/2yEAAeSwlVtouaG1/s-l225.jpg" alt="Listing image for A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">A.I. Artificial Intelligence - Jude Law - One Sheet Cinema Poster</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery"><img src="https://i.ebayimg.com/images/g/-PcAAeSw5GNqCPEC/s-l225.jpg" alt="Listing image for A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery"><img src="https://i.ebayimg.com/images/g/-PcAAeSw5GNqCPEC/s-l225.jpg" alt="Listing image for A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A. I. Artificial Intelligence. Jude Law. Original UK Video Poster."><img src="https://i.ebayimg.com/images/g/N0MAAOSwDl9nk64N/s-l225.jpg" alt="Listing image for A. I. Artificial Intelligence. Jude Law. Original UK Video Poster." loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">A. I. Artificial Intelligence. Jude Law. Original UK Video Poster.</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A. I. Artificial Intelligence. Jude Law. Original UK Video Poster."><img src="https://i.ebayimg.com/images/g/N0MAAOSwDl9nk64N/s-l225.jpg" alt="Listing image for A. I. Artificial Intelligence. Jude Law. Original UK Video Poster." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">A. I. Artificial Intelligence. Jude Law. Original UK Video Poster.</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. Artificial Intelligence Movie Film Poster Art Print"><img src="https://i.ebayimg.com/images/g/QBAAAOSwKr5m~RI5/s-l225.jpg" alt="Listing image for A.I. Artificial Intelligence Movie Film Poster Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">A.I. Artificial Intelligence Movie Film Poster Art Print</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. Artificial Intelligence Movie Film Poster Art Print"><img src="https://i.ebayimg.com/images/g/QBAAAOSwKr5m~RI5/s-l225.jpg" alt="Listing image for A.I. Artificial Intelligence Movie Film Poster Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">A.I. Artificial Intelligence Movie Film Poster Art Print</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="when-familiarity-feels-like-understanding-artificial-intelligence-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -754,7 +754,7 @@ This is where familiarity can still play a role. Familiarity gives you entry poi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -774,7 +774,7 @@ This is where familiarity can still play a role. Familiarity gives you entry poi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -806,7 +806,7 @@ This is where familiarity can still play a role. Familiarity gives you entry poi
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -858,7 +858,7 @@ This is where familiarity can still play a role. Familiarity gives you entry poi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -903,7 +903,7 @@ This is where familiarity can still play a role. Familiarity gives you entry poi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -943,200 +943,200 @@ This is where familiarity can still play a role. Familiarity gives you entry poi
 </section>
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3062901/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3062901/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>by L Rozenblit · 2002 · Cited by 1507 — We argue here that people&#x27;s limited knowledge and their misleading intuitive epistemology comb...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3062901/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3062901/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by L Rozenblit · 2002 · Cited by 1507 — We argue here that people&#x27;s limited knowledge and their misleading intuitive epistemology comb...</p></details>
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3556209/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3556209/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Generation Effect: Activating Broad Neural Circuits During Memory Encoding - PMC...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3556209/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3556209/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Generation Effect: Activating Broad Neural Circuits During Memory Encoding - PMC...</p></details>
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: tll.mit.edu  
    Title: Teaching + Learning Lab Metacognition | Teaching + Learning Lab  
-   Link:<a href="https://tll.mit.edu/teaching-resources/how-people-learn/metacognition/" target="_blank" rel="noopener noreferrer nofollow">https://tll.mit.edu/teaching-resources/how-people-learn/metacognition/</a>  
+   Link: <a href="https://tll.mit.edu/teaching-resources/how-people-learn/metacognition/" target="_blank" rel="noopener noreferrer nofollow">https://tll.mit.edu/teaching-resources/how-people-learn/metacognition/</a>  
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/16507066/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/16507066/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>taking memory tests improves long-term retentionby HL Roediger · 2006 · Cited by 4886 — Taking a memory test not only assesses what...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/16507066/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/16507066/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>taking memory tests improves long-term retentionby HL Roediger · 2006 · Cited by 4886 — Taking a memory test not only assesses what...</p></details>
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: bjorklab.psych.ucla.edu  
    Title: Bjork Learning and Forgetting Lab Research – Bjork Learning and Forgetting Lab  
-   Link:<a href="https://bjorklab.psych.ucla.edu/research/" target="_blank" rel="noopener noreferrer nofollow">https://bjorklab.psych.ucla.edu/research/</a>  
+   Link: <a href="https://bjorklab.psych.ucla.edu/research/" target="_blank" rel="noopener noreferrer nofollow">https://bjorklab.psych.ucla.edu/research/</a>  
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/26151629/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26151629/</a>  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26151629/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26151629/</a>  
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: education.asu.edu  
-   Link:<a href="https://education.asu.edu/lcl/publications/chi-m-t-h-bassok-m-lewis-m-reimann-p-glaser-r-1989-self-explanations-how-students" target="_blank" rel="noopener noreferrer nofollow">https://education.asu.edu/lcl/publications/chi-m-t-h-bassok-m-lewis-m-reimann-p-glaser-r-1989-self-explanations-how-students</a>  
+   Link: <a href="https://education.asu.edu/lcl/publications/chi-m-t-h-bassok-m-lewis-m-reimann-p-glaser-r-1989-self-explanations-how-students" target="_blank" rel="noopener noreferrer nofollow">https://education.asu.edu/lcl/publications/chi-m-t-h-bassok-m-lewis-m-reimann-p-glaser-r-1989-self-explanations-how-students</a>  
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/10626367/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/10626367/</a>  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/10626367/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/10626367/</a>  
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9590044/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9590044/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9590044/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9590044/</a>  
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9781761/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9781761/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9781761/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9781761/</a>  
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6016031/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6016031/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6016031/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6016031/</a>  
 
-12.<a id="endnote-12"></a>
+12. <a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12372469/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12372469/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12372469/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12372469/</a>  
 
-13.<a id="endnote-13"></a>
+13. <a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3602315/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3602315/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3602315/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3602315/</a>  
 
-14.<a id="endnote-14"></a>
+14. <a id="endnote-14"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12189222/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12189222/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12189222/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12189222/</a>  
 
-15.<a id="endnote-15"></a>
+15. <a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/20951630/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/20951630/</a>  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/20951630/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/20951630/</a>  
 
-16.<a id="endnote-16"></a>
+16. <a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11078833/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11078833/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11078833/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11078833/</a>  
 
-17.<a id="endnote-17"></a>
+17. <a id="endnote-17"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/26173288/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26173288/</a>  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26173288/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26173288/</a>  
 
-18.<a id="endnote-18"></a>
+18. <a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10381660/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10381660/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10381660/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10381660/</a>  
 
-19.<a id="endnote-19"></a>
+19. <a id="endnote-19"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/16719566/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/16719566/</a>  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/16719566/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/16719566/</a>  
 
-20.<a id="endnote-20"></a>
+20. <a id="endnote-20"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12108934/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12108934/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12108934/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12108934/</a>  
 
-21.<a id="endnote-21"></a>
+21. <a id="endnote-21"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/21252317/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/21252317/</a>  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/21252317/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/21252317/</a>  
 
-22.<a id="endnote-22"></a>
+22. <a id="endnote-22"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8554015/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8554015/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8554015/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8554015/</a>  
 
-23.<a id="endnote-23"></a>
+23. <a id="endnote-23"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6256133/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6256133/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6256133/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6256133/</a>  
 
-24.<a id="endnote-24"></a>
+24. <a id="endnote-24"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11227488/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11227488/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11227488/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11227488/</a>  
 
-25.<a id="endnote-25"></a>
+25. <a id="endnote-25"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9397154/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9397154/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9397154/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9397154/</a>  
 
-26.<a id="endnote-26"></a>
+26. <a id="endnote-26"></a>
    Source: Wikipedia  
-   Link:<a href="https://en.wikipedia.org/wiki/Illusion" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Illusion</a>  
+   Link: <a href="https://en.wikipedia.org/wiki/Illusion" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Illusion</a>  
 
-27.<a id="endnote-27"></a>
+27. <a id="endnote-27"></a>
    Source: Wikipedia  
    Title: Illusion of explanatory depth  
-   Link:<a href="https://en.wikipedia.org/wiki/Illusion_of_explanatory_depth" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Illusion_of_explanatory_depth</a>  
+   Link: <a href="https://en.wikipedia.org/wiki/Illusion_of_explanatory_depth" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Illusion_of_explanatory_depth</a>  
 
-28.<a id="endnote-28"></a>
+28. <a id="endnote-28"></a>
    Source: bjorklab.psych.ucla.edu  
    Title: Koriat RBjork 2005  
-   Link:<a href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Koriat_RBjork_2005.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Koriat_RBjork_2005.pdf</a>  
+   Link: <a href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Koriat_RBjork_2005.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Koriat_RBjork_2005.pdf</a>  
 
-29.<a id="endnote-29"></a>
+29. <a id="endnote-29"></a>
    Source: bjorklab.psych.ucla.edu  
    Title: EBjork RBjork 2011  
-   Link:<a href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/04/EBjork_RBjork_2011.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/04/EBjork_RBjork_2011.pdf</a>  
+   Link: <a href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/04/EBjork_RBjork_2011.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/04/EBjork_RBjork_2011.pdf</a>  
 
-30.<a id="endnote-30"></a>
+30. <a id="endnote-30"></a>
    Source: bjorklab.psych.ucla.edu  
    Title: DeWinstanley EBjork 2004  
-   Link:<a href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/DeWinstanley_EBjork_2004.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/DeWinstanley_EBjork_2004.pdf</a>  
+   Link: <a href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/DeWinstanley_EBjork_2004.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/DeWinstanley_EBjork_2004.pdf</a>  
 
-31.<a id="endnote-31"></a>
+31. <a id="endnote-31"></a>
    Source: kognitivo.net  
    Title: generation effect  
-   Link:<a href="https://www.kognitivo.net/p/generation-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.kognitivo.net/p/generation-effect</a>  
+   Link: <a href="https://www.kognitivo.net/p/generation-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.kognitivo.net/p/generation-effect</a>  
 
-32.<a id="endnote-32"></a>
+32. <a id="endnote-32"></a>
    Source: education.nsw.gov.au  
-   Link:<a href="https://education.nsw.gov.au/content/dam/main-education/teaching-and-learning/education-for-a-changing-world/media/documents/Metacognition_Full_Report_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://education.nsw.gov.au/content/dam/main-education/teaching-and-learning/education-for-a-changing-world/media/documents/Metacognition_Full_Report_FINAL.pdf</a>  
+   Link: <a href="https://education.nsw.gov.au/content/dam/main-education/teaching-and-learning/education-for-a-changing-world/media/documents/Metacognition_Full_Report_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://education.nsw.gov.au/content/dam/main-education/teaching-and-learning/education-for-a-changing-world/media/documents/Metacognition_Full_Report_FINAL.pdf</a>  
 
-33.<a id="endnote-33"></a>
+33. <a id="endnote-33"></a>
    Source: learninglab.psych.purdue.edu  
    Title: 2009 Karpicke Butler Roediger  
-   Link:<a href="https://learninglab.psych.purdue.edu/downloads/2009/2009_Karpicke_Butler_Roediger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://learninglab.psych.purdue.edu/downloads/2009/2009_Karpicke_Butler_Roediger.pdf</a>  
+   Link: <a href="https://learninglab.psych.purdue.edu/downloads/2009/2009_Karpicke_Butler_Roediger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://learninglab.psych.purdue.edu/downloads/2009/2009_Karpicke_Butler_Roediger.pdf</a>  
 
-34.<a id="endnote-34"></a>
+34. <a id="endnote-34"></a>
    Source: education-ni.gov.uk  
    Title: Retrieval Practice  
-   Link:<a href="https://www.education-ni.gov.uk/sites/default/files/2025-04/May%20Newsletter%20-%20Retrieval%20Practice%20%20What%20it%20is%2C%20Why%20it%20Works%20and%20How%20to%20Do%20It%20Better.PDF" target="_blank" rel="noopener noreferrer nofollow">https://www.education-ni.gov.uk/sites/default/files/2025-04/May%20Newsletter%20-%20Retrieval%20Practice%20%20What%20it%20is%2C%20Why%20it%20Works%20and%20How%20to%20Do%20It%20Better.PDF</a>  
+   Link: <a href="https://www.education-ni.gov.uk/sites/default/files/2025-04/May%20Newsletter%20-%20Retrieval%20Practice%20%20What%20it%20is%2C%20Why%20it%20Works%20and%20How%20to%20Do%20It%20Better.PDF" target="_blank" rel="noopener noreferrer nofollow">https://www.education-ni.gov.uk/sites/default/files/2025-04/May%20Newsletter%20-%20Retrieval%20Practice%20%20What%20it%20is%2C%20Why%20it%20Works%20and%20How%20to%20Do%20It%20Better.PDF</a>  
 
 ### Additional References
 
-35.<a id="endnote-35"></a>
+35. <a id="endnote-35"></a>
    Source: youtube.com  
    Title: The Testing Effect & Retrieval practice: the number 1 study hack  
-   Link:<a href="https://www.youtube.com/watch?v=G6u9_lbW2hY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G6u9_lbW2hY</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Study Effectively #3: Active Retrieval &amp; Desirable Difficulties...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=G6u9_lbW2hY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G6u9_lbW2hY</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Study Effectively #3: Active Retrieval &amp; Desirable Difficulties...</p></details>
 
-36.<a id="endnote-36"></a>
+36. <a id="endnote-36"></a>
    Source: science.org  
-   Link:<a href="https://www.science.org/doi/abs/10.1126/science.1199327?intcmp=trendmd-sci" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/abs/10.1126/science.1199327?intcmp=trendmd-sci</a>  
+   Link: <a href="https://www.science.org/doi/abs/10.1126/science.1199327?intcmp=trendmd-sci" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/abs/10.1126/science.1199327?intcmp=trendmd-sci</a>  
 
-37.<a id="endnote-37"></a>
+37. <a id="endnote-37"></a>
    Source: youtube.com  
    Title: Why Watching Tutorials Keeps You Stuck (The Fluency Trap)  
-   Link:<a href="https://www.youtube.com/watch?v=toC1UzrrklU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=toC1UzrrklU</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>You Don&#x27;t Know Anything - The Illusion of Explanatory Depth - FutureIQ...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=toC1UzrrklU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=toC1UzrrklU</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>You Don&#x27;t Know Anything - The Illusion of Explanatory Depth - FutureIQ...</p></details>
 
-38.<a id="endnote-38"></a>
+38. <a id="endnote-38"></a>
    Source: youtube.com  
    Title: You Don't Know Anything  
-   Link:<a href="https://www.youtube.com/watch?v=_ak0k7GNCjM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_ak0k7GNCjM</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Power of Forgetting, Dr. Robert Bjork...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=_ak0k7GNCjM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_ak0k7GNCjM</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Power of Forgetting, Dr. Robert Bjork...</p></details>
 
-39.<a id="endnote-39"></a>
+39. <a id="endnote-39"></a>
    Source: youtube.com  
    Title: The Power of Forgetting, Dr. Robert Bjork  
-   Link:<a href="https://www.youtube.com/watch?v=784djEmOC6I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=784djEmOC6I</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Testing Effect &amp; Retrieval practice: the number 1 study hack...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=784djEmOC6I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=784djEmOC6I</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Testing Effect &amp; Retrieval practice: the number 1 study hack...</p></details>
 
-40.<a id="endnote-40"></a>
+40. <a id="endnote-40"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/6193801_The_generation_effect_A_meta-analytic_review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/6193801_The_generation_effect_A_meta-analytic_review</a>  
+   Link: <a href="https://www.researchgate.net/publication/6193801_The_generation_effect_A_meta-analytic_review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/6193801_The_generation_effect_A_meta-analytic_review</a>  
 
-41.<a id="endnote-41"></a>
+41. <a id="endnote-41"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/12688660_Unskilled_and_Unaware_of_It_How_Difficulties_in_Recognizing_One%27s_Own_Incompetence_Lead_to_Inflated_Self-Assessments" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/12688660_Unskilled_and_Unaware_of_It_How_Difficulties_in_Recognizing_One%27s_Own_Incompetence_Lead_to_Inflated_Self-Assessments</a>  
+   Link: <a href="https://www.researchgate.net/publication/12688660_Unskilled_and_Unaware_of_It_How_Difficulties_in_Recognizing_One%27s_Own_Incompetence_Lead_to_Inflated_Self-Assessments" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/12688660_Unskilled_and_Unaware_of_It_How_Difficulties_in_Recognizing_One%27s_Own_Incompetence_Lead_to_Inflated_Self-Assessments</a>  
 
-42.<a id="endnote-42"></a>
+42. <a id="endnote-42"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/371900548_The_illusion_of_competence_reflected_in_grade_[predictions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371900548_The_illusion_of_competence_reflected_in_grade_[predictions</a>  
+   Link: <a href="https://www.researchgate.net/publication/371900548_The_illusion_of_competence_reflected_in_grade_[predictions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371900548_The_illusion_of_competence_reflected_in_grade_[predictions</a>  
 
-43.<a id="endnote-43"></a>
+43. <a id="endnote-43"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/24268097_Metacognitive_strategies_in_student_learning_Do_students_practise_retrieval_when_they_study_on_their_own" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/24268097_Metacognitive_strategies_in_student_learning_Do_students_practise_retrieval_when_they_study_on_their_own</a>  
+   Link: <a href="https://www.researchgate.net/publication/24268097_Metacognitive_strategies_in_student_learning_Do_students_practise_retrieval_when_they_study_on_their_own" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/24268097_Metacognitive_strategies_in_student_learning_Do_students_practise_retrieval_when_they_study_on_their_own</a>  
 
-44.<a id="endnote-44"></a>
+44. <a id="endnote-44"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/332823969_Do_students_really_prefer_repeated_rereading_over_testing_when_studying_textbooks_A_reexamination" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/332823969_Do_students_really_prefer_repeated_rereading_over_testing_when_studying_textbooks_A_reexamination</a>  
+   Link: <a href="https://www.researchgate.net/publication/332823969_Do_students_really_prefer_repeated_rereading_over_testing_when_studying_textbooks_A_reexamination" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/332823969_Do_students_really_prefer_repeated_rereading_over_testing_when_studying_textbooks_A_reexamination</a>  

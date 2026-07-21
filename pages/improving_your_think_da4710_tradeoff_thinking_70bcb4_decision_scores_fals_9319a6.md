@@ -280,7 +280,7 @@ image: /assets/images/improving_your_think_da4710_tradeoff_thinking_70bcb4_decis
 
 ## Introduction
 
-When a decision involves several competing objectives, a structured scoring system can be far better than relying on instinct alone. Listing criteria, assigning weights and comparing options helps people explain their reasoning, expose hidden assumptions and make disagreements more productive. The danger begins when the resulting numbers are treated as though they represent objective truth. A final score of 78.4 versus 76.9 can create an illusion of precision even when the underlying judgements are uncertain, incomplete or subjective. Multi-criteria decision analysis (MCDA) is designed to support judgement, not replace it. Good decision-makers use scores to organise conversations, test assumptions and reveal [tradeoffs]({{ 'tradeoffs/' | relative_url }}) rather than to claim mathematical certainty where none exists.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://analysisfunction.civilservice.gov.uk/policy-store/an-introductory-guide-to-mcda/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: analysisfunction.civilservice.gov.uk">[analysisfunction.civilservice.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">analysisfunction.civilservice.gov.uk</span><span class="citation-popover-title">an introductory guide to mcda</span><span class="citation-popover-snippet">An Introductory Guide to Multi-Criteria Decision Analysis...1 May 2024 — MCDA is a way of helping decision-makers rationally choose betw...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+When a decision involves several competing objectives, a structured scoring system can be far better than relying on instinct alone. Listing criteria, assigning weights and comparing options helps people explain their reasoning, expose hidden assumptions and make disagreements more productive. The danger begins when the resulting numbers are treated as though they represent objective truth. A final score of 78.4 versus 76.9 can create an illusion of precision even when the underlying judgements are uncertain, incomplete or subjective. Multi-criteria decision analysis (MCDA) is designed to support judgement, not replace it. Good decision-makers use scores to organise conversations, test assumptions and reveal [tradeoffs]({{ 'tradeoffs/' | relative_url }}) rather than to claim mathematical certainty where none exists. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://analysisfunction.civilservice.gov.uk/policy-store/an-introductory-guide-to-mcda/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: analysisfunction.civilservice.gov.uk">[analysisfunction.civilservice.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">analysisfunction.civilservice.gov.uk</span><span class="citation-popover-title">an introductory guide to mcda</span><span class="citation-popover-snippet">An Introductory Guide to Multi-Criteria Decision Analysis...1 May 2024 — MCDA is a way of helping decision-makers rationally choose betw...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_tradeoff_thinking_70bcb4_decision_scores_fals_9319a6-Illustration-1-dark.svg" | relative_url }}" alt="Scoring Choices illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_tradeoff_thinking_70bcb4_decision_scores_fals_9319a6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_tradeoff_thinking_70bcb4_decision_scores_fals_9319a6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,7 +288,7 @@ When a decision involves several competing objectives, a structured scoring syst
 
 Many important choices involve objectives that cannot be reduced to a single measure. A local authority might balance environmental impact, cost, accessibility and public acceptance. A business may compare reliability, implementation time, cybersecurity and price when selecting software. An individual choosing between jobs may care about salary, flexibility, career development and family life.
 
-Without structure, these considerations often become inconsistent. People naturally give excessive attention to whichever factor is discussed most recently or most vividly. A structured comparison encourages decision-makers to identify the criteria explicitly, assess each option against them and explain why one objective matters more than another in that particular context. The UK's guidance on MCDA recommends such approaches precisely because they make competing objectives visible when neither purely financial analysis nor a single performance measure is sufficient.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://analysisfunction.civilservice.gov.uk/policy-store/an-introductory-guide-to-mcda/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: analysisfunction.civilservice.gov.uk">[analysisfunction.civilservice.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">analysisfunction.civilservice.gov.uk</span><span class="citation-popover-title">an introductory guide to mcda</span><span class="citation-popover-snippet">An Introductory Guide to Multi-Criteria Decision Analysis...1 May 2024 — MCDA is a way of helping decision-makers rationally choose betw...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+Without structure, these considerations often become inconsistent. People naturally give excessive attention to whichever factor is discussed most recently or most vividly. A structured comparison encourages decision-makers to identify the criteria explicitly, assess each option against them and explain why one objective matters more than another in that particular context. The UK's guidance on MCDA recommends such approaches precisely because they make competing objectives visible when neither purely financial analysis nor a single performance measure is sufficient. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://analysisfunction.civilservice.gov.uk/policy-store/an-introductory-guide-to-mcda/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: analysisfunction.civilservice.gov.uk">[analysisfunction.civilservice.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">analysisfunction.civilservice.gov.uk</span><span class="citation-popover-title">an introductory guide to mcda</span><span class="citation-popover-snippet">An Introductory Guide to Multi-Criteria Decision Analysis...1 May 2024 — MCDA is a way of helping decision-makers rationally choose betw...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
 The important benefit is not the arithmetic itself. It is the discipline of asking questions such as:
 
@@ -310,7 +310,7 @@ These questions often improve the decision even if the final numerical ranking c
 
 Once weights and scores are multiplied together, the result often appears authoritative. A spreadsheet may produce rankings to several decimal places, encouraging readers to believe the difference between alternatives is larger or more meaningful than it really is.
 
-In reality, many inputs are judgements rather than measurements. Assigning "8 out of 10" for usability or giving environmental impact a weight of 22% instead of 20% does not transform uncertain human preferences into precise facts. Government guidance on MCDA repeatedly emphasises that the method supports judgement rather than replacing it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://analysisfunction.civilservice.gov.uk/policy-store/an-introductory-guide-to-mcda/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: analysisfunction.civilservice.gov.uk">[analysisfunction.civilservice.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">analysisfunction.civilservice.gov.uk</span><span class="citation-popover-title">an introductory guide to mcda</span><span class="citation-popover-snippet">An Introductory Guide to Multi-Criteria Decision Analysis...1 May 2024 — MCDA is a way of helping decision-makers rationally choose betw...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+In reality, many inputs are judgements rather than measurements. Assigning "8 out of 10" for usability or giving environmental impact a weight of 22% instead of 20% does not transform uncertain human preferences into precise facts. Government guidance on MCDA repeatedly emphasises that the method supports judgement rather than replacing it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://analysisfunction.civilservice.gov.uk/policy-store/an-introductory-guide-to-mcda/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: analysisfunction.civilservice.gov.uk">[analysisfunction.civilservice.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">analysisfunction.civilservice.gov.uk</span><span class="citation-popover-title">an introductory guide to mcda</span><span class="citation-popover-snippet">An Introductory Guide to Multi-Criteria Decision Analysis...1 May 2024 — MCDA is a way of helping decision-makers rationally choose betw...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
 A useful question is not whether an option scores 82.3 instead of 81.7, but whether anyone could reasonably defend different scores using the available evidence.
 
@@ -323,7 +323,7 @@ Suppose two policy options receive weighted totals of 74 and 75.
 
 If changing one criterion's weight slightly reverses the ranking, the conclusion is fragile rather than decisive. The apparent winner depends more on modelling choices than on substantial differences between the alternatives.
 
-Conversely, if one option remains ahead despite substantial changes in assumptions, confidence in the decision increases. Modern MCDA literature therefore places considerable emphasis on robustness and sensitivity analysis rather than on the headline score alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/full/10.1002/mcda.70006" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Internal uncertainties</span><span class="citation-popover-snippet">Wiley Online LibrarySensitivity and Robustness Analyses in Social Multi‐...by I Azzini · 2025 · Cited by 14 — In Multiple Criteria Decis...</span></span></span>
+Conversely, if one option remains ahead despite substantial changes in assumptions, confidence in the decision increases. Modern MCDA literature therefore places considerable emphasis on robustness and sensitivity analysis rather than on the headline score alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/full/10.1002/mcda.70006" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Internal uncertainties</span><span class="citation-popover-snippet">Wiley Online LibrarySensitivity and Robustness Analyses in Social Multi‐...by I Azzini · 2025 · Cited by 14 — In Multiple Criteria Decis...</span></span></span>
 
 ### Precision should match evidence quality
 
@@ -383,7 +383,7 @@ Examples include:
 
 </div>
 
-If the preferred option remains strongest across many plausible assumptions, the decision is more robust. If rankings change repeatedly after small adjustments, decision-makers should acknowledge that several options are effectively tied and that judgement must play a larger role. Research on uncertainty in MCDA consistently identifies sensitivity and robustness analysis as essential safeguards against overconfidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/full/10.1002/mcda.70006" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Internal uncertainties</span><span class="citation-popover-snippet">Wiley Online LibrarySensitivity and Robustness Analyses in Social Multi‐...by I Azzini · 2025 · Cited by 14 — In Multiple Criteria Decis...</span></span></span>
+If the preferred option remains strongest across many plausible assumptions, the decision is more robust. If rankings change repeatedly after small adjustments, decision-makers should acknowledge that several options are effectively tied and that judgement must play a larger role. Research on uncertainty in MCDA consistently identifies sensitivity and robustness analysis as essential safeguards against overconfidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/full/10.1002/mcda.70006" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Internal uncertainties</span><span class="citation-popover-snippet">Wiley Online LibrarySensitivity and Robustness Analyses in Social Multi‐...by I Azzini · 2025 · Cited by 14 — In Multiple Criteria Decis...</span></span></span>
 
 Importantly, a sensitivity analysis is not a sign that the model has failed. It is evidence that the decision-makers recognise uncertainty rather than concealing it.
 
@@ -417,194 +417,194 @@ A useful decision process therefore asks two questions rather than one. First, w
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to When Decision Scores Mislead. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to When Decision Scores Mislead. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Smart+Choices+by+John+S.+Hammond&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Smart Choices on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OlpkCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Smart Choices" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Smart+Choices+by+John+S.+Hammond&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Smart Choices">Smart Choices</a>
-</h4>
-<p class="fr-book-author">By John S. Hammond, Ralph L. Keeney et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Smart+Choices+John+S.+Hammond&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Smart Choices on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OlpkCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Smart Choices" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Smart+Choices+John+S.+Hammond&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Smart Choices">Smart Choices</a>
+        </h4>
+        <p class="fr-book-author">By John S. Hammond, Ralph L. Keeney et al.</p>
         
-<p class="fr-book-desc">Directly covers structured decision frameworks, tradeoffs and scoring.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Smart+Choices+by+John+S.+Hammond&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly covers structured decision frameworks, tradeoffs and scoring.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Smart+Choices+John+S.+Hammond&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decisive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQmv39K-P54C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Decisive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decisive">Decisive</a>
-</h4>
-<p class="fr-book-author">By Chip Heath, Dan Heath</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=45OmCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Superforecasting+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
+        </h4>
+        <p class="fr-book-author">By Philip Tetlock, Dan Gardner</p>
         
-<p class="fr-book-desc">Encourages structured thinking without false certainty.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Emphasizes calibrated judgement over misleading numerical certainty.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Superforecasting+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-</h4>
-<p class="fr-book-author">By Daniel Kahneman</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Measure+Anything+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Measure Anything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CBAh4eM-g3AC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Measure Anything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=How+to+Measure+Anything+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Measure Anything">How to Measure Anything</a>
+        </h4>
+        <p class="fr-book-author">By Douglas W. Hubbard</p>
         
-<p class="fr-book-desc">Explains biases that affect scoring and evaluation.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Shows how uncertainty and measurement should inform decisions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=How+to+Measure+Anything+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Measure Anything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CBAh4eM-g3AC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Measure Anything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Measure Anything">How to Measure Anything</a>
-</h4>
-<p class="fr-book-author">By Douglas W. Hubbard</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Decisive+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decisive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aECTEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Decisive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Decisive+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decisive">Decisive</a>
+        </h4>
+        <p class="fr-book-author">By Chip Heath, Dan Heath</p>
         
-<p class="fr-book-desc">Shows how uncertainty and measurement should inform decisions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Encourages structured thinking without false certainty.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Decisive+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Smart+Choices&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Smart Choices</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Decisive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Decisive</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Smart+Choices&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Smart Choices</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Measure+Anything&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Measure Anything</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-decision-scores-mislead-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="when-decision-scores-mislead-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mother’s Day Dice - 3D Printed - novelty gift idea for her - Decision Maker"><img src="https://i.ebayimg.com/images/g/FCMAAOSwgC5gQj7J/s-l225.jpg" alt="Listing image for Mother’s Day Dice - 3D Printed - novelty gift idea for her - Decision Maker" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-decision-scores-mislead-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="when-decision-scores-mislead-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer">Mother’s Day Dice - 3D Printed - novelty gift idea for her - Decision Maker</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-decision-scores-mislead-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="when-decision-scores-mislead-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision maker dice">Search<span data-ebay-domain-label>eBay.co.uk</span>: decision maker dice</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-decision-scores-mislead-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="when-decision-scores-mislead-decision-maker-dice" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-decision-scores-mislead-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="when-decision-scores-mislead-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mother’s Day Dice - 3D Printed - novelty gift idea for her - Decision Maker"><img src="https://i.ebayimg.com/images/g/FCMAAOSwgC5gQj7J/s-l225.jpg" alt="Listing image for Mother’s Day Dice - 3D Printed - novelty gift idea for her - Decision Maker" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-decision-scores-mislead-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="when-decision-scores-mislead-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer">Mother’s Day Dice - 3D Printed - novelty gift idea for her - Decision Maker</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-decision-scores-mislead-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="when-decision-scores-mislead-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision maker dice">Search <span data-ebay-domain-label>eBay.co.uk</span>: decision maker dice</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-decision-scores-mislead-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="when-decision-scores-mislead-decision-maker-dice" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-decision-scores-mislead-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="when-decision-scores-mislead-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Over The Hill Decision Maker 12-Side Dice Vtg &#x27;95 Gag X-Mas Gift 40th 50th B-Day"><img src="https://i.ebayimg.com/images/g/xA4AAOSwAMBnSW4f/s-l225.jpg" alt="Listing image for Over The Hill Decision Maker 12-Side Dice Vtg &#x27;95 Gag X-Mas Gift 40th 50th B-Day" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-decision-scores-mislead-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="when-decision-scores-mislead-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer">Over The Hill Decision Maker 12-Side Dice Vtg &#x27;95 Gag X-Mas Gift 40th 50th B-Day</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-decision-scores-mislead-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="when-decision-scores-mislead-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision maker dice">Search<span data-ebay-domain-label>eBay.co.uk</span>: decision maker dice</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-decision-scores-mislead-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="when-decision-scores-mislead-decision-maker-dice" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-decision-scores-mislead-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="when-decision-scores-mislead-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Over The Hill Decision Maker 12-Side Dice Vtg &#x27;95 Gag X-Mas Gift 40th 50th B-Day"><img src="https://i.ebayimg.com/images/g/xA4AAOSwAMBnSW4f/s-l225.jpg" alt="Listing image for Over The Hill Decision Maker 12-Side Dice Vtg &#x27;95 Gag X-Mas Gift 40th 50th B-Day" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-decision-scores-mislead-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="when-decision-scores-mislead-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer">Over The Hill Decision Maker 12-Side Dice Vtg &#x27;95 Gag X-Mas Gift 40th 50th B-Day</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-decision-scores-mislead-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="when-decision-scores-mislead-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision maker dice">Search <span data-ebay-domain-label>eBay.co.uk</span>: decision maker dice</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-decision-scores-mislead-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="when-decision-scores-mislead-decision-maker-dice" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-decision-scores-mislead-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="when-decision-scores-mislead-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Over The Hill Decision Maker Roll The Dice &amp; Plan Your Day The Easy Way 1992 LN"><img src="https://i.ebayimg.com/images/g/qZAAAeSwCLNpcUAV/s-l225.jpg" alt="Listing image for Over The Hill Decision Maker Roll The Dice &amp; Plan Your Day The Easy Way 1992 LN" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-decision-scores-mislead-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="when-decision-scores-mislead-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer">Over The Hill Decision Maker Roll The Dice &amp; Plan Your Day The Easy Way 1992 LN</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-decision-scores-mislead-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="when-decision-scores-mislead-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision maker dice">Search<span data-ebay-domain-label>eBay.co.uk</span>: decision maker dice</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-decision-scores-mislead-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="when-decision-scores-mislead-decision-maker-dice" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-decision-scores-mislead-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="when-decision-scores-mislead-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Over The Hill Decision Maker Roll The Dice &amp; Plan Your Day The Easy Way 1992 LN"><img src="https://i.ebayimg.com/images/g/qZAAAeSwCLNpcUAV/s-l225.jpg" alt="Listing image for Over The Hill Decision Maker Roll The Dice &amp; Plan Your Day The Easy Way 1992 LN" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-decision-scores-mislead-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="when-decision-scores-mislead-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer">Over The Hill Decision Maker Roll The Dice &amp; Plan Your Day The Easy Way 1992 LN</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-decision-scores-mislead-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="when-decision-scores-mislead-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision maker dice">Search <span data-ebay-domain-label>eBay.co.uk</span>: decision maker dice</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-decision-scores-mislead-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="when-decision-scores-mislead-decision-maker-dice" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-decision-scores-mislead-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="when-decision-scores-mislead-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TV &amp; Movie Online streaming - Dice - Decision Maker - 3D Printed - date night"><img src="https://i.ebayimg.com/images/g/IZQAAOSw9vdgOSIo/s-l225.jpg" alt="Listing image for TV &amp; Movie Online streaming - Dice - Decision Maker - 3D Printed - date night" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-decision-scores-mislead-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="when-decision-scores-mislead-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer">TV &amp; Movie Online streaming - Dice - Decision Maker - 3D Printed - date night</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-decision-scores-mislead-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="when-decision-scores-mislead-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision maker dice">Search<span data-ebay-domain-label>eBay.co.uk</span>: decision maker dice</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-decision-scores-mislead-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="when-decision-scores-mislead-decision-maker-dice" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-decision-scores-mislead-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="when-decision-scores-mislead-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-decision-scores-mislead-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="when-decision-scores-mislead-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TV &amp; Movie Online streaming - Dice - Decision Maker - 3D Printed - date night"><img src="https://i.ebayimg.com/images/g/IZQAAOSw9vdgOSIo/s-l225.jpg" alt="Listing image for TV &amp; Movie Online streaming - Dice - Decision Maker - 3D Printed - date night" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-decision-scores-mislead-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="when-decision-scores-mislead-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer">TV &amp; Movie Online streaming - Dice - Decision Maker - 3D Printed - date night</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-decision-scores-mislead-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="when-decision-scores-mislead-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for decision maker dice">Search <span data-ebay-domain-label>eBay.co.uk</span>: decision maker dice</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-decision-scores-mislead-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="when-decision-scores-mislead-decision-maker-dice" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=decision+maker+dice&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-decision-scores-mislead-decision-maker-dice&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="decision maker dice" data-ebay-reference="when-decision-scores-mislead-decision-maker-dice" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -620,7 +620,7 @@ A useful decision process therefore asks two questions rather than one. First, w
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -640,7 +640,7 @@ A useful decision process therefore asks two questions rather than one. First, w
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -672,7 +672,7 @@ A useful decision process therefore asks two questions rather than one. First, w
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -724,7 +724,7 @@ A useful decision process therefore asks two questions rather than one. First, w
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -769,7 +769,7 @@ A useful decision process therefore asks two questions rather than one. First, w
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -810,83 +810,83 @@ A useful decision process therefore asks two questions rather than one. First, w
 
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: analysisfunction.civilservice.gov.uk  
    Title: an introductory guide to mcda  
-   Link:<a href="https://analysisfunction.civilservice.gov.uk/policy-store/an-introductory-guide-to-mcda/" target="_blank" rel="noopener noreferrer nofollow">https://analysisfunction.civilservice.gov.uk/policy-store/an-introductory-guide-to-mcda/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>An Introductory Guide to Multi-Criteria Decision Analysis...1 May 2024 — MCDA is a way of helping decision-makers rationally choose betw...</p></details>
+   Link: <a href="https://analysisfunction.civilservice.gov.uk/policy-store/an-introductory-guide-to-mcda/" target="_blank" rel="noopener noreferrer nofollow">https://analysisfunction.civilservice.gov.uk/policy-store/an-introductory-guide-to-mcda/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>An Introductory Guide to Multi-Criteria Decision Analysis...1 May 2024 — MCDA is a way of helping decision-makers rationally choose betw...</p></details>
    Published: May 2024  
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: GOV.UK  
    Title: use of multi criteria decision analysis in options appraisal of economic cases  
-   Link:<a href="https://www.gov.uk/government/publications/green-book-supplementary-guidance-multi-criteria-decision-analysis/use-of-multi-criteria-decision-analysis-in-options-appraisal-of-economic-cases" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/green-book-supplementary-guidance-multi-criteria-decision-analysis/use-of-multi-criteria-decision-analysis-in-options-appraisal-of-economic-cases</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>of Multi-Criteria Decision Analysis in options appraisal...16 May 2024 — MCDA is a technique that helps decision-makers make rational ch...</p></details>
+   Link: <a href="https://www.gov.uk/government/publications/green-book-supplementary-guidance-multi-criteria-decision-analysis/use-of-multi-criteria-decision-analysis-in-options-appraisal-of-economic-cases" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/green-book-supplementary-guidance-multi-criteria-decision-analysis/use-of-multi-criteria-decision-analysis-in-options-appraisal-of-economic-cases</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>of Multi-Criteria Decision Analysis in options appraisal...16 May 2024 — MCDA is a technique that helps decision-makers make rational ch...</p></details>
    Published: May 2024  
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: onlinelibrary.wiley.com  
    Title: Internal uncertainties  
-   Link:<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/mcda.70006" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1002/mcda.70006</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibrarySensitivity and Robustness Analyses in Social Multi‐...by I Azzini · 2025 · Cited by 14 — In Multiple Criteria Decis...</p></details>
+   Link: <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/mcda.70006" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1002/mcda.70006</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibrarySensitivity and Robustness Analyses in Social Multi‐...by I Azzini · 2025 · Cited by 14 — In Multiple Criteria Decis...</p></details>
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: assets.publishing.service.gov.uk  
-   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78e47ded915d07d35b3403/pb13695-paper5-socialimpacts-wellbeing.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78e47ded915d07d35b3403/pb13695-paper5-socialimpacts-wellbeing.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Social Impacts and Wellbeing: multi-criteria...decision-making criteria, identifying appropriate weights, and in scoring options again...</p></details>
+   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78e47ded915d07d35b3403/pb13695-paper5-socialimpacts-wellbeing.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78e47ded915d07d35b3403/pb13695-paper5-socialimpacts-wellbeing.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Social Impacts and Wellbeing: multi-criteria...decision-making criteria, identifying appropriate weights, and in scoring options again...</p></details>
 
 ### Additional References
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/393630075_Comparison_of_Multi-Criteria_Decision_Analysis_methods_under_comprehensive_sensitivity_analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/393630075_Comparison_of_Multi-Criteria_Decision_Analysis_methods_under_comprehensive_sensitivity_analysis</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Comparison of Multi-Criteria Decision Analysis Methods...30 May 2026 — The analysis employs the Comprehensive Sensitivity Analysis Metho...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/393630075_Comparison_of_Multi-Criteria_Decision_Analysis_methods_under_comprehensive_sensitivity_analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/393630075_Comparison_of_Multi-Criteria_Decision_Analysis_methods_under_comprehensive_sensitivity_analysis</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Comparison of Multi-Criteria Decision Analysis Methods...30 May 2026 — The analysis employs the Comprehensive Sensitivity Analysis Metho...</p></details>
    Published: May 2026  
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/post/How_many_implementations_of_sensitivity_analysis_regarding_multiple_criteria_decision_making_MCDM_methods" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/post/How_many_implementations_of_sensitivity_analysis_regarding_multiple_criteria_decision_making_MCDM_methods</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>How many implementations of sensitivity analysis...10 Jul 2021 — I want to know which ways are common sensitivity analysis that are perf...</p></details>
+   Link: <a href="https://www.researchgate.net/post/How_many_implementations_of_sensitivity_analysis_regarding_multiple_criteria_decision_making_MCDM_methods" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/post/How_many_implementations_of_sensitivity_analysis_regarding_multiple_criteria_decision_making_MCDM_methods</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How many implementations of sensitivity analysis...10 Jul 2021 — I want to know which ways are common sensitivity analysis that are perf...</p></details>
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: innovationvalueinitiative.github.io  
-   Link:<a href="https://innovationvalueinitiative.github.io/IVI-NSCLC/reference/mcda.html" target="_blank" rel="noopener noreferrer nofollow">https://innovationvalueinitiative.github.io/IVI-NSCLC/reference/mcda.html</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Multi criteria decision analysis — mcda • iviNSCLCIf an element is &quot;low&quot;, then lower performance on that criterion is better, and, if an...</p></details>
+   Link: <a href="https://innovationvalueinitiative.github.io/IVI-NSCLC/reference/mcda.html" target="_blank" rel="noopener noreferrer nofollow">https://innovationvalueinitiative.github.io/IVI-NSCLC/reference/mcda.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Multi criteria decision analysis — mcda • iviNSCLCIf an element is &quot;low&quot;, then lower performance on that criterion is better, and, if an...</p></details>
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: ideaclouds.net  
-   Link:<a href="https://www.ideaclouds.net/resources/workshop-methods/multi-criteria-decision-making-product-prioritization-guide/" target="_blank" rel="noopener noreferrer nofollow">https://www.ideaclouds.net/resources/workshop-methods/multi-criteria-decision-making-product-prioritization-guide/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Multi-Criteria Decision Making Product PrioritizationFalse precision illusion: Final 2D positions appear mathematically precise but repre...</p></details>
+   Link: <a href="https://www.ideaclouds.net/resources/workshop-methods/multi-criteria-decision-making-product-prioritization-guide/" target="_blank" rel="noopener noreferrer nofollow">https://www.ideaclouds.net/resources/workshop-methods/multi-criteria-decision-making-product-prioritization-guide/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Multi-Criteria Decision Making Product PrioritizationFalse precision illusion: Final 2D positions appear mathematically precise but repre...</p></details>
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: wrc.org.za  
-   Link:<a href="https://www.wrc.org.za/wp-content/uploads/mdocs/512-1-97.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.wrc.org.za/wp-content/uploads/mdocs/512-1-97.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Water Research CommissionMultiple Criteria Decision Analysis: Procedures for...by TJ Stewart · Cited by 21 — Uncertainty as to values (p...</p></details>
+   Link: <a href="https://www.wrc.org.za/wp-content/uploads/mdocs/512-1-97.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.wrc.org.za/wp-content/uploads/mdocs/512-1-97.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Water Research CommissionMultiple Criteria Decision Analysis: Procedures for...by TJ Stewart · Cited by 21 — Uncertainty as to values (p...</p></details>
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: publications.jrc.ec.europa.eu  
-   Link:<a href="https://publications.jrc.ec.europa.eu/repository/handle/JRC138872" target="_blank" rel="noopener noreferrer nofollow">https://publications.jrc.ec.europa.eu/repository/handle/JRC138872</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>and Robustness Analyses in Social Multi-Criteria...by I AZZINI · Cited by 14 — In this article, we propose the following improvements of...</p></details>
+   Link: <a href="https://publications.jrc.ec.europa.eu/repository/handle/JRC138872" target="_blank" rel="noopener noreferrer nofollow">https://publications.jrc.ec.europa.eu/repository/handle/JRC138872</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Robustness Analyses in Social Multi-Criteria...by I AZZINI · Cited by 14 — In this article, we propose the following improvements of...</p></details>
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCA Review and Classification of Approaches for Dealing  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4544539/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4544539/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>by H Broekhuizen · 2015 · Cited by 175 — This review identified five commonly used approaches to quantify and incorporate uncertainty...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4544539/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4544539/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by H Broekhuizen · 2015 · Cited by 175 — This review identified five commonly used approaches to quantify and incorporate uncertainty...</p></details>
 
-12.<a id="endnote-12"></a>
+12. <a id="endnote-12"></a>
    Source: research.utwente.nl  
    Title: a review and classification of approaches for dealing with uncert  
-   Link:<a href="https://research.utwente.nl/en/publications/a-review-and-classification-of-approaches-for-dealing-with-uncert/" target="_blank" rel="noopener noreferrer nofollow">https://research.utwente.nl/en/publications/a-review-and-classification-of-approaches-for-dealing-with-uncert/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Review and Classification of Approaches for Dealing...by H Broekhuizen · 2015 · Cited by 176 — Multi-criteria decision analysis (MCDA) i...</p></details>
+   Link: <a href="https://research.utwente.nl/en/publications/a-review-and-classification-of-approaches-for-dealing-with-uncert/" target="_blank" rel="noopener noreferrer nofollow">https://research.utwente.nl/en/publications/a-review-and-classification-of-approaches-for-dealing-with-uncert/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Review and Classification of Approaches for Dealing...by H Broekhuizen · 2015 · Cited by 176 — Multi-criteria decision analysis (MCDA) i...</p></details>
 
-13.<a id="endnote-13"></a>
+13. <a id="endnote-13"></a>
    Source: researchgate.net  
    Title: 358131153 A Practical Guide to Multi Criteria Analysis  
-   Link:<a href="https://www.researchgate.net/publication/358131153_A_Practical_Guide_to_Multi-Criteria_Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/358131153_A_Practical_Guide_to_Multi-Criteria_Analysis</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>A Practical Guide to Multi-Criteria Analysis26 Jan 2022 — The paper also offers practical guidance regarding the fundamental tasks requir...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/358131153_A_Practical_Guide_to_Multi-Criteria_Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/358131153_A_Practical_Guide_to_Multi-Criteria_Analysis</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Practical Guide to Multi-Criteria Analysis26 Jan 2022 — The paper also offers practical guidance regarding the fundamental tasks requir...</p></details>
 
-14.<a id="endnote-14"></a>
+14. <a id="endnote-14"></a>
    Source: consensus.app  
-   Link:<a href="https://consensus.app/search/sensitivity-analysis-techniques-in-multi-criteria-/Xlqw-sP3SFSwFUdgNngmAg/" target="_blank" rel="noopener noreferrer nofollow">https://consensus.app/search/sensitivity-analysis-techniques-in-multi-criteria-/Xlqw-sP3SFSwFUdgNngmAg/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>MCDM) to assess how changes in input data, such as criteria weights or performance...</p></details>
+   Link: <a href="https://consensus.app/search/sensitivity-analysis-techniques-in-multi-criteria-/Xlqw-sP3SFSwFUdgNngmAg/" target="_blank" rel="noopener noreferrer nofollow">https://consensus.app/search/sensitivity-analysis-techniques-in-multi-criteria-/Xlqw-sP3SFSwFUdgNngmAg/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>MCDM) to assess how changes in input data, such as criteria weights or performance...</p></details>

@@ -278,7 +278,7 @@ Confidence is most useful when it comes with an explicit answer to one question:
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_confidence_calibrati_3ec11e_update_triggers_6870d4-Illustration-1-dark.svg" | relative_url }}" alt="Update Triggers illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_confidence_calibrati_3ec11e_update_triggers_6870d4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_confidence_calibrati_3ec11e_update_triggers_6870d4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Update triggers prevent this. An update trigger is a predefined condition that tells you when new information deserves a meaningful revision of your confidence and when it should simply be monitored. Instead of treating every new clue as equally important, you decide in advance which signals would increase or decrease your confidence, making belief revision more consistent, transparent and resistant to bias. This practice is closely aligned with the forecasting methods used by high-performing forecasters, who treat beliefs as provisional hypotheses rather than positions to defend.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://goodjudgment.com/superforecasters-toolbox-beliefs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goodjudgment.com">[Good Judgment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goodjudgment.com</span><span class="citation-popover-title">titioners of Bayesian thinking, they update</span><span class="citation-popover-snippet">Good JudgmentBeliefs as Hypotheses: The Superforecaster&#x27;s MindsetFebruary 13, 2024 — Tetlock calls in his seminal book on Superforecastin...</span><span class="citation-popover-meta">Published: February 13, 2024</span></span></span>
+Update triggers prevent this. An update trigger is a predefined condition that tells you when new information deserves a meaningful revision of your confidence and when it should simply be monitored. Instead of treating every new clue as equally important, you decide in advance which signals would increase or decrease your confidence, making belief revision more consistent, transparent and resistant to bias. This practice is closely aligned with the forecasting methods used by high-performing forecasters, who treat beliefs as provisional hypotheses rather than positions to defend. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://goodjudgment.com/superforecasters-toolbox-beliefs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goodjudgment.com">[Good Judgment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goodjudgment.com</span><span class="citation-popover-title">titioners of Bayesian thinking, they update</span><span class="citation-popover-snippet">Good JudgmentBeliefs as Hypotheses: The Superforecaster&#x27;s MindsetFebruary 13, 2024 — Tetlock calls in his seminal book on Superforecastin...</span><span class="citation-popover-meta">Published: February 13, 2024</span></span></span>
 
 ## Why update triggers make confidence statements useful
 
@@ -300,7 +300,7 @@ This simple addition creates several benefits:
 * **Consistency.** You avoid inventing new standards after the outcome becomes clearer.
 * **Accountability.** Others can evaluate whether you updated when your stated conditions occurred.
 * **Reduced confirmation bias.** You acknowledge in advance which evidence would weaken your current position instead of searching only for supporting information.
-* **Better communication.** Colleagues understand not just your current confidence but also the uncertainties that matter most.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://goodjudgment.com/superforecasters-toolbox-beliefs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goodjudgment.com">[Good Judgment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goodjudgment.com</span><span class="citation-popover-title">titioners of Bayesian thinking, they update</span><span class="citation-popover-snippet">Good JudgmentBeliefs as Hypotheses: The Superforecaster&#x27;s MindsetFebruary 13, 2024 — Tetlock calls in his seminal book on Superforecastin...</span><span class="citation-popover-meta">Published: February 13, 2024</span></span></span>
+* **Better communication.** Colleagues understand not just your current confidence but also the uncertainties that matter most. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://goodjudgment.com/superforecasters-toolbox-beliefs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goodjudgment.com">[Good Judgment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goodjudgment.com</span><span class="citation-popover-title">titioners of Bayesian thinking, they update</span><span class="citation-popover-snippet">Good JudgmentBeliefs as Hypotheses: The Superforecaster&#x27;s MindsetFebruary 13, 2024 — Tetlock calls in his seminal book on Superforecastin...</span><span class="citation-popover-meta">Published: February 13, 2024</span></span></span>
 
 Importantly, update triggers are not [predictions]({{ 'predictions/' | relative_url }}) about what will happen. They are commitments about how you will respond if certain evidence appears.
 
@@ -324,7 +324,7 @@ Some signals disappear within hours. Others represent structural change. A tempo
 
 **Does the evidence exceed a meaningful threshold?**
 
-Minor fluctuations are expected in almost every system. Setting explicit [thresholds]({{ 'thresholds/' | relative_url }}) prevents constant oscillation. For example, revising only after customer churn exceeds a defined level for two consecutive months is often more sensible than reacting to one unusual week. Research and practice in forecasting and operations consistently emphasise updating when meaningful changes occur rather than whenever fresh data arrives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.toolsgroup.com/blog/forecast-update-frequency-inventory-models/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: toolsgroup.com">[toolsgroup.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">toolsgroup.com</span><span class="citation-popover-title">Forecast Update Frequency for Inventory Models</span><span class="citation-popover-snippet">January 15, 2026 — 15 Jan 2026 — More frequent updates may be required when lead times change significantly, supplier reliability shifts...</span><span class="citation-popover-meta">Published: January 15, 2026</span></span></span>
+Minor fluctuations are expected in almost every system. Setting explicit [thresholds]({{ 'thresholds/' | relative_url }}) prevents constant oscillation. For example, revising only after customer churn exceeds a defined level for two consecutive months is often more sensible than reacting to one unusual week. Research and practice in forecasting and operations consistently emphasise updating when meaningful changes occur rather than whenever fresh data arrives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.toolsgroup.com/blog/forecast-update-frequency-inventory-models/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: toolsgroup.com">[toolsgroup.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">toolsgroup.com</span><span class="citation-popover-title">Forecast Update Frequency for Inventory Models</span><span class="citation-popover-snippet">January 15, 2026 — 15 Jan 2026 — More frequent updates may be required when lead times change significantly, supplier reliability shifts...</span><span class="citation-popover-meta">Published: January 15, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qAKSd4eaSuY" title="Why Intelligent People Are Wrong More Often Than Chimps | Philip Tetlock" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qAKSd4eaSuY" target="_blank" rel="noopener noreferrer">Why Intelligent People Are Wrong More Often Than Chimps | Philip Tetlock</a></p><p class="youtube-embed-meta">Channel: ohxpsy</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qAKSd4eaSuY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qAKSd4eaSuY">Open on YouTube</a></p></div></div></div>
@@ -414,7 +414,7 @@ They specify update triggers before problems emerge:
 
 </div>
 
-Operations research and supply-chain planning similarly recommend triggering revisions from meaningful operational changes such as lead-time shifts or demonstrated changes in supplier reliability rather than routine fluctuations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.toolsgroup.com/blog/forecast-update-frequency-inventory-models/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: toolsgroup.com">[toolsgroup.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">toolsgroup.com</span><span class="citation-popover-title">Forecast Update Frequency for Inventory Models</span><span class="citation-popover-snippet">January 15, 2026 — 15 Jan 2026 — More frequent updates may be required when lead times change significantly, supplier reliability shifts...</span><span class="citation-popover-meta">Published: January 15, 2026</span></span></span>
+Operations research and supply-chain planning similarly recommend triggering revisions from meaningful operational changes such as lead-time shifts or demonstrated changes in supplier reliability rather than routine fluctuations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.toolsgroup.com/blog/forecast-update-frequency-inventory-models/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: toolsgroup.com">[toolsgroup.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">toolsgroup.com</span><span class="citation-popover-title">Forecast Update Frequency for Inventory Models</span><span class="citation-popover-snippet">January 15, 2026 — 15 Jan 2026 — More frequent updates may be required when lead times change significantly, supplier reliability shifts...</span><span class="citation-popover-meta">Published: January 15, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_confidence_calibrati_3ec11e_update_triggers_6870d4-Illustration-3-dark.svg" | relative_url }}" alt="Update Triggers illustration 3" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_confidence_calibrati_3ec11e_update_triggers_6870d4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_confidence_calibrati_3ec11e_update_triggers_6870d4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -440,7 +440,7 @@ Some people define only positive triggers. Good calibration requires identifying
 
 **Changing standards after the outcome is known.**
 
-After success or failure, it becomes tempting to claim that different evidence "always mattered most". Defining triggers beforehand reduces [hindsight bias]({{ 'hindsight-bias/' | relative_url }}) and makes learning more reliable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://goodjudgment.com/superforecasters-toolbox-beliefs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goodjudgment.com">[Good Judgment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goodjudgment.com</span><span class="citation-popover-title">titioners of Bayesian thinking, they update</span><span class="citation-popover-snippet">Good JudgmentBeliefs as Hypotheses: The Superforecaster&#x27;s MindsetFebruary 13, 2024 — Tetlock calls in his seminal book on Superforecastin...</span><span class="citation-popover-meta">Published: February 13, 2024</span></span></span>
+After success or failure, it becomes tempting to claim that different evidence "always mattered most". Defining triggers beforehand reduces [hindsight bias]({{ 'hindsight-bias/' | relative_url }}) and makes learning more reliable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://goodjudgment.com/superforecasters-toolbox-beliefs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goodjudgment.com">[Good Judgment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goodjudgment.com</span><span class="citation-popover-title">titioners of Bayesian thinking, they update</span><span class="citation-popover-snippet">Good JudgmentBeliefs as Hypotheses: The Superforecaster&#x27;s MindsetFebruary 13, 2024 — Tetlock calls in his seminal book on Superforecastin...</span><span class="citation-popover-meta">Published: February 13, 2024</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eq_Uw4H1Now" title="Lecture 20: Bayesian Updating and Confirmation Bias" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eq_Uw4H1Now" target="_blank" rel="noopener noreferrer">Lecture 20: Bayesian Updating and Confirmation Bias</a></p><p class="youtube-embed-meta">Channel: IIT Roorkee July 2018</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eq_Uw4H1Now" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eq_Uw4H1Now">Open on YouTube</a></p></div></div></div>
@@ -457,181 +457,181 @@ When making an important judgement:
 4. Identify equally specific evidence that would substantially reduce confidence.
 5. Review only when those triggers occur or at planned intervals rather than after every minor development.
 
-This approach encourages proportional belief revision. Instead of stubbornly resisting contrary evidence or chasing every new signal, you adjust your confidence when the evidence meaningfully changes. That balance—neither rigid nor reactive—is a central feature of well-calibrated judgement and one of the distinguishing habits observed among skilled forecasters.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://goodjudgment.com/superforecasters-toolbox-beliefs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goodjudgment.com">[Good Judgment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goodjudgment.com</span><span class="citation-popover-title">titioners of Bayesian thinking, they update</span><span class="citation-popover-snippet">Good JudgmentBeliefs as Hypotheses: The Superforecaster&#x27;s MindsetFebruary 13, 2024 — Tetlock calls in his seminal book on Superforecastin...</span><span class="citation-popover-meta">Published: February 13, 2024</span></span></span>
+This approach encourages proportional belief revision. Instead of stubbornly resisting contrary evidence or chasing every new signal, you adjust your confidence when the evidence meaningfully changes. That balance—neither rigid nor reactive—is a central feature of well-calibrated judgement and one of the distinguishing habits observed among skilled forecasters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://goodjudgment.com/superforecasters-toolbox-beliefs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goodjudgment.com">[Good Judgment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goodjudgment.com</span><span class="citation-popover-title">titioners of Bayesian thinking, they update</span><span class="citation-popover-snippet">Good JudgmentBeliefs as Hypotheses: The Superforecaster&#x27;s MindsetFebruary 13, 2024 — Tetlock calls in his seminal book on Superforecastin...</span><span class="citation-popover-meta">Published: February 13, 2024</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Know What Would Change Your Mind. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Know What Would Change Your Mind. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=45OmCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
-</h4>
-<p class="fr-book-author">By Philip Tetlock, Dan Gardner</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=45OmCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Superforecasting+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
+        </h4>
+        <p class="fr-book-author">By Philip Tetlock, Dan Gardner</p>
         
-<p class="fr-book-desc">Explains updating beliefs in response to evidence.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains updating beliefs in response to evidence.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Superforecasting+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-</h4>
-<p class="fr-book-author">By Daniel Kahneman</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+        </h4>
+        <p class="fr-book-author">By Daniel Kahneman</p>
         
-<p class="fr-book-desc">Describes biases affecting belief revision.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Describes biases affecting belief revision.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Noise+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_KujzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Noise+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Noise">Noise</a>
-</h4>
-<p class="fr-book-author">By Daniel Kahneman, Olivier Sibony et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Measure+Anything+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Measure Anything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CBAh4eM-g3AC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Measure Anything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=How+to+Measure+Anything+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Measure Anything">How to Measure Anything</a>
+        </h4>
+        <p class="fr-book-author">By Douglas W. Hubbard</p>
         
-<p class="fr-book-desc">Encourages disciplined judgment updates.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Noise+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Supports structured updating with measurable evidence.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=How+to+Measure+Anything+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
-</h4>
-<p class="fr-book-author">By Nate Silver</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Noise+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_KujzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Noise+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Noise">Noise</a>
+        </h4>
+        <p class="fr-book-author">By Daniel Kahneman, Olivier Sibony et al.</p>
         
-<p class="fr-book-desc">Shows how evidence should change predictions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Encourages disciplined judgment updates.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Noise+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Noise</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Measure+Anything&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Measure Anything</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mind+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=know-what-would-change-your-mind-mind-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mind poster -book -books -dvd" data-ebay-reference="know-what-would-change-your-mind-mind-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Chakra Meaning Spiritual Mind Peace Education Arts Poster *Laminated*"><img src="https://i.ebayimg.com/images/g/H2oAAOSwtgtg0yQL/s-l225.jpg" alt="Listing image for Chakra Meaning Spiritual Mind Peace Education Arts Poster *Laminated*" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mind+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=know-what-would-change-your-mind-mind-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mind poster -book -books -dvd" data-ebay-reference="know-what-would-change-your-mind-mind-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Chakra Meaning Spiritual Mind Peace Education Arts Poster *Laminated*</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mind+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=know-what-would-change-your-mind-mind-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mind poster -book -books -dvd" data-ebay-reference="know-what-would-change-your-mind-mind-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mind poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: mind poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mind+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=know-what-would-change-your-mind-mind-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mind poster -book -books -dvd" data-ebay-reference="know-what-would-change-your-mind-mind-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mind+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=know-what-would-change-your-mind-mind-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mind poster -book -books -dvd" data-ebay-reference="know-what-would-change-your-mind-mind-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Chakra Meaning Spiritual Mind Peace Education Arts Poster *Laminated*"><img src="https://i.ebayimg.com/images/g/H2oAAOSwtgtg0yQL/s-l225.jpg" alt="Listing image for Chakra Meaning Spiritual Mind Peace Education Arts Poster *Laminated*" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mind+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=know-what-would-change-your-mind-mind-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mind poster -book -books -dvd" data-ebay-reference="know-what-would-change-your-mind-mind-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Chakra Meaning Spiritual Mind Peace Education Arts Poster *Laminated*</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mind+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=know-what-would-change-your-mind-mind-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mind poster -book -books -dvd" data-ebay-reference="know-what-would-change-your-mind-mind-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mind poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: mind poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mind+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=know-what-would-change-your-mind-mind-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mind poster -book -books -dvd" data-ebay-reference="know-what-would-change-your-mind-mind-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mind+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=know-what-would-change-your-mind-mind-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mind poster -book -books -dvd" data-ebay-reference="know-what-would-change-your-mind-mind-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Classic Great Movie Posters Wall Art Poster Prints Collection 3"><img src="https://i.ebayimg.com/images/g/l9UAAOSwkUBmvLS3/s-l225.jpg" alt="Listing image for Classic Great Movie Posters Wall Art Poster Prints Collection 3" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mind+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=know-what-would-change-your-mind-mind-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mind poster -book -books -dvd" data-ebay-reference="know-what-would-change-your-mind-mind-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Classic Great Movie Posters Wall Art Poster Prints Collection 3</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mind+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=know-what-would-change-your-mind-mind-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mind poster -book -books -dvd" data-ebay-reference="know-what-would-change-your-mind-mind-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mind poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: mind poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mind+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=know-what-would-change-your-mind-mind-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mind poster -book -books -dvd" data-ebay-reference="know-what-would-change-your-mind-mind-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mind+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=know-what-would-change-your-mind-mind-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mind poster -book -books -dvd" data-ebay-reference="know-what-would-change-your-mind-mind-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Classic Great Movie Posters Wall Art Poster Prints Collection 3"><img src="https://i.ebayimg.com/images/g/l9UAAOSwkUBmvLS3/s-l225.jpg" alt="Listing image for Classic Great Movie Posters Wall Art Poster Prints Collection 3" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mind+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=know-what-would-change-your-mind-mind-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mind poster -book -books -dvd" data-ebay-reference="know-what-would-change-your-mind-mind-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Classic Great Movie Posters Wall Art Poster Prints Collection 3</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mind+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=know-what-would-change-your-mind-mind-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mind poster -book -books -dvd" data-ebay-reference="know-what-would-change-your-mind-mind-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mind poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: mind poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mind+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=know-what-would-change-your-mind-mind-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mind poster -book -books -dvd" data-ebay-reference="know-what-would-change-your-mind-mind-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mind+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=know-what-would-change-your-mind-mind-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mind poster -book -books -dvd" data-ebay-reference="know-what-would-change-your-mind-mind-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cosmic Mind Explosion Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/zLQAAeSw2zJpYAOe/s-l225.jpg" alt="Listing image for Cosmic Mind Explosion Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mind+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=know-what-would-change-your-mind-mind-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mind poster -book -books -dvd" data-ebay-reference="know-what-would-change-your-mind-mind-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Cosmic Mind Explosion Framed Wall Art Poster Canvas Print Picture</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mind+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=know-what-would-change-your-mind-mind-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mind poster -book -books -dvd" data-ebay-reference="know-what-would-change-your-mind-mind-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mind poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: mind poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mind+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=know-what-would-change-your-mind-mind-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mind poster -book -books -dvd" data-ebay-reference="know-what-would-change-your-mind-mind-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=mind+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=know-what-would-change-your-mind-mind-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mind poster -book -books -dvd" data-ebay-reference="know-what-would-change-your-mind-mind-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mind+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=know-what-would-change-your-mind-mind-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mind poster -book -books -dvd" data-ebay-reference="know-what-would-change-your-mind-mind-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cosmic Mind Explosion Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/zLQAAeSw2zJpYAOe/s-l225.jpg" alt="Listing image for Cosmic Mind Explosion Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mind+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=know-what-would-change-your-mind-mind-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mind poster -book -books -dvd" data-ebay-reference="know-what-would-change-your-mind-mind-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Cosmic Mind Explosion Framed Wall Art Poster Canvas Print Picture</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mind+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=know-what-would-change-your-mind-mind-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mind poster -book -books -dvd" data-ebay-reference="know-what-would-change-your-mind-mind-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mind poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: mind poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mind+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=know-what-would-change-your-mind-mind-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mind poster -book -books -dvd" data-ebay-reference="know-what-would-change-your-mind-mind-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=mind+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=know-what-would-change-your-mind-mind-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mind poster -book -books -dvd" data-ebay-reference="know-what-would-change-your-mind-mind-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -647,7 +647,7 @@ This approach encourages proportional belief revision. Instead of stubbornly res
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -667,7 +667,7 @@ This approach encourages proportional belief revision. Instead of stubbornly res
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -699,7 +699,7 @@ This approach encourages proportional belief revision. Instead of stubbornly res
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -751,7 +751,7 @@ This approach encourages proportional belief revision. Instead of stubbornly res
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -796,7 +796,7 @@ This approach encourages proportional belief revision. Instead of stubbornly res
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -836,81 +836,81 @@ This approach encourages proportional belief revision. Instead of stubbornly res
 </section>
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: goodjudgment.com  
    Title: titioners of Bayesian thinking, they update  
-   Link:<a href="https://goodjudgment.com/superforecasters-toolbox-beliefs/" target="_blank" rel="noopener noreferrer nofollow">https://goodjudgment.com/superforecasters-toolbox-beliefs/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Good JudgmentBeliefs as Hypotheses: The Superforecaster&#x27;s MindsetFebruary 13, 2024 — Tetlock calls in his seminal book on Superforecastin...</p></details>
+   Link: <a href="https://goodjudgment.com/superforecasters-toolbox-beliefs/" target="_blank" rel="noopener noreferrer nofollow">https://goodjudgment.com/superforecasters-toolbox-beliefs/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Good JudgmentBeliefs as Hypotheses: The Superforecaster&#x27;s MindsetFebruary 13, 2024 — Tetlock calls in his seminal book on Superforecastin...</p></details>
    Published: February 13, 2024  
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Confirmation bias  
-   Link:<a href="https://en.wikipedia.org/wiki/Confirmation_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Confirmation_bias</a>  
+   Link: <a href="https://en.wikipedia.org/wiki/Confirmation_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Confirmation_bias</a>  
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: toolsgroup.com  
    Title: Forecast Update Frequency for Inventory Models  
-   Link:<a href="https://www.toolsgroup.com/blog/forecast-update-frequency-inventory-models/" target="_blank" rel="noopener noreferrer nofollow">https://www.toolsgroup.com/blog/forecast-update-frequency-inventory-models/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>January 15, 2026 — 15 Jan 2026 — More frequent updates may be required when lead times change significantly, supplier reliability shifts...</p></details>
+   Link: <a href="https://www.toolsgroup.com/blog/forecast-update-frequency-inventory-models/" target="_blank" rel="noopener noreferrer nofollow">https://www.toolsgroup.com/blog/forecast-update-frequency-inventory-models/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>January 15, 2026 — 15 Jan 2026 — More frequent updates may be required when lead times change significantly, supplier reliability shifts...</p></details>
    Published: January 15, 2026  
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: goodjudgment.substack.com  
    Title: inside a superforecasters toolbox  
-   Link:<a href="https://goodjudgment.substack.com/p/inside-a-superforecasters-toolbox" target="_blank" rel="noopener noreferrer nofollow">https://goodjudgment.substack.com/p/inside-a-superforecasters-toolbox</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Set a reminder to revisit your prediction in a week or a month. Track what you...Read more...</p></details>
+   Link: <a href="https://goodjudgment.substack.com/p/inside-a-superforecasters-toolbox" target="_blank" rel="noopener noreferrer nofollow">https://goodjudgment.substack.com/p/inside-a-superforecasters-toolbox</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Set a reminder to revisit your prediction in a week or a month. Track what you...Read more...</p></details>
 
 ### Additional References
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: linkedin.com  
-   Link:<a href="https://www.linkedin.com/posts/glennbroder_the-most-dangerous-opportunity-in-your-forecast-activity-7473777242255462400-tcQ8" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/glennbroder_the-most-dangerous-opportunity-in-your-forecast-activity-7473777242255462400-tcQ8</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Don&#x27;t Let Stale Evidence Ruin Your ForecastForecast weight expires when the evidence supporting it is no longer current. Before your next...</p></details>
+   Link: <a href="https://www.linkedin.com/posts/glennbroder_the-most-dangerous-opportunity-in-your-forecast-activity-7473777242255462400-tcQ8" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/glennbroder_the-most-dangerous-opportunity-in-your-forecast-activity-7473777242255462400-tcQ8</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Don&#x27;t Let Stale Evidence Ruin Your ForecastForecast weight expires when the evidence supporting it is no longer current. Before your next...</p></details>
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: b2wise.com  
-   Link:<a href="https://www.b2wise.com/blog/the-importance-of-a-stable-forecast-in-demand-planning" target="_blank" rel="noopener noreferrer nofollow">https://www.b2wise.com/blog/the-importance-of-a-stable-forecast-in-demand-planning</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Importance of a Stable Forecast in Demand PlanningIn demand planning, many companies focus heavily on forecast accuracy. They want th...</p></details>
+   Link: <a href="https://www.b2wise.com/blog/the-importance-of-a-stable-forecast-in-demand-planning" target="_blank" rel="noopener noreferrer nofollow">https://www.b2wise.com/blog/the-importance-of-a-stable-forecast-in-demand-planning</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Importance of a Stable Forecast in Demand PlanningIn demand planning, many companies focus heavily on forecast accuracy. They want th...</p></details>
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: GOV.UK  
-   Link:<a href="https://www.gov.uk/government/consultations/earned-settlement/a-fairer-pathway-to-settlement-statement-and-accompanying-consultation-on-earned-settlement-accessible" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/consultations/earned-settlement/a-fairer-pathway-to-settlement-statement-and-accompanying-consultation-on-earned-settlement-accessible</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Fairer Pathway to Settlement: statement and...28 Nov 2025 — Between 2021 and 2024, there has been significant growth in lower-skilled mi...</p></details>
+   Link: <a href="https://www.gov.uk/government/consultations/earned-settlement/a-fairer-pathway-to-settlement-statement-and-accompanying-consultation-on-earned-settlement-accessible" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/consultations/earned-settlement/a-fairer-pathway-to-settlement-statement-and-accompanying-consultation-on-earned-settlement-accessible</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fairer Pathway to Settlement: statement and...28 Nov 2025 — Between 2021 and 2024, there has been significant growth in lower-skilled mi...</p></details>
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: youtube.com  
-   Link:<a href="https://www.youtube.com/watch?v=eq_Uw4H1Now" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eq_Uw4H1Now</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Lecture 20: Bayesian Updating and Confirmation BiasThis lecture explores Bayesian updating—how rational agents should revise beliefs (e.g...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=eq_Uw4H1Now" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eq_Uw4H1Now</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lecture 20: Bayesian Updating and Confirmation BiasThis lecture explores Bayesian updating—how rational agents should revise beliefs (e.g...</p></details>
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: youtube.com  
-   Link:<a href="https://www.youtube.com/watch?v=pedNak4S9IE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pedNak4S9IE</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Superforecasting | Philip TetlockTetlock discovered them in the course of building winning teams for a tournament of geopolitical forecas...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=pedNak4S9IE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pedNak4S9IE</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Superforecasting | Philip TetlockTetlock discovered them in the course of building winning teams for a tournament of geopolitical forecas...</p></details>
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: tandfonline.com  
    Title: OM and SCM principles and practices existed  
-   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/00207543.2025.2555531" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/00207543.2025.2555531</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineOperations &amp; supply chain management: principles and...by F Petropoulos · 2026 · Cited by 60 — Operations managem...</p></details>
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/00207543.2025.2555531" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/00207543.2025.2555531</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineOperations &amp; supply chain management: principles and...by F Petropoulos · 2026 · Cited by 60 — Operations managem...</p></details>
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link:<a href="https://www.facebook.com/groups/booktroverts/posts/2142633026513162/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/booktroverts/posts/2142633026513162/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>d to change your mind fast, and often,” says Tetlock. Tetlock...</p></details>
+   Link: <a href="https://www.facebook.com/groups/booktroverts/posts/2142633026513162/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/booktroverts/posts/2142633026513162/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>d to change your mind fast, and often,” says Tetlock. Tetlock...</p></details>
 
-12.<a id="endnote-12"></a>
+12. <a id="endnote-12"></a>
    Source: closingfoundry.com  
-   Link:<a href="https://www.closingfoundry.com/insights/forecast-accuracy-the-founders-discipline-and-how-to-reach--10" target="_blank" rel="noopener noreferrer nofollow">https://www.closingfoundry.com/insights/forecast-accuracy-the-founders-discipline-and-how-to-reach--10</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>ls: pain, urgency, decision path, timeline evidenced...</p></details>
+   Link: <a href="https://www.closingfoundry.com/insights/forecast-accuracy-the-founders-discipline-and-how-to-reach--10" target="_blank" rel="noopener noreferrer nofollow">https://www.closingfoundry.com/insights/forecast-accuracy-the-founders-discipline-and-how-to-reach--10</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ls: pain, urgency, decision path, timeline evidenced...</p></details>
 
-13.<a id="endnote-13"></a>
+13. <a id="endnote-13"></a>
    Source: principus.si  
-   Link:<a href="https://principus.si/2022/11/23/philip-tetlock-dan-gardner-superforecasting/" target="_blank" rel="noopener noreferrer nofollow">https://principus.si/2022/11/23/philip-tetlock-dan-gardner-superforecasting/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Philip Tetlock, Dan Gardner: Superforecasting23 Nov 2022 — Superforecasting demands thinking that is open-minded, careful, curious, and —...</p></details>
+   Link: <a href="https://principus.si/2022/11/23/philip-tetlock-dan-gardner-superforecasting/" target="_blank" rel="noopener noreferrer nofollow">https://principus.si/2022/11/23/philip-tetlock-dan-gardner-superforecasting/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Philip Tetlock, Dan Gardner: Superforecasting23 Nov 2022 — Superforecasting demands thinking that is open-minded, careful, curious, and —...</p></details>
 
-14.<a id="endnote-14"></a>
+14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: Why Intelligent People Are Wrong More Often Than Chimps | Philip Tetlock  
-   Link:<a href="https://www.youtube.com/watch?v=qAKSd4eaSuY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qAKSd4eaSuY</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Superforecasting&#x27;: The people that predict the future – BBC REEL...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=qAKSd4eaSuY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qAKSd4eaSuY</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Superforecasting&#x27;: The people that predict the future – BBC REEL...</p></details>

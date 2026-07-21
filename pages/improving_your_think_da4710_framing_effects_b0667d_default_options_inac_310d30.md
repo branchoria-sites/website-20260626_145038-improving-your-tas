@@ -284,7 +284,7 @@ Default options are one of the most powerful [framing]({{ 'framing/' | relative_
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_framing_effects_b0667d_default_options_inac_310d30-Illustration-1-dark.svg" | relative_url }}" alt="Defaults illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_framing_effects_b0667d_default_options_inac_310d30-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_framing_effects_b0667d_default_options_inac_310d30-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For improving analytical thinking, this matters because defaults quietly shape behaviour without overt persuasion. They influence personal habits, workplace decisions and public policy by changing what people perceive as normal, recommended or easiest. Rather than asking only whether a choice is free, good decision-makers also ask who chose the default, what assumptions it embeds and whether remaining inactive genuinely reflects their own priorities rather than someone else's design.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dangoldstein.com/papers/DefaultsScience.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dangoldstein.com">[dangoldstein.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dangoldstein.com</span><span class="citation-popover-title">Defaults Science</span><span class="citation-popover-snippet">POLICY FORUMby EJ Johnson · Cited by 3571 — In presumed-consent states, people are organ donors unless they register not to be, and in ex...</span></span></span>
+For improving analytical thinking, this matters because defaults quietly shape behaviour without overt persuasion. They influence personal habits, workplace decisions and public policy by changing what people perceive as normal, recommended or easiest. Rather than asking only whether a choice is free, good decision-makers also ask who chose the default, what assumptions it embeds and whether remaining inactive genuinely reflects their own priorities rather than someone else's design. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dangoldstein.com/papers/DefaultsScience.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dangoldstein.com">[dangoldstein.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dangoldstein.com</span><span class="citation-popover-title">Defaults Science</span><span class="citation-popover-snippet">POLICY FORUMby EJ Johnson · Cited by 3571 — In presumed-consent states, people are organ donors unless they register not to be, and in ex...</span></span></span>
 
 ## What defaults imply about the best choice
 
@@ -295,7 +295,7 @@ Several psychological mechanisms work together:
 * **An implied recommendation.** People frequently assume that whoever designed the choice environment selected the default because it is sensible, safe or typical.
 * **Reduced effort.** Even small amounts of paperwork, clicking, reading or [uncertainty]({{ 'uncertainty/' | relative_url }}) discourage changing the existing option.
 * **Avoiding responsibility.** Accepting the default feels less personally accountable than actively changing it if the outcome later proves disappointing.
-* **Treating the default as the status quo.** Once something is presented as the current state, changing it feels like an intervention while leaving it alone feels passive, even though both produce consequences.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dangoldstein.com/papers/DefaultsScience.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dangoldstein.com">[dangoldstein.com+2SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dangoldstein.com</span><span class="citation-popover-title">Defaults Science</span><span class="citation-popover-snippet">POLICY FORUMby EJ Johnson · Cited by 3571 — In presumed-consent states, people are organ donors unless they register not to be, and in ex...</span></span></span>
+* **Treating the default as the status quo.** Once something is presented as the current state, changing it feels like an intervention while leaving it alone feels passive, even though both produce consequences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dangoldstein.com/papers/DefaultsScience.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dangoldstein.com">[dangoldstein.com+2SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dangoldstein.com</span><span class="citation-popover-title">Defaults Science</span><span class="citation-popover-snippet">POLICY FORUMby EJ Johnson · Cited by 3571 — In presumed-consent states, people are organ donors unless they register not to be, and in ex...</span></span></span>
 
 The important analytical point is that defaults do not simply influence *what* people choose. They influence how people mentally classify the decision. A default transforms one option into the normal background against which alternatives are judged.
 
@@ -306,7 +306,7 @@ This is why the language of "doing nothing" can be misleading. In many situation
 
 ## Why opt-in and opt-out systems change behaviour
 
-The best-known evidence comes from organ donation policies. Countries differ in whether citizens must actively register to become donors (opt-in) or are treated as donors unless they decline (opt-out). Simply changing this default has been associated with dramatically different participation rates, even when underlying public attitudes are broadly supportive of donation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dangoldstein.com/papers/DefaultsScience.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dangoldstein.com">[dangoldstein.com+2Columbia Business School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dangoldstein.com</span><span class="citation-popover-title">Defaults Science</span><span class="citation-popover-snippet">POLICY FORUMby EJ Johnson · Cited by 3571 — In presumed-consent states, people are organ donors unless they register not to be, and in ex...</span></span></span>
+The best-known evidence comes from organ donation policies. Countries differ in whether citizens must actively register to become donors (opt-in) or are treated as donors unless they decline (opt-out). Simply changing this default has been associated with dramatically different participation rates, even when underlying public attitudes are broadly supportive of donation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dangoldstein.com/papers/DefaultsScience.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dangoldstein.com">[dangoldstein.com+2Columbia Business School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dangoldstein.com</span><span class="citation-popover-title">Defaults Science</span><span class="citation-popover-snippet">POLICY FORUMby EJ Johnson · Cited by 3571 — In presumed-consent states, people are organ donors unless they register not to be, and in ex...</span></span></span>
 
 Researchers initially explained these differences through several interacting mechanisms:
 
@@ -316,11 +316,11 @@ Researchers initially explained these differences through several interacting me
 * changing the default reduces effort;
 * many people procrastinate over emotionally difficult decisions;
 * people interpret the default as signalling what society expects;
-* remaining with the default feels psychologically easier than deviating from it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dangoldstein.com/papers/DefaultsScience.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dangoldstein.com">[dangoldstein.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dangoldstein.com</span><span class="citation-popover-title">Defaults Science</span><span class="citation-popover-snippet">POLICY FORUMby EJ Johnson · Cited by 3571 — In presumed-consent states, people are organ donors unless they register not to be, and in ex...</span></span></span>
+* remaining with the default feels psychologically easier than deviating from it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dangoldstein.com/papers/DefaultsScience.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dangoldstein.com">[dangoldstein.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dangoldstein.com</span><span class="citation-popover-title">Defaults Science</span><span class="citation-popover-snippet">POLICY FORUMby EJ Johnson · Cited by 3571 — In presumed-consent states, people are organ donors unless they register not to be, and in ex...</span></span></span>
 
 </div>
 
-Later work added another insight. Defaults change the *meaning* people attach to the choice itself. Under an opt-in system, agreeing to donate can feel like an unusually generous personal act. Under an opt-out system, donation becomes the ordinary baseline, while refusing donation appears to require special justification. The behaviour changes not only because the paperwork changes but because the social interpretation changes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3458339/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe meaning of default options for potential organ donors</span><span class="citation-popover-snippet">“opt-out”)...</span></span></span>
+Later work added another insight. Defaults change the *meaning* people attach to the choice itself. Under an opt-in system, agreeing to donate can feel like an unusually generous personal act. Under an opt-out system, donation becomes the ordinary baseline, while refusing donation appears to require special justification. The behaviour changes not only because the paperwork changes but because the social interpretation changes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3458339/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe meaning of default options for potential organ donors</span><span class="citation-popover-snippet">“opt-out”)...</span></span></span>
 
 This illustrates an important lesson for analytical thinking: framing does not merely alter incentives. It changes what people believe a decision represents.
 
@@ -331,7 +331,7 @@ This illustrates an important lesson for analytical thinking: framing does not m
 
 One common misconception is that defaults only affect people who fail to notice them. Research suggests otherwise.
 
-Even when individuals know a default has been deliberately chosen, it can continue to influence decisions. The default still reduces cognitive effort, preserves the current state and provides a reference point against which alternatives are evaluated. Awareness weakens some effects but does not eliminate them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Status_quo_bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Status quo bias</span><span class="citation-popover-snippet">Status quo bias</span></span></span>
+Even when individuals know a default has been deliberately chosen, it can continue to influence decisions. The default still reduces cognitive effort, preserves the current state and provides a reference point against which alternatives are evaluated. Awareness weakens some effects but does not eliminate them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Status_quo_bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Status quo bias</span><span class="citation-popover-snippet">Status quo bias</span></span></span>
 
 This matters because intelligent, informed people are not immune. Busy professionals often inherit meeting schedules, project plans, software settings and reporting structures simply because changing them requires additional work and justification.
 
@@ -375,7 +375,7 @@ In each case, the designed baseline quietly becomes what feels normal.
 <img src="{{ "/assets/images/improving_your_think_da4710_framing_effects_b0667d_default_options_inac_310d30-Illustration-2-dark.svg" | relative_url }}" alt="Defaults illustration 2" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_framing_effects_b0667d_default_options_inac_310d30-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_framing_effects_b0667d_default_options_inac_310d30-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When helpful defaults become problematic
 
-Behavioural research generally finds that well-designed defaults can improve [outcomes]({{ 'outcomes/' | relative_url }}) in health, savings and other domains because they reduce unnecessary friction while preserving freedom to opt out. However, the same mechanism can also steer behaviour in ways people never consciously intended.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dangoldstein.com/papers/DefaultsScience.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dangoldstein.com">[dangoldstein.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dangoldstein.com</span><span class="citation-popover-title">Defaults Science</span><span class="citation-popover-snippet">POLICY FORUMby EJ Johnson · Cited by 3571 — In presumed-consent states, people are organ donors unless they register not to be, and in ex...</span></span></span>
+Behavioural research generally finds that well-designed defaults can improve [outcomes]({{ 'outcomes/' | relative_url }}) in health, savings and other domains because they reduce unnecessary friction while preserving freedom to opt out. However, the same mechanism can also steer behaviour in ways people never consciously intended. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dangoldstein.com/papers/DefaultsScience.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dangoldstein.com">[dangoldstein.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dangoldstein.com</span><span class="citation-popover-title">Defaults Science</span><span class="citation-popover-snippet">POLICY FORUMby EJ Johnson · Cited by 3571 — In presumed-consent states, people are organ donors unless they register not to be, and in ex...</span></span></span>
 
 This creates an ethical tension.
 
@@ -383,7 +383,7 @@ Supporters argue that every system must have some default, so choosing one that 
 
 Critics respond that defaults may exploit predictable biases rather than informed preferences, particularly when organisations benefit from customer inaction, such as through automatic renewals or permissive data-sharing settings.
 
-More recent research also suggests that defaults can have unintended side effects. For example, increasing participation in one behaviour may alter perceptions about whether additional voluntary actions are still necessary, highlighting that defaults should be evaluated for broader consequences rather than only their immediate success.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12560092/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Crowding-out effects of opt-out defaults: Evidence from organ...by P Güntürkün · 2025 · Cited by 5 — While past research focused on t...</span></span></span>
+More recent research also suggests that defaults can have unintended side effects. For example, increasing participation in one behaviour may alter perceptions about whether additional voluntary actions are still necessary, highlighting that defaults should be evaluated for broader consequences rather than only their immediate success. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12560092/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Crowding-out effects of opt-out defaults: Evidence from organ...by P Güntürkün · 2025 · Cited by 5 — While past research focused on t...</span></span></span>
 
 For analytical thinking, the lesson is not that defaults are good or bad. It is that they deserve inspection because they influence behaviour precisely by making themselves seem unremarkable.
 
@@ -419,194 +419,194 @@ Defaults are powerful because they redefine what counts as "doing nothing". Once
 Analytical thinking improves when you stop treating defaults as invisible background conditions. Whether evaluating a personal habit, a software setting, a business process or a public policy, recognising the default turns an apparently neutral situation back into an explicit decision. That shift often reveals assumptions, trade-offs and alternatives that would otherwise remain hidden beneath the comforting illusion that inaction carries no frame at all.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why doing nothing is still a frame. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why doing nothing is still a frame. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nudge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NGA9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Nudge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nudge">Nudge</a>
-</h4>
-<p class="fr-book-author">By Richard H. Thaler, Cass R. Sunstein</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Nudge+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nudge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NGA9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Nudge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Nudge+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nudge">Nudge</a>
+        </h4>
+        <p class="fr-book-author">By Richard H. Thaler, Cass R. Sunstein</p>
         
-<p class="fr-book-desc">Defaults, opt-in and opt-out design, and choice architecture are central themes of the book.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Defaults, opt-in and opt-out design, and choice architecture are central themes of the book.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Nudge+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-</h4>
-<p class="fr-book-author">By Daniel Kahneman</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Predictably+Irrational%2C+Revised+and+Expanded+Edition+Dan+Ariely&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Predictably Irrational, Revised and Expanded Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ro7X8HRyuEIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Predictably Irrational, Revised and Expanded Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Predictably+Irrational%2C+Revised+and+Expanded+Edition+Dan+Ariely&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Predictably Irrational, Revised and Expanded Edition">Predictably Irrational, Revised and Expanded Edition</a>
+        </h4>
+        <p class="fr-book-author">By Dan Ariely</p>
+        <p class="fr-book-popularity">Rating: 4.0/5 from 15 Google Books ratings</p>
+        <p class="fr-book-desc">Shows how seemingly small contextual cues and default-like settings shape choices irrationally.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Predictably+Irrational%2C+Revised+and+Expanded+Edition+Dan+Ariely&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Misbehaving+Richard+H+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Misbehaving on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vFuNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Misbehaving" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Misbehaving+Richard+H+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Misbehaving">Misbehaving</a>
+        </h4>
+        <p class="fr-book-author">By Richard H Thaler</p>
         
-<p class="fr-book-desc">Explains cognitive biases, framing, loss aversion, and decision errors that make defaults persuasive.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Covers the development of behavioural economics and why real people deviate from rational choice assumptions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Misbehaving+Richard+H+Thaler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Predictably+Irrational%2C+Revised+and+Expanded+Edition+by+Dan+Ariely&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Predictably Irrational, Revised and Expanded Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ro7X8HRyuEIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Predictably Irrational, Revised and Expanded Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Predictably+Irrational%2C+Revised+and+Expanded+Edition+by+Dan+Ariely&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Predictably Irrational, Revised and Expanded Edition">Predictably Irrational, Revised and Expanded Edition</a>
-</h4>
-<p class="fr-book-author">By Dan Ariely</p>
-<p class="fr-book-popularity">Rating: 4.0/5 from 15 Google Books ratings</p>
-<p class="fr-book-desc">Shows how seemingly small contextual cues and default-like settings shape choices irrationally.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Predictably+Irrational%2C+Revised+and+Expanded+Edition+by+Dan+Ariely&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Misbehaving+by+Richard+H+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Misbehaving on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vFuNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Misbehaving" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Misbehaving+by+Richard+H+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Misbehaving">Misbehaving</a>
-</h4>
-<p class="fr-book-author">By Richard H Thaler</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Predictably+Irrational+Dan+Ariely&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Predictably Irrational on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Predictably+Irrational+Dan+Ariely&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Predictably Irrational">Predictably Irrational</a>
+        </h4>
+        <p class="fr-book-author">By Dan Ariely</p>
         
-<p class="fr-book-desc">Covers the development of behavioural economics and why real people deviate from rational choice assumptions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Misbehaving+by+Richard+H+Thaler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Shows how seemingly small contextual cues and default-like settings shape choices irrationally.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Predictably+Irrational+Dan+Ariely&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Nudge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nudge</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Predictably+Irrational%2C+Revised+and+Expanded+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Predictably Irrational, Revised and Expanded Edition</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Nudge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nudge</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Predictably+Irrational%2C+Revised+and+Expanded+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Predictably Irrational, Revised and Expanded Edition</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Misbehaving&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Misbehaving</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=frame+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frame poster -book -books -dvd" data-ebay-reference="why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Shabby Chic Picture frame,photo frame,poster/Black Gold Edge With Bespoke Mount"><img src="https://i.ebayimg.com/images/g/4NYAAOSwNnRYmJHL/s-l225.jpg" alt="Listing image for Shabby Chic Picture frame,photo frame,poster/Black Gold Edge With Bespoke Mount" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=frame+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frame poster -book -books -dvd" data-ebay-reference="why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Shabby Chic Picture frame,photo frame,poster/Black Gold Edge With Bespoke Mount</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=frame+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frame poster -book -books -dvd" data-ebay-reference="why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for frame poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: frame poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=frame+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frame poster -book -books -dvd" data-ebay-reference="why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=frame+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frame poster -book -books -dvd" data-ebay-reference="why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Shabby Chic Picture frame,photo frame,poster/Black Gold Edge With Bespoke Mount"><img src="https://i.ebayimg.com/images/g/4NYAAOSwNnRYmJHL/s-l225.jpg" alt="Listing image for Shabby Chic Picture frame,photo frame,poster/Black Gold Edge With Bespoke Mount" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=frame+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frame poster -book -books -dvd" data-ebay-reference="why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Shabby Chic Picture frame,photo frame,poster/Black Gold Edge With Bespoke Mount</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=frame+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frame poster -book -books -dvd" data-ebay-reference="why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for frame poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: frame poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=frame+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frame poster -book -books -dvd" data-ebay-reference="why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=frame+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frame poster -book -books -dvd" data-ebay-reference="why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Picture Frame Modern Poster Frame Photo Frames Wood Effect Various Square Sizes"><img src="https://i.ebayimg.com/images/g/HhkAAOSwEwdm-p0H/s-l225.jpg" alt="Listing image for Picture Frame Modern Poster Frame Photo Frames Wood Effect Various Square Sizes" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=frame+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frame poster -book -books -dvd" data-ebay-reference="why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Picture Frame Modern Poster Frame Photo Frames Wood Effect Various Square Sizes</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=frame+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frame poster -book -books -dvd" data-ebay-reference="why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for frame poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: frame poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=frame+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frame poster -book -books -dvd" data-ebay-reference="why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=frame+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frame poster -book -books -dvd" data-ebay-reference="why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Picture Frame Modern Poster Frame Photo Frames Wood Effect Various Square Sizes"><img src="https://i.ebayimg.com/images/g/HhkAAOSwEwdm-p0H/s-l225.jpg" alt="Listing image for Picture Frame Modern Poster Frame Photo Frames Wood Effect Various Square Sizes" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=frame+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frame poster -book -books -dvd" data-ebay-reference="why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Picture Frame Modern Poster Frame Photo Frames Wood Effect Various Square Sizes</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=frame+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frame poster -book -books -dvd" data-ebay-reference="why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for frame poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: frame poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=frame+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frame poster -book -books -dvd" data-ebay-reference="why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=frame+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frame poster -book -books -dvd" data-ebay-reference="why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BLACK Picture Frame OAK WALNUT WHITE A1 A2 A3 A4 A5 Modern Poster Photo Frames"><img src="https://i.ebayimg.com/images/g/pYIAAOSwdqJifh75/s-l225.jpg" alt="Listing image for BLACK Picture Frame OAK WALNUT WHITE A1 A2 A3 A4 A5 Modern Poster Photo Frames" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=frame+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frame poster -book -books -dvd" data-ebay-reference="why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">BLACK Picture Frame OAK WALNUT WHITE A1 A2 A3 A4 A5 Modern Poster Photo Frames</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=frame+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frame poster -book -books -dvd" data-ebay-reference="why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for frame poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: frame poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=frame+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frame poster -book -books -dvd" data-ebay-reference="why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=frame+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frame poster -book -books -dvd" data-ebay-reference="why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BLACK Picture Frame OAK WALNUT WHITE A1 A2 A3 A4 A5 Modern Poster Photo Frames"><img src="https://i.ebayimg.com/images/g/pYIAAOSwdqJifh75/s-l225.jpg" alt="Listing image for BLACK Picture Frame OAK WALNUT WHITE A1 A2 A3 A4 A5 Modern Poster Photo Frames" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=frame+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frame poster -book -books -dvd" data-ebay-reference="why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">BLACK Picture Frame OAK WALNUT WHITE A1 A2 A3 A4 A5 Modern Poster Photo Frames</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=frame+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frame poster -book -books -dvd" data-ebay-reference="why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for frame poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: frame poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=frame+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frame poster -book -books -dvd" data-ebay-reference="why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=frame+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frame poster -book -books -dvd" data-ebay-reference="why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BESPOKE,CUSTOM SIZES PHOTO, PICTURE, POSTER FRAMES ALL SIZES AVILABLE"><img src="https://i.ebayimg.com/images/g/t5QAAOSwqW9lNSNX/s-l225.jpg" alt="Listing image for BESPOKE,CUSTOM SIZES PHOTO, PICTURE, POSTER FRAMES ALL SIZES AVILABLE" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=frame+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frame poster -book -books -dvd" data-ebay-reference="why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">BESPOKE,CUSTOM SIZES PHOTO, PICTURE, POSTER FRAMES ALL SIZES AVILABLE</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=frame+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frame poster -book -books -dvd" data-ebay-reference="why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for frame poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: frame poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=frame+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frame poster -book -books -dvd" data-ebay-reference="why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=frame+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frame poster -book -books -dvd" data-ebay-reference="why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=frame+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frame poster -book -books -dvd" data-ebay-reference="why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BESPOKE,CUSTOM SIZES PHOTO, PICTURE, POSTER FRAMES ALL SIZES AVILABLE"><img src="https://i.ebayimg.com/images/g/t5QAAOSwqW9lNSNX/s-l225.jpg" alt="Listing image for BESPOKE,CUSTOM SIZES PHOTO, PICTURE, POSTER FRAMES ALL SIZES AVILABLE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=frame+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frame poster -book -books -dvd" data-ebay-reference="why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">BESPOKE,CUSTOM SIZES PHOTO, PICTURE, POSTER FRAMES ALL SIZES AVILABLE</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=frame+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frame poster -book -books -dvd" data-ebay-reference="why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for frame poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: frame poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=frame+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frame poster -book -books -dvd" data-ebay-reference="why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=frame+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frame poster -book -books -dvd" data-ebay-reference="why-doing-nothing-is-still-a-frame-frame-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -622,7 +622,7 @@ Analytical thinking improves when you stop treating defaults as invisible backgr
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -642,7 +642,7 @@ Analytical thinking improves when you stop treating defaults as invisible backgr
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -674,7 +674,7 @@ Analytical thinking improves when you stop treating defaults as invisible backgr
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -726,7 +726,7 @@ Analytical thinking improves when you stop treating defaults as invisible backgr
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -771,7 +771,7 @@ Analytical thinking improves when you stop treating defaults as invisible backgr
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -811,106 +811,106 @@ Analytical thinking improves when you stop treating defaults as invisible backgr
 </section>
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: dangoldstein.com  
    Title: Defaults Science  
-   Link:<a href="https://www.dangoldstein.com/papers/DefaultsScience.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dangoldstein.com/papers/DefaultsScience.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>POLICY FORUMby EJ Johnson · Cited by 3571 — In presumed-consent states, people are organ donors unless they register not to be, and in ex...</p></details>
+   Link: <a href="https://www.dangoldstein.com/papers/DefaultsScience.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dangoldstein.com/papers/DefaultsScience.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>POLICY FORUMby EJ Johnson · Cited by 3571 — In presumed-consent states, people are organ donors unless they register not to be, and in ex...</p></details>
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8349348/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8349348/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>An effective method to increase the number of potential cadaveric organ donors is to make people donors by default with the option to opt...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8349348/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8349348/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>An effective method to increase the number of potential cadaveric organ donors is to make people donors by default with the option to opt...</p></details>
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: papers.ssrn.com  
-   Link:<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1324774" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1324774</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>First, consider that every policy must have a no-action default.Read more...</p></details>
+   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1324774" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1324774</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>First, consider that every policy must have a no-action default.Read more...</p></details>
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: business.columbia.edu  
    Title: Business School Defaults and Donation Decisions  
-   Link:<a href="https://business.columbia.edu/sites/default/files-efs/pubfiles/1139/Defaults_and_Donation_Decisions_-_Transplantation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://business.columbia.edu/sites/default/files-efs/pubfiles/1139/Defaults_and_Donation_Decisions_-_Transplantation.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Columbia Business SchoolDefaults and Donation Decisions - Columbia Business Schoolby EJ Johnson · 2004 · Cited by 375 — We then describe...</p></details>
+   Link: <a href="https://business.columbia.edu/sites/default/files-efs/pubfiles/1139/Defaults_and_Donation_Decisions_-_Transplantation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://business.columbia.edu/sites/default/files-efs/pubfiles/1139/Defaults_and_Donation_Decisions_-_Transplantation.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Columbia Business SchoolDefaults and Donation Decisions - Columbia Business Schoolby EJ Johnson · 2004 · Cited by 375 — We then describe...</p></details>
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe meaning of default options for potential organ donors  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3458339/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3458339/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>“opt-out”)...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3458339/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3458339/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>“opt-out”)...</p></details>
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Status quo bias  
-   Link:<a href="https://en.wikipedia.org/wiki/Status_quo_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Status_quo_bias</a>  
+   Link: <a href="https://en.wikipedia.org/wiki/Status_quo_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Status_quo_bias</a>  
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12560092/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12560092/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Crowding-out effects of opt-out defaults: Evidence from organ...by P Güntürkün · 2025 · Cited by 5 — While past research focused on t...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12560092/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12560092/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Crowding-out effects of opt-out defaults: Evidence from organ...by P Güntürkün · 2025 · Cited by 5 — While past research focused on t...</p></details>
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12413501/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12413501/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Donation Decisions: When Deviating from the Status...by M Motsenok · 2025 — We found that under an opt-in policy, participants saw thems...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12413501/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12413501/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Donation Decisions: When Deviating from the Status...by M Motsenok · 2025 — We found that under an opt-in policy, participants saw thems...</p></details>
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: gov.wales  
-   Link:<a href="https://www.gov.wales/sites/default/files/statistics-and-research/2019-08/121203optoutorgandonationen.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.wales/sites/default/files/statistics-and-research/2019-08/121203optoutorgandonationen.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>s of organ donation, ranging from an increase of 2.7 donors per million population (...Read more...</p></details>
+   Link: <a href="https://www.gov.wales/sites/default/files/statistics-and-research/2019-08/121203optoutorgandonationen.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.wales/sites/default/files/statistics-and-research/2019-08/121203optoutorgandonationen.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>s of organ donation, ranging from an increase of 2.7 donors per million population (...Read more...</p></details>
 
 ### Additional References
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: thedecisionlab.com  
-   Link:<a href="https://thedecisionlab.com/intervention/bias-in-organ-donation" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/intervention/bias-in-organ-donation</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Bias in organ donationWhen comparing opt-in versus opt-out organ donation programs, results showed that organ donation rates in opt-out s...</p></details>
+   Link: <a href="https://thedecisionlab.com/intervention/bias-in-organ-donation" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/intervention/bias-in-organ-donation</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bias in organ donationWhen comparing opt-in versus opt-out organ donation programs, results showed that organ donation rates in opt-out s...</p></details>
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: journals.sagepub.com  
    Title: Sage Journals Does Changing Defaults save Lives?  
-   Link:<a href="https://journals.sagepub.com/doi/10.1177/237946151900500106" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/237946151900500106</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of Presumed...by M Steffel · 2019 · Cited by 44 — In this review, we examine whether presumed consent organ donation policies sa...</p></details>
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/237946151900500106" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/237946151900500106</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of Presumed...by M Steffel · 2019 · Cited by 44 — In this review, we examine whether presumed consent organ donation policies sa...</p></details>
 
-12.<a id="endnote-12"></a>
+12. <a id="endnote-12"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/256039654_Decisions_by_Default" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/256039654_Decisions_by_Default</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>with the default option that requires no action (Johnson...Read more...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/256039654_Decisions_by_Default" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/256039654_Decisions_by_Default</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>with the default option that requires no action (Johnson...Read more...</p></details>
 
-13.<a id="endnote-13"></a>
+13. <a id="endnote-13"></a>
    Source: ifo.de  
    Title: wp 2023 403 Schulze Spuentrup Organ Donation  
-   Link:<a href="https://www.ifo.de/DocDL/wp-2023-403_Schulze_Spuentrup-Organ_Donation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifo.de/DocDL/wp-2023-403_Schulze_Spuentrup-Organ_Donation.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Does Implementing Opt-Out Solve The Organ Shortage...by SS Spuentrup · 2023 — Applying the prospect and nudge theory to organ donation p...</p></details>
+   Link: <a href="https://www.ifo.de/DocDL/wp-2023-403_Schulze_Spuentrup-Organ_Donation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifo.de/DocDL/wp-2023-403_Schulze_Spuentrup-Organ_Donation.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Does Implementing Opt-Out Solve The Organ Shortage...by SS Spuentrup · 2023 — Applying the prospect and nudge theory to organ donation p...</p></details>
 
-14.<a id="endnote-14"></a>
+14. <a id="endnote-14"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/8996952_Medicine_Do_defaults_save_lives" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/8996952_Medicine_Do_defaults_save_lives</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>ider that every policy must have a no-action default.Read more...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/8996952_Medicine_Do_defaults_save_lives" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/8996952_Medicine_Do_defaults_save_lives</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ider that every policy must have a no-action default.Read more...</p></details>
 
-15.<a id="endnote-15"></a>
+15. <a id="endnote-15"></a>
    Source: scribd.com  
-   Link:<a href="https://www.scribd.com/document/948666564/Organ-Donation-Case-Study-3" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/948666564/Organ-Donation-Case-Study-3</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>strations by simplifying the decision-making process.Read more...</p></details>
+   Link: <a href="https://www.scribd.com/document/948666564/Organ-Donation-Case-Study-3" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/948666564/Organ-Donation-Case-Study-3</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>strations by simplifying the decision-making process.Read more...</p></details>
 
-16.<a id="endnote-16"></a>
+16. <a id="endnote-16"></a>
    Source: thedecisionlab.com  
-   Link:<a href="https://thedecisionlab.com/intervention/how-default-settings-doubled-organ-donation-rates-in-the-us" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/intervention/how-default-settings-doubled-organ-donation-rates-in-the-us</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>These findings reflect the power of the default...Read more...</p></details>
+   Link: <a href="https://thedecisionlab.com/intervention/how-default-settings-doubled-organ-donation-rates-in-the-us" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/intervention/how-default-settings-doubled-organ-donation-rates-in-the-us</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>These findings reflect the power of the default...Read more...</p></details>
 
-17.<a id="endnote-17"></a>
+17. <a id="endnote-17"></a>
    Source: econstor.eu  
    Title: ifo dice report v14 y2016 i4 p90 94  
-   Link:<a href="https://www.econstor.eu/bitstream/10419/167291/1/ifo-dice-report-v14-y2016-i4-p90-94.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.econstor.eu/bitstream/10419/167291/1/ifo-dice-report-v14-y2016-i4-p90-94.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Effect of Presumed Consent Defaults on Organ Donationby J Li · 2016 · Cited by 16 — Some individuals who do not wish to register as d...</p></details>
+   Link: <a href="https://www.econstor.eu/bitstream/10419/167291/1/ifo-dice-report-v14-y2016-i4-p90-94.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.econstor.eu/bitstream/10419/167291/1/ifo-dice-report-v14-y2016-i4-p90-94.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Effect of Presumed Consent Defaults on Organ Donationby J Li · 2016 · Cited by 16 — Some individuals who do not wish to register as d...</p></details>
 
-18.<a id="endnote-18"></a>
+18. <a id="endnote-18"></a>
    Source: eprints.whiterose.ac.uk  
    Title: whiterose.ac.uk Presumed dissent?  
-   Link:<a href="https://eprints.whiterose.ac.uk/id/eprint/217875/1/fwac001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/217875/1/fwac001.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Opt-out organ donation and the...by NJ Williams · 2022 · Cited by 15 — ABSTRACT. It is often claimed that a legitimate approach to organ...</p></details>
+   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/217875/1/fwac001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/217875/1/fwac001.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Opt-out organ donation and the...by NJ Williams · 2022 · Cited by 15 — ABSTRACT. It is often claimed that a legitimate approach to organ...</p></details>
 
-19.<a id="endnote-19"></a>
+19. <a id="endnote-19"></a>
    Source: ijsser.org  
-   Link:<a href="https://ijsser.org/2025files/ijsser_10__161.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ijsser.org/2025files/ijsser_10__161.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Behavioral Economics of Organ Donationby HM Kirtikumar — Likewise, the status quo bias favors the default option, which in opt-out sy...</p></details>
+   Link: <a href="https://ijsser.org/2025files/ijsser_10__161.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ijsser.org/2025files/ijsser_10__161.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Behavioral Economics of Organ Donationby HM Kirtikumar — Likewise, the status quo bias favors the default option, which in opt-out sy...</p></details>

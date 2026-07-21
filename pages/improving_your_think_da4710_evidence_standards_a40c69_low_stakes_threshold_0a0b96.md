@@ -284,7 +284,7 @@ Not every decision deserves the same burden of proof. When the cost of trying so
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_evidence_standards_a40c69_low_stakes_threshold_0a0b96-Illustration-1-dark.svg" | relative_url }}" alt="Low Stakes illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_evidence_standards_a40c69_low_stakes_threshold_0a0b96-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_evidence_standards_a40c69_low_stakes_threshold_0a0b96-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This approach fits naturally within evidence-based thinking. Instead of asking, “Am I convinced this will work?”, ask, “Is the cost of learning small enough that trying it is the best way to gather evidence?” Well-designed low-stakes experiments generate information while keeping potential losses contained. Research on experimentation, behavioural science and decision reversibility suggests that this can improve learning, provided the trial is structured and its results are interpreted carefully.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9384371/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2BIT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Decision Reversibility and Satisfaction: The Mediating Role of...by X Li · 2022 · Cited by 18 — Extensive research has shown that rev...</span></span></span>
+This approach fits naturally within evidence-based thinking. Instead of asking, “Am I convinced this will work?”, ask, “Is the cost of learning small enough that trying it is the best way to gather evidence?” Well-designed low-stakes experiments generate information while keeping potential losses contained. Research on experimentation, behavioural science and decision reversibility suggests that this can improve learning, provided the trial is structured and its results are interpreted carefully. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9384371/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2BIT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Decision Reversibility and Satisfaction: The Mediating Role of...by X Li · 2022 · Cited by 18 — Extensive research has shown that rev...</span></span></span>
 
 ## Matching the evidence standard to downside and reversibility
 
@@ -298,7 +298,7 @@ A common mistake is applying the [same standard]({{ 'same-standard/' | relative_
 
 A useful rule is that lower-risk, reversible decisions can rely more heavily on direct experience than on extensive prior research. If trying a new note-taking system costs an hour to set up and another hour to abandon, the experiment itself may provide better evidence than reading dozens of online opinions. By contrast, if adopting a new system requires retraining an entire organisation, migrating years of data and signing a multi-year contract, stronger external evidence becomes appropriate before acting.
 
-Behavioural science increasingly treats interventions as hypotheses to be tested rather than truths to be assumed. The emphasis shifts from proving an idea correct in advance to designing experiments that produce useful learning while limiting exposure if the idea fails.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bi.team/wp-content/uploads/2023/04/BIT_Manifesto.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bi.team">[BIT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bi.team</span><span class="citation-popover-snippet">TA MANIFESTOThis is a manifesto for how applied behavioral science can fulfill its true potential. The behavioral insights movement has...</span></span></span>
+Behavioural science increasingly treats interventions as hypotheses to be tested rather than truths to be assumed. The emphasis shifts from proving an idea correct in advance to designing experiments that produce useful learning while limiting exposure if the idea fails. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bi.team/wp-content/uploads/2023/04/BIT_Manifesto.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bi.team">[BIT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bi.team</span><span class="citation-popover-snippet">TA MANIFESTOThis is a manifesto for how applied behavioral science can fulfill its true potential. The behavioral insights movement has...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XjShSJkffzI" title="Jeff Bezos’s explain his famous one-way door and two-way door decision making" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XjShSJkffzI" target="_blank" rel="noopener noreferrer">Jeff Bezos’s explain his famous one-way door and two-way door decision making</a></p><p class="youtube-embed-meta">Channel: Finance &amp; Tech Career Advice</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XjShSJkffzI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XjShSJkffzI">Open on YouTube</a></p></div></div></div>
@@ -335,7 +335,7 @@ For example, someone considering a task-management application might decide:
 
 This creates a genuine test rather than an impression based on memory or mood.
 
-Structured experimentation is widely used outside personal decision-making. Organisations increasingly rely on pilot projects, staged roll-outs and controlled trials because small-scale tests can reveal implementation problems before resources are committed at full scale. The same principle works for individual decisions, although the methods can be simpler.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/09/seven-routes-to-experimentation-in-policymaking_5c59494c/918b6a04-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Seven routes to experimentation in policymaking (EN)In today&#x27;s world, policymakers need to make timely and evidence-informed decision...</span></span></span>
+Structured experimentation is widely used outside personal decision-making. Organisations increasingly rely on pilot projects, staged roll-outs and controlled trials because small-scale tests can reveal implementation problems before resources are committed at full scale. The same principle works for individual decisions, although the methods can be simpler. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/09/seven-routes-to-experimentation-in-policymaking_5c59494c/918b6a04-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Seven routes to experimentation in policymaking (EN)In today&#x27;s world, policymakers need to make timely and evidence-informed decision...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_evidence_standards_a40c69_low_stakes_threshold_0a0b96-Illustration-2-dark.svg" | relative_url }}" alt="Low Stakes illustration 2" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_evidence_standards_a40c69_low_stakes_threshold_0a0b96-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_evidence_standards_a40c69_low_stakes_threshold_0a0b96-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -354,7 +354,7 @@ For instance, a new morning routine that works well during a quiet holiday week 
 
 This does not make the experiment worthless. Instead, treat early results as updating your confidence rather than settling the question completely. A promising first trial often justifies a slightly larger or longer experiment, not immediate certainty.
 
-Behavioural science has become increasingly cautious about overgeneralising from isolated findings. Greater emphasis is now placed on [replication]({{ 'replication/' | relative_url }}), adaptation to different contexts and recognising that an intervention that succeeds once may require modification elsewhere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bi.team/wp-content/uploads/2023/04/BIT_Manifesto.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bi.team">[BIT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bi.team</span><span class="citation-popover-snippet">TA MANIFESTOThis is a manifesto for how applied behavioral science can fulfill its true potential. The behavioral insights movement has...</span></span></span>
+Behavioural science has become increasingly cautious about overgeneralising from isolated findings. Greater emphasis is now placed on [replication]({{ 'replication/' | relative_url }}), adaptation to different contexts and recognising that an intervention that succeeds once may require modification elsewhere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bi.team/wp-content/uploads/2023/04/BIT_Manifesto.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bi.team">[BIT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bi.team</span><span class="citation-popover-snippet">TA MANIFESTOThis is a manifesto for how applied behavioral science can fulfill its true potential. The behavioral insights movement has...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yETqH4cXLgg" title="This decision framework leads to better product experiments" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yETqH4cXLgg" target="_blank" rel="noopener noreferrer">This decision framework leads to better product experiments</a></p><p class="youtube-embed-meta">Channel: Pendo</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yETqH4cXLgg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yETqH4cXLgg">Open on YouTube</a></p></div></div></div>
@@ -377,7 +377,7 @@ Good [stopping rules]({{ 'stopping-rules/' | relative_url }}) include:
 
 Stopping deliberately is as important as starting deliberately. Endless optimisation can become another form of avoiding commitment.
 
-Research on reversible decisions also suggests that keeping every option permanently open is not always beneficial. Decisions that remain indefinitely reversible can encourage continual comparison with alternatives, reducing satisfaction and encouraging repeated reconsideration rather than productive action. For many low-stakes experiments, the best outcome is to learn enough to make a decision and then move on.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9384371/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Decision Reversibility and Satisfaction: The Mediating Role of...by X Li · 2022 · Cited by 18 — Extensive research has shown that rev...</span></span></span>
+Research on reversible decisions also suggests that keeping every option permanently open is not always beneficial. Decisions that remain indefinitely reversible can encourage continual comparison with alternatives, reducing satisfaction and encouraging repeated reconsideration rather than productive action. For many low-stakes experiments, the best outcome is to learn enough to make a decision and then move on. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9384371/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Decision Reversibility and Satisfaction: The Mediating Role of...by X Li · 2022 · Cited by 18 — Extensive research has shown that rev...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_evidence_standards_a40c69_low_stakes_threshold_0a0b96-Illustration-3-dark.svg" | relative_url }}" alt="Low Stakes illustration 3" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_evidence_standards_a40c69_low_stakes_threshold_0a0b96-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_evidence_standards_a40c69_low_stakes_threshold_0a0b96-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -405,178 +405,178 @@ Using this approach helps distinguish between situations that genuinely require 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to When a Small Test Is Enough. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to When a Small Test Is Enough. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decisive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aECTEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Decisive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decisive">Decisive</a>
-</h4>
-<p class="fr-book-author">By Chip Heath, Dan Heath</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Decisive+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decisive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aECTEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Decisive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Decisive+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decisive">Decisive</a>
+        </h4>
+        <p class="fr-book-author">By Chip Heath, Dan Heath</p>
         
-<p class="fr-book-desc">Covers testing assumptions, running small experiments, and avoiding overconfidence in decisions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Decisive+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Covers testing assumptions, running small experiments, and avoiding overconfidence in decisions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Decisive+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-</h4>
-<p class="fr-book-author">By Daniel Kahneman</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lean+Startup+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lean Startup on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=r9x-OXdzpPcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Lean Startup" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Lean+Startup+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lean Startup">The Lean Startup</a>
+        </h4>
+        <p class="fr-book-author">By Eric Ries</p>
+        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+        <p class="fr-book-desc">Popularizes low-cost experiments, validated learning, and iterative testing before larger commitments.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Lean+Startup+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ICgWrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Superforecasting+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
+        </h4>
+        <p class="fr-book-author">By Philip Eyrikson Tetlock, Dan Gardner</p>
         
-<p class="fr-book-desc">Explains cognitive biases and evidence evaluation that underpin choosing appropriate evidence thresholds.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Emphasizes updating beliefs based on evidence rather than relying on intuition or single outcomes.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Superforecasting+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lean Startup on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=r9x-OXdzpPcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Lean Startup" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lean Startup">The Lean Startup</a>
-</h4>
-<p class="fr-book-author">By Eric Ries</p>
-<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-<p class="fr-book-desc">Popularizes low-cost experiments, validated learning, and iterative testing before larger commitments.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ICgWrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
-</h4>
-<p class="fr-book-author">By Philip Eyrikson Tetlock, Dan Gardner</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Algorithms+to+Live+By%3A+The+Computer+Science+of+Human+Decisions+Brian+Christian+and+Tom+Griffiths&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Algorithms to Live By: The Computer Science of Human Decisions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Algorithms+to+Live+By%3A+The+Computer+Science+of+Human+Decisions+Brian+Christian+and+Tom+Griffiths&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Algorithms to Live By: The Computer Science of Human Decisions">Algorithms to Live By: The Computer Science of Human Decisions</a>
+        </h4>
+        <p class="fr-book-author">By Brian Christian and Tom Griffiths</p>
         
-<p class="fr-book-desc">Emphasizes updating beliefs based on evidence rather than relying on intuition or single outcomes.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explores practical strategies for experimentation, exploration, and making reversible choices under uncertainty.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Algorithms+to+Live+By%3A+The+Computer+Science+of+Human+Decisions+Brian+Christian+and+Tom+Griffiths&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Decisive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Decisive</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lean+Startup&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lean Startup</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Decisive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Decisive</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lean+Startup&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lean Startup</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-small-test-is-enough-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-a-small-test-is-enough-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Daily Habit Tracker: Habit Tracking Notebook | One Month to a Page | Set Goals a"><img src="https://i.ebayimg.com/images/g/HuUAAeSwIiFqGz~v/s-l225.jpg" alt="Listing image for Daily Habit Tracker: Habit Tracking Notebook | One Month to a Page | Set Goals a" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-small-test-is-enough-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-a-small-test-is-enough-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">Daily Habit Tracker: Habit Tracking Notebook | One Month to a Page | Set Goals a</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-small-test-is-enough-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-a-small-test-is-enough-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-small-test-is-enough-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-a-small-test-is-enough-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-small-test-is-enough-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-a-small-test-is-enough-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Daily Habit Tracker: Habit Tracking Notebook | One Month to a Page | Set Goals a"><img src="https://i.ebayimg.com/images/g/HuUAAeSwIiFqGz~v/s-l225.jpg" alt="Listing image for Daily Habit Tracker: Habit Tracking Notebook | One Month to a Page | Set Goals a" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-small-test-is-enough-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-a-small-test-is-enough-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">Daily Habit Tracker: Habit Tracking Notebook | One Month to a Page | Set Goals a</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-small-test-is-enough-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-a-small-test-is-enough-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-small-test-is-enough-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-a-small-test-is-enough-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-small-test-is-enough-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-a-small-test-is-enough-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Hero A4 Tear Off Pad"><img src="https://i.ebayimg.com/images/g/SrkAAeSwBUJo0Se7/s-l225.jpg" alt="Listing image for Habit Tracker Hero A4 Tear Off Pad" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-small-test-is-enough-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-a-small-test-is-enough-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Hero A4 Tear Off Pad</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-small-test-is-enough-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-a-small-test-is-enough-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-small-test-is-enough-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-a-small-test-is-enough-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-small-test-is-enough-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-a-small-test-is-enough-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Hero A4 Tear Off Pad"><img src="https://i.ebayimg.com/images/g/SrkAAeSwBUJo0Se7/s-l225.jpg" alt="Listing image for Habit Tracker Hero A4 Tear Off Pad" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-small-test-is-enough-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-a-small-test-is-enough-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Hero A4 Tear Off Pad</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-small-test-is-enough-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-a-small-test-is-enough-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-small-test-is-enough-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-a-small-test-is-enough-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-small-test-is-enough-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-a-small-test-is-enough-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Weekly Planner 52 Week To View Diary Desk Pad Habit Tracker Todo To Do List"><img src="https://i.ebayimg.com/images/g/P-cAAOSwFExkVm3h/s-l225.jpg" alt="Listing image for A4 Weekly Planner 52 Week To View Diary Desk Pad Habit Tracker Todo To Do List" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-small-test-is-enough-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-a-small-test-is-enough-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">A4 Weekly Planner 52 Week To View Diary Desk Pad Habit Tracker Todo To Do List</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-small-test-is-enough-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-a-small-test-is-enough-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-small-test-is-enough-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-a-small-test-is-enough-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-small-test-is-enough-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-a-small-test-is-enough-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-small-test-is-enough-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-a-small-test-is-enough-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Weekly Planner 52 Week To View Diary Desk Pad Habit Tracker Todo To Do List"><img src="https://i.ebayimg.com/images/g/P-cAAOSwFExkVm3h/s-l225.jpg" alt="Listing image for A4 Weekly Planner 52 Week To View Diary Desk Pad Habit Tracker Todo To Do List" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-small-test-is-enough-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-a-small-test-is-enough-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">A4 Weekly Planner 52 Week To View Diary Desk Pad Habit Tracker Todo To Do List</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-small-test-is-enough-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-a-small-test-is-enough-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-small-test-is-enough-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-a-small-test-is-enough-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-small-test-is-enough-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-a-small-test-is-enough-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -592,7 +592,7 @@ Using this approach helps distinguish between situations that genuinely require 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -612,7 +612,7 @@ Using this approach helps distinguish between situations that genuinely require 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -644,7 +644,7 @@ Using this approach helps distinguish between situations that genuinely require 
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -696,7 +696,7 @@ Using this approach helps distinguish between situations that genuinely require 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -741,7 +741,7 @@ Using this approach helps distinguish between situations that genuinely require 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -781,74 +781,74 @@ Using this approach helps distinguish between situations that genuinely require 
 </section>
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9384371/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9384371/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Decision Reversibility and Satisfaction: The Mediating Role of...by X Li · 2022 · Cited by 18 — Extensive research has shown that rev...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9384371/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9384371/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Decision Reversibility and Satisfaction: The Mediating Role of...by X Li · 2022 · Cited by 18 — Extensive research has shown that rev...</p></details>
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: oecd.org  
-   Link:<a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/09/seven-routes-to-experimentation-in-policymaking_5c59494c/918b6a04-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/09/seven-routes-to-experimentation-in-policymaking_5c59494c/918b6a04-en.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Seven routes to experimentation in policymaking (EN)In today&#x27;s world, policymakers need to make timely and evidence-informed decision...</p></details>
+   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/09/seven-routes-to-experimentation-in-policymaking_5c59494c/918b6a04-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/09/seven-routes-to-experimentation-in-policymaking_5c59494c/918b6a04-en.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Seven routes to experimentation in policymaking (EN)In today&#x27;s world, policymakers need to make timely and evidence-informed decision...</p></details>
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: bi.team  
-   Link:<a href="https://www.bi.team/wp-content/uploads/2023/04/BIT_Manifesto.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bi.team/wp-content/uploads/2023/04/BIT_Manifesto.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>TA MANIFESTOThis is a manifesto for how applied behavioral science can fulfill its true potential. The behavioral insights movement has...</p></details>
+   Link: <a href="https://www.bi.team/wp-content/uploads/2023/04/BIT_Manifesto.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bi.team/wp-content/uploads/2023/04/BIT_Manifesto.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>TA MANIFESTOThis is a manifesto for how applied behavioral science can fulfill its true potential. The behavioral insights movement has...</p></details>
 
 ### Additional References
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/244479764_How_Decision_Reversibility_Affects_Motivation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/244479764_How_Decision_Reversibility_Affects_Motivation</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) How Decision Reversibility Affects MotivationIn 5 studies, we manipulated the reversibility of a decision and used different indica...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/244479764_How_Decision_Reversibility_Affects_Motivation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/244479764_How_Decision_Reversibility_Affects_Motivation</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) How Decision Reversibility Affects MotivationIn 5 studies, we manipulated the reversibility of a decision and used different indica...</p></details>
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: authorea.com  
    Title: The range of wins here was 11 to 57 Cents and that for losses between  
-   Link:<a href="https://www.authorea.com/doi/10.22541/au.169870374.46999417" target="_blank" rel="noopener noreferrer nofollow">https://www.authorea.com/doi/10.22541/au.169870374.46999417</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>An experimental approach to examine behavior and brain...by B Albrecht · 2023 — A low-risk trial consisted of two low-risk options, whic...</p></details>
+   Link: <a href="https://www.authorea.com/doi/10.22541/au.169870374.46999417" target="_blank" rel="noopener noreferrer nofollow">https://www.authorea.com/doi/10.22541/au.169870374.46999417</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>An experimental approach to examine behavior and brain...by B Albrecht · 2023 — A low-risk trial consisted of two low-risk options, whic...</p></details>
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: cpsyjournal.org  
-   Link:<a href="https://cpsyjournal.org/articles/10.5334/cpsy.101" target="_blank" rel="noopener noreferrer nofollow">https://cpsyjournal.org/articles/10.5334/cpsy.101</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Signatures of Perseveration and Heuristic-Based Directed...by AM Brands · 2025 · Cited by 6 — The current study extended standard hybrid...</p></details>
+   Link: <a href="https://cpsyjournal.org/articles/10.5334/cpsy.101" target="_blank" rel="noopener noreferrer nofollow">https://cpsyjournal.org/articles/10.5334/cpsy.101</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Signatures of Perseveration and Heuristic-Based Directed...by AM Brands · 2025 · Cited by 6 — The current study extended standard hybrid...</p></details>
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: youtube.com  
    Title: Jeff Bezos's explain his famous one-way door and two-way door decision making  
-   Link:<a href="https://www.youtube.com/watch?v=XjShSJkffzI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XjShSJkffzI</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Experimental Mindset Every Leader Needs - Anne-Laure Le Cunff...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=XjShSJkffzI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XjShSJkffzI</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Experimental Mindset Every Leader Needs - Anne-Laure Le Cunff...</p></details>
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: elifesciences.org  
-   Link:<a href="https://elifesciences.org/articles/86491" target="_blank" rel="noopener noreferrer nofollow">https://elifesciences.org/articles/86491</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Tracking subjects&#x27; strategies in behavioural choice...by S Maggi · 2024 · Cited by 20 — We present a simple but effective probabilistic...</p></details>
+   Link: <a href="https://elifesciences.org/articles/86491" target="_blank" rel="noopener noreferrer nofollow">https://elifesciences.org/articles/86491</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tracking subjects&#x27; strategies in behavioural choice...by S Maggi · 2024 · Cited by 20 — We present a simple but effective probabilistic...</p></details>
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: metacog.bnu.edu.cn  
-   Link:<a href="https://metacog.bnu.edu.cn/pdf/articles/2023/LiHuShanks2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://metacog.bnu.edu.cn/pdf/articles/2023/LiHuShanks2023.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>ratings increase response [thresholds](&amp;#123;&amp;#123; &#x27;thresholds/&#x27; | relative_url &amp;#125;&amp;#125;) in...by B Li · 2023 · Cited by 21 — It has been documented that soliciting trial-by-trial confidenc...</p></details>
+   Link: <a href="https://metacog.bnu.edu.cn/pdf/articles/2023/LiHuShanks2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://metacog.bnu.edu.cn/pdf/articles/2023/LiHuShanks2023.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ratings increase response [thresholds](&amp;#123;&amp;#123; &#x27;thresholds/&#x27; | relative_url &amp;#125;&amp;#125;) in...by B Li · 2023 · Cited by 21 — It has been documented that soliciting trial-by-trial confidenc...</p></details>
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: This decision framework leads to better product experiments  
-   Link:<a href="https://www.youtube.com/watch?v=yETqH4cXLgg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yETqH4cXLgg</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Make decisions quickly and avoid this common mistake...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=yETqH4cXLgg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yETqH4cXLgg</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Make decisions quickly and avoid this common mistake...</p></details>
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: Type 1 and Type 2 Decisions  
-   Link:<a href="https://www.youtube.com/watch?v=Y9DR6xICTGc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y9DR6xICTGc</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Jeff Bezos&#x27;s explain his famous one-way door and two-way door decision making...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=Y9DR6xICTGc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y9DR6xICTGc</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jeff Bezos&#x27;s explain his famous one-way door and two-way door decision making...</p></details>
 
-12.<a id="endnote-12"></a>
+12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: Make decisions quickly and avoid this common mistake  
-   Link:<a href="https://www.youtube.com/watch?v=2prW7N_Q0nM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2prW7N_Q0nM</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Type 1 and Type 2 Decisions...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=2prW7N_Q0nM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2prW7N_Q0nM</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Type 1 and Type 2 Decisions...</p></details>
 
-13.<a id="endnote-13"></a>
+13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: The Experimental Mindset Every Leader Needs  
-   Link:<a href="https://www.youtube.com/watch?v=4-ioHOKpsJ8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4-ioHOKpsJ8</a>  
+   Link: <a href="https://www.youtube.com/watch?v=4-ioHOKpsJ8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4-ioHOKpsJ8</a>  

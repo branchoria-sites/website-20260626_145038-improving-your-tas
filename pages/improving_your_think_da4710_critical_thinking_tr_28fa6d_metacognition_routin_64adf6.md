@@ -284,17 +284,17 @@ image: /assets/images/improving_your_think_da4710_critical_thinking_tr_28fa6d_me
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_critical_thinking_tr_28fa6d_metacognition_routin_64adf6-Illustration-1-dark.svg" | relative_url }}" alt="Metacognition illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_critical_thinking_tr_28fa6d_metacognition_routin_64adf6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_critical_thinking_tr_28fa6d_metacognition_routin_64adf6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction matters because many reasoning failures do not arise from a lack of intelligence. They arise because people fail to notice weaknesses in their own thinking. Research from psychology, cognitive science and education consistently finds that individuals who actively plan, monitor and evaluate their reasoning are better able to solve unfamiliar problems, learn from mistakes and [transfer]({{ 'transfer/' | relative_url }}) thinking skills across different situations. Metacognition therefore turns critical thinking from an aspiration into a repeatable process.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF+2National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">EEFMetacognition and Self-Regulated LearningThere is a strong body of research from psychology and education demonstrating the importance...</span></span></span>
+This distinction matters because many reasoning failures do not arise from a lack of intelligence. They arise because people fail to notice weaknesses in their own thinking. Research from psychology, cognitive science and education consistently finds that individuals who actively plan, monitor and evaluate their reasoning are better able to solve unfamiliar problems, learn from mistakes and [transfer]({{ 'transfer/' | relative_url }}) thinking skills across different situations. Metacognition therefore turns critical thinking from an aspiration into a repeatable process. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF+2National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">EEFMetacognition and Self-Regulated LearningThere is a strong body of research from psychology and education demonstrating the importance...</span></span></span>
 
 ## What metacognition means in practice
 
-The term *metacognition* was introduced by developmental psychologist John Flavell during the 1970s to describe people's knowledge of their own cognitive processes and their ability to regulate those processes. Since then, the concept has expanded beyond educational psychology into decision-making, medicine, management and expertise research because successful judgement repeatedly depends on recognising when one's own thinking may be incomplete or mistaken.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://education.nsw.gov.au/content/dam/main-education/teaching-and-learning/education-for-a-changing-world/media/documents/Metacognition_Full_Report_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.nsw.gov.au">[education.nsw.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.nsw.gov.au</span><span class="citation-popover-title">Metacognition: a key to unlocking learning</span><span class="citation-popover-snippet">February 13, 2025 — This review paper aims to support these goals by assessing the evidence base for the teaching of metacognition as a f...</span><span class="citation-popover-meta">Published: February 13, 2025</span></span></span>
+The term *metacognition* was introduced by developmental psychologist John Flavell during the 1970s to describe people's knowledge of their own cognitive processes and their ability to regulate those processes. Since then, the concept has expanded beyond educational psychology into decision-making, medicine, management and expertise research because successful judgement repeatedly depends on recognising when one's own thinking may be incomplete or mistaken. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://education.nsw.gov.au/content/dam/main-education/teaching-and-learning/education-for-a-changing-world/media/documents/Metacognition_Full_Report_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.nsw.gov.au">[education.nsw.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.nsw.gov.au</span><span class="citation-popover-title">Metacognition: a key to unlocking learning</span><span class="citation-popover-snippet">February 13, 2025 — This review paper aims to support these goals by assessing the evidence base for the teaching of metacognition as a f...</span><span class="citation-popover-meta">Published: February 13, 2025</span></span></span>
 
 In everyday life, metacognition is less mysterious than the phrase "thinking about thinking" suggests. It involves simple but disciplined questions such as:
 
 * What exactly am I trying to decide?
 * What assumptions am I making without noticing?
-* Which evidence matters most?<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.eric.ed.gov/fulltext/ED612286.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.eric.ed.gov">[files.eric.ed.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.eric.ed.gov</span><span class="citation-popover-title">ERICMetacognition and Self- Regulation: Evidence Review</span><span class="citation-popover-snippet">May 12, 2020 — by D Muijs · 2020 · Cited by 280 — Key to effective metacognition is the ability to monitor and regulate learning, to deli...</span><span class="citation-popover-meta">Published: May 12, 2020</span></span></span>
+* Which evidence matters most? <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.eric.ed.gov/fulltext/ED612286.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.eric.ed.gov">[files.eric.ed.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.eric.ed.gov</span><span class="citation-popover-title">ERICMetacognition and Self- Regulation: Evidence Review</span><span class="citation-popover-snippet">May 12, 2020 — by D Muijs · 2020 · Cited by 280 — Key to effective metacognition is the ability to monitor and regulate learning, to deli...</span><span class="citation-popover-meta">Published: May 12, 2020</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -308,7 +308,7 @@ These questions interrupt automatic reasoning. Instead of allowing intuition to 
 
 Importantly, metacognition is not constant self-doubt. The aim is not to distrust every judgement but to calibrate confidence appropriately. Someone with good metacognitive skills becomes neither permanently sceptical nor blindly confident. Instead, confidence becomes proportional to evidence.
 
-The National Academies' synthesis of learning science identifies metacognition as one of the central processes that allows people to direct and regulate learning throughout life. Self-regulated learners deliberately set goals, monitor progress, recognise confusion and adjust strategies instead of persisting with ineffective approaches.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/read/24783/chapter/6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesChapter: 4 Processes That Support LearningThree key ways are through metacognition, executive function, and self-regula...</span></span></span>
+The National Academies' synthesis of learning science identifies metacognition as one of the central processes that allows people to direct and regulate learning throughout life. Self-regulated learners deliberately set goals, monitor progress, recognise confusion and adjust strategies instead of persisting with ineffective approaches. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/read/24783/chapter/6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesChapter: 4 Processes That Support LearningThree key ways are through metacognition, executive function, and self-regula...</span></span></span>
 
 ## Planning, monitoring and evaluating a judgement
 
@@ -333,7 +333,7 @@ Rather than immediately searching for an answer, effective thinkers pause to dec
 
 This stage prevents a common failure of critical thinking: beginning with an answer and then searching only for supporting evidence.
 
-The Education Endowment Foundation's guidance on metacognition recommends explicitly teaching learners to choose appropriate strategies before beginning a task rather than assuming effective approaches will emerge automatically. Planning substantially improves later monitoring because people know what success should look like before they begin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">EEFMetacognition and Self-Regulated LearningThere is a strong body of research from psychology and education demonstrating the importance...</span></span></span>
+The Education Endowment Foundation's guidance on metacognition recommends explicitly teaching learners to choose appropriate strategies before beginning a task rather than assuming effective approaches will emerge automatically. Planning substantially improves later monitoring because people know what success should look like before they begin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">EEFMetacognition and Self-Regulated LearningThere is a strong body of research from psychology and education demonstrating the importance...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mQwwrtRFOhA" title="Thinking About Your Thinking Process - Metacognition" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mQwwrtRFOhA" target="_blank" rel="noopener noreferrer">Thinking About Your Thinking Process - Metacognition</a></p><p class="youtube-embed-meta">Channel: Phil McKinney</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mQwwrtRFOhA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mQwwrtRFOhA">Open on YouTube</a></p></div></div></div>
@@ -380,7 +380,7 @@ Useful evaluation questions include:
 
 Evaluation transforms mistakes into information. Without reflection, people often repeat identical reasoning errors because they remember only the outcome rather than the thinking that produced it.
 
-Evidence reviews consistently describe this planning–monitoring–evaluation cycle as the practical core of metacognitive instruction rather than viewing metacognition as a vague personality characteristic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.eric.ed.gov/fulltext/ED612286.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.eric.ed.gov">[ERIC+2Digital Education Resource Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.eric.ed.gov</span><span class="citation-popover-title">ERICMetacognition and Self- Regulation: Evidence Review</span><span class="citation-popover-snippet">May 12, 2020 — by D Muijs · 2020 · Cited by 280 — Key to effective metacognition is the ability to monitor and regulate learning, to deli...</span><span class="citation-popover-meta">Published: May 12, 2020</span></span></span>
+Evidence reviews consistently describe this planning–monitoring–evaluation cycle as the practical core of metacognitive instruction rather than viewing metacognition as a vague personality characteristic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.eric.ed.gov/fulltext/ED612286.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.eric.ed.gov">[ERIC+2Digital Education Resource Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.eric.ed.gov</span><span class="citation-popover-title">ERICMetacognition and Self- Regulation: Evidence Review</span><span class="citation-popover-snippet">May 12, 2020 — by D Muijs · 2020 · Cited by 280 — Key to effective metacognition is the ability to monitor and regulate learning, to deli...</span><span class="citation-popover-meta">Published: May 12, 2020</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_critical_thinking_tr_28fa6d_metacognition_routin_64adf6-Illustration-2-dark.svg" | relative_url }}" alt="Metacognition illustration 2" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_critical_thinking_tr_28fa6d_metacognition_routin_64adf6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_critical_thinking_tr_28fa6d_metacognition_routin_64adf6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -390,7 +390,7 @@ One of the most valuable functions of metacognition is improving the relationshi
 
 Psychological research repeatedly demonstrates that people are often poor judges of their own performance. Individuals frequently express high confidence in incorrect answers while remaining uncertain about correct ones. Without feedback, these miscalibrated confidence judgements can persist for years.
 
-Research using the Cognitive Reflection Test—a widely used measure of whether people override intuitive but incorrect responses—shows that many participants substantially overestimate their own reasoning performance. The largest errors often occur among poorer performers, illustrating that people can lack awareness of weaknesses in their own reasoning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10219213/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Overconfidence in the Cognitive Reflection Test: Comparing...by A Mata · 2023 · Cited by 18 — This research examines the metacognitiv...</span></span></span>
+Research using the Cognitive Reflection Test—a widely used measure of whether people override intuitive but incorrect responses—shows that many participants substantially overestimate their own reasoning performance. The largest errors often occur among poorer performers, illustrating that people can lack awareness of weaknesses in their own reasoning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10219213/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Overconfidence in the Cognitive Reflection Test: Comparing...by A Mata · 2023 · Cited by 18 — This research examines the metacognitiv...</span></span></span>
 
 Feedback interrupts this cycle.
 
@@ -399,7 +399,7 @@ Rather than simply informing someone whether an answer is right or wrong, high-q
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* what they predicted,<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.structural-learning.com/post/metacognitive-monitoring-fixing-student" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: structural-learning.com">[structural-learning.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">structural-learning.com</span><span class="citation-popover-snippet">Metacognitive Monitoring: Fixing Learner Overconfidence4 Mar 2026 — Metacognitive monitoring helps learners judge what they understand...</span></span></span>
+* what they predicted, <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.structural-learning.com/post/metacognitive-monitoring-fixing-student" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: structural-learning.com">[structural-learning.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">structural-learning.com</span><span class="citation-popover-snippet">Metacognitive Monitoring: Fixing Learner Overconfidence4 Mar 2026 — Metacognitive monitoring helps learners judge what they understand...</span></span></span>
 * how confident they were,
 * what actually happened,
 * why the reasoning succeeded or failed.
@@ -408,7 +408,7 @@ Rather than simply informing someone whether an answer is right or wrong, high-q
 
 This comparison gradually improves metacognitive calibration.
 
-Recent research suggests that systematic performance feedback can reduce metacognitive blind spots by helping people better estimate their own abilities. Better self-[assessment]({{ 'assessment/' | relative_url }}) then supports more effective future decisions because individuals become more realistic about when they need additional evidence or expertise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://online.ucpress.edu/collabra/article/11/1/138652/212095/Reducing-Blind-Spots-Performance-Feedback-Reduces" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: online.ucpress.edu">[UC Press Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">online.ucpress.edu</span><span class="citation-popover-title">UC Press Online Reducing Blind Spots?</span><span class="citation-popover-snippet">Performance Feedback Reduces...10 Jun 2025 — Lack of metacognitive awareness (i.e., knowing one&#x27;s skill level) is one barrier to improvi...</span></span></span>
+Recent research suggests that systematic performance feedback can reduce metacognitive blind spots by helping people better estimate their own abilities. Better self-[assessment]({{ 'assessment/' | relative_url }}) then supports more effective future decisions because individuals become more realistic about when they need additional evidence or expertise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://online.ucpress.edu/collabra/article/11/1/138652/212095/Reducing-Blind-Spots-Performance-Feedback-Reduces" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: online.ucpress.edu">[UC Press Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">online.ucpress.edu</span><span class="citation-popover-title">UC Press Online Reducing Blind Spots?</span><span class="citation-popover-snippet">Performance Feedback Reduces...10 Jun 2025 — Lack of metacognitive awareness (i.e., knowing one&#x27;s skill level) is one barrier to improvi...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1_w7VMICa4Y" title="Teaching Students How to Learn: 3 Metacognitive Strategies That Work" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1_w7VMICa4Y" target="_blank" rel="noopener noreferrer">Teaching Students How to Learn: 3 Metacognitive Strategies That Work</a></p><p class="youtube-embed-meta">Channel: Challenge Innovate Grow: Teacher &amp;  Learner Centre</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1_w7VMICa4Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1_w7VMICa4Y">Open on YouTube</a></p></div></div></div>
@@ -432,7 +432,7 @@ Examples include:
 
 </div>
 
-Educational research increasingly emphasises modelling expert thinking rather than merely presenting expert answers. When teachers, mentors or experienced professionals verbalise why they rejected one interpretation, reconsidered evidence or revised a conclusion, they reveal the monitoring process that novices would otherwise never observe.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://researchschool.org.uk/essex/news/metacognition-and-self-regulated-learning-a-school-journey" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchschool.org.uk">[Research Schools Network+2Life Sciences Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchschool.org.uk</span><span class="citation-popover-snippet">Research Schools NetworkMetacognition and Self-Regulated Learning: A School…7 May 2026 — This helped move metacognition away from abstrac...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+Educational research increasingly emphasises modelling expert thinking rather than merely presenting expert answers. When teachers, mentors or experienced professionals verbalise why they rejected one interpretation, reconsidered evidence or revised a conclusion, they reveal the monitoring process that novices would otherwise never observe. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://researchschool.org.uk/essex/news/metacognition-and-self-regulated-learning-a-school-journey" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchschool.org.uk">[Research Schools Network+2Life Sciences Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchschool.org.uk</span><span class="citation-popover-snippet">Research Schools NetworkMetacognition and Self-Regulated Learning: A School…7 May 2026 — This helped move metacognition away from abstrac...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 This approach transfers well beyond education. In workplaces, project reviews increasingly examine not only whether decisions succeeded but also whether the reasoning process was appropriately evidence-based. Aviation, medicine and engineering similarly use structured debriefs because analysing reasoning often prevents future mistakes more effectively than analysing [outcomes]({{ 'outcomes/' | relative_url }}) alone.
 
@@ -464,7 +464,7 @@ However, they can repeatedly use the same metacognitive routines:
 
 These routines provide a portable framework that adapts across domains while still recognising that subject knowledge remains essential. Good metacognition cannot compensate for complete ignorance, but it helps people recognise when they lack sufficient knowledge and should seek additional expertise.
 
-The National Academies describe this combination of strategic monitoring and [domain knowledge]({{ 'domain-knowledge/' | relative_url }}) as central to lifelong learning rather than school-only performance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/read/24783/chapter/6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesChapter: 4 Processes That Support LearningThree key ways are through metacognition, executive function, and self-regula...</span></span></span>
+The National Academies describe this combination of strategic monitoring and [domain knowledge]({{ 'domain-knowledge/' | relative_url }}) as central to lifelong learning rather than school-only performance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/read/24783/chapter/6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesChapter: 4 Processes That Support LearningThree key ways are through metacognition, executive function, and self-regula...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KxIA9lM77sU" title="Teach Metacognition to Your Students - 2 Techniques That Actually Work" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KxIA9lM77sU" target="_blank" rel="noopener noreferrer">Teach Metacognition to Your Students - 2 Techniques That Actually Work</a></p><p class="youtube-embed-meta">Channel: Challenge Innovate Grow: Teacher &amp;  Learner Centre</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KxIA9lM77sU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KxIA9lM77sU">Open on YouTube</a></p></div></div></div>
@@ -475,11 +475,11 @@ Several misconceptions limit effective use of metacognitive routines.
 
 **Metacognition is not endless introspection.** Excessive reflection can become counterproductive if it replaces action. Effective metacognition uses brief, purposeful monitoring rather than constant self-analysis.
 
-**Metacognition does not replace knowledge.** Someone cannot critically evaluate medical research without understanding basic scientific concepts. Metacognitive routines improve the use of knowledge; they cannot substitute for it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.eric.ed.gov/fulltext/ED612286.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.eric.ed.gov">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.eric.ed.gov</span><span class="citation-popover-title">ERICMetacognition and Self- Regulation: Evidence Review</span><span class="citation-popover-snippet">May 12, 2020 — by D Muijs · 2020 · Cited by 280 — Key to effective metacognition is the ability to monitor and regulate learning, to deli...</span><span class="citation-popover-meta">Published: May 12, 2020</span></span></span>
+**Metacognition does not replace knowledge.** Someone cannot critically evaluate medical research without understanding basic scientific concepts. Metacognitive routines improve the use of knowledge; they cannot substitute for it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.eric.ed.gov/fulltext/ED612286.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.eric.ed.gov">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.eric.ed.gov</span><span class="citation-popover-title">ERICMetacognition and Self- Regulation: Evidence Review</span><span class="citation-popover-snippet">May 12, 2020 — by D Muijs · 2020 · Cited by 280 — Key to effective metacognition is the ability to monitor and regulate learning, to deli...</span><span class="citation-popover-meta">Published: May 12, 2020</span></span></span>
 
 **Good thinkers still make mistakes.** The difference is that they are more likely to detect and correct errors after receiving new evidence. Revision is a feature of effective reasoning rather than a sign of weakness.
 
-**Confidence is not evidence.** One of the most robust findings in judgement research is that subjective certainty often exceeds objective accuracy. Metacognitive monitoring attempts to align confidence more closely with reality instead of rewarding certainty for its own sake.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10219213/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Overconfidence in the Cognitive Reflection Test: Comparing...by A Mata · 2023 · Cited by 18 — This research examines the metacognitiv...</span></span></span>
+**Confidence is not evidence.** One of the most robust findings in judgement research is that subjective certainty often exceeds objective accuracy. Metacognitive monitoring attempts to align confidence more closely with reality instead of rewarding certainty for its own sake. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10219213/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Overconfidence in the Cognitive Reflection Test: Comparing...by A Mata · 2023 · Cited by 18 — This research examines the metacognitiv...</span></span></span>
 
 ## Building metacognition into everyday decision-making
 
@@ -494,197 +494,197 @@ A practical implementation cycle can be kept deliberately simple:
 5. **Review the outcome.** After the decision, compare expectations with reality and identify which part of the reasoning proved strongest or weakest.
 6. **Adjust future strategy.** Treat every important judgement as feedback for improving the next one rather than as an isolated event.
 
-These routines gradually shift critical thinking from an occasional effort into a repeatable habit. Instead of relying on intuition alone, people learn to observe, question and refine their own reasoning. That habit of deliberate self-monitoring is what allows critical thinking to transfer beyond classrooms into professional judgement, civic decision-making and everyday life.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[ERIC+3EEF+3Life Sciences Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">EEFMetacognition and Self-Regulated LearningThere is a strong body of research from psychology and education demonstrating the importance...</span></span></span>
+These routines gradually shift critical thinking from an occasional effort into a repeatable habit. Instead of relying on intuition alone, people learn to observe, question and refine their own reasoning. That habit of deliberate self-monitoring is what allows critical thinking to transfer beyond classrooms into professional judgement, civic decision-making and everyday life. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[ERIC+3EEF+3Life Sciences Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">EEFMetacognition and Self-Regulated LearningThere is a strong body of research from psychology and education demonstrating the importance...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to The Habit of Checking Your Own Thinking. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to The Habit of Checking Your Own Thinking. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-</h4>
-<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-<p class="fr-book-desc">Demonstrates practical critical thinking, evaluating evidence and questioning unsupported claims.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-</h4>
-<p class="fr-book-author">By Daniel Kahneman</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Critical+Thinking+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Critical Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Xg4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Critical Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Critical+Thinking+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Critical Thinking">Critical Thinking</a>
+        </h4>
+        <p class="fr-book-author">By Tom Chatfield</p>
         
-<p class="fr-book-desc">Explains common thinking errors and supports the practice of monitoring and improving one&#x27;s own reasoning.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly covers evaluating evidence, reflecting on reasoning and building reliable thinking habits.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Critical+Thinking+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
-</h4>
-<p class="fr-book-author">By Rolf Dobelli</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oneWAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+        </h4>
+        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-<p class="fr-book-desc">Provides practical examples of cognitive errors that encourage reflective self-checking.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+by+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Shows how metacognitive strategies, feedback and self-testing improve learning and judgement.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Xg-CBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-</h4>
-<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
+        </h4>
+        <p class="fr-book-author">By Rolf Dobelli</p>
         
-<p class="fr-book-desc">Promotes disciplined questioning, self-monitoring and evaluation while engaging with complex ideas.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides practical examples of cognitive errors that encourage reflective self-checking.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Thinking Clearly</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Xg-CBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+        </h4>
+        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+        
+        <p class="fr-book-desc">Promotes disciplined questioning, self-monitoring and evaluation while engaging with complex ideas.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Critical+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Thinking Clearly</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=your+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your memorabilia -book -books -dvd" data-ebay-reference="the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Take That Action Replay Movie In Your Pocket Tin Fan Club Memorabilia."><img src="https://i.ebayimg.com/images/g/9A4AAeSwaERqBKHp/s-l225.jpg" alt="Listing image for Vintage Take That Action Replay Movie In Your Pocket Tin Fan Club Memorabilia." loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=your+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your memorabilia -book -books -dvd" data-ebay-reference="the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Vintage Take That Action Replay Movie In Your Pocket Tin Fan Club Memorabilia.</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=your+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your memorabilia -book -books -dvd" data-ebay-reference="the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for your memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: your memorabilia</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=your+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your memorabilia -book -books -dvd" data-ebay-reference="the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=your+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your memorabilia -book -books -dvd" data-ebay-reference="the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Take That Action Replay Movie In Your Pocket Tin Fan Club Memorabilia."><img src="https://i.ebayimg.com/images/g/9A4AAeSwaERqBKHp/s-l225.jpg" alt="Listing image for Vintage Take That Action Replay Movie In Your Pocket Tin Fan Club Memorabilia." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=your+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your memorabilia -book -books -dvd" data-ebay-reference="the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Vintage Take That Action Replay Movie In Your Pocket Tin Fan Club Memorabilia.</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=your+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your memorabilia -book -books -dvd" data-ebay-reference="the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for your memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: your memorabilia</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=your+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your memorabilia -book -books -dvd" data-ebay-reference="the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=your+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your memorabilia -book -books -dvd" data-ebay-reference="the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Chelsea FC Retro Vintage Style Metal Sign Man Cave Memorabilia CFC"><img src="https://i.ebayimg.com/images/g/KNQAAOSw~jZcyWrL/s-l225.jpg" alt="Listing image for Chelsea FC Retro Vintage Style Metal Sign Man Cave Memorabilia CFC" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=your+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your memorabilia -book -books -dvd" data-ebay-reference="the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Chelsea FC Retro Vintage Style Metal Sign Man Cave Memorabilia CFC</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=your+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your memorabilia -book -books -dvd" data-ebay-reference="the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for your memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: your memorabilia</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=your+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your memorabilia -book -books -dvd" data-ebay-reference="the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=your+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your memorabilia -book -books -dvd" data-ebay-reference="the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Chelsea FC Retro Vintage Style Metal Sign Man Cave Memorabilia CFC"><img src="https://i.ebayimg.com/images/g/KNQAAOSw~jZcyWrL/s-l225.jpg" alt="Listing image for Chelsea FC Retro Vintage Style Metal Sign Man Cave Memorabilia CFC" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=your+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your memorabilia -book -books -dvd" data-ebay-reference="the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Chelsea FC Retro Vintage Style Metal Sign Man Cave Memorabilia CFC</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=your+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your memorabilia -book -books -dvd" data-ebay-reference="the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for your memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: your memorabilia</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=your+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your memorabilia -book -books -dvd" data-ebay-reference="the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=your+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your memorabilia -book -books -dvd" data-ebay-reference="the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Photo Display Mount Card for your own Memorabilia Autographs DIY"><img src="https://i.ebayimg.com/images/g/X2gAAOSw~fdnfZKA/s-l225.jpg" alt="Listing image for A4 Photo Display Mount Card for your own Memorabilia Autographs DIY" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=your+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your memorabilia -book -books -dvd" data-ebay-reference="the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">A4 Photo Display Mount Card for your own Memorabilia Autographs DIY</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=your+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your memorabilia -book -books -dvd" data-ebay-reference="the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for your memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: your memorabilia</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=your+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your memorabilia -book -books -dvd" data-ebay-reference="the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=your+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your memorabilia -book -books -dvd" data-ebay-reference="the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Photo Display Mount Card for your own Memorabilia Autographs DIY"><img src="https://i.ebayimg.com/images/g/X2gAAOSw~fdnfZKA/s-l225.jpg" alt="Listing image for A4 Photo Display Mount Card for your own Memorabilia Autographs DIY" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=your+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your memorabilia -book -books -dvd" data-ebay-reference="the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">A4 Photo Display Mount Card for your own Memorabilia Autographs DIY</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=your+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your memorabilia -book -books -dvd" data-ebay-reference="the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for your memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: your memorabilia</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=your+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your memorabilia -book -books -dvd" data-ebay-reference="the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=your+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your memorabilia -book -books -dvd" data-ebay-reference="the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WWE Slam Attax Authentic Memorabilia Cards - Complete Your Collection!!!"><img src="https://i.ebayimg.com/images/g/VG0AAOSwcrJmgoRe/s-l225.jpg" alt="Listing image for WWE Slam Attax Authentic Memorabilia Cards - Complete Your Collection!!!" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=your+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your memorabilia -book -books -dvd" data-ebay-reference="the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">WWE Slam Attax Authentic Memorabilia Cards - Complete Your Collection!!!</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=your+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your memorabilia -book -books -dvd" data-ebay-reference="the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for your memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: your memorabilia</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=your+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your memorabilia -book -books -dvd" data-ebay-reference="the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=your+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your memorabilia -book -books -dvd" data-ebay-reference="the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=your+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your memorabilia -book -books -dvd" data-ebay-reference="the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WWE Slam Attax Authentic Memorabilia Cards - Complete Your Collection!!!"><img src="https://i.ebayimg.com/images/g/VG0AAOSwcrJmgoRe/s-l225.jpg" alt="Listing image for WWE Slam Attax Authentic Memorabilia Cards - Complete Your Collection!!!" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=your+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your memorabilia -book -books -dvd" data-ebay-reference="the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">WWE Slam Attax Authentic Memorabilia Cards - Complete Your Collection!!!</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=your+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your memorabilia -book -books -dvd" data-ebay-reference="the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for your memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: your memorabilia</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=your+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your memorabilia -book -books -dvd" data-ebay-reference="the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=your+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your memorabilia -book -books -dvd" data-ebay-reference="the-habit-of-checking-your-own-thinking-your-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -700,7 +700,7 @@ These routines gradually shift critical thinking from an occasional effort into 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -720,7 +720,7 @@ These routines gradually shift critical thinking from an occasional effort into 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -752,7 +752,7 @@ These routines gradually shift critical thinking from an occasional effort into 
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -804,7 +804,7 @@ These routines gradually shift critical thinking from an occasional effort into 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -849,7 +849,7 @@ These routines gradually shift critical thinking from an occasional effort into 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -889,128 +889,128 @@ These routines gradually shift critical thinking from an occasional effort into 
 </section>
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link:<a href="https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>EEFMetacognition and Self-Regulated LearningThere is a strong body of research from psychology and education demonstrating the importance...</p></details>
+   Link: <a href="https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>EEFMetacognition and Self-Regulated LearningThere is a strong body of research from psychology and education demonstrating the importance...</p></details>
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: education.nsw.gov.au  
    Title: Metacognition: a key to unlocking learning  
-   Link:<a href="https://education.nsw.gov.au/content/dam/main-education/teaching-and-learning/education-for-a-changing-world/media/documents/Metacognition_Full_Report_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://education.nsw.gov.au/content/dam/main-education/teaching-and-learning/education-for-a-changing-world/media/documents/Metacognition_Full_Report_FINAL.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>February 13, 2025 — This review paper aims to support these goals by assessing the evidence base for the teaching of metacognition as a f...</p></details>
+   Link: <a href="https://education.nsw.gov.au/content/dam/main-education/teaching-and-learning/education-for-a-changing-world/media/documents/Metacognition_Full_Report_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://education.nsw.gov.au/content/dam/main-education/teaching-and-learning/education-for-a-changing-world/media/documents/Metacognition_Full_Report_FINAL.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>February 13, 2025 — This review paper aims to support these goals by assessing the evidence base for the teaching of metacognition as a f...</p></details>
    Published: February 13, 2025  
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: files.eric.ed.gov  
    Title: ERICMetacognition and Self- Regulation: Evidence Review  
-   Link:<a href="https://files.eric.ed.gov/fulltext/ED612286.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/ED612286.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>May 12, 2020 — by D Muijs · 2020 · Cited by 280 — Key to effective metacognition is the ability to monitor and regulate learning, to deli...</p></details>
+   Link: <a href="https://files.eric.ed.gov/fulltext/ED612286.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/ED612286.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 12, 2020 — by D Muijs · 2020 · Cited by 280 — Key to effective metacognition is the ability to monitor and regulate learning, to deli...</p></details>
    Published: May 12, 2020  
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10219213/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10219213/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Overconfidence in the Cognitive Reflection Test: Comparing...by A Mata · 2023 · Cited by 18 — This research examines the metacognitiv...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10219213/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10219213/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Overconfidence in the Cognitive Reflection Test: Comparing...by A Mata · 2023 · Cited by 18 — This research examines the metacognitiv...</p></details>
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: nationalacademies.org  
-   Link:<a href="https://www.nationalacademies.org/read/24783/chapter/6" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/24783/chapter/6</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>National AcademiesChapter: 4 Processes That Support LearningThree key ways are through metacognition, executive function, and self-regula...</p></details>
+   Link: <a href="https://www.nationalacademies.org/read/24783/chapter/6" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/24783/chapter/6</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>National AcademiesChapter: 4 Processes That Support LearningThree key ways are through metacognition, executive function, and self-regula...</p></details>
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: lifescied.org  
-   Link:<a href="https://www.lifescied.org/doi/10.1187/cbe.20" target="_blank" rel="noopener noreferrer nofollow">https://www.lifescied.org/doi/10.1187/cbe.20</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Strong metacognitive skills have the power to impact student learning and performance.Read more...</p></details>
+   Link: <a href="https://www.lifescied.org/doi/10.1187/cbe.20-12-0289" target="_blank" rel="noopener noreferrer nofollow">https://www.lifescied.org/doi/10.1187/cbe.20-12-0289</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Strong metacognitive skills have the power to impact student learning and performance.Read more...</p></details>
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: nationalacademies.org  
-   Link:<a href="https://www.nationalacademies.org/projects/DBASSE-BBCSS" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/projects/DBASSE-BBCSS</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>How People Learn II: The Science and Practice of Learninglearning and cognitive strategies in children; metacognition and self-regulated...</p></details>
+   Link: <a href="https://www.nationalacademies.org/projects/DBASSE-BBCSS-13-06" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/projects/DBASSE-BBCSS-13-06</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How People Learn II: The Science and Practice of Learninglearning and cognitive strategies in children; metacognition and self-regulated...</p></details>
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: dera.ioe.ac.uk  
-   Link:<a href="https://dera.ioe.ac.uk/id/eprint/31617/1/EEF_Metacognition_and_self-regulated_learning.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dera.ioe.ac.uk/id/eprint/31617/1/EEF_Metacognition_and_self-regulated_learning.pdf</a>  
+   Link: <a href="https://dera.ioe.ac.uk/id/eprint/31617/1/EEF_Metacognition_and_self-regulated_learning.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dera.ioe.ac.uk/id/eprint/31617/1/EEF_Metacognition_and_self-regulated_learning.pdf</a>  
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: online.ucpress.edu  
    Title: UC Press Online Reducing Blind Spots?  
-   Link:<a href="https://online.ucpress.edu/collabra/article/11/1/138652/212095/Reducing-Blind-Spots-Performance-Feedback-Reduces" target="_blank" rel="noopener noreferrer nofollow">https://online.ucpress.edu/collabra/article/11/1/138652/212095/Reducing-Blind-Spots-Performance-Feedback-Reduces</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Performance Feedback Reduces...10 Jun 2025 — Lack of metacognitive awareness (i.e., knowing one&#x27;s skill level) is one barrier to improvi...</p></details>
+   Link: <a href="https://online.ucpress.edu/collabra/article/11/1/138652/212095/Reducing-Blind-Spots-Performance-Feedback-Reduces" target="_blank" rel="noopener noreferrer nofollow">https://online.ucpress.edu/collabra/article/11/1/138652/212095/Reducing-Blind-Spots-Performance-Feedback-Reduces</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Performance Feedback Reduces...10 Jun 2025 — Lack of metacognitive awareness (i.e., knowing one&#x27;s skill level) is one barrier to improvi...</p></details>
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: researchschool.org.uk  
-   Link:<a href="https://researchschool.org.uk/essex/news/metacognition-and-self-regulated-learning-a-school-journey" target="_blank" rel="noopener noreferrer nofollow">https://researchschool.org.uk/essex/news/metacognition-and-self-regulated-learning-a-school-journey</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Research Schools NetworkMetacognition and Self-Regulated Learning: A School…7 May 2026 — This helped move metacognition away from abstrac...</p></details>
+   Link: <a href="https://researchschool.org.uk/essex/news/metacognition-and-self-regulated-learning-a-school-journey" target="_blank" rel="noopener noreferrer nofollow">https://researchschool.org.uk/essex/news/metacognition-and-self-regulated-learning-a-school-journey</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Research Schools NetworkMetacognition and Self-Regulated Learning: A School…7 May 2026 — This helped move metacognition away from abstrac...</p></details>
    Published: May 2026  
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: educationendowmentfoundation.org.uk  
    Title: Self-regulated metacognitive strategies to their learning  
-   Link:<a href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/metacognition-and-self-regulation" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/metacognition-and-self-regulation</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Metacognition and self-regulationMetacognition is the learner&#x27;s ability to be aware of, reflect on, and direct their thinking...</p></details>
+   Link: <a href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/metacognition-and-self-regulation" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/metacognition-and-self-regulation</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Metacognition and self-regulationMetacognition is the learner&#x27;s ability to be aware of, reflect on, and direct their thinking...</p></details>
 
-12.<a id="endnote-12"></a>
+12. <a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11368603/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11368603/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>by O Tungalag · 2024 · Cited by 9 — The study primarily aims to explore how young students are using metacognitive strategies in their...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11368603/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11368603/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by O Tungalag · 2024 · Cited by 9 — The study primarily aims to explore how young students are using metacognitive strategies in their...</p></details>
 
-13.<a id="endnote-13"></a>
+13. <a id="endnote-13"></a>
    Source: researchschool.org.uk  
    Title: metacognition 5 key changes in the new eef report  
-   Link:<a href="https://researchschool.org.uk/blackpool/news/metacognition-5-key-changes-in-the-new-eef-report" target="_blank" rel="noopener noreferrer nofollow">https://researchschool.org.uk/blackpool/news/metacognition-5-key-changes-in-the-new-eef-report</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Metacognition: 5 key changes in the new EEF report13 Nov 2025 — Metacognition and self-regulation approaches support pupils to think abou...</p></details>
+   Link: <a href="https://researchschool.org.uk/blackpool/news/metacognition-5-key-changes-in-the-new-eef-report" target="_blank" rel="noopener noreferrer nofollow">https://researchschool.org.uk/blackpool/news/metacognition-5-key-changes-in-the-new-eef-report</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Metacognition: 5 key changes in the new EEF report13 Nov 2025 — Metacognition and self-regulation approaches support pupils to think abou...</p></details>
 
 ### Additional References
 
-14.<a id="endnote-14"></a>
+14. <a id="endnote-14"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/256547787_Metacognition_and_self-regulated_learning_in_student-centered_leaning_environments" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/256547787_Metacognition_and_self-regulated_learning_in_student-centered_leaning_environments</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Metacognition and self-regulated learning in student...17 Feb 2016 — This research indicates that learning with SCLEs is particula...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/256547787_Metacognition_and_self-regulated_learning_in_student-centered_leaning_environments" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/256547787_Metacognition_and_self-regulated_learning_in_student-centered_leaning_environments</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Metacognition and self-regulated learning in student...17 Feb 2016 — This research indicates that learning with SCLEs is particula...</p></details>
 
-15.<a id="endnote-15"></a>
+15. <a id="endnote-15"></a>
    Source: st-michaelangels.lancs.sch.uk  
-   Link:<a href="https://www.st-michaelangels.lancs.sch.uk/page/metacognition/146142" target="_blank" rel="noopener noreferrer nofollow">https://www.st-michaelangels.lancs.sch.uk/page/metacognition/146142</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>MetacognitionMetacognition and self-regulation approaches to teaching support pupils to think about their own learning more explicitly.Re...</p></details>
+   Link: <a href="https://www.st-michaelangels.lancs.sch.uk/page/metacognition/146142" target="_blank" rel="noopener noreferrer nofollow">https://www.st-michaelangels.lancs.sch.uk/page/metacognition/146142</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>MetacognitionMetacognition and self-regulation approaches to teaching support pupils to think about their own learning more explicitly.Re...</p></details>
 
-16.<a id="endnote-16"></a>
+16. <a id="endnote-16"></a>
    Source: thedecisionlab.com  
-   Link:<a href="https://thedecisionlab.com/reference-guide/psychology/metacognition" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/metacognition</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>MetacognitionMetacognition is the ability to think about your own thinking. It&#x27;s how we plan, monitor, and adjust our learning strategies...</p></details>
+   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/metacognition" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/metacognition</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>MetacognitionMetacognition is the ability to think about your own thinking. It&#x27;s how we plan, monitor, and adjust our learning strategies...</p></details>
 
-17.<a id="endnote-17"></a>
+17. <a id="endnote-17"></a>
    Source: alplearning.org.uk  
-   Link:<a href="https://alplearning.org.uk/wp-content/uploads/2021/07/ALP-Journal-Issue-3-low-res.pdf" target="_blank" rel="noopener noreferrer nofollow">https://alplearning.org.uk/wp-content/uploads/2021/07/ALP-Journal-Issue-3-low-res.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Metacognition and self-regulated learningEach session outlined a particular metacognitive strategy, starting with metacogni- tive questio...</p></details>
+   Link: <a href="https://alplearning.org.uk/wp-content/uploads/2021/07/ALP-Journal-Issue-3-low-res.pdf" target="_blank" rel="noopener noreferrer nofollow">https://alplearning.org.uk/wp-content/uploads/2021/07/ALP-Journal-Issue-3-low-res.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Metacognition and self-regulated learningEach session outlined a particular metacognitive strategy, starting with metacogni- tive questio...</p></details>
 
-18.<a id="endnote-18"></a>
+18. <a id="endnote-18"></a>
    Source: thinkingmatters.com  
-   Link:<a href="https://www.thinkingmatters.com/self-regulated-learning-and-the-meta-learner" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkingmatters.com/self-regulated-learning-and-the-meta-learner</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Regulated Learning and the Meta-LearnerMetacognition and self-regulated learning now rank as the top educational strategies for high...</p></details>
+   Link: <a href="https://www.thinkingmatters.com/self-regulated-learning-and-the-meta-learner" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkingmatters.com/self-regulated-learning-and-the-meta-learner</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Regulated Learning and the Meta-LearnerMetacognition and self-regulated learning now rank as the top educational strategies for high...</p></details>
 
-19.<a id="endnote-19"></a>
+19. <a id="endnote-19"></a>
    Source: my.chartered.college  
-   Link:<a href="https://my.chartered.college/impact_article/metacognition-self-regulation-and-self-regulated-learning-whats-the-difference/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/metacognition-self-regulation-and-self-regulated-learning-whats-the-difference/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>chartered.collegeMetacognition, self-regulation and self-regulated learningby J Mannion · Cited by 30 — Thought processes, emotions, beha...</p></details>
+   Link: <a href="https://my.chartered.college/impact_article/metacognition-self-regulation-and-self-regulated-learning-whats-the-difference/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/metacognition-self-regulation-and-self-regulated-learning-whats-the-difference/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>chartered.collegeMetacognition, self-regulation and self-regulated learningby J Mannion · Cited by 30 — Thought processes, emotions, beha...</p></details>
 
-20.<a id="endnote-20"></a>
+20. <a id="endnote-20"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/350728794_Dunning-Kruger_Effect_Intuitive_Errors_Predict_Overconfidence_on_the_Cognitive_Reflection_Test" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/350728794_Dunning-Kruger_Effect_Intuitive_Errors_Predict_Overconfidence_on_the_Cognitive_Reflection_Test</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>non-intuitive errors contribute to overestimation in the CRT at different levels of performance.Read more...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/350728794_Dunning-Kruger_Effect_Intuitive_Errors_Predict_Overconfidence_on_the_Cognitive_Reflection_Test" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/350728794_Dunning-Kruger_Effect_Intuitive_Errors_Predict_Overconfidence_on_the_Cognitive_Reflection_Test</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>non-intuitive errors contribute to overestimation in the CRT at different levels of performance.Read more...</p></details>
 
-21.<a id="endnote-21"></a>
+21. <a id="endnote-21"></a>
    Source: chrisquigley.co.uk  
    Title: the benefits of metacognition and selfregulation in learning  
-   Link:<a href="https://www.chrisquigley.co.uk/blog/the-benefits-of-metacognition-and-selfregulation-in-learning/" target="_blank" rel="noopener noreferrer nofollow">https://www.chrisquigley.co.uk/blog/the-benefits-of-metacognition-and-selfregulation-in-learning/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Benefits of Metacognition and Self-Regulation in...30 Aug 2023 — Metacognition and self-regulation are two key factors that help stu...</p></details>
+   Link: <a href="https://www.chrisquigley.co.uk/blog/the-benefits-of-metacognition-and-selfregulation-in-learning/" target="_blank" rel="noopener noreferrer nofollow">https://www.chrisquigley.co.uk/blog/the-benefits-of-metacognition-and-selfregulation-in-learning/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Benefits of Metacognition and Self-Regulation in...30 Aug 2023 — Metacognition and self-regulation are two key factors that help stu...</p></details>
 
-22.<a id="endnote-22"></a>
+22. <a id="endnote-22"></a>
    Source: structural-learning.com  
-   Link:<a href="https://www.structural-learning.com/post/metacognitive-monitoring-fixing-student" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/metacognitive-monitoring-fixing-student</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Metacognitive Monitoring: Fixing Learner Overconfidence4 Mar 2026 — Metacognitive monitoring helps learners judge what they understand...</p></details>
+   Link: <a href="https://www.structural-learning.com/post/metacognitive-monitoring-fixing-student" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/metacognitive-monitoring-fixing-student</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Metacognitive Monitoring: Fixing Learner Overconfidence4 Mar 2026 — Metacognitive monitoring helps learners judge what they understand...</p></details>
 
-23.<a id="endnote-23"></a>
+23. <a id="endnote-23"></a>
    Source: libguides.derby.ac.uk  
    Title: derby.ac.uk Metacognition: Plan, Monitor and Evaluate  
-   Link:<a href="https://libguides.derby.ac.uk/develop-at-derby/self-direction-and-planning/metacognition-plan-monitor-and-evaluate" target="_blank" rel="noopener noreferrer nofollow">https://libguides.derby.ac.uk/develop-at-derby/self-direction-and-planning/metacognition-plan-monitor-and-evaluate</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>derby.ac.ukMetacognition: Plan, Monitor and Evaluate - Self-Direction...by G Baker · 2025 — The metacognition cycle has three distinct s...</p></details>
+   Link: <a href="https://libguides.derby.ac.uk/develop-at-derby/self-direction-and-planning/metacognition-plan-monitor-and-evaluate" target="_blank" rel="noopener noreferrer nofollow">https://libguides.derby.ac.uk/develop-at-derby/self-direction-and-planning/metacognition-plan-monitor-and-evaluate</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>derby.ac.ukMetacognition: Plan, Monitor and Evaluate - Self-Direction...by G Baker · 2025 — The metacognition cycle has three distinct s...</p></details>

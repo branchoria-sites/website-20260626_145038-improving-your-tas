@@ -447,7 +447,7 @@ image: /assets/images/improving_your_think_da4710_feedback_calibration_8a35f0-ov
 
 ## Introduction
 
-Feedback makes judgement sharper when it shows whether your reasoning, confidence and assumptions matched reality, not merely whether you got lucky. A good feedback loop therefore has three parts: a clear prediction made before the outcome is known, a record of why you believed it, and a later review that separates decision quality from outcome quality. This matters because many real-life judgements are made under uncertainty: a good decision can fail, a poor decision can work, and hindsight can make both feel more obvious than they were. Research on [expert intuition]({{ 'expert-gut/' | relative_url }}), forecasting [tournaments]({{ 'tournaments/' | relative_url }}), metacognition and outcome bias points to the same practical lesson: people improve judgement fastest when feedback is timely, specific, repeated and tied to the reasoning available at the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/19739881/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Warrington College of Business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+Feedback makes judgement sharper when it shows whether your reasoning, confidence and assumptions matched reality, not merely whether you got lucky. A good feedback loop therefore has three parts: a clear prediction made before the outcome is known, a record of why you believed it, and a later review that separates decision quality from outcome quality. This matters because many real-life judgements are made under uncertainty: a good decision can fail, a poor decision can work, and hindsight can make both feel more obvious than they were. Research on [expert intuition]({{ 'expert-gut/' | relative_url }}), forecasting [tournaments]({{ 'tournaments/' | relative_url }}), metacognition and outcome bias points to the same practical lesson: people improve judgement fastest when feedback is timely, specific, repeated and tied to the reasoning available at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/19739881/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Warrington College of Business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_feedback_calibration_8a35f0-overview.webp" | relative_url }}" alt="Overview image for Feedback" loading="eager" decoding="sync" fetchpriority="high">
@@ -457,7 +457,7 @@ The aim is not to become someone who is always right. It is to become someone wh
 
 A result tells you what happened. Feedback tells you what, if anything, should change in your thinking. That distinction is easy to miss because [outcomes]({{ 'outcomes/' | relative_url }}) are emotionally loud. A project succeeds, so the plan feels wise. A hire fails, so the interview process feels foolish. An investment rises, so the thesis feels confirmed. Yet the same reasoning can lead to different results because luck, timing, hidden variables and changing conditions all sit between judgement and outcome.
 
-This is why [feedback loops]({{ 'feedback-loops/' | relative_url }}) are especially important for improving analytical skills. They create a bridge between present reasoning and future evidence. Daniel Kahneman and Gary Klein’s work on expert intuition argues that intuitive expertise is most trustworthy in environments with valid cues and timely, clear feedback; in weak-feedback environments, confidence can grow without corresponding skill. Firefighters, chess players and some clinicians can often learn from repeated cue-outcome patterns. Long-range political, investment or strategic forecasts are harder because the signal is delayed, noisy and partly unrepeatable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/19739881/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+This is why [feedback loops]({{ 'feedback-loops/' | relative_url }}) are especially important for improving analytical skills. They create a bridge between present reasoning and future evidence. Daniel Kahneman and Gary Klein’s work on expert intuition argues that intuitive expertise is most trustworthy in environments with valid cues and timely, clear feedback; in weak-feedback environments, confidence can grow without corresponding skill. Firefighters, chess players and some clinicians can often learn from repeated cue-outcome patterns. Long-range political, investment or strategic forecasts are harder because the signal is delayed, noisy and partly unrepeatable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/19739881/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
 Good calibration means your stated confidence matches your actual hit rate. If you say “70% likely” across many comparable judgements, roughly seven in ten should turn out true. That does not make any single judgement safe, but it makes your confidence usable. It lets you distinguish “I am uncertain because the world is uncertain” from “I am uncertain because I have not thought clearly enough”.
 
@@ -465,9 +465,9 @@ Good calibration means your stated confidence matches your actual hit rate. If y
 
 The central danger is mistaking outcome feedback for judgement feedback. Outcome feedback is “the thing worked” or “the thing failed”. Judgement feedback asks a harder question: given what was knowable at the time, was the reasoning sound, were the assumptions explicit, and was the confidence level appropriate?
 
-Outcome bias is the tendency to evaluate a decision mainly by how it turned out rather than by the quality of the decision process. Baron and Hershey’s classic 1988 work showed that people’s evaluations of decision quality are influenced by outcomes even when those outcomes should not change the [assessment]({{ 'assessment/' | relative_url }}) of the original reasoning. Later [replication]({{ 'replication/' | relative_url }}) work has continued to treat this as a live and important problem in decision evaluation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://bear.warrington.ufl.edu/brenner/mar7588/Papers/baron-hershey-jpsp1988.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bear.warrington.ufl.edu">[Warrington College of Business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bear.warrington.ufl.edu</span><span class="citation-popover-title">baron hershey jpsp1988</span><span class="citation-popover-snippet">baron hershey jpsp1988</span></span></span>
+Outcome bias is the tendency to evaluate a decision mainly by how it turned out rather than by the quality of the decision process. Baron and Hershey’s classic 1988 work showed that people’s evaluations of decision quality are influenced by outcomes even when those outcomes should not change the [assessment]({{ 'assessment/' | relative_url }}) of the original reasoning. Later [replication]({{ 'replication/' | relative_url }}) work has continued to treat this as a live and important problem in decision evaluation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://bear.warrington.ufl.edu/brenner/mar7588/Papers/baron-hershey-jpsp1988.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bear.warrington.ufl.edu">[Warrington College of Business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bear.warrington.ufl.edu</span><span class="citation-popover-title">baron hershey jpsp1988</span><span class="citation-popover-snippet">baron hershey jpsp1988</span></span></span>
 
-Hindsight bias compounds the problem. Once the outcome is known, people often overestimate how predictable it was, selectively recall evidence that fits the outcome, and impose a cleaner story on messy events. A review by Roese and Vohs describes hindsight bias as arising from cognitive, metacognitive and motivational sources: people recall outcome-consistent information, confuse ease of explanation with prior likelihood, and prefer a world that feels orderly and blameable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://carlsonschool.umn.edu/sites/carlsonschool.umn.edu/files/2026-01/vohs-et-al-2012-hindsight-bias.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carlsonschool.umn.edu">[Carlson School of Management]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carlsonschool.umn.edu</span><span class="citation-popover-title">vohs et al 2012 hindsight bias</span><span class="citation-popover-snippet">vohs et al 2012 hindsight bias</span></span></span>
+Hindsight bias compounds the problem. Once the outcome is known, people often overestimate how predictable it was, selectively recall evidence that fits the outcome, and impose a cleaner story on messy events. A review by Roese and Vohs describes hindsight bias as arising from cognitive, metacognitive and motivational sources: people recall outcome-consistent information, confuse ease of explanation with prior likelihood, and prefer a world that feels orderly and blameable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://carlsonschool.umn.edu/sites/carlsonschool.umn.edu/files/2026-01/vohs-et-al-2012-hindsight-bias.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carlsonschool.umn.edu">[Carlson School of Management]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carlsonschool.umn.edu</span><span class="citation-popover-title">vohs et al 2012 hindsight bias</span><span class="citation-popover-snippet">vohs et al 2012 hindsight bias</span></span></span>
 
 A practical feedback loop therefore has to protect the pre-outcome view before the outcome contaminates it. Useful feedback looks like this:
 
@@ -505,7 +505,7 @@ For a meaningful decision, record five things:
 
 This kind of record matters because memory is not a neutral archive. Without a record, a person who was 55% confident may later remember being “basically sure”; a person who ignored a risk may later remember having “flagged it all along”. Written forecasts and assumptions give later feedback something firm to compare against.
 
-Forecasting tournaments show the value of making judgement measurable. The Intelligence Advanced Research Projects Activity’s ACE programme was created to improve the accuracy, precision and timeliness of intelligence forecasts by eliciting, weighting and combining judgements. In the [Good Judgment]({{ 'good-judgment/' | relative_url }}) Project, researchers asked forecasters to make probabilistic predictions on real geopolitical questions and scored them after resolution. The project found that probability training, collaboration and tracking high performers improved both calibration and resolution, showing that behavioural interventions can improve forecasting rather than merely selecting people who are already good at it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iarpa.gov/research-programs/ace" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iarpa.gov">[iarpa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iarpa.gov</span><span class="citation-popover-snippet">Open source on iarpa.gov.</span></span></span>
+Forecasting tournaments show the value of making judgement measurable. The Intelligence Advanced Research Projects Activity’s ACE programme was created to improve the accuracy, precision and timeliness of intelligence forecasts by eliciting, weighting and combining judgements. In the [Good Judgment]({{ 'good-judgment/' | relative_url }}) Project, researchers asked forecasters to make probabilistic predictions on real geopolitical questions and scored them after resolution. The project found that probability training, collaboration and tracking high performers improved both calibration and resolution, showing that behavioural interventions can improve forecasting rather than merely selecting people who are already good at it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iarpa.gov/research-programs/ace" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iarpa.gov">[iarpa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iarpa.gov</span><span class="citation-popover-snippet">Open source on iarpa.gov.</span></span></span>
 
 The lesson for ordinary decisions is not that every life choice should become a formal forecasting tournament. It is that judgement improves when predictions are explicit enough to be scored. “This launch feels promising” is hard to learn from. “I think there is a 65% chance we reach 1,000 active users within three months, mainly because the waitlist conversion rate has stayed above 20%” gives the review something to test.
 
@@ -516,7 +516,7 @@ The lesson for ordinary decisions is not that every life choice should become a 
 
 Being calibrated is not the same as being timid. A person who says “50%” about everything may avoid overconfidence, but they are not showing useful judgement. Good judgement requires both **calibration** and **discrimination**. Calibration asks whether confidence matches accuracy. Discrimination asks whether you can tell easier cases from harder ones and stronger evidence from weaker evidence.
 
-This distinction is visible in forecasting scores. The Brier score, widely used for probabilistic forecasts, penalises the squared difference between a predicted probability and the outcome. Lower scores mean better forecasts, but the score reflects more than simple confidence matching; recent discussions stress that Brier scores also depend on the difficulty and distribution of the events being predicted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12818272/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+This distinction is visible in forecasting scores. The Brier score, widely used for probabilistic forecasts, penalises the squared difference between a predicted probability and the outcome. Lower scores mean better forecasts, but the score reflects more than simple confidence matching; recent discussions stress that Brier scores also depend on the difficulty and distribution of the events being predicted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12818272/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
 Good feedback should therefore ask two questions after a batch of judgements:
 
@@ -527,9 +527,9 @@ This is where many self-improvement efforts fail. People review only their mista
 
 ## Feedback works best when it is close to the reasoning
 
-The shorter the gap between judgement and feedback, the easier it is to connect cause and correction. In learning research, feedback can help people correct metacognitive errors: for example, Butler and colleagues found that feedback was especially useful when people gave correct answers with low confidence, because it corrected their mistaken sense that they had not known the answer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Butler-et-al-2008_JEPLMC.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychnet.wustl.edu">[Psychnet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychnet.wustl.edu</span><span class="citation-popover-title">Butler et al 2008 JEPLMC</span><span class="citation-popover-snippet">Butler et al 2008 JEPLMC</span></span></span>
+The shorter the gap between judgement and feedback, the easier it is to connect cause and correction. In learning research, feedback can help people correct metacognitive errors: for example, Butler and colleagues found that feedback was especially useful when people gave correct answers with low confidence, because it corrected their mistaken sense that they had not known the answer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Butler-et-al-2008_JEPLMC.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychnet.wustl.edu">[Psychnet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychnet.wustl.edu</span><span class="citation-popover-title">Butler et al 2008 JEPLMC</span><span class="citation-popover-snippet">Butler et al 2008 JEPLMC</span></span></span>
 
-But feedback is not magic. Some studies find mixed effects depending on the task, the type of feedback and whether people know how to use it. Recent work on calibration training using practical scoring rules found no improvement from the tested training regimes, while research in educational settings suggests that calibration can improve when feedback is combined with self-regulated learning training, peer evaluation or repeated opportunities to adjust judgement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/full/10.1002/ffo2.199" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Open source on wiley.com.</span></span></span>
+But feedback is not magic. Some studies find mixed effects depending on the task, the type of feedback and whether people know how to use it. Recent work on calibration training using practical scoring rules found no improvement from the tested training regimes, while research in educational settings suggests that calibration can improve when feedback is combined with self-regulated learning training, peer evaluation or repeated opportunities to adjust judgement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/full/10.1002/ffo2.199" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Open source on wiley.com.</span></span></span>
 
 That mixed evidence is useful, not discouraging. It means the feedback loop must be designed, not merely added. “You were wrong” is a weak teacher. “You were wrong because you treated a small sample as representative, ignored a base rate, and gave 85% confidence where your evidence supported 60%” is much stronger.
 
@@ -555,7 +555,7 @@ Most people do not need a complex system. They need a few repeatable habits that
 
 Replace “probably”, “unlikely”, “soon” and “high risk” with numbers or ranges when the decision matters. “Probably” might mean 55% to one person and 85% to another. A number forces a clearer commitment and makes later review possible.
 
-This habit is central to forecasting practice. In the Good Judgment Project, forecasters made probabilistic estimates, updated them over time, and received scores once questions resolved. That structure turned judgement into a trainable skill rather than a one-off opinion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://learnmoore.org/papers/Mellers%20et%20al%202014.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learnmoore.org">[learnmoore.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learnmoore.org</span><span class="citation-popover-title">Mellers et al 2014</span><span class="citation-popover-snippet">Mellers et al 2014</span></span></span>
+This habit is central to forecasting practice. In the Good Judgment Project, forecasters made probabilistic estimates, updated them over time, and received scores once questions resolved. That structure turned judgement into a trainable skill rather than a one-off opinion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://learnmoore.org/papers/Mellers%20et%20al%202014.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learnmoore.org">[learnmoore.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learnmoore.org</span><span class="citation-popover-title">Mellers et al 2014</span><span class="citation-popover-snippet">Mellers et al 2014</span></span></span>
 
 ### Review batches, not just dramatic cases
 
@@ -580,7 +580,7 @@ A useful monthly review asks:
 
 A good feedback loop is not a courtroom. Its purpose is to improve future judgement. If every review becomes a search for fault, people hide [uncertainty]({{ 'uncertainty/' | relative_url }}), avoid explicit predictions and rewrite their reasoning defensively.
 
-This is why premortems and postmortems play different roles. A premortem, popularised by Gary Klein, asks a team to imagine that a project has failed and work backwards to identify possible causes before the decision is locked in. A postmortem reviews what actually happened. The first improves the decision before reality tests it; the second improves the decision process after reality has spoken.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hbr.org/2007/09/performing-a-project-premortem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-title">Harvard Business Review Performing a Project Premortem</span><span class="citation-popover-snippet">Harvard Business Review Performing a Project Premortem</span></span></span>
+This is why premortems and postmortems play different roles. A premortem, popularised by Gary Klein, asks a team to imagine that a project has failed and work backwards to identify possible causes before the decision is locked in. A postmortem reviews what actually happened. The first improves the decision before reality tests it; the second improves the decision process after reality has spoken. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hbr.org/2007/09/performing-a-project-premortem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-title">Harvard Business Review Performing a Project Premortem</span><span class="citation-popover-snippet">Harvard Business Review Performing a Project Premortem</span></span></span>
 
 ### Track the assumptions that mattered most
 
@@ -590,9 +590,9 @@ A good review identifies whether the assumption was wrong, unknowable, poorly we
 
 ## When feedback loops mislead
 
-Feedback loops can sharpen judgement, but bad feedback loops can make it worse. The most common failure is selective feedback: you see only the outcomes that your earlier decision allowed you to see. A bank that denies loans cannot directly observe whether rejected applicants would have repaid. A manager who interviews only familiar candidates receives little feedback on the people never considered. Algorithmic decision-making research treats this as a serious problem because prior decisions can shape the data available for future decisions, reinforcing bias or narrowing what the system learns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2305.06055" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+Feedback loops can sharpen judgement, but bad feedback loops can make it worse. The most common failure is selective feedback: you see only the outcomes that your earlier decision allowed you to see. A bank that denies loans cannot directly observe whether rejected applicants would have repaid. A manager who interviews only familiar candidates receives little feedback on the people never considered. Algorithmic decision-making research treats this as a serious problem because prior decisions can shape the data available for future decisions, reinforcing bias or narrowing what the system learns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2305.06055" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
-Another failure is social feedback that rewards confidence rather than accuracy. People who sound certain often gain attention, authority or promotion before their claims can be tested. The Good Judgment Project is interesting partly because it used scoring and resolution rather than charisma as the basis for feedback. Good forecasters did not need to sound dramatic; they needed to keep their probabilities aligned with evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/0963721414534257" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Forecasting Tournaments</span><span class="citation-popover-snippet">Sage Journals Forecasting Tournaments</span></span></span>
+Another failure is social feedback that rewards confidence rather than accuracy. People who sound certain often gain attention, authority or promotion before their claims can be tested. The Good Judgment Project is interesting partly because it used scoring and resolution rather than charisma as the basis for feedback. Good forecasters did not need to sound dramatic; they needed to keep their probabilities aligned with evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/0963721414534257" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Forecasting Tournaments</span><span class="citation-popover-snippet">Sage Journals Forecasting Tournaments</span></span></span>
 
 A third failure is feedback without a comparison class. “This project took six months” is less useful than “we estimated three months; comparable projects have taken five to seven; our main error was ignoring legal review time”. Calibration improves when feedback is anchored to similar cases, not isolated impressions.
 
@@ -641,178 +641,178 @@ Feedback loops calibrate judgement by turning experience into evidence. Without 
 The wider goal of improving thinking and analytical skills is not to remove uncertainty. It is to behave better inside uncertainty. A calibrated thinker can say, “I was 70% confident and this was the 30% case,” without denial. They can also say, “I was 90% confident and wrong; my model is broken,” without defensiveness. That combination of explicit prediction, honest review and adjusted confidence is what makes feedback a mechanism for sharper judgement rather than a record of wins and losses.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to How Feedback Makes Judgement Sharper. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to How Feedback Makes Judgement Sharper. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ICgWrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
-</h4>
-<p class="fr-book-author">By Philip Eyrikson Tetlock, Dan Gardner</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
+        </h4>
+        <p class="fr-book-author">By Julia Galef</p>
         
-<p class="fr-book-desc">Directly explains calibration, feedback loops, prediction accuracy and improving judgement.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Eyrikson+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Focuses on updating beliefs from evidence and improving intellectual calibration.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-</h4>
-<p class="fr-book-author">By Daniel Kahneman</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+        </h4>
+        <p class="fr-book-author">By Daniel Kahneman</p>
         
-<p class="fr-book-desc">Provides the cognitive bias foundation behind feedback, overconfidence and judgement.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides the cognitive bias foundation behind feedback, overconfidence and judgement.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
-</h4>
-<p class="fr-book-author">By Julia Galef</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Measure+Anything+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Measure Anything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CBAh4eM-g3AC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Measure Anything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=How+to+Measure+Anything+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Measure Anything">How to Measure Anything</a>
+        </h4>
+        <p class="fr-book-author">By Douglas W. Hubbard</p>
         
-<p class="fr-book-desc">Focuses on updating beliefs from evidence and improving intellectual calibration.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Shows practical methods for improving estimates, uncertainty and evidence-based decisions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=How+to+Measure+Anything+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Measure Anything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CBAh4eM-g3AC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Measure Anything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Measure Anything">How to Measure Anything</a>
-</h4>
-<p class="fr-book-author">By Douglas W. Hubbard</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Superforecasting%3A+The+Art+and+Science+of+Prediction+Philip+E.+Tetlock+and+Dan+Gardner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting: The Art and Science of Prediction on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Superforecasting%3A+The+Art+and+Science+of+Prediction+Philip+E.+Tetlock+and+Dan+Gardner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting: The Art and Science of Prediction">Superforecasting: The Art and Science of Prediction</a>
+        </h4>
+        <p class="fr-book-author">By Philip E. Tetlock and Dan Gardner</p>
         
-<p class="fr-book-desc">Shows practical methods for improving estimates, uncertainty and evidence-based decisions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly explains calibration, feedback loops, prediction accuracy and improving judgement.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Superforecasting%3A+The+Art+and+Science+of+Prediction+Philip+E.+Tetlock+and+Dan+Gardner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scout Mindset</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scout Mindset</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Measure+Anything&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Measure Anything</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-feedback-makes-judgement-sharper-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="how-feedback-makes-judgement-sharper-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2026 Habit Tracker Calendar – Premium Daily Habit Tracker Journal and Goal Board"><img src="https://i.ebayimg.com/images/g/OiYAAeSwK4VqHk0N/s-l225.jpg" alt="Listing image for 2026 Habit Tracker Calendar – Premium Daily Habit Tracker Journal and Goal Board" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-feedback-makes-judgement-sharper-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="how-feedback-makes-judgement-sharper-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">2026 Habit Tracker Calendar – Premium Daily Habit Tracker Journal and Goal Board</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-feedback-makes-judgement-sharper-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="how-feedback-makes-judgement-sharper-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-feedback-makes-judgement-sharper-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="how-feedback-makes-judgement-sharper-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-feedback-makes-judgement-sharper-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="how-feedback-makes-judgement-sharper-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2026 Habit Tracker Calendar – Premium Daily Habit Tracker Journal and Goal Board"><img src="https://i.ebayimg.com/images/g/OiYAAeSwK4VqHk0N/s-l225.jpg" alt="Listing image for 2026 Habit Tracker Calendar – Premium Daily Habit Tracker Journal and Goal Board" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-feedback-makes-judgement-sharper-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="how-feedback-makes-judgement-sharper-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">2026 Habit Tracker Calendar – Premium Daily Habit Tracker Journal and Goal Board</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-feedback-makes-judgement-sharper-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="how-feedback-makes-judgement-sharper-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-feedback-makes-judgement-sharper-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="how-feedback-makes-judgement-sharper-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-feedback-makes-judgement-sharper-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="how-feedback-makes-judgement-sharper-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Premium Habit Tracker Calendar 2026 - Daily Journal &amp; Goal Board for Motivation"><img src="https://i.ebayimg.com/images/g/Vc0AAeSwxO5ptcYy/s-l225.jpg" alt="Listing image for Premium Habit Tracker Calendar 2026 - Daily Journal &amp; Goal Board for Motivation" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-feedback-makes-judgement-sharper-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="how-feedback-makes-judgement-sharper-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Premium Habit Tracker Calendar 2026 - Daily Journal &amp; Goal Board for Motivation</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-feedback-makes-judgement-sharper-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="how-feedback-makes-judgement-sharper-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-feedback-makes-judgement-sharper-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="how-feedback-makes-judgement-sharper-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-feedback-makes-judgement-sharper-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="how-feedback-makes-judgement-sharper-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Premium Habit Tracker Calendar 2026 - Daily Journal &amp; Goal Board for Motivation"><img src="https://i.ebayimg.com/images/g/Vc0AAeSwxO5ptcYy/s-l225.jpg" alt="Listing image for Premium Habit Tracker Calendar 2026 - Daily Journal &amp; Goal Board for Motivation" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-feedback-makes-judgement-sharper-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="how-feedback-makes-judgement-sharper-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Premium Habit Tracker Calendar 2026 - Daily Journal &amp; Goal Board for Motivation</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-feedback-makes-judgement-sharper-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="how-feedback-makes-judgement-sharper-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-feedback-makes-judgement-sharper-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="how-feedback-makes-judgement-sharper-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-feedback-makes-judgement-sharper-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="how-feedback-makes-judgement-sharper-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Superhero Mission Board – Reusable A2 Dry Erase Habit Tracker"><img src="https://i.ebayimg.com/images/g/XZ8AAeSwsrlqIctB/s-l225.jpg" alt="Listing image for Superhero Mission Board – Reusable A2 Dry Erase Habit Tracker" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-feedback-makes-judgement-sharper-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="how-feedback-makes-judgement-sharper-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Superhero Mission Board – Reusable A2 Dry Erase Habit Tracker</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-feedback-makes-judgement-sharper-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="how-feedback-makes-judgement-sharper-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-feedback-makes-judgement-sharper-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="how-feedback-makes-judgement-sharper-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-feedback-makes-judgement-sharper-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="how-feedback-makes-judgement-sharper-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-feedback-makes-judgement-sharper-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="how-feedback-makes-judgement-sharper-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Superhero Mission Board – Reusable A2 Dry Erase Habit Tracker"><img src="https://i.ebayimg.com/images/g/XZ8AAeSwsrlqIctB/s-l225.jpg" alt="Listing image for Superhero Mission Board – Reusable A2 Dry Erase Habit Tracker" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-feedback-makes-judgement-sharper-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="how-feedback-makes-judgement-sharper-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Superhero Mission Board – Reusable A2 Dry Erase Habit Tracker</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-feedback-makes-judgement-sharper-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="how-feedback-makes-judgement-sharper-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-feedback-makes-judgement-sharper-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="how-feedback-makes-judgement-sharper-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-feedback-makes-judgement-sharper-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="how-feedback-makes-judgement-sharper-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -828,7 +828,7 @@ The wider goal of improving thinking and analytical skills is not to remove unce
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -848,7 +848,7 @@ The wider goal of improving thinking and analytical skills is not to remove unce
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -880,7 +880,7 @@ The wider goal of improving thinking and analytical skills is not to remove unce
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -932,7 +932,7 @@ The wider goal of improving thinking and analytical skills is not to remove unce
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -977,7 +977,7 @@ The wider goal of improving thinking and analytical skills is not to remove unce
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1017,194 +1017,194 @@ The wider goal of improving thinking and analytical skills is not to remove unce
 </section>
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: learnmoore.org  
    Title: Mellers et al 2014  
-   Link:<a href="https://learnmoore.org/papers/Mellers%20et%20al%202014.pdf" target="_blank" rel="noopener noreferrer nofollow">https://learnmoore.org/papers/Mellers%20et%20al%202014.pdf</a>  
+   Link: <a href="https://learnmoore.org/papers/Mellers%20et%20al%202014.pdf" target="_blank" rel="noopener noreferrer nofollow">https://learnmoore.org/papers/Mellers%20et%20al%202014.pdf</a>  
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: iarpa.gov  
-   Link:<a href="https://www.iarpa.gov/research-programs/ace" target="_blank" rel="noopener noreferrer nofollow">https://www.iarpa.gov/research-programs/ace</a>  
+   Link: <a href="https://www.iarpa.gov/research-programs/ace" target="_blank" rel="noopener noreferrer nofollow">https://www.iarpa.gov/research-programs/ace</a>  
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12818272/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12818272/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12818272/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12818272/</a>  
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: onlinelibrary.wiley.com  
-   Link:<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ffo2.199" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1002/ffo2.199</a>  
+   Link: <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ffo2.199" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1002/ffo2.199</a>  
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link:<a href="https://arxiv.org/abs/2305.06055" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.06055</a>  
+   Link: <a href="https://arxiv.org/abs/2305.06055" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.06055</a>  
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: arxiv.org  
    Title: arXiv Fairness under uncertainty in sequential decisions  
-   Link:<a href="https://arxiv.org/abs/2604.21711" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2604.21711</a>  
+   Link: <a href="https://arxiv.org/abs/2604.21711" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2604.21711</a>  
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/19739881/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/19739881/</a>  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/19739881/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/19739881/</a>  
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: bear.warrington.ufl.edu  
    Title: baron hershey jpsp1988  
-   Link:<a href="https://bear.warrington.ufl.edu/brenner/mar7588/Papers/baron-hershey-jpsp1988.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bear.warrington.ufl.edu/brenner/mar7588/Papers/baron-hershey-jpsp1988.pdf</a>  
+   Link: <a href="https://bear.warrington.ufl.edu/brenner/mar7588/Papers/baron-hershey-jpsp1988.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bear.warrington.ufl.edu/brenner/mar7588/Papers/baron-hershey-jpsp1988.pdf</a>  
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: carlsonschool.umn.edu  
    Title: vohs et al 2012 hindsight bias  
-   Link:<a href="https://carlsonschool.umn.edu/sites/carlsonschool.umn.edu/files/2026-01/vohs-et-al-2012-hindsight-bias.pdf" target="_blank" rel="noopener noreferrer nofollow">https://carlsonschool.umn.edu/sites/carlsonschool.umn.edu/files/2026-01/vohs-et-al-2012-hindsight-bias.pdf</a>  
+   Link: <a href="https://carlsonschool.umn.edu/sites/carlsonschool.umn.edu/files/2026-01/vohs-et-al-2012-hindsight-bias.pdf" target="_blank" rel="noopener noreferrer nofollow">https://carlsonschool.umn.edu/sites/carlsonschool.umn.edu/files/2026-01/vohs-et-al-2012-hindsight-bias.pdf</a>  
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: psychnet.wustl.edu  
    Title: Butler et al 2008 JEPLMC  
-   Link:<a href="https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Butler-et-al-2008_JEPLMC.pdf" target="_blank" rel="noopener noreferrer nofollow">https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Butler-et-al-2008_JEPLMC.pdf</a>  
+   Link: <a href="https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Butler-et-al-2008_JEPLMC.pdf" target="_blank" rel="noopener noreferrer nofollow">https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Butler-et-al-2008_JEPLMC.pdf</a>  
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: hbr.org  
    Title: Harvard Business Review Performing a Project Premortem  
-   Link:<a href="https://hbr.org/2007/09/performing-a-project-premortem" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2007/09/performing-a-project-premortem</a>  
+   Link: <a href="https://hbr.org/2007/09/performing-a-project-premortem" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2007/09/performing-a-project-premortem</a>  
 
-12.<a id="endnote-12"></a>
+12. <a id="endnote-12"></a>
    Source: journals.sagepub.com  
    Title: Sage Journals Forecasting Tournaments  
-   Link:<a href="https://journals.sagepub.com/doi/10.1177/0963721414534257" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0963721414534257</a>  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/0963721414534257" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0963721414534257</a>  
 
-13.<a id="endnote-13"></a>
+13. <a id="endnote-13"></a>
    Source: research-collection.ethz.ch  
-   Link:<a href="https://www.research-collection.ethz.ch/server/api/core/bitstreams/5cc66b9a-8013-499b-90f9-7aeba05c0195/content" target="_blank" rel="noopener noreferrer nofollow">https://www.research-collection.ethz.ch/server/api/core/bitstreams/5cc66b9a-8013-499b-90f9-7aeba05c0195/content</a>  
+   Link: <a href="https://www.research-collection.ethz.ch/server/api/core/bitstreams/5cc66b9a-8013-499b-90f9-7aeba05c0195/content" target="_blank" rel="noopener noreferrer nofollow">https://www.research-collection.ethz.ch/server/api/core/bitstreams/5cc66b9a-8013-499b-90f9-7aeba05c0195/content</a>  
 
-14.<a id="endnote-14"></a>
+14. <a id="endnote-14"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/41567946/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41567946/</a>  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/41567946/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41567946/</a>  
 
-15.<a id="endnote-15"></a>
+15. <a id="endnote-15"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12523994/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12523994/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12523994/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12523994/</a>  
 
-16.<a id="endnote-16"></a>
+16. <a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11281873/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11281873/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11281873/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11281873/</a>  
 
-17.<a id="endnote-17"></a>
+17. <a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8763848/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8763848/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8763848/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8763848/</a>  
 
-18.<a id="endnote-18"></a>
+18. <a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12372742/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12372742/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12372742/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12372742/</a>  
 
-19.<a id="endnote-19"></a>
+19. <a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6824411/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6824411/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6824411/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6824411/</a>  
 
-20.<a id="endnote-20"></a>
+20. <a id="endnote-20"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7333631/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7333631/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7333631/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7333631/</a>  
 
-21.<a id="endnote-21"></a>
+21. <a id="endnote-21"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10189590/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10189590/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10189590/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10189590/</a>  
 
-22.<a id="endnote-22"></a>
+22. <a id="endnote-22"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10912288/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10912288/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10912288/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10912288/</a>  
 
-23.<a id="endnote-23"></a>
+23. <a id="endnote-23"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10927782/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10927782/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10927782/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10927782/</a>  
 
-24.<a id="endnote-24"></a>
+24. <a id="endnote-24"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10790535/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10790535/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10790535/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10790535/</a>  
 
-25.<a id="endnote-25"></a>
+25. <a id="endnote-25"></a>
    Source: Wikipedia  
    Title: Brier score  
-   Link:<a href="https://en.wikipedia.org/wiki/Brier_score" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Brier_score</a>  
+   Link: <a href="https://en.wikipedia.org/wiki/Brier_score" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Brier_score</a>  
 
-26.<a id="endnote-26"></a>
+26. <a id="endnote-26"></a>
    Source: Wikipedia  
    Title: The Good Judgment Project  
-   Link:<a href="https://en.wikipedia.org/wiki/The_Good_Judgment_Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Good_Judgment_Project</a>  
+   Link: <a href="https://en.wikipedia.org/wiki/The_Good_Judgment_Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Good_Judgment_Project</a>  
 
-27.<a id="endnote-27"></a>
+27. <a id="endnote-27"></a>
    Source: journals.sagepub.com  
-   Link:<a href="https://journals.sagepub.com/doi/10.1177/2755323X251357643" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/2755323X251357643</a>  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/2755323X251357643" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/2755323X251357643</a>  
 
-28.<a id="endnote-28"></a>
+28. <a id="endnote-28"></a>
    Source: journals.sagepub.com  
-   Link:<a href="https://journals.sagepub.com/doi/10.1177/01492063241287188" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/01492063241287188</a>  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/01492063241287188" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/01492063241287188</a>  
 
-29.<a id="endnote-29"></a>
+29. <a id="endnote-29"></a>
    Source: journals.sagepub.com  
-   Link:<a href="https://journals.sagepub.com/doi/abs/10.3102/00346543221094083" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.3102/00346543221094083</a>  
+   Link: <a href="https://journals.sagepub.com/doi/abs/10.3102/00346543221094083" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.3102/00346543221094083</a>  
 
-30.<a id="endnote-30"></a>
+30. <a id="endnote-30"></a>
    Source: cmu.edu  
    Title: Outcome Feedback  
-   Link:<a href="https://www.cmu.edu/dietrich/sds/docs/loewenstein/OutcomeFeedback.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cmu.edu/dietrich/sds/docs/loewenstein/OutcomeFeedback.pdf</a>  
+   Link: <a href="https://www.cmu.edu/dietrich/sds/docs/loewenstein/OutcomeFeedback.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cmu.edu/dietrich/sds/docs/loewenstein/OutcomeFeedback.pdf</a>  
 
-31.<a id="endnote-31"></a>
+31. <a id="endnote-31"></a>
    Source: profiles.wustl.edu  
    Title: psychological strategies for winning a geopolitical forecasting t  
-   Link:<a href="https://profiles.wustl.edu/en/publications/psychological-strategies-for-winning-a-geopolitical-forecasting-t/" target="_blank" rel="noopener noreferrer nofollow">https://profiles.wustl.edu/en/publications/psychological-strategies-for-winning-a-geopolitical-forecasting-t/</a>  
+   Link: <a href="https://profiles.wustl.edu/en/publications/psychological-strategies-for-winning-a-geopolitical-forecasting-t/" target="_blank" rel="noopener noreferrer nofollow">https://profiles.wustl.edu/en/publications/psychological-strategies-for-winning-a-geopolitical-forecasting-t/</a>  
 
-32.<a id="endnote-32"></a>
+32. <a id="endnote-32"></a>
    Source: frontiersin.org  
-   Link:<a href="https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full</a>  
+   Link: <a href="https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full</a>  
 
-33.<a id="endnote-33"></a>
+33. <a id="endnote-33"></a>
    Source: dataopsschool.com  
    Title: brier score  
-   Link:<a href="https://dataopsschool.com/blog/brier-score/" target="_blank" rel="noopener noreferrer nofollow">https://dataopsschool.com/blog/brier-score/</a>  
+   Link: <a href="https://dataopsschool.com/blog/brier-score/" target="_blank" rel="noopener noreferrer nofollow">https://dataopsschool.com/blog/brier-score/</a>  
 
 ### Additional References
 
-34.<a id="endnote-34"></a>
+34. <a id="endnote-34"></a>
    Source: youtube.com  
    Title: Ep. 234: Dr. Gary Klein  
-   Link:<a href="https://www.youtube.com/watch?v=xslxJpbUo-s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xslxJpbUo-s</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Expert Political Judgment: How Good Is It? How Can We Know? | Philip Tetlock...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=xslxJpbUo-s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xslxJpbUo-s</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Expert Political Judgment: How Good Is It? How Can We Know? | Philip Tetlock...</p></details>
 
-35.<a id="endnote-35"></a>
+35. <a id="endnote-35"></a>
    Source: youtube.com  
    Title: Why "scout mindset" is crucial to good judgment | Julia Galef | TEDx PSU  
-   Link:<a href="https://www.youtube.com/watch?v=3MYEtQ5Zdn8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3MYEtQ5Zdn8</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Know Your Own Future (at least 10% better)...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=3MYEtQ5Zdn8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3MYEtQ5Zdn8</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Know Your Own Future (at least 10% better)...</p></details>
 
-36.<a id="endnote-36"></a>
+36. <a id="endnote-36"></a>
    Source: youtube.com  
    Title: Know Your Own Future (at least 10% better)  
-   Link:<a href="https://www.youtube.com/watch?v=mEFWad6S6iY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mEFWad6S6iY</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Predictions Fail | Use Probabilities Instead of Certainty...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=mEFWad6S6iY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mEFWad6S6iY</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Predictions Fail | Use Probabilities Instead of Certainty...</p></details>
 
-37.<a id="endnote-37"></a>
+37. <a id="endnote-37"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/26798603_Conditions_for_Intuitive_Expertise" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/26798603_Conditions_for_Intuitive_Expertise</a>  
+   Link: <a href="https://www.researchgate.net/publication/26798603_Conditions_for_Intuitive_Expertise" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/26798603_Conditions_for_Intuitive_Expertise</a>  
 
-38.<a id="endnote-38"></a>
+38. <a id="endnote-38"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/274992096_Forecasting_Tournaments_Tools_for_Increasing_Transparency_and_Improving_the_Quality_of_Debate" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/274992096_Forecasting_Tournaments_Tools_for_Increasing_Transparency_and_Improving_the_Quality_of_Debate</a>  
+   Link: <a href="https://www.researchgate.net/publication/274992096_Forecasting_Tournaments_Tools_for_Increasing_Transparency_and_Improving_the_Quality_of_Debate" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/274992096_Forecasting_Tournaments_Tools_for_Increasing_Transparency_and_Improving_the_Quality_of_Debate</a>  
 
-39.<a id="endnote-39"></a>
+39. <a id="endnote-39"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/257671125_Metacognitive_scaffolds_improve_self-judgments_of_accuracy_in_a_medical_intelligent_tutoring_system" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/257671125_Metacognitive_scaffolds_improve_self-judgments_of_accuracy_in_a_medical_intelligent_tutoring_system</a>  
+   Link: <a href="https://www.researchgate.net/publication/257671125_Metacognitive_scaffolds_improve_self-judgments_of_accuracy_in_a_medical_intelligent_tutoring_system" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/257671125_Metacognitive_scaffolds_improve_self-judgments_of_accuracy_in_a_medical_intelligent_tutoring_system</a>  
 
-40.<a id="endnote-40"></a>
+40. <a id="endnote-40"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/375085139_A_Classification_of_Feedback_Loops_and_Their_Relation_to_Biases_in_Automated_Decision-Making_Systems" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/375085139_A_Classification_of_Feedback_Loops_and_Their_Relation_to_Biases_in_Automated_Decision-Making_Systems</a>  
+   Link: <a href="https://www.researchgate.net/publication/375085139_A_Classification_of_Feedback_Loops_and_Their_Relation_to_Biases_in_Automated_Decision-Making_Systems" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/375085139_A_Classification_of_Feedback_Loops_and_Their_Relation_to_Biases_in_Automated_Decision-Making_Systems</a>  
 
-41.<a id="endnote-41"></a>
+41. <a id="endnote-41"></a>
    Source: medium.com  
-   Link:<a href="https://medium.com/%40cartelgouabou/enhancing-medical-predictions-a-comprehensive-guide-to-model-calibration-3ea741be88d7" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40cartelgouabou/enhancing-medical-predictions-a-comprehensive-guide-to-model-calibration-3ea741be88d7</a>  
+   Link: <a href="https://medium.com/%40cartelgouabou/enhancing-medical-predictions-a-comprehensive-guide-to-model-calibration-3ea741be88d7" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40cartelgouabou/enhancing-medical-predictions-a-comprehensive-guide-to-model-calibration-3ea741be88d7</a>  
 
-42.<a id="endnote-42"></a>
+42. <a id="endnote-42"></a>
    Source: eventhorizonstrategies.com  
-   Link:<a href="https://eventhorizonstrategies.com/wp-content/uploads/2021/01/Bringing-Probability-Judgments-into-Policy-Debates-via-Forecasting-Tournaments_Science-Journals-%E2%80%94-AAAS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eventhorizonstrategies.com/wp-content/uploads/2021/01/Bringing-Probability-Judgments-into-Policy-Debates-via-Forecasting-Tournaments_Science-Journals-%E2%80%94-AAAS.pdf</a>  
+   Link: <a href="https://eventhorizonstrategies.com/wp-content/uploads/2021/01/Bringing-Probability-Judgments-into-Policy-Debates-via-Forecasting-Tournaments_Science-Journals-%E2%80%94-AAAS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eventhorizonstrategies.com/wp-content/uploads/2021/01/Bringing-Probability-Judgments-into-Policy-Debates-via-Forecasting-Tournaments_Science-Journals-%E2%80%94-AAAS.pdf</a>  
 
-43.<a id="endnote-43"></a>
+43. <a id="endnote-43"></a>
    Source: alliancefordecisioneducation.org  
-   Link:<a href="https://alliancefordecisioneducation.org/resources/conducting-a-pre-mortem/" target="_blank" rel="noopener noreferrer nofollow">https://alliancefordecisioneducation.org/resources/conducting-a-pre-mortem/</a>  
+   Link: <a href="https://alliancefordecisioneducation.org/resources/conducting-a-pre-mortem/" target="_blank" rel="noopener noreferrer nofollow">https://alliancefordecisioneducation.org/resources/conducting-a-pre-mortem/</a>  

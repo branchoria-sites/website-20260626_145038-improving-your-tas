@@ -284,7 +284,7 @@ Self-explanation prompts are questions that ask you to explain your own reasonin
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_written_reasoning_ch_b4e5fd_self_explanation_pro_edad22-Illustration-1-dark.svg" | relative_url }}" alt="Prompts illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_written_reasoning_ch_b4e5fd_self_explanation_pro_edad22-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_written_reasoning_ch_b4e5fd_self_explanation_pro_edad22-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This makes self-explanation a practical extension of written reasoning. Instead of treating confidence as proof of understanding, it turns understanding into something that can be inspected. Decades of research in cognitive psychology and education show that prompting learners to explain ideas to themselves improves comprehension, [transfer]({{ 'transfer/' | relative_url }}) of knowledge and metacognitive monitoring, particularly for complex tasks where intuition can outrun careful analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://andymatuschak.org/files/papers/Chi%20et%20al%20-%201994%20-%20Eliciting%20self-explanations%20improves%20understanding.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: andymatuschak.org">[Andy Matuschak+2Gwern]</a><span class="citation-popover" role="note"><span class="citation-popover-source">andymatuschak.org</span><span class="citation-popover-title">Chi et al 1994 Eliciting self explanations improves understanding</span><span class="citation-popover-snippet">Andy MatuschakEliciting Self-Explanations Improves Understandingby MTH CHI · 1994 · Cited by 4299 — Here, we explore the generality of th...</span></span></span>
+This makes self-explanation a practical extension of written reasoning. Instead of treating confidence as proof of understanding, it turns understanding into something that can be inspected. Decades of research in cognitive psychology and education show that prompting learners to explain ideas to themselves improves comprehension, [transfer]({{ 'transfer/' | relative_url }}) of knowledge and metacognitive monitoring, particularly for complex tasks where intuition can outrun careful analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://andymatuschak.org/files/papers/Chi%20et%20al%20-%201994%20-%20Eliciting%20self-explanations%20improves%20understanding.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: andymatuschak.org">[Andy Matuschak+2Gwern]</a><span class="citation-popover" role="note"><span class="citation-popover-source">andymatuschak.org</span><span class="citation-popover-title">Chi et al 1994 Eliciting self explanations improves understanding</span><span class="citation-popover-snippet">Andy MatuschakEliciting Self-Explanations Improves Understandingby MTH CHI · 1994 · Cited by 4299 — Here, we explore the generality of th...</span></span></span>
 
 ## What self-explanation adds to a reasoning chain
 
@@ -294,7 +294,7 @@ Without explanation, a chain can remain superficial:
 
 * "I think option A is best because it is cheaper."
 
-With self-explanation, the reasoning becomes more testable:<span class="citation-chip-wrap"><a class="citation-chip" href="https://researchschool.org.uk/devon/news/explaining-self-explanation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchschool.org.uk">[researchschool.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchschool.org.uk</span><span class="citation-popover-title">explaining self explanation</span><span class="citation-popover-snippet">Research Schools NetworkExplaining Self-explanation &#124; Devon Research School7 Jul 2020 — A meta-analysis by Bisra et al (2018) concluded ​...</span></span></span>
+With self-explanation, the reasoning becomes more testable: <span class="citation-chip-wrap"><a class="citation-chip" href="https://researchschool.org.uk/devon/news/explaining-self-explanation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchschool.org.uk">[researchschool.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchschool.org.uk</span><span class="citation-popover-title">explaining self explanation</span><span class="citation-popover-snippet">Research Schools NetworkExplaining Self-explanation &#124; Devon Research School7 Jul 2020 — A meta-analysis by Bisra et al (2018) concluded ​...</span></span></span>
 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
@@ -305,7 +305,7 @@ With self-explanation, the reasoning becomes more testable:<span class="citation
 
 </div>
 
-These prompts encourage what psychologists describe as constructive processing: generating connections that are not explicitly present in the material itself. Rather than repeating information, the learner creates links between concepts, prior knowledge and evidence. This constructive activity is one of the [mechanisms]({{ 'mechanisms/' | relative_url }}) believed to explain why self-explanation improves learning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://andymatuschak.org/files/papers/Chi%20et%20al%20-%201994%20-%20Eliciting%20self-explanations%20improves%20understanding.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: andymatuschak.org">[Andy Matuschak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">andymatuschak.org</span><span class="citation-popover-title">Chi et al 1994 Eliciting self explanations improves understanding</span><span class="citation-popover-snippet">Andy MatuschakEliciting Self-Explanations Improves Understandingby MTH CHI · 1994 · Cited by 4299 — Here, we explore the generality of th...</span></span></span>
+These prompts encourage what psychologists describe as constructive processing: generating connections that are not explicitly present in the material itself. Rather than repeating information, the learner creates links between concepts, prior knowledge and evidence. This constructive activity is one of the [mechanisms]({{ 'mechanisms/' | relative_url }}) believed to explain why self-explanation improves learning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://andymatuschak.org/files/papers/Chi%20et%20al%20-%201994%20-%20Eliciting%20self-explanations%20improves%20understanding.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: andymatuschak.org">[Andy Matuschak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">andymatuschak.org</span><span class="citation-popover-title">Chi et al 1994 Eliciting self explanations improves understanding</span><span class="citation-popover-snippet">Andy MatuschakEliciting Self-Explanations Improves Understandingby MTH CHI · 1994 · Cited by 4299 — Here, we explore the generality of th...</span></span></span>
 
 Importantly, self-explanation is different from simply talking through thoughts or summarising notes. A summary repeats information. A self-explanation asks why each piece belongs and how it supports the conclusion.
 
@@ -313,9 +313,9 @@ Importantly, self-explanation is different from simply talking through thoughts 
 
 One reason self-explanation works is that people frequently mistake familiarity for understanding. Reading an explanation or recognising terminology creates a feeling of knowing that may disappear when asked to produce an explanation independently.
 
-Psychologists describe a related phenomenon as the *illusion of explanatory depth*: people often believe they understand complex systems much better than they actually do. When they attempt a detailed explanation, their confidence commonly falls because they discover missing causal links.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Illusion_of_explanatory_depth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Illusion of explanatory depth</span><span class="citation-popover-snippet">Illusion of explanatory depth</span></span></span>
+Psychologists describe a related phenomenon as the *illusion of explanatory depth*: people often believe they understand complex systems much better than they actually do. When they attempt a detailed explanation, their confidence commonly falls because they discover missing causal links. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Illusion_of_explanatory_depth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Illusion of explanatory depth</span><span class="citation-popover-snippet">Illusion of explanatory depth</span></span></span>
 
-Self-explanation interrupts this illusion by forcing questions such as:<span class="citation-chip-wrap"><a class="citation-chip" href="https://researchschool.org.uk/devon/news/explaining-self-explanation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchschool.org.uk">[researchschool.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchschool.org.uk</span><span class="citation-popover-title">explaining self explanation</span><span class="citation-popover-snippet">Research Schools NetworkExplaining Self-explanation &#124; Devon Research School7 Jul 2020 — A meta-analysis by Bisra et al (2018) concluded ​...</span></span></span>
+Self-explanation interrupts this illusion by forcing questions such as: <span class="citation-chip-wrap"><a class="citation-chip" href="https://researchschool.org.uk/devon/news/explaining-self-explanation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchschool.org.uk">[researchschool.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchschool.org.uk</span><span class="citation-popover-title">explaining self explanation</span><span class="citation-popover-snippet">Research Schools NetworkExplaining Self-explanation &#124; Devon Research School7 Jul 2020 — A meta-analysis by Bisra et al (2018) concluded ​...</span></span></span>
 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
@@ -368,7 +368,7 @@ Useful examples include:
 
 </div>
 
-These prompts improve metacognitive monitoring by distinguishing confidence from actual understanding.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://research.tue.nl/files/247202299/s11423_022_10156_2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.tue.nl">[Eindhoven TU Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.tue.nl</span><span class="citation-popover-snippet">Eindhoven TU Research PortalImproving metacognition through self-explication in a digital...2022 · Cited by 54 — Metacognitive prompts a...</span></span></span>
+These prompts improve metacognitive monitoring by distinguishing confidence from actual understanding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://research.tue.nl/files/247202299/s11423_022_10156_2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.tue.nl">[Eindhoven TU Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.tue.nl</span><span class="citation-popover-snippet">Eindhoven TU Research PortalImproving metacognition through self-explication in a digital...2022 · Cited by 54 — Metacognitive prompts a...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_written_reasoning_ch_b4e5fd_self_explanation_pro_edad22-Illustration-2-dark.svg" | relative_url }}" alt="Prompts illustration 2" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_written_reasoning_ch_b4e5fd_self_explanation_pro_edad22-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_written_reasoning_ch_b4e5fd_self_explanation_pro_edad22-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -387,7 +387,7 @@ Helpful prompts include:
 
 </div>
 
-Research on self-explanation consistently finds that learners who explain underlying principles transfer knowledge better than those who merely memorise procedures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://andymatuschak.org/files/papers/Chi%20et%20al%20-%201994%20-%20Eliciting%20self-explanations%20improves%20understanding.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: andymatuschak.org">[Andy Matuschak+2Gwern]</a><span class="citation-popover" role="note"><span class="citation-popover-source">andymatuschak.org</span><span class="citation-popover-title">Chi et al 1994 Eliciting self explanations improves understanding</span><span class="citation-popover-snippet">Andy MatuschakEliciting Self-Explanations Improves Understandingby MTH CHI · 1994 · Cited by 4299 — Here, we explore the generality of th...</span></span></span>
+Research on self-explanation consistently finds that learners who explain underlying principles transfer knowledge better than those who merely memorise procedures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://andymatuschak.org/files/papers/Chi%20et%20al%20-%201994%20-%20Eliciting%20self-explanations%20improves%20understanding.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: andymatuschak.org">[Andy Matuschak+2Gwern]</a><span class="citation-popover" role="note"><span class="citation-popover-source">andymatuschak.org</span><span class="citation-popover-title">Chi et al 1994 Eliciting self explanations improves understanding</span><span class="citation-popover-snippet">Andy MatuschakEliciting Self-Explanations Improves Understandingby MTH CHI · 1994 · Cited by 4299 — Here, we explore the generality of th...</span></span></span>
 
 ### Challenging assumptions
 
@@ -416,7 +416,7 @@ Suppose someone concludes:
 
 > "Remote working reduces productivity."
 
-Without self-explanation, the reasoning may stop there.<span class="citation-chip-wrap"><a class="citation-chip" href="https://researchschool.org.uk/devon/news/explaining-self-explanation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchschool.org.uk">[researchschool.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchschool.org.uk</span><span class="citation-popover-title">explaining self explanation</span><span class="citation-popover-snippet">Research Schools NetworkExplaining Self-explanation &#124; Devon Research School7 Jul 2020 — A meta-analysis by Bisra et al (2018) concluded ​...</span></span></span>
+Without self-explanation, the reasoning may stop there. <span class="citation-chip-wrap"><a class="citation-chip" href="https://researchschool.org.uk/devon/news/explaining-self-explanation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchschool.org.uk">[researchschool.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchschool.org.uk</span><span class="citation-popover-title">explaining self explanation</span><span class="citation-popover-snippet">Research Schools NetworkExplaining Self-explanation &#124; Devon Research School7 Jul 2020 — A meta-analysis by Bisra et al (2018) concluded ​...</span></span></span>
 
 A prompted explanation might unfold as follows:
 
@@ -434,12 +434,12 @@ The conclusion may ultimately remain unchanged. Equally, the person may discover
 
 Self-explanation is beneficial when it encourages meaningful reasoning, but more prompting is not always better.
 
-One common mistake is asking learners to explain every tiny step of an already difficult task. Excessive prompting increases cognitive load—the demand placed on working memory—and can interfere with learning instead of supporting it. Research suggests that prompts work best when they fit both the learner's existing knowledge and the structure of the material being learned.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ijlter.org/index.php/ijlter/article/download/2856/pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ijlter.org">[IJOLTER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ijlter.org</span><span class="citation-popover-snippet">December 31, 2020 — The instructional fit hypothesis states that the effect of self-explanation prompts is more powerful when the objecti...</span><span class="citation-popover-meta">Published: December 31, 2020</span></span></span>
+One common mistake is asking learners to explain every tiny step of an already difficult task. Excessive prompting increases cognitive load—the demand placed on working memory—and can interfere with learning instead of supporting it. Research suggests that prompts work best when they fit both the learner's existing knowledge and the structure of the material being learned. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ijlter.org/index.php/ijlter/article/download/2856/pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ijlter.org">[IJOLTER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ijlter.org</span><span class="citation-popover-snippet">December 31, 2020 — The instructional fit hypothesis states that the effect of self-explanation prompts is more powerful when the objecti...</span><span class="citation-popover-meta">Published: December 31, 2020</span></span></span>
 
 Other situations where prompts become less useful include:
 
 * **When answers become formulaic.** If people mechanically complete reflection questions without genuine engagement, explanations become routine rather than diagnostic.
-* **When prompts focus on justification instead of explanation.** Asking "Why are you right?" often encourages people to defend existing beliefs. Asking "How does this work?" is more likely to expose missing understanding, particularly for causal topics.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Illusion_of_explanatory_depth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Illusion of explanatory depth</span><span class="citation-popover-snippet">Illusion of explanatory depth</span></span></span>
+* **When prompts focus on justification instead of explanation.** Asking "Why are you right?" often encourages people to defend existing beliefs. Asking "How does this work?" is more likely to expose missing understanding, particularly for causal topics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Illusion_of_explanatory_depth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Illusion of explanatory depth</span><span class="citation-popover-snippet">Illusion of explanatory depth</span></span></span>
 * **When the learner lacks essential background knowledge.** Prompts cannot replace missing information. They help organise and inspect reasoning, but they cannot generate understanding from nothing.
 
 Effective prompting therefore balances challenge with feasibility. It should make thinking visible without overwhelming the learner or encouraging defensive rationalisation.
@@ -449,7 +449,7 @@ Effective prompting therefore balances challenge with feasibility. It should mak
 
 ## Making self-explanation a regular habit
 
-The strongest evidence suggests that self-explanation works because it changes how people interact with information, not because it produces longer written responses. Successful learners actively connect ideas, monitor understanding and repair gaps as they emerge instead of discovering misunderstandings only after failure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gwern.net/doc/psychology/spaced-repetition/2018-bisra.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gwern.net">[Gwern+2Andy Matuschak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gwern.net</span><span class="citation-popover-snippet">Inducing Self-Explanation: a Meta-AnalysisSelf-explanation is a constructive cognitive activity learners can enact, at will or in re...</span></span></span>
+The strongest evidence suggests that self-explanation works because it changes how people interact with information, not because it produces longer written responses. Successful learners actively connect ideas, monitor understanding and repair gaps as they emerge instead of discovering misunderstandings only after failure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gwern.net/doc/psychology/spaced-repetition/2018-bisra.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gwern.net">[Gwern+2Andy Matuschak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gwern.net</span><span class="citation-popover-snippet">Inducing Self-Explanation: a Meta-AnalysisSelf-explanation is a constructive cognitive activity learners can enact, at will or in re...</span></span></span>
 
 A short set of recurring prompts is often enough:
 
@@ -462,178 +462,178 @@ A short set of recurring prompts is often enough:
 Used alongside written reasoning chains, these prompts transform explanation from a record of what you think into a tool for discovering what you still need to understand.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Prompts That Reveal Gaps in Thinking. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Prompts That Reveal Gaps in Thinking. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oneWAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-</h4>
-<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oneWAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+        </h4>
+        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-<p class="fr-book-desc">Explains evidence-based learning techniques including retrieval, self-testing, and strategies closely aligned with self-explanation prompts.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains evidence-based learning techniques including retrieval, self-testing, and strategies closely aligned with self-explanation prompts.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-</h4>
-<p class="fr-book-author">By Daniel Kahneman</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pyramid+Principle+Barbara+Minto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pyramid Principle on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cpUowkjMX_gC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pyramid Principle" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Pyramid+Principle+Barbara+Minto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pyramid Principle">The Pyramid Principle</a>
+        </h4>
+        <p class="fr-book-author">By Barbara Minto</p>
         
-<p class="fr-book-desc">Provides the cognitive framework for understanding biases, assumptions, and why explaining reasoning improves judgment.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Teaches structured reasoning and making thinking explicit, complementing written reasoning and self-explanation practices.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Pyramid+Principle+Barbara+Minto&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Xg-CBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-</h4>
-<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Learning+Josh+Waitzkin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Learning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XUwOtdcIWdkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Art of Learning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Art+of+Learning+Josh+Waitzkin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Learning">The Art of Learning</a>
+        </h4>
+        <p class="fr-book-author">By Josh Waitzkin</p>
         
-<p class="fr-book-desc">Develops disciplined questioning, active reading, and explanatory thinking that help reveal gaps in understanding.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Focuses on reflective practice, metacognition, and learning from mistakes through deliberate explanation.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Art+of+Learning+Josh+Waitzkin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Learning+by+Josh+Waitzkin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Learning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XUwOtdcIWdkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Art of Learning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Art+of+Learning+by+Josh+Waitzkin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Learning">The Art of Learning</a>
-</h4>
-<p class="fr-book-author">By Josh Waitzkin</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Xg-CBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+        </h4>
+        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
         
-<p class="fr-book-desc">Focuses on reflective practice, metacognition, and learning from mistakes through deliberate explanation.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Art+of+Learning+by+Josh+Waitzkin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Develops disciplined questioning, active reading, and explanatory thinking that help reveal gaps in understanding.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pyramid+Principle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pyramid Principle</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Learning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Learning</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">eBay marketplace picks</p>
-<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-</div>
-<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-<div class="fr-ebay-market-toolbar">
-<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-<div class="fr-ebay-market-picker">
-<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-<span data-ebay-trigger-market-label>USA</span>
-</button>
-<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-</select>
-<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-</div>
-</div>
-</div>
-</div>
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-<div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+thinking+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompts-prompts-that-reveal-gaps-in-thinking-improving-your-think-educational-poster-thinking-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster thinking -book -books" data-ebay-reference="prompts-prompts-that-reveal-gaps-in-thinking-improving-your-think-educational-poster-thinking-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cognitive Thinking Errors Educational Poster Wall Art Premium Quality"><img src="{{ '/assets/images/marketplace-covers/3fd0dbecd558813b2d1f.jpg' | relative_url }}" alt="Listing image for Cognitive Thinking Errors Educational Poster Wall Art Premium Quality" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+thinking+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompts-prompts-that-reveal-gaps-in-thinking-improving-your-think-educational-poster-thinking-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster thinking -book -books" data-ebay-reference="prompts-prompts-that-reveal-gaps-in-thinking-improving-your-think-educational-poster-thinking-book-books" target="_blank" rel="sponsored noopener noreferrer">Cognitive Thinking Errors Educational Poster Wall Art Premium Quality</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+thinking+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompts-prompts-that-reveal-gaps-in-thinking-improving-your-think-educational-poster-thinking-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster thinking -book -books" data-ebay-reference="prompts-prompts-that-reveal-gaps-in-thinking-improving-your-think-educational-poster-thinking-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational poster thinking">Search<span data-ebay-domain-label>eBay.co.uk</span>: educational poster thinking</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+thinking+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompts-prompts-that-reveal-gaps-in-thinking-improving-your-think-educational-poster-thinking-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster thinking -book -books" data-ebay-reference="prompts-prompts-that-reveal-gaps-in-thinking-improving-your-think-educational-poster-thinking-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+thinking+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompts-prompts-that-reveal-gaps-in-thinking-improving-your-think-educational-poster-thinking-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster thinking -book -books" data-ebay-reference="prompts-prompts-that-reveal-gaps-in-thinking-improving-your-think-educational-poster-thinking-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cognitive Thinking Errors Educational Poster Wall Art Premium Quality"><img src="{{ '/assets/images/marketplace-covers/3fd0dbecd558813b2d1f.jpg' | relative_url }}" alt="Listing image for Cognitive Thinking Errors Educational Poster Wall Art Premium Quality" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+thinking+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompts-prompts-that-reveal-gaps-in-thinking-improving-your-think-educational-poster-thinking-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster thinking -book -books" data-ebay-reference="prompts-prompts-that-reveal-gaps-in-thinking-improving-your-think-educational-poster-thinking-book-books" target="_blank" rel="sponsored noopener noreferrer">Cognitive Thinking Errors Educational Poster Wall Art Premium Quality</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+thinking+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompts-prompts-that-reveal-gaps-in-thinking-improving-your-think-educational-poster-thinking-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster thinking -book -books" data-ebay-reference="prompts-prompts-that-reveal-gaps-in-thinking-improving-your-think-educational-poster-thinking-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational poster thinking">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational poster thinking</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+thinking+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompts-prompts-that-reveal-gaps-in-thinking-improving-your-think-educational-poster-thinking-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster thinking -book -books" data-ebay-reference="prompts-prompts-that-reveal-gaps-in-thinking-improving-your-think-educational-poster-thinking-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+thinking+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompts-prompts-that-reveal-gaps-in-thinking-improving-your-think-educational-poster-thinking-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster thinking -book -books" data-ebay-reference="prompts-prompts-that-reveal-gaps-in-thinking-improving-your-think-educational-poster-thinking-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SEX EDUCATION THINKING OF SCHOOL EDUCATIONAL POSTER - A3 SIZE 11.7 x 16.5&quot;"><img src="{{ '/assets/images/marketplace-covers/495fc8de6e28b4db3e11.jpg' | relative_url }}" alt="Listing image for SEX EDUCATION THINKING OF SCHOOL EDUCATIONAL POSTER - A3 SIZE 11.7 x 16.5&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+thinking+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompts-prompts-that-reveal-gaps-in-thinking-improving-your-think-educational-poster-thinking-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster thinking -book -books" data-ebay-reference="prompts-prompts-that-reveal-gaps-in-thinking-improving-your-think-educational-poster-thinking-book-books" target="_blank" rel="sponsored noopener noreferrer">SEX EDUCATION THINKING OF SCHOOL EDUCATIONAL POSTER - A3 SIZE 11.7 x 16.5&quot;</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+thinking+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompts-prompts-that-reveal-gaps-in-thinking-improving-your-think-educational-poster-thinking-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster thinking -book -books" data-ebay-reference="prompts-prompts-that-reveal-gaps-in-thinking-improving-your-think-educational-poster-thinking-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational poster thinking">Search<span data-ebay-domain-label>eBay.co.uk</span>: educational poster thinking</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+thinking+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompts-prompts-that-reveal-gaps-in-thinking-improving-your-think-educational-poster-thinking-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster thinking -book -books" data-ebay-reference="prompts-prompts-that-reveal-gaps-in-thinking-improving-your-think-educational-poster-thinking-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+thinking+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompts-prompts-that-reveal-gaps-in-thinking-improving-your-think-educational-poster-thinking-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster thinking -book -books" data-ebay-reference="prompts-prompts-that-reveal-gaps-in-thinking-improving-your-think-educational-poster-thinking-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SEX EDUCATION THINKING OF SCHOOL EDUCATIONAL POSTER - A3 SIZE 11.7 x 16.5&quot;"><img src="{{ '/assets/images/marketplace-covers/495fc8de6e28b4db3e11.jpg' | relative_url }}" alt="Listing image for SEX EDUCATION THINKING OF SCHOOL EDUCATIONAL POSTER - A3 SIZE 11.7 x 16.5&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+thinking+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompts-prompts-that-reveal-gaps-in-thinking-improving-your-think-educational-poster-thinking-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster thinking -book -books" data-ebay-reference="prompts-prompts-that-reveal-gaps-in-thinking-improving-your-think-educational-poster-thinking-book-books" target="_blank" rel="sponsored noopener noreferrer">SEX EDUCATION THINKING OF SCHOOL EDUCATIONAL POSTER - A3 SIZE 11.7 x 16.5&quot;</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+thinking+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompts-prompts-that-reveal-gaps-in-thinking-improving-your-think-educational-poster-thinking-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster thinking -book -books" data-ebay-reference="prompts-prompts-that-reveal-gaps-in-thinking-improving-your-think-educational-poster-thinking-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational poster thinking">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational poster thinking</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+thinking+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompts-prompts-that-reveal-gaps-in-thinking-improving-your-think-educational-poster-thinking-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster thinking -book -books" data-ebay-reference="prompts-prompts-that-reveal-gaps-in-thinking-improving-your-think-educational-poster-thinking-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+thinking+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompts-prompts-that-reveal-gaps-in-thinking-improving-your-think-educational-poster-thinking-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster thinking -book -books" data-ebay-reference="prompts-prompts-that-reveal-gaps-in-thinking-improving-your-think-educational-poster-thinking-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SEX EDUCATION THINKING OF SCHOOL EDUCATIONAL POSTER - A3 SIZE 11.7 x 16.5&quot;"><img src="{{ '/assets/images/marketplace-covers/495fc8de6e28b4db3e11.jpg' | relative_url }}" alt="Listing image for SEX EDUCATION THINKING OF SCHOOL EDUCATIONAL POSTER - A3 SIZE 11.7 x 16.5&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+thinking+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompts-prompts-that-reveal-gaps-in-thinking-improving-your-think-educational-poster-thinking-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster thinking -book -books" data-ebay-reference="prompts-prompts-that-reveal-gaps-in-thinking-improving-your-think-educational-poster-thinking-book-books" target="_blank" rel="sponsored noopener noreferrer">SEX EDUCATION THINKING OF SCHOOL EDUCATIONAL POSTER - A3 SIZE 11.7 x 16.5&quot;</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+thinking+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompts-prompts-that-reveal-gaps-in-thinking-improving-your-think-educational-poster-thinking-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster thinking -book -books" data-ebay-reference="prompts-prompts-that-reveal-gaps-in-thinking-improving-your-think-educational-poster-thinking-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational poster thinking">Search<span data-ebay-domain-label>eBay.co.uk</span>: educational poster thinking</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+thinking+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompts-prompts-that-reveal-gaps-in-thinking-improving-your-think-educational-poster-thinking-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster thinking -book -books" data-ebay-reference="prompts-prompts-that-reveal-gaps-in-thinking-improving-your-think-educational-poster-thinking-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+thinking+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompts-prompts-that-reveal-gaps-in-thinking-improving-your-think-educational-poster-thinking-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster thinking -book -books" data-ebay-reference="prompts-prompts-that-reveal-gaps-in-thinking-improving-your-think-educational-poster-thinking-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+thinking+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompts-prompts-that-reveal-gaps-in-thinking-improving-your-think-educational-poster-thinking-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster thinking -book -books" data-ebay-reference="prompts-prompts-that-reveal-gaps-in-thinking-improving-your-think-educational-poster-thinking-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SEX EDUCATION THINKING OF SCHOOL EDUCATIONAL POSTER - A3 SIZE 11.7 x 16.5&quot;"><img src="{{ '/assets/images/marketplace-covers/495fc8de6e28b4db3e11.jpg' | relative_url }}" alt="Listing image for SEX EDUCATION THINKING OF SCHOOL EDUCATIONAL POSTER - A3 SIZE 11.7 x 16.5&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+thinking+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompts-prompts-that-reveal-gaps-in-thinking-improving-your-think-educational-poster-thinking-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster thinking -book -books" data-ebay-reference="prompts-prompts-that-reveal-gaps-in-thinking-improving-your-think-educational-poster-thinking-book-books" target="_blank" rel="sponsored noopener noreferrer">SEX EDUCATION THINKING OF SCHOOL EDUCATIONAL POSTER - A3 SIZE 11.7 x 16.5&quot;</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+thinking+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompts-prompts-that-reveal-gaps-in-thinking-improving-your-think-educational-poster-thinking-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster thinking -book -books" data-ebay-reference="prompts-prompts-that-reveal-gaps-in-thinking-improving-your-think-educational-poster-thinking-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational poster thinking">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational poster thinking</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+thinking+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompts-prompts-that-reveal-gaps-in-thinking-improving-your-think-educational-poster-thinking-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster thinking -book -books" data-ebay-reference="prompts-prompts-that-reveal-gaps-in-thinking-improving-your-think-educational-poster-thinking-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+thinking+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompts-prompts-that-reveal-gaps-in-thinking-improving-your-think-educational-poster-thinking-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster thinking -book -books" data-ebay-reference="prompts-prompts-that-reveal-gaps-in-thinking-improving-your-think-educational-poster-thinking-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -649,7 +649,7 @@ Used alongside written reasoning chains, these prompts transform explanation fro
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i< languages.length; i += 1) {
+    for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -669,7 +669,7 @@ Used alongside written reasoning chains, these prompts transform explanation fro
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i< timezoneRules.length; i += 1) {
+    for (var i = 0; i < timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -701,7 +701,7 @@ Used alongside written reasoning chains, these prompts transform explanation fro
   };
 })();
 </script>
-<script type="text/javascript">
+  <script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -753,7 +753,7 @@ Used alongside written reasoning chains, these prompts transform explanation fro
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -798,7 +798,7 @@ Used alongside written reasoning chains, these prompts transform explanation fro
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket)< 0) {
+    } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -839,85 +839,85 @@ Used alongside written reasoning chains, these prompts transform explanation fro
 
 ## Endnotes
 
-1.<a id="endnote-1"></a>
+1. <a id="endnote-1"></a>
    Source: gwern.net  
-   Link:<a href="https://gwern.net/doc/psychology/spaced-repetition/2018-bisra.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gwern.net/doc/psychology/spaced-repetition/2018-bisra.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Inducing Self-Explanation: a Meta-AnalysisSelf-explanation is a constructive cognitive activity learners can enact, at will or in re...</p></details>
+   Link: <a href="https://gwern.net/doc/psychology/spaced-repetition/2018-bisra.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gwern.net/doc/psychology/spaced-repetition/2018-bisra.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Inducing Self-Explanation: a Meta-AnalysisSelf-explanation is a constructive cognitive activity learners can enact, at will or in re...</p></details>
 
-2.<a id="endnote-2"></a>
+2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Illusion of explanatory depth  
-   Link:<a href="https://en.wikipedia.org/wiki/Illusion_of_explanatory_depth" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Illusion_of_explanatory_depth</a>  
+   Link: <a href="https://en.wikipedia.org/wiki/Illusion_of_explanatory_depth" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Illusion_of_explanatory_depth</a>  
 
-3.<a id="endnote-3"></a>
+3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Worked-example effect  
-   Link:<a href="https://en.wikipedia.org/wiki/Worked-example_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Worked-example_effect</a>  
+   Link: <a href="https://en.wikipedia.org/wiki/Worked-example_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Worked-example_effect</a>  
 
-4.<a id="endnote-4"></a>
+4. <a id="endnote-4"></a>
    Source: ijlter.org  
-   Link:<a href="https://www.ijlter.org/index.php/ijlter/article/download/2856/pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ijlter.org/index.php/ijlter/article/download/2856/pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>December 31, 2020 — The instructional fit hypothesis states that the effect of self-explanation prompts is more powerful when the objecti...</p></details>
+   Link: <a href="https://www.ijlter.org/index.php/ijlter/article/download/2856/pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ijlter.org/index.php/ijlter/article/download/2856/pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>December 31, 2020 — The instructional fit hypothesis states that the effect of self-explanation prompts is more powerful when the objecti...</p></details>
    Published: December 31, 2020  
 
-5.<a id="endnote-5"></a>
+5. <a id="endnote-5"></a>
    Source: andymatuschak.org  
    Title: Chi et al 1994 Eliciting self explanations improves understanding  
-   Link:<a href="https://andymatuschak.org/files/papers/Chi%20et%20al%20-%201994%20-%20Eliciting%20self-explanations%20improves%20understanding.pdf" target="_blank" rel="noopener noreferrer nofollow">https://andymatuschak.org/files/papers/Chi%20et%20al%20-%201994%20-%20Eliciting%20self-explanations%20improves%20understanding.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Andy MatuschakEliciting Self-Explanations Improves Understandingby MTH CHI · 1994 · Cited by 4299 — Here, we explore the generality of th...</p></details>
+   Link: <a href="https://andymatuschak.org/files/papers/Chi%20et%20al%20-%201994%20-%20Eliciting%20self-explanations%20improves%20understanding.pdf" target="_blank" rel="noopener noreferrer nofollow">https://andymatuschak.org/files/papers/Chi%20et%20al%20-%201994%20-%20Eliciting%20self-explanations%20improves%20understanding.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Andy MatuschakEliciting Self-Explanations Improves Understandingby MTH CHI · 1994 · Cited by 4299 — Here, we explore the generality of th...</p></details>
 
-6.<a id="endnote-6"></a>
+6. <a id="endnote-6"></a>
    Source: research.tue.nl  
-   Link:<a href="https://research.tue.nl/files/247202299/s11423_022_10156_2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.tue.nl/files/247202299/s11423_022_10156_2.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Eindhoven TU Research PortalImproving metacognition through self-explication in a digital...2022 · Cited by 54 — Metacognitive prompts a...</p></details>
+   Link: <a href="https://research.tue.nl/files/247202299/s11423_022_10156_2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.tue.nl/files/247202299/s11423_022_10156_2.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Eindhoven TU Research PortalImproving metacognition through self-explication in a digital...2022 · Cited by 54 — Metacognitive prompts a...</p></details>
 
-7.<a id="endnote-7"></a>
+7. <a id="endnote-7"></a>
    Source: researchschool.org.uk  
    Title: explaining self explanation  
-   Link:<a href="https://researchschool.org.uk/devon/news/explaining-self-explanation" target="_blank" rel="noopener noreferrer nofollow">https://researchschool.org.uk/devon/news/explaining-self-explanation</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Research Schools NetworkExplaining Self-explanation | Devon Research School7 Jul 2020 — A meta-analysis by Bisra et al (2018) concluded ​...</p></details>
+   Link: <a href="https://researchschool.org.uk/devon/news/explaining-self-explanation" target="_blank" rel="noopener noreferrer nofollow">https://researchschool.org.uk/devon/news/explaining-self-explanation</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Research Schools NetworkExplaining Self-explanation | Devon Research School7 Jul 2020 — A meta-analysis by Bisra et al (2018) concluded ​...</p></details>
 
 ### Additional References
 
-8.<a id="endnote-8"></a>
+8. <a id="endnote-8"></a>
    Source: researchgate.net  
-   Link:<a href="https://www.researchgate.net/publication/400691667_Self-explanation_Prompts_in_STEM_Comparing_Human_and_AI_Metacognitive_Accuracy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400691667_Self-explanation_Prompts_in_STEM_Comparing_Human_and_AI_Metacognitive_Accuracy</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-explanation Prompts in STEM: Comparing Human and...30 Apr 2026 — This study investigates the efficacy of Self-Explanation Prompts (...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/400691667_Self-explanation_Prompts_in_STEM_Comparing_Human_and_AI_Metacognitive_Accuracy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400691667_Self-explanation_Prompts_in_STEM_Comparing_Human_and_AI_Metacognitive_Accuracy</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-explanation Prompts in STEM: Comparing Human and...30 Apr 2026 — This study investigates the efficacy of Self-Explanation Prompts (...</p></details>
 
-9.<a id="endnote-9"></a>
+9. <a id="endnote-9"></a>
    Source: sciencepublishinggroup.com  
-   Link:<a href="https://sciencepublishinggroup.com/article/10.11648/j.ajcst.20260901.13" target="_blank" rel="noopener noreferrer nofollow">https://sciencepublishinggroup.com/article/10.11648/j.ajcst.20260901.13</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>cing problem-solving performance and metacognitive accuracy within STEM...</p></details>
+   Link: <a href="https://sciencepublishinggroup.com/article/10.11648/j.ajcst.20260901.13" target="_blank" rel="noopener noreferrer nofollow">https://sciencepublishinggroup.com/article/10.11648/j.ajcst.20260901.13</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>cing problem-solving performance and metacognitive accuracy within STEM...</p></details>
 
-10.<a id="endnote-10"></a>
+10. <a id="endnote-10"></a>
    Source: youtube.com  
-   Link:<a href="https://www.youtube.com/watch?v=1E248I_Dyrg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1E248I_Dyrg</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Explanation: Help Students Connect and Deepen Learning...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=1E248I_Dyrg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1E248I_Dyrg</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Explanation: Help Students Connect and Deepen Learning...</p></details>
 
-11.<a id="endnote-11"></a>
+11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: This One Study Technique Changes Everything (Most Students Miss It)  
-   Link:<a href="https://www.youtube.com/watch?v=iGBDi1WkofI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iGBDi1WkofI</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Unlock Better Learning: Understanding Neuroscience and Neurodiversity (HD Re-Upload)...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=iGBDi1WkofI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iGBDi1WkofI</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unlock Better Learning: Understanding Neuroscience and Neurodiversity (HD Re-Upload)...</p></details>
 
-12.<a id="endnote-12"></a>
+12. <a id="endnote-12"></a>
    Source: elementsoflearning.home.blog  
-   Link:<a href="https://elementsoflearning.home.blog/2022/09/29/enhancing-[worked-examples" target="_blank" rel="noopener noreferrer nofollow">https://elementsoflearning.home.blog/2022/09/29/enhancing-[worked-examples</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>worked examples with self-explanation29 Sept 2022 — Self-explaining involves generating an explanation for oneself in order to make sense...</p></details>
+   Link: <a href="https://elementsoflearning.home.blog/2022/09/29/enhancing-[worked-examples" target="_blank" rel="noopener noreferrer nofollow">https://elementsoflearning.home.blog/2022/09/29/enhancing-[worked-examples</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>worked examples with self-explanation29 Sept 2022 — Self-explaining involves generating an explanation for oneself in order to make sense...</p></details>
 
-13.<a id="endnote-13"></a>
+13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: Metacognition: The Key to Deeper Learning  
-   Link:<a href="https://www.youtube.com/watch?v=GXTFu_aSThU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GXTFu_aSThU</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>What is Metacognition? (Exploring the Layers of Thinking about Thinking)...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=GXTFu_aSThU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GXTFu_aSThU</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is Metacognition? (Exploring the Layers of Thinking about Thinking)...</p></details>
 
-14.<a id="endnote-14"></a>
+14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: Self-Explanation: Help Students Connect and Deepen Learning  
-   Link:<a href="https://www.youtube.com/watch?v=hSLPFMiJcQc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hSLPFMiJcQc</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Metacognition: The Key to Deeper Learning...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=hSLPFMiJcQc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hSLPFMiJcQc</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Metacognition: The Key to Deeper Learning...</p></details>
 
-15.<a id="endnote-15"></a>
+15. <a id="endnote-15"></a>
    Source: files.eric.ed.gov  
-   Link:<a href="https://files.eric.ed.gov/fulltext/ED618186.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/ED618186.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>It then describes how these prompts are.Read more...</p></details>
+   Link: <a href="https://files.eric.ed.gov/fulltext/ED618186.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/ED618186.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>It then describes how these prompts are.Read more...</p></details>
