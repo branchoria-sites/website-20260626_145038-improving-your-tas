@@ -457,7 +457,7 @@ The strongest real-world judgement therefore combines two ingredients. General t
           <a href="https://www.amazon.com/s?k=The+Knowledge+Gap+Natalie+Wexler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Knowledge Gap">The Knowledge Gap</a>
         </h4>
         <p class="fr-book-author">By Natalie Wexler</p>
-        
+
         <p class="fr-book-desc">Explains why broad content knowledge is essential for comprehension, reasoning, and educational equity.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Knowledge+Gap+Natalie+Wexler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -474,7 +474,7 @@ The strongest real-world judgement therefore combines two ingredients. General t
           <a href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
         </h4>
         <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
-        
+
         <p class="fr-book-desc">Shows how durable knowledge supports flexible retrieval, transfer, and better performance in real tasks.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -491,7 +491,7 @@ The strongest real-world judgement therefore combines two ingredients. General t
           <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
         </h4>
         <p class="fr-book-author">By Daniel T. Willingham</p>
-        
+
         <p class="fr-book-desc">Argues that thinking depends heavily on background knowledge, not just abstract reasoning skills.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -502,16 +502,16 @@ The strongest real-world judgement therefore combines two ingredients. General t
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Range+David+Epstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Range on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6nsmEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Range" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Thinking Clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T4TtnQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Thinking Clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Range+David+Epstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Range">Range</a>
+          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Thinking Clearly">The Art of Thinking Clearly</a>
         </h4>
-        <p class="fr-book-author">By David Epstein</p>
-        
-        <p class="fr-book-desc">Explores transfer across domains while showing why context and experience shape effective judgement.</p>
+        <p class="fr-book-author">By Rolf Dobelli</p>
+
+        <p class="fr-book-desc">Provides broad examples of judgement errors, useful as a parent-topic pick for analytical thinking.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Range+David+Epstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Art+of+Thinking+Clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

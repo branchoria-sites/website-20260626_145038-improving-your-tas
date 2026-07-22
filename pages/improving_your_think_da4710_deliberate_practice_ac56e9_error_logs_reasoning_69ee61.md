@@ -446,16 +446,16 @@ After several weeks, review the log for frequency rather than memorable failures
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Peak+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Peak on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=o9AeswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Peak" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Peak+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Peak">Peak</a>
+          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
         </h4>
-        <p class="fr-book-author">By Anders Ericsson</p>
-        
-        <p class="fr-book-desc">Directly supports the idea of using structured feedback and targeted practice after mistakes.</p>
+        <p class="fr-book-author">By Daniel Kahneman</p>
+
+        <p class="fr-book-desc">Explains recurring thinking errors that an error log is designed to identify and reduce.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Peak+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -469,7 +469,7 @@ After several weeks, review the log for frequency rather than memorable failures
           <a href="https://www.amazon.com/s?k=How+We+Learn+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How We Learn">How We Learn</a>
         </h4>
         <p class="fr-book-author">By Benedict Carey</p>
-        
+
         <p class="fr-book-desc">Covers evidence-based learning strategies that complement tracking errors and improving practice.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=How+We+Learn+Benedict+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -486,7 +486,7 @@ After several weeks, review the log for frequency rather than memorable failures
           <a href="https://www.amazon.com/s?k=The+Art+of+Learning+Josh+Waitzkin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Learning">The Art of Learning</a>
         </h4>
         <p class="fr-book-author">By Josh Waitzkin</p>
-        
+
         <p class="fr-book-desc">Focuses on learning from setbacks, refining performance, and building better practice habits.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Art+of+Learning+Josh+Waitzkin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -503,7 +503,7 @@ After several weeks, review the log for frequency rather than memorable failures
           <a href="https://www.amazon.com/s?k=Super+Thinking+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Super Thinking">Super Thinking</a>
         </h4>
         <p class="fr-book-author">By Gabriel Weinberg, Lauren McCann</p>
-        
+
         <p class="fr-book-desc">Provides mental models that help classify and prevent recurring reasoning mistakes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Super+Thinking+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -514,7 +514,7 @@ After several weeks, review the log for frequency rather than memorable failures
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Peak&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Peak</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+We+Learn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How We Learn</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Learning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Learning</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+We+Learn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How We Learn</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Learning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Learning</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
