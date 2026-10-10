@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:45:59'
 level: 3
 basename: improving_your_think_da4710_lateral_reading_afeebc_emotional_viral_clai_18915a
 parent_basename: improving_your_think_da4710_lateral_reading_afeebc

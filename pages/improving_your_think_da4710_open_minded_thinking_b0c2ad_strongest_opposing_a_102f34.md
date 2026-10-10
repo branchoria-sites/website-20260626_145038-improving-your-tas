@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:45:59'
 level: 3
 basename: improving_your_think_da4710_open_minded_thinking_b0c2ad_strongest_opposing_a_102f34
 parent_basename: improving_your_think_da4710_open_minded_thinking_b0c2ad

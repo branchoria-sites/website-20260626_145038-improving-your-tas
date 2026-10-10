@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:46:11'
 level: 3
 basename: improving_your_think_da4710_job_offer_tradeoffs_769c53_career_growth_eviden_c08ff8
 parent_basename: improving_your_think_da4710_job_offer_tradeoffs_769c53

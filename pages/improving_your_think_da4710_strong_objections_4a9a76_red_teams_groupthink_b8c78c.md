@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:46:11'
 level: 3
 basename: improving_your_think_da4710_strong_objections_4a9a76_red_teams_groupthink_b8c78c
 parent_basename: improving_your_think_da4710_strong_objections_4a9a76

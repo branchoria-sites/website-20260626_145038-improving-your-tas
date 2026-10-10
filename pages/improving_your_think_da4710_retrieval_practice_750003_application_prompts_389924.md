@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 14:25:05'
 level: 3
 basename: improving_your_think_da4710_retrieval_practice_750003_application_prompts_389924
 parent_basename: improving_your_think_da4710_retrieval_practice_750003

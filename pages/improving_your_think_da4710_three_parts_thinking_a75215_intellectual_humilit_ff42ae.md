@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:46:11'
 level: 3
 basename: improving_your_think_da4710_three_parts_thinking_a75215_intellectual_humilit_ff42ae
 parent_basename: improving_your_think_da4710_three_parts_thinking_a75215
