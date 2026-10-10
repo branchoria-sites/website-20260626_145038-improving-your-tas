@@ -233,17 +233,17 @@ ui_strings:
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-26 07:52:56'
 parent_title: Sharper Thinking
-parent_permalink: /improving-your-think/
+parent_permalink: /improving-your-thinking-and-analytical/
 parent_nav_short_title: Sharper Thinking
 ancestor_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 breadcrumb_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 sibling_links:
 - basename: improving_your_think_da4710_live_alternatives_e775b1
@@ -278,7 +278,7 @@ sibling_links:
   heading_title: A Safer Way to Make Big Decisions
 - basename: improving_your_think_da4710_domain_knowledge_96a03e
   title: Domain Knowledge | Improving Your Think
-  permalink: /domain-knowledge/
+  permalink: /domain-knowledge-96a03e/
   short_title: Domain Knowledge
   heading_title: Why Smart Thinking Needs Real Knowledge
 - basename: improving_your_think_da4710_evidence_standards_a40c69
@@ -298,7 +298,7 @@ sibling_links:
   heading_title: Can You Explain It Without Notes?
 - basename: improving_your_think_da4710_feedback_calibration_8a35f0
   title: Feedback | Improving Your Think
-  permalink: /feedback/
+  permalink: /feedback-8a35f0/
   short_title: Feedback
   heading_title: How Feedback Makes Judgement Sharper
 - basename: improving_your_think_da4710_familiarity_trap_82f724
@@ -318,7 +318,7 @@ sibling_links:
   heading_title: When to Slow Down Your Thinking
 - basename: improving_your_think_da4710_lateral_reading_afeebc
   title: Lateral Reading | Improving Your Think
-  permalink: /lateral-reading/
+  permalink: /lateral-reading-afeebc/
   short_title: Lateral Reading
   heading_title: How to Check a Claim Online
 - basename: improving_your_think_da4710_metacognition_assump_b47334
@@ -404,12 +404,12 @@ child_links:
   heading_title: Why outcomes make old choices look obvious
 - basename: improving_your_think_da4710_decision_journals_44d9d9_outcome_bias_decisio_3bef10
   title: Outcome Bias | Decision Journal
-  permalink: /outcome-bias/
+  permalink: /outcome-bias-3bef10/
   short_title: Outcome Bias
   heading_title: Was it a bad choice or bad luck?
 - basename: improving_your_think_da4710_decision_journals_44d9d9_prediction_probabili_0b0809
   title: Probabilities | Decision Journal
-  permalink: /probabilities/
+  permalink: /probabilities-0b0809/
   short_title: Probabilities
   heading_title: How sure were you, really?
 - basename: improving_your_think_da4710_decision_journals_44d9d9_promotion_decision_c_9e2b71
@@ -425,7 +425,7 @@ child_links:
 up_link:
   basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 prev_link:
   basename: improving_your_think_da4710_critical_thinking_tr_28fa6d
@@ -477,7 +477,7 @@ A useful decision journal therefore does two jobs. First, it improves the decisi
 <img src="{{ "/assets/images/improving_your_think_da4710_decision_journals_44d9d9-Illustration-1-dark.svg" | relative_url }}" alt="Decision Journal illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_decision_journals_44d9d9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_decision_journals_44d9d9-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What to record before deciding
 
-The journal entry should be short enough that you will actually use it, but specific enough that future-you cannot wriggle away from it. Farnam Street’s widely used decision-journal template frames the practice as “quality control” for thinking and recommends writing down the situation, the decision, the variables, the expected outcomes, [probabilities]({{ 'probabilities/' | relative_url }}) and later results. The most important design principle is precision: vague words create escape hatches, while clear [predictions]({{ 'predictions/' | relative_url }}) create reviewable evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fs.blog/decision-journal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fs.blog">[Farnam Street]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fs.blog</span><span class="citation-popover-title">Farnam Street Decision Journal: Template and Example Included</span><span class="citation-popover-snippet">Farnam Street Decision Journal: Template and Example Included</span></span></span>
+The journal entry should be short enough that you will actually use it, but specific enough that future-you cannot wriggle away from it. Farnam Street’s widely used decision-journal template frames the practice as “quality control” for thinking and recommends writing down the situation, the decision, the variables, the expected outcomes, [probabilities]({{ 'probabilities-0b0809/' | relative_url }}) and later results. The most important design principle is precision: vague words create escape hatches, while clear [predictions]({{ 'predictions/' | relative_url }}) create reviewable evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fs.blog/decision-journal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fs.blog">[Farnam Street]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fs.blog</span><span class="citation-popover-title">Farnam Street Decision Journal: Template and Example Included</span><span class="citation-popover-snippet">Farnam Street Decision Journal: Template and Example Included</span></span></span>
 
 For consequential decisions, record these items before acting: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cognitivebiaslab.com/bias/bias-hindsight/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cognitivebiaslab.com">[cognitivebiaslab.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cognitivebiaslab.com</span><span class="citation-popover-title">Hindsight Bias</span><span class="citation-popover-snippet">Hindsight Bias</span></span></span>
 

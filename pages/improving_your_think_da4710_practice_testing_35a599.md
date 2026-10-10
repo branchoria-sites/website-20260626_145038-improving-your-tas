@@ -233,17 +233,17 @@ ui_strings:
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-26 06:14:14'
 parent_title: Sharper Thinking
-parent_permalink: /improving-your-think/
+parent_permalink: /improving-your-thinking-and-analytical/
 parent_nav_short_title: Sharper Thinking
 ancestor_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 breadcrumb_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 sibling_links:
 - basename: improving_your_think_da4710_live_alternatives_e775b1
@@ -283,7 +283,7 @@ sibling_links:
   heading_title: A Safer Way to Make Big Decisions
 - basename: improving_your_think_da4710_domain_knowledge_96a03e
   title: Domain Knowledge | Improving Your Think
-  permalink: /domain-knowledge/
+  permalink: /domain-knowledge-96a03e/
   short_title: Domain Knowledge
   heading_title: Why Smart Thinking Needs Real Knowledge
 - basename: improving_your_think_da4710_evidence_standards_a40c69
@@ -303,7 +303,7 @@ sibling_links:
   heading_title: Can You Explain It Without Notes?
 - basename: improving_your_think_da4710_feedback_calibration_8a35f0
   title: Feedback | Improving Your Think
-  permalink: /feedback/
+  permalink: /feedback-8a35f0/
   short_title: Feedback
   heading_title: How Feedback Makes Judgement Sharper
 - basename: improving_your_think_da4710_familiarity_trap_82f724
@@ -323,7 +323,7 @@ sibling_links:
   heading_title: When to Slow Down Your Thinking
 - basename: improving_your_think_da4710_lateral_reading_afeebc
   title: Lateral Reading | Improving Your Think
-  permalink: /lateral-reading/
+  permalink: /lateral-reading-afeebc/
   short_title: Lateral Reading
   heading_title: How to Check a Claim Online
 - basename: improving_your_think_da4710_metacognition_assump_b47334
@@ -394,7 +394,7 @@ sibling_links:
 child_links:
 - basename: improving_your_think_da4710_practice_testing_35a599_reading_brain_dumps_1afd95
   title: Brain Dumps | Practice Tests
-  permalink: /brain-dumps/
+  permalink: /brain-dumps-1afd95/
   short_title: Brain Dumps
   heading_title: The Five Minute Test After Reading
 - basename: improving_your_think_da4710_practice_testing_35a599_mistakes_feedback_277a1a
@@ -414,7 +414,7 @@ child_links:
   heading_title: How to Build a Self Test That Actually Works
 - basename: improving_your_think_da4710_practice_testing_35a599_transfer_questions_ad96de
   title: Transfer | Practice Tests
-  permalink: /transfer/
+  permalink: /transfer-ad96de/
   short_title: Transfer
   heading_title: Can You Use the Idea Somewhere New?
 - basename: improving_your_think_da4710_practice_testing_35a599_work_retrieval_routi_45888a
@@ -425,7 +425,7 @@ child_links:
 up_link:
   basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 prev_link:
   basename: improving_your_think_da4710_open_minded_thinking_b0c2ad
@@ -465,7 +465,7 @@ The most useful self-test is therefore not a miniature school exam. It is a retr
 
 ## How retrieval strengthens understanding
 
-Retrieval practice is often described as a memory technique, but its value for better thinking is broader than memorising facts. It can strengthen connections, improve [transfer]({{ 'transfer/' | relative_url }}) to new questions, and expose weak mental models.
+Retrieval practice is often described as a memory technique, but its value for better thinking is broader than memorising facts. It can strengthen connections, improve [transfer]({{ 'transfer-ad96de/' | relative_url }}) to new questions, and expose weak mental models.
 
 In the classic version, a learner studies material, then either restudies it or tries to retrieve it. On an immediate test, restudying can look good because the material is fresh. After a delay, retrieval often wins because the learner has practised the exact act that later learning depends on: reconstructing knowledge from memory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/16507066/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Authors Henry L Roediger 1</span><span class="citation-popover-snippet">taking memory tests improves long-term retentionby HL Roediger · 2006 · Cited by 4886 — Taking a memory test not only assesses what...</span></span></span> This is why self-testing can feel harder while producing stronger retention.
 

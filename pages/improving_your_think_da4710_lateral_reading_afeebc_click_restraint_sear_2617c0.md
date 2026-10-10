@@ -205,27 +205,27 @@ ui_strings:
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-26 03:51:25'
 parent_title: How to Check a Claim Online
-parent_permalink: /lateral-reading/
+parent_permalink: /lateral-reading-afeebc/
 parent_nav_short_title: Lateral Reading
 parent_heading_title: How to Check a Claim Online
 ancestor_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_lateral_reading_afeebc
   title: Lateral Reading | Improving Your Think
-  permalink: /lateral-reading/
+  permalink: /lateral-reading-afeebc/
   short_title: Lateral Reading
   heading_title: How to Check a Claim Online
 breadcrumb_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_lateral_reading_afeebc
   title: Lateral Reading | Improving Your Think
-  permalink: /lateral-reading/
+  permalink: /lateral-reading-afeebc/
   short_title: Lateral Reading
   heading_title: How to Check a Claim Online
 sibling_links:
@@ -257,7 +257,7 @@ sibling_links:
 up_link:
   basename: improving_your_think_da4710_lateral_reading_afeebc
   title: Lateral Reading | Improving Your Think
-  permalink: /lateral-reading/
+  permalink: /lateral-reading-afeebc/
   short_title: Lateral Reading
   heading_title: How to Check a Claim Online
 next_link:
@@ -278,7 +278,7 @@ When checking whether a website or claim is trustworthy, one of the most valuabl
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_lateral_reading_afeebc_click_restraint_sear_2617c0-Illustration-1-dark.svg" | relative_url }}" alt="Click Restraint illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_lateral_reading_afeebc_click_restraint_sear_2617c0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_lateral_reading_afeebc_click_restraint_sear_2617c0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Click restraint is a small behavioural change, but it supports the broader practice of [lateral reading]({{ 'lateral-reading/' | relative_url }}). Rather than allowing a search engine's ranking to determine what you read first, you make an active decision about which sources deserve your attention.
+Click restraint is a small behavioural change, but it supports the broader practice of [lateral reading]({{ 'lateral-reading-afeebc/' | relative_url }}). Rather than allowing a search engine's ranking to determine what you read first, you make an active decision about which sources deserve your attention.
 
 ## Why the first search result is not enough
 

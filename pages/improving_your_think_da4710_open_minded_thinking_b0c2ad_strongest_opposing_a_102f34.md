@@ -22,7 +22,7 @@ show_ads: true
 description: Testing the best version of the opposing view reveals whether your position can survive more than easy objections.
 hero_summary: Testing the best version of the opposing view reveals whether your position can survive more than easy objections.
 layout: default
-permalink: /steelmanning/
+permalink: /steelmanning-102f34/
 sidebar_expanded_urls:
 - /improving-your-think/
 - /open-mind/
@@ -211,7 +211,7 @@ parent_heading_title: What Open Minded Thinking Actually Requires
 ancestor_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_open_minded_thinking_b0c2ad
   title: Open Mind | Improving Your Think
@@ -221,7 +221,7 @@ ancestor_links:
 breadcrumb_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_open_minded_thinking_b0c2ad
   title: Open Mind | Improving Your Think

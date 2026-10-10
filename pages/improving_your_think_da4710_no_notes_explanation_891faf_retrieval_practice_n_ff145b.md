@@ -22,7 +22,7 @@ show_ads: true
 description: No-notes explanation works because it makes memory do the work before feedback corrects the result.
 hero_summary: No-notes explanation works because it makes memory do the work before feedback corrects the result.
 layout: default
-permalink: /retrieval/
+permalink: /retrieval-f145b/
 sidebar_expanded_urls:
 - /improving-your-think/
 - /explain-it/
@@ -211,7 +211,7 @@ parent_heading_title: Can You Explain It Without Notes?
 ancestor_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_no_notes_explanation_891faf
   title: Explain It | Improving Your Think
@@ -221,7 +221,7 @@ ancestor_links:
 breadcrumb_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_no_notes_explanation_891faf
   title: Explain It | Improving Your Think

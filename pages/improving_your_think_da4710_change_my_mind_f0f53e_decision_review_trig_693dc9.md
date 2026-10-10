@@ -241,7 +241,7 @@ sibling_links:
   heading_title: Why Contradictory Evidence Is More Useful Than More Proof
 - basename: improving_your_think_da4710_change_my_mind_f0f53e_premortem_change_sig_6c6f43
   title: Premortems | Change Mind
-  permalink: /premortems/
+  permalink: /premortems-6c6f43/
   short_title: Premortems
   heading_title: Can a Premortem Reveal When You Should Reconsider?
 - basename: improving_your_think_da4710_change_my_mind_f0f53e_revision_conditions_0a1d53
@@ -263,7 +263,7 @@ up_link:
 prev_link:
   basename: improving_your_think_da4710_change_my_mind_f0f53e_premortem_change_sig_6c6f43
   title: Premortems | Change Mind
-  permalink: /premortems/
+  permalink: /premortems-6c6f43/
   short_title: Premortems
   heading_title: Can a Premortem Reveal When You Should Reconsider?
 next_link:

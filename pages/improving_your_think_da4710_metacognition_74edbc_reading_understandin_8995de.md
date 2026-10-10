@@ -205,7 +205,7 @@ ui_strings:
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-25 00:06:11'
 parent_title: How Do You Check Your Own Thinking?
-parent_permalink: /metacognition/
+parent_permalink: /metacognition-74edbc/
 parent_nav_short_title: Metacognition
 parent_heading_title: How Do You Check Your Own Thinking?
 ancestor_links:
@@ -215,7 +215,7 @@ ancestor_links:
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_metacognition_74edbc
   title: Metacognition | Improving Your Thinking And Analytical Skills
-  permalink: /metacognition/
+  permalink: /metacognition-74edbc/
   short_title: Metacognition
   heading_title: How Do You Check Your Own Thinking?
 breadcrumb_links:
@@ -225,7 +225,7 @@ breadcrumb_links:
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_metacognition_74edbc
   title: Metacognition | Improving Your Thinking And Analytical Skills
-  permalink: /metacognition/
+  permalink: /metacognition-74edbc/
   short_title: Metacognition
   heading_title: How Do You Check Your Own Thinking?
 sibling_links:
@@ -241,7 +241,7 @@ sibling_links:
   heading_title: The Questions to Ask Before You Begin
 - basename: improving_your_think_da4710_metacognition_74edbc_confidence_evidence_ef0c00
   title: Confidence | Metacognition
-  permalink: /confidence/
+  permalink: /confidence-ef0c00/
   short_title: Confidence
   heading_title: When Confidence Gets Ahead of Evidence
 - basename: improving_your_think_da4710_metacognition_74edbc_during_task_strategy_28fd59
@@ -257,7 +257,7 @@ sibling_links:
 up_link:
   basename: improving_your_think_da4710_metacognition_74edbc
   title: Metacognition | Improving Your Thinking And Analytical Skills
-  permalink: /metacognition/
+  permalink: /metacognition-74edbc/
   short_title: Metacognition
   heading_title: How Do You Check Your Own Thinking?
 prev_link:
@@ -284,7 +284,7 @@ When people read difficult material, the biggest danger is often not misundersta
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_metacognition_74edbc_reading_understandin_8995de-Illustration-1-dark.svg" | relative_url }}" alt="Reading Checks illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_metacognition_74edbc_reading_understandin_8995de-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_metacognition_74edbc_reading_understandin_8995de-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within [metacognition]({{ 'metacognition/' | relative_url }}), monitoring understanding while reading is the mechanism that checks whether comprehension is genuinely occurring. It is the difference between recognising sentences and constructing a usable mental model of what those sentences mean. Effective readers periodically test their understanding, detect confusion early, and adjust their approach before misconceptions become entrenched.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02253/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersMetacognitive Monitoring of Text Comprehensionby C Mirandola · 2018 · Cited by 30 — The ability to assess and monitor one&#x27;s own...</span></span></span>
+Within [metacognition]({{ 'metacognition-74edbc/' | relative_url }}), monitoring understanding while reading is the mechanism that checks whether comprehension is genuinely occurring. It is the difference between recognising sentences and constructing a usable mental model of what those sentences mean. Effective readers periodically test their understanding, detect confusion early, and adjust their approach before misconceptions become entrenched.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02253/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersMetacognitive Monitoring of Text Comprehensionby C Mirandola · 2018 · Cited by 30 — The ability to assess and monitor one&#x27;s own...</span></span></span>
 
 ## Do Familiar Sentences Feel Clear Because You Understand Them?
 

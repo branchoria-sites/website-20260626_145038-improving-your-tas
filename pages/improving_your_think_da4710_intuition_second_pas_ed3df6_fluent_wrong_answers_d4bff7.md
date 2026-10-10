@@ -246,7 +246,7 @@ sibling_links:
   heading_title: When Familiar Situations Fool Your Judgment
 - basename: improving_your_think_da4710_intuition_second_pas_ed3df6_expert_intuition_fee_94296d
   title: Feedback Loops | Intuition
-  permalink: /feedback-loops/
+  permalink: /feedback-loops-94296d/
   short_title: Feedback Loops
   heading_title: When Should You Trust Expert Intuition?
 - basename: improving_your_think_da4710_intuition_second_pas_ed3df6_premature_closure_di_4ae153
@@ -263,7 +263,7 @@ up_link:
 prev_link:
   basename: improving_your_think_da4710_intuition_second_pas_ed3df6_expert_intuition_fee_94296d
   title: Feedback Loops | Intuition
-  permalink: /feedback-loops/
+  permalink: /feedback-loops-94296d/
   short_title: Feedback Loops
   heading_title: When Should You Trust Expert Intuition?
 next_link:

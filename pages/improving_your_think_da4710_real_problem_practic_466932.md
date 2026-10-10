@@ -232,17 +232,17 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Sharper Thinking
-parent_permalink: /improving-your-think/
+parent_permalink: /improving-your-thinking-and-analytical/
 parent_nav_short_title: Sharper Thinking
 ancestor_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 breadcrumb_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 sibling_links:
 - basename: improving_your_think_da4710_live_alternatives_e775b1
@@ -282,7 +282,7 @@ sibling_links:
   heading_title: A Safer Way to Make Big Decisions
 - basename: improving_your_think_da4710_domain_knowledge_96a03e
   title: Domain Knowledge | Improving Your Think
-  permalink: /domain-knowledge/
+  permalink: /domain-knowledge-96a03e/
   short_title: Domain Knowledge
   heading_title: Why Smart Thinking Needs Real Knowledge
 - basename: improving_your_think_da4710_evidence_standards_a40c69
@@ -302,7 +302,7 @@ sibling_links:
   heading_title: Can You Explain It Without Notes?
 - basename: improving_your_think_da4710_feedback_calibration_8a35f0
   title: Feedback | Improving Your Think
-  permalink: /feedback/
+  permalink: /feedback-8a35f0/
   short_title: Feedback
   heading_title: How Feedback Makes Judgement Sharper
 - basename: improving_your_think_da4710_familiarity_trap_82f724
@@ -322,7 +322,7 @@ sibling_links:
   heading_title: When to Slow Down Your Thinking
 - basename: improving_your_think_da4710_lateral_reading_afeebc
   title: Lateral Reading | Improving Your Think
-  permalink: /lateral-reading/
+  permalink: /lateral-reading-afeebc/
   short_title: Lateral Reading
   heading_title: How to Check a Claim Online
 - basename: improving_your_think_da4710_metacognition_assump_b47334
@@ -418,13 +418,13 @@ child_links:
   heading_title: How problem based learning trains judgement
 - basename: improving_your_think_da4710_real_problem_practic_466932_transfer_gap_3c6a00
   title: Transfer Gap | Real Practice
-  permalink: /transfer-gap/
+  permalink: /transfer-gap-3c6a00/
   short_title: Transfer Gap
   heading_title: Why tidy exercises do not always transfer
 up_link:
   basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 prev_link:
   basename: improving_your_think_da4710_problem_breakdown_59ff8f

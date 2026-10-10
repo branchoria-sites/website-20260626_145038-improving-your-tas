@@ -205,27 +205,27 @@ ui_strings:
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-26 11:43:38'
 parent_title: Why Smart Thinking Needs Real Knowledge
-parent_permalink: /domain-knowledge/
+parent_permalink: /domain-knowledge-96a03e/
 parent_nav_short_title: Domain Knowledge
 parent_heading_title: Why Smart Thinking Needs Real Knowledge
 ancestor_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_domain_knowledge_96a03e
   title: Domain Knowledge | Improving Your Think
-  permalink: /domain-knowledge/
+  permalink: /domain-knowledge-96a03e/
   short_title: Domain Knowledge
   heading_title: Why Smart Thinking Needs Real Knowledge
 breadcrumb_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_domain_knowledge_96a03e
   title: Domain Knowledge | Improving Your Think
-  permalink: /domain-knowledge/
+  permalink: /domain-knowledge-96a03e/
   short_title: Domain Knowledge
   heading_title: Why Smart Thinking Needs Real Knowledge
 sibling_links:
@@ -257,7 +257,7 @@ sibling_links:
 up_link:
   basename: improving_your_think_da4710_domain_knowledge_96a03e
   title: Domain Knowledge | Improving Your Think
-  permalink: /domain-knowledge/
+  permalink: /domain-knowledge-96a03e/
   short_title: Domain Knowledge
   heading_title: Why Smart Thinking Needs Real Knowledge
 prev_link:
@@ -368,7 +368,7 @@ Finally, explain why a chosen principle applies. Being able to justify the class
 
 The ability to sort problems by deeper principles is not a specialised trick unique to physics. It reflects a broader characteristic of expert thinking: knowledge becomes organised around explanatory structures instead of isolated examples.
 
-As [domain knowledge]({{ 'domain-knowledge/' | relative_url }}) grows, people become better at identifying which features of a problem are genuinely informative. They stop treating every new case as unique and instead recognise recurring mechanisms beneath changing appearances. This is one reason why experts often seem to "see" a different problem from the one visible to a beginner. They are not noticing more details; they are noticing which details matter.
+As [domain knowledge]({{ 'domain-knowledge-96a03e/' | relative_url }}) grows, people become better at identifying which features of a problem are genuinely informative. They stop treating every new case as unique and instead recognise recurring mechanisms beneath changing appearances. This is one reason why experts often seem to "see" a different problem from the one visible to a beginner. They are not noticing more details; they are noticing which details matter.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/s5Qb20lBTe0" title="The Architecture of Thought: Mapping the Mental Lexicon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=s5Qb20lBTe0" target="_blank" rel="noopener noreferrer">The Architecture of Thought: Mapping the Mental Lexicon</a></p><p class="youtube-embed-meta">Channel: ThoughtLab</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=s5Qb20lBTe0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=s5Qb20lBTe0">Open on YouTube</a></p></div></div></div>

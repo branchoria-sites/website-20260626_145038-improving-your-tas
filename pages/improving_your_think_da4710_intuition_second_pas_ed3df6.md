@@ -254,7 +254,7 @@ sibling_links:
   heading_title: Why Rereading Is Not Enough
 - basename: improving_your_think_da4710_alternative_explanat_ee4fa0
   title: Alternatives | Improving Your Thinking And Analytical Skills
-  permalink: /alternatives/
+  permalink: /alternatives-ee4fa0/
   short_title: Alternatives
   heading_title: What Else Could Explain This?
 - basename: improving_your_think_da4710_argument_mapping_8e4963
@@ -269,7 +269,7 @@ sibling_links:
   heading_title: Is Your Confidence Matched to Evidence?
 - basename: improving_your_think_da4710_correlation_causatio_a505f2
   title: Causation | Improving Your Thinking And Analytical Skills
-  permalink: /causation/
+  permalink: /causation-a505f2/
   short_title: Causation
   heading_title: Does the Evidence Show a Cause?
 - basename: improving_your_think_da4710_change_my_mind_f0f53e
@@ -329,7 +329,7 @@ sibling_links:
   heading_title: How Do You Compare Job Offers Clearly?
 - basename: improving_your_think_da4710_metacognition_74edbc
   title: Metacognition | Improving Your Thinking And Analytical Skills
-  permalink: /metacognition/
+  permalink: /metacognition-74edbc/
   short_title: Metacognition
   heading_title: How Do You Check Your Own Thinking?
 - basename: improving_your_think_da4710_thinking_mistakes_7c70ba
@@ -410,7 +410,7 @@ child_links:
   heading_title: When Familiar Situations Fool Your Judgment
 - basename: improving_your_think_da4710_intuition_second_pas_ed3df6_expert_intuition_fee_94296d
   title: Feedback Loops | Intuition
-  permalink: /feedback-loops/
+  permalink: /feedback-loops-94296d/
   short_title: Feedback Loops
   heading_title: When Should You Trust Expert Intuition?
 - basename: improving_your_think_da4710_intuition_second_pas_ed3df6_fluent_wrong_answers_d4bff7
@@ -460,7 +460,7 @@ Intuition is not magic. At its best, it is compressed experience: the mind recog
 
 That is why “trust your gut” is sometimes good advice. A nurse who has repeatedly seen patients deteriorate may sense that “something is wrong” before all the numbers make the case. A firefighter may feel that a building is unsafe before being able to list every structural cue. A musician may hear that a performance is dragging before calculating tempo. These are not irrational guesses; they are fast responses built from many encounters with similar situations.
 
-The catch is that [expert intuition]({{ 'feedback-loops/' | relative_url }}) has boundary conditions. Daniel Kahneman and Gary Klein, often seen as representing different traditions in judgement research, reached a useful shared position: intuitive expertise is more trustworthy when the environment has enough regularity to be learned and when the person has had adequate practice with prompt, clear feedback. In low-validity settings, where cues are noisy and feedback is delayed or ambiguous, confidence can grow faster than accuracy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/19739881/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+The catch is that [expert intuition]({{ 'feedback-loops-94296d/' | relative_url }}) has boundary conditions. Daniel Kahneman and Gary Klein, often seen as representing different traditions in judgement research, reached a useful shared position: intuitive expertise is more trustworthy when the environment has enough regularity to be learned and when the person has had adequate practice with prompt, clear feedback. In low-validity settings, where cues are noisy and feedback is delayed or ambiguous, confidence can grow faster than accuracy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/19739881/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
 That distinction changes how you should treat a gut feeling. A restaurant chef’s instinct about whether onions are caramelising properly comes from a tight feedback loop: look, smell, taste, adjust. A manager’s instinct that a new market will “definitely take off” may come from far weaker evidence: selective memories, persuasive narratives, optimism, and a handful of visible successes. Both feel like intuition, but only one has been trained by repeated, corrective feedback.
 

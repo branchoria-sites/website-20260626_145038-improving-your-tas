@@ -51,7 +51,7 @@ show_ads: true
 description: Analytical thinking improves when people ask whether evidence really supports a cause or only shows a pattern.
 hero_summary: Analytical thinking improves when people ask whether evidence really supports a cause or only shows a pattern.
 layout: default
-permalink: /causation/
+permalink: /causation-a505f2/
 sidebar_expanded_urls:
 - /improving-your-thinking-and-analytical/
 nav_short_title: Causation
@@ -254,7 +254,7 @@ sibling_links:
   heading_title: Why Rereading Is Not Enough
 - basename: improving_your_think_da4710_alternative_explanat_ee4fa0
   title: Alternatives | Can You Train Better Judgment?
-  permalink: /alternatives/
+  permalink: /alternatives-ee4fa0/
   short_title: Alternatives
   heading_title: What Else Could Explain This?
 - basename: improving_your_think_da4710_argument_mapping_8e4963
@@ -329,7 +329,7 @@ sibling_links:
   heading_title: How Do You Compare Job Offers Clearly?
 - basename: improving_your_think_da4710_metacognition_74edbc
   title: Metacognition | Can You Train Better Judgment?
-  permalink: /metacognition/
+  permalink: /metacognition-74edbc/
   short_title: Metacognition
   heading_title: How Do You Check Your Own Thinking?
 - basename: improving_your_think_da4710_thinking_mistakes_7c70ba

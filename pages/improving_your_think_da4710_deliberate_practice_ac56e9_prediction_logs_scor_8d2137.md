@@ -22,7 +22,7 @@ show_ads: true
 description: Prediction logs make reasoning practice measurable by recording forecasts, evidence, updates and results in one place.
 hero_summary: Prediction logs make reasoning practice measurable by recording forecasts, evidence, updates and results in one place.
 layout: default
-permalink: /prediction-logs/
+permalink: /prediction-logs-8d2137/
 sidebar_expanded_urls:
 - /improving-your-thinking-and-analytical/
 - /deliberate-practice/

@@ -4,7 +4,7 @@ title_full: Probabilities Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /improving-your-think-da4710/
+permalink: /improving-your-think-da4710-probabilities/
 description: Focused pages that expand on Probabilities.
 date: '2026'
 layout: default

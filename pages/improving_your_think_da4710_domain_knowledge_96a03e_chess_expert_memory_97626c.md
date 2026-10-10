@@ -205,27 +205,27 @@ ui_strings:
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-26 11:43:44'
 parent_title: Why Smart Thinking Needs Real Knowledge
-parent_permalink: /domain-knowledge/
+parent_permalink: /domain-knowledge-96a03e/
 parent_nav_short_title: Domain Knowledge
 parent_heading_title: Why Smart Thinking Needs Real Knowledge
 ancestor_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_domain_knowledge_96a03e
   title: Domain Knowledge | Improving Your Think
-  permalink: /domain-knowledge/
+  permalink: /domain-knowledge-96a03e/
   short_title: Domain Knowledge
   heading_title: Why Smart Thinking Needs Real Knowledge
 breadcrumb_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_domain_knowledge_96a03e
   title: Domain Knowledge | Improving Your Think
-  permalink: /domain-knowledge/
+  permalink: /domain-knowledge-96a03e/
   short_title: Domain Knowledge
   heading_title: Why Smart Thinking Needs Real Knowledge
 sibling_links:
@@ -257,7 +257,7 @@ sibling_links:
 up_link:
   basename: improving_your_think_da4710_domain_knowledge_96a03e
   title: Domain Knowledge | Improving Your Think
-  permalink: /domain-knowledge/
+  permalink: /domain-knowledge-96a03e/
   short_title: Domain Knowledge
   heading_title: Why Smart Thinking Needs Real Knowledge
 next_link:
@@ -295,7 +295,7 @@ The most memorable result is the contrast with random boards. When pieces are pl
 
 Later research refined the simple version of the story. Gobet and Simon argued that the expert advantage does not always vanish completely with random positions. Strong players may still recall somewhat more than weaker players, partly because a large store of chess chunks can sometimes match small accidental patterns even in random material. However, the relative advantage is much smaller than with real game positions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://bura.brunel.ac.uk/bitstream/2438/1346/1/FullText.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bura.brunel.ac.uk">[Brunel University Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bura.brunel.ac.uk</span><span class="citation-popover-title">Full Text</span><span class="citation-popover-snippet">Brunel University Research ArchiveRecall of rapidly presented random chess positions is a...by F Gobet · 1996 · Cited by 296 — A widely...</span></span></span>
 
-That refinement makes the finding more useful, not less. It shows that expertise is neither magic nor useless outside perfect conditions. [Domain knowledge]({{ 'domain-knowledge/' | relative_url }}) can still help at the margins, but its greatest power appears when the situation contains authentic structure. Expert judgement is therefore conditional: it depends on whether the environment has patterns that past learning can legitimately recognise.
+That refinement makes the finding more useful, not less. It shows that expertise is neither magic nor useless outside perfect conditions. [Domain knowledge]({{ 'domain-knowledge-96a03e/' | relative_url }}) can still help at the margins, but its greatest power appears when the situation contains authentic structure. Expert judgement is therefore conditional: it depends on whether the environment has patterns that past learning can legitimately recognise.
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_domain_knowledge_96a03e_chess_expert_memory_97626c-Illustration-2-dark.svg" | relative_url }}" alt="Chess Memory illustration 2" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_domain_knowledge_96a03e_chess_expert_memory_97626c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_domain_knowledge_96a03e_chess_expert_memory_97626c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">

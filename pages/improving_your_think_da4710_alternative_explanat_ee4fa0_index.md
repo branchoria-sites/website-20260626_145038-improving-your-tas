@@ -4,19 +4,19 @@ title_full: Alternatives Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /improving-your-think-da4710/
+permalink: /improving-your-think-da4710-alternatives/
 description: Focused pages that expand on Alternatives.
 date: '2026'
 layout: default
 parent_basename: improving_your_think_da4710_alternative_explanat_ee4fa0
 parent_title: Alternatives
 parent_nav_short_title: Alternatives
-parent_permalink: /alternatives/
+parent_permalink: /alternatives-ee4fa0/
 ---
 
 # Explore Topics in Alternatives
 
-The following pages expand on the main **[Alternatives]({{ '/alternatives/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Alternatives]({{ '/alternatives-ee4fa0/' | relative_url }})** page and cover its key branches in.
 
 - [Accident Chains]({{ '/accident-chains/' | relative_url }})
 - [Weak Evidence]({{ '/weak-evidence/' | relative_url }})

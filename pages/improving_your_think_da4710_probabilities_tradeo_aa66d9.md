@@ -253,7 +253,7 @@ sibling_links:
   heading_title: Why Rereading Is Not Enough
 - basename: improving_your_think_da4710_alternative_explanat_ee4fa0
   title: Alternatives | Improving Your Thinking And Analytical Skills
-  permalink: /alternatives/
+  permalink: /alternatives-ee4fa0/
   short_title: Alternatives
   heading_title: What Else Could Explain This?
 - basename: improving_your_think_da4710_argument_mapping_8e4963
@@ -268,7 +268,7 @@ sibling_links:
   heading_title: Is Your Confidence Matched to Evidence?
 - basename: improving_your_think_da4710_correlation_causatio_a505f2
   title: Causation | Improving Your Thinking And Analytical Skills
-  permalink: /causation/
+  permalink: /causation-a505f2/
   short_title: Causation
   heading_title: Does the Evidence Show a Cause?
 - basename: improving_your_think_da4710_change_my_mind_f0f53e
@@ -333,7 +333,7 @@ sibling_links:
   heading_title: How Do You Compare Job Offers Clearly?
 - basename: improving_your_think_da4710_metacognition_74edbc
   title: Metacognition | Improving Your Thinking And Analytical Skills
-  permalink: /metacognition/
+  permalink: /metacognition-74edbc/
   short_title: Metacognition
   heading_title: How Do You Check Your Own Thinking?
 - basename: improving_your_think_da4710_thinking_mistakes_7c70ba

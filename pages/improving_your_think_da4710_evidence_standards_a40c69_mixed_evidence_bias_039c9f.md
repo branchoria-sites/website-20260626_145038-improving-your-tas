@@ -211,7 +211,7 @@ parent_heading_title: What Evidence Would Change Your Mind?
 ancestor_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_evidence_standards_a40c69
   title: Evidence Tests | Improving Your Think
@@ -221,7 +221,7 @@ ancestor_links:
 breadcrumb_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_evidence_standards_a40c69
   title: Evidence Tests | Improving Your Think
@@ -241,12 +241,12 @@ sibling_links:
   heading_title: How to Stop Moving the Goalposts
 - basename: improving_your_think_da4710_evidence_standards_a40c69_health_claim_standar_92b60f
   title: Health Claims | Evidence Tests
-  permalink: /health-claims/
+  permalink: /health-claims-92b60f/
   short_title: Health Claims
   heading_title: Why Health Claims Need Higher Standards
 - basename: improving_your_think_da4710_evidence_standards_a40c69_low_stakes_threshold_0a0b96
   title: Low Stakes | Evidence Tests
-  permalink: /low-stakes/
+  permalink: /low-stakes-0a0b96/
   short_title: Low Stakes
   heading_title: When a Small Test Is Enough
 - basename: improving_your_think_da4710_evidence_standards_a40c69_strong_signals_8e9089
@@ -263,7 +263,7 @@ up_link:
 prev_link:
   basename: improving_your_think_da4710_evidence_standards_a40c69_low_stakes_threshold_0a0b96
   title: Low Stakes | Evidence Tests
-  permalink: /low-stakes/
+  permalink: /low-stakes-0a0b96/
   short_title: Low Stakes
   heading_title: When a Small Test Is Enough
 next_link:

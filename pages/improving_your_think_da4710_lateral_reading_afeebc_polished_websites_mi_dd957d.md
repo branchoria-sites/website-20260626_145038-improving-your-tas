@@ -205,27 +205,27 @@ ui_strings:
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-26 03:50:03'
 parent_title: How to Check a Claim Online
-parent_permalink: /lateral-reading/
+parent_permalink: /lateral-reading-afeebc/
 parent_nav_short_title: Lateral Reading
 parent_heading_title: How to Check a Claim Online
 ancestor_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_lateral_reading_afeebc
   title: Lateral Reading | Improving Your Think
-  permalink: /lateral-reading/
+  permalink: /lateral-reading-afeebc/
   short_title: Lateral Reading
   heading_title: How to Check a Claim Online
 breadcrumb_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_lateral_reading_afeebc
   title: Lateral Reading | Improving Your Think
-  permalink: /lateral-reading/
+  permalink: /lateral-reading-afeebc/
   short_title: Lateral Reading
   heading_title: How to Check a Claim Online
 sibling_links:
@@ -257,7 +257,7 @@ sibling_links:
 up_link:
   basename: improving_your_think_da4710_lateral_reading_afeebc
   title: Lateral Reading | Improving Your Think
-  permalink: /lateral-reading/
+  permalink: /lateral-reading-afeebc/
   short_title: Lateral Reading
   heading_title: How to Check a Claim Online
 prev_link:
@@ -284,7 +284,7 @@ A polished website is not the same thing as a trustworthy source. Modern publish
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_lateral_reading_afeebc_polished_websites_mi_dd957d-Illustration-1-dark.svg" | relative_url }}" alt="Polished Sites illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_lateral_reading_afeebc_polished_websites_mi_dd957d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_lateral_reading_afeebc_polished_websites_mi_dd957d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters because people naturally use visual cues to make quick judgements. Those cues are useful for deciding whether a page is readable or easy to navigate, but they are poor indicators of whether its claims are accurate. [Lateral reading]({{ 'lateral-reading/' | relative_url }}) addresses this weakness by shifting attention away from appearance and towards the source itself: who created it, what incentives they have, and how independent sources describe them. Research comparing professional fact-checkers with historians and university students found that even highly educated readers could be misled by polished websites when they stayed on the page instead of checking the broader web. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/016146811912101102" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals+2SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">historians, 10 professional fact checkers, and 25 Stanford University undergraduates. Analysis focused...Read more...</span></span></span>
+This matters because people naturally use visual cues to make quick judgements. Those cues are useful for deciding whether a page is readable or easy to navigate, but they are poor indicators of whether its claims are accurate. [Lateral reading]({{ 'lateral-reading-afeebc/' | relative_url }}) addresses this weakness by shifting attention away from appearance and towards the source itself: who created it, what incentives they have, and how independent sources describe them. Research comparing professional fact-checkers with historians and university students found that even highly educated readers could be misled by polished websites when they stayed on the page instead of checking the broader web. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/016146811912101102" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals+2SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">historians, 10 professional fact checkers, and 25 Stanford University undergraduates. Analysis focused...Read more...</span></span></span>
 
 ## The limits of judging a page by appearance
 

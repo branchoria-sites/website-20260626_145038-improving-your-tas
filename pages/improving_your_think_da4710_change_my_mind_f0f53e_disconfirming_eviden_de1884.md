@@ -236,7 +236,7 @@ sibling_links:
   heading_title: Why Changing Your Mind Can Mean Changing Your Confidence
 - basename: improving_your_think_da4710_change_my_mind_f0f53e_premortem_change_sig_6c6f43
   title: Premortems | Change Mind
-  permalink: /premortems/
+  permalink: /premortems-6c6f43/
   short_title: Premortems
   heading_title: Can a Premortem Reveal When You Should Reconsider?
 - basename: improving_your_think_da4710_change_my_mind_f0f53e_decision_review_trig_693dc9
@@ -269,7 +269,7 @@ prev_link:
 next_link:
   basename: improving_your_think_da4710_change_my_mind_f0f53e_premortem_change_sig_6c6f43
   title: Premortems | Change Mind
-  permalink: /premortems/
+  permalink: /premortems-6c6f43/
   short_title: Premortems
   heading_title: Can a Premortem Reveal When You Should Reconsider?
 header:

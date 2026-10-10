@@ -22,7 +22,7 @@ show_ads: true
 description: Actively looking for the strongest rival explanation works better than simply telling yourself to be unbiased.
 hero_summary: Actively looking for the strongest rival explanation works better than simply telling yourself to be unbiased.
 layout: default
-permalink: /opposite-test/
+permalink: /opposite-test-a65a23/
 sidebar_expanded_urls:
 - /improving-your-think/
 - /metacognition/
@@ -211,7 +211,7 @@ parent_heading_title: How to Notice Your Own Thinking
 ancestor_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_metacognition_assump_b47334
   title: Metacognition | Improving Your Think
@@ -221,7 +221,7 @@ ancestor_links:
 breadcrumb_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_metacognition_assump_b47334
   title: Metacognition | Improving Your Think

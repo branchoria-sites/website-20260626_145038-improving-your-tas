@@ -22,7 +22,7 @@ show_ads: true
 description: Looking at how similar projects actually performed can stop a persuasive inside story from becoming the only evidence in the room.
 hero_summary: Looking at how similar projects actually performed can stop a persuasive inside story from becoming the only evidence in the room.
 layout: default
-permalink: /base-rates/
+permalink: /base-rates-cd7842/
 sidebar_expanded_urls:
 - /improving-your-think/
 - /decision-routines/
@@ -211,7 +211,7 @@ parent_heading_title: A Safer Way to Make Big Decisions
 ancestor_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_high_stakes_decision_b09c8f
   title: Decision Routines | Improving Your Think
@@ -221,7 +221,7 @@ ancestor_links:
 breadcrumb_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_high_stakes_decision_b09c8f
   title: Decision Routines | Improving Your Think
@@ -236,7 +236,7 @@ sibling_links:
   heading_title: What else is genuinely on the table?
 - basename: improving_your_think_da4710_high_stakes_decision_b09c8f_surgical_checklist_l_3f76cd
   title: Checklists | Decision Routines
-  permalink: /checklists/
+  permalink: /checklists-3f76cd/
   short_title: Checklists
   heading_title: Why experts still need checklists
 - basename: improving_your_think_da4710_high_stakes_decision_b09c8f_emergency_decision_r_3237e1
@@ -269,7 +269,7 @@ prev_link:
 next_link:
   basename: improving_your_think_da4710_high_stakes_decision_b09c8f_surgical_checklist_l_3f76cd
   title: Checklists | Decision Routines
-  permalink: /checklists/
+  permalink: /checklists-3f76cd/
   short_title: Checklists
   heading_title: Why experts still need checklists
 header:

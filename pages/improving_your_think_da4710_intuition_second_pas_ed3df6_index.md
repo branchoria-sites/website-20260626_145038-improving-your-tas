@@ -4,7 +4,7 @@ title_full: Intuition Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /improving-your-think-da4710-intuition/
+permalink: /improving-your-think-da4710-intuition-ed3df6/
 description: Focused pages that expand on Intuition.
 date: '2026'
 layout: default

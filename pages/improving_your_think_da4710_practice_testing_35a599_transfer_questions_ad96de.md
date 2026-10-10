@@ -22,7 +22,7 @@ show_ads: true
 description: Practice testing is strongest when questions make you use an idea in a changed situation.
 hero_summary: Practice testing is strongest when questions make you use an idea in a changed situation.
 layout: default
-permalink: /transfer/
+permalink: /transfer-ad96de/
 sidebar_expanded_urls:
 - /improving-your-think/
 - /practice-tests/
@@ -211,7 +211,7 @@ parent_heading_title: Why Testing Yourself Beats Rereading
 ancestor_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_practice_testing_35a599
   title: Practice Tests | Improving Your Think
@@ -221,7 +221,7 @@ ancestor_links:
 breadcrumb_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_practice_testing_35a599
   title: Practice Tests | Improving Your Think
@@ -231,7 +231,7 @@ breadcrumb_links:
 sibling_links:
 - basename: improving_your_think_da4710_practice_testing_35a599_reading_brain_dumps_1afd95
   title: Brain Dumps | Practice Tests
-  permalink: /brain-dumps/
+  permalink: /brain-dumps-1afd95/
   short_title: Brain Dumps
   heading_title: The Five Minute Test After Reading
 - basename: improving_your_think_da4710_practice_testing_35a599_mistakes_feedback_277a1a

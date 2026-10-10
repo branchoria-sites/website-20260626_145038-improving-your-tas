@@ -11,12 +11,12 @@ layout: default
 parent_basename: improving_your_think_da4710_lateral_reading_afeebc
 parent_title: Lateral Reading
 parent_nav_short_title: Lateral Reading
-parent_permalink: /lateral-reading/
+parent_permalink: /lateral-reading-afeebc/
 ---
 
 # Explore Topics in Lateral Reading
 
-The following pages expand on the main **[Lateral Reading]({{ '/lateral-reading/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Lateral Reading]({{ '/lateral-reading-afeebc/' | relative_url }})** page and cover its key branches in.
 
 - [Click Restraint]({{ '/click-restraint/' | relative_url }})
 - [Viral Claims]({{ '/viral-claims/' | relative_url }})

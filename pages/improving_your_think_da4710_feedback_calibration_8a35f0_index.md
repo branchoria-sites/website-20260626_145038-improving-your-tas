@@ -11,12 +11,12 @@ layout: default
 parent_basename: improving_your_think_da4710_feedback_calibration_8a35f0
 parent_title: Feedback
 parent_nav_short_title: Feedback
-parent_permalink: /feedback/
+parent_permalink: /feedback-8a35f0/
 ---
 
 # Explore Topics in Feedback
 
-The following pages expand on the main **[Feedback]({{ '/feedback/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Feedback]({{ '/feedback-8a35f0/' | relative_url }})** page and cover its key branches in.
 
 - [Brier Scores]({{ '/brier-scores/' | relative_url }})
 - [Decision Records]({{ '/decision-records/' | relative_url }})

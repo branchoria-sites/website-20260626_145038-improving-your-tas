@@ -205,27 +205,27 @@ ui_strings:
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-26 03:51:54'
 parent_title: How to Check a Claim Online
-parent_permalink: /lateral-reading/
+parent_permalink: /lateral-reading-afeebc/
 parent_nav_short_title: Lateral Reading
 parent_heading_title: How to Check a Claim Online
 ancestor_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_lateral_reading_afeebc
   title: Lateral Reading | Improving Your Think
-  permalink: /lateral-reading/
+  permalink: /lateral-reading-afeebc/
   short_title: Lateral Reading
   heading_title: How to Check a Claim Online
 breadcrumb_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_lateral_reading_afeebc
   title: Lateral Reading | Improving Your Think
-  permalink: /lateral-reading/
+  permalink: /lateral-reading-afeebc/
   short_title: Lateral Reading
   heading_title: How to Check a Claim Online
 sibling_links:
@@ -257,7 +257,7 @@ sibling_links:
 up_link:
   basename: improving_your_think_da4710_lateral_reading_afeebc
   title: Lateral Reading | Improving Your Think
-  permalink: /lateral-reading/
+  permalink: /lateral-reading-afeebc/
   short_title: Lateral Reading
   heading_title: How to Check a Claim Online
 prev_link:
@@ -280,7 +280,7 @@ image: /assets/images/improving_your_think_da4710_lateral_reading_afeebc_search_
 
 ## Introduction
 
-Looking up a doubtful claim on the web is often recommended as a sensible fact-checking habit. However, research now shows that searching is not automatically protective. Under some conditions, searching for evidence can make false claims seem *more* believable because search results may surface many low-quality pages repeating the same rumour, creating the impression of independent confirmation. This matters for [lateral reading]({{ 'lateral-reading/' | relative_url }}) because the goal is not simply to open more tabs, but to find genuinely independent and authoritative evidence rather than counting how many pages appear to agree. Recent studies suggest that search is most reliable when users pay attention to *where* information comes from, not merely whether they can find multiple mentions of the claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06883-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Online searches to evaluate misinformation can increase...by K Aslett · 2024 · Cited by 176 — We present consistent evidence that...</span></span></span>
+Looking up a doubtful claim on the web is often recommended as a sensible fact-checking habit. However, research now shows that searching is not automatically protective. Under some conditions, searching for evidence can make false claims seem *more* believable because search results may surface many low-quality pages repeating the same rumour, creating the impression of independent confirmation. This matters for [lateral reading]({{ 'lateral-reading-afeebc/' | relative_url }}) because the goal is not simply to open more tabs, but to find genuinely independent and authoritative evidence rather than counting how many pages appear to agree. Recent studies suggest that search is most reliable when users pay attention to *where* information comes from, not merely whether they can find multiple mentions of the claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06883-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Online searches to evaluate misinformation can increase...by K Aslett · 2024 · Cited by 176 — We present consistent evidence that...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_lateral_reading_afeebc_search_misinformatio_d1c9c6-Illustration-1-dark.svg" | relative_url }}" alt="Search Backfire illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_lateral_reading_afeebc_search_misinformatio_d1c9c6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_lateral_reading_afeebc_search_misinformatio_d1c9c6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">

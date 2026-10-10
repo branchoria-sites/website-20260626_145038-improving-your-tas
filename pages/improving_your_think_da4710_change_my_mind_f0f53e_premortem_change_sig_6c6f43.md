@@ -22,7 +22,7 @@ show_ads: true
 description: Imagining a future failure helps identify early warning signs before a decision becomes difficult to reverse.
 hero_summary: Imagining a future failure helps identify early warning signs before a decision becomes difficult to reverse.
 layout: default
-permalink: /premortems/
+permalink: /premortems-6c6f43/
 sidebar_expanded_urls:
 - /improving-your-thinking-and-analytical/
 - /change-mind/

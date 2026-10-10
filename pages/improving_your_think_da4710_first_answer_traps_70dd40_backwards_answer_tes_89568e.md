@@ -236,7 +236,7 @@ sibling_links:
   heading_title: Why the 10 Cent Answer Feels Right
 - basename: improving_your_think_da4710_first_answer_traps_70dd40_fluency_false_confid_d29b93
   title: False Fluency | First Answers
-  permalink: /false-fluency/
+  permalink: /false-fluency-d29b93/
   short_title: False Fluency
   heading_title: Why Easy Answers Can Feel More True
 - basename: improving_your_think_da4710_first_answer_traps_70dd40_crt_prior_exposure_9e59b6

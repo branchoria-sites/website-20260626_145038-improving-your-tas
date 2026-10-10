@@ -4,7 +4,7 @@ title_full: Feedback Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /improving-your-think-da4710-feedback/
+permalink: /improving-your-think-da4710-feedback-3e40b7/
 description: Focused pages that expand on Feedback.
 date: '2026'
 layout: default

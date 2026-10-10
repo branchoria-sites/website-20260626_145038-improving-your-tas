@@ -22,7 +22,7 @@ show_ads: true
 description: Isolated drills can teach useful moves, but they often fail when messy contexts hide the same reasoning demands.
 hero_summary: Isolated drills can teach useful moves, but they often fail when messy contexts hide the same reasoning demands.
 layout: default
-permalink: /transfer-gap/
+permalink: /transfer-gap-3c6a00/
 sidebar_expanded_urls:
 - /improving-your-think/
 - /real-practice/
@@ -210,7 +210,7 @@ parent_heading_title: Practice Thinking on Real Problems
 ancestor_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_real_problem_practic_466932
   title: Real Practice | Improving Your Think
@@ -220,7 +220,7 @@ ancestor_links:
 breadcrumb_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_real_problem_practic_466932
   title: Real Practice | Improving Your Think

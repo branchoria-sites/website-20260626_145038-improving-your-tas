@@ -233,17 +233,17 @@ ui_strings:
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-25 22:10:57'
 parent_title: Sharper Thinking
-parent_permalink: /improving-your-think/
+parent_permalink: /improving-your-thinking-and-analytical/
 parent_nav_short_title: Sharper Thinking
 ancestor_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 breadcrumb_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 sibling_links:
 - basename: improving_your_think_da4710_live_alternatives_e775b1
@@ -278,7 +278,7 @@ sibling_links:
   heading_title: A Safer Way to Make Big Decisions
 - basename: improving_your_think_da4710_domain_knowledge_96a03e
   title: Domain Knowledge | Improving Your Think
-  permalink: /domain-knowledge/
+  permalink: /domain-knowledge-96a03e/
   short_title: Domain Knowledge
   heading_title: Why Smart Thinking Needs Real Knowledge
 - basename: improving_your_think_da4710_evidence_standards_a40c69
@@ -298,7 +298,7 @@ sibling_links:
   heading_title: Can You Explain It Without Notes?
 - basename: improving_your_think_da4710_feedback_calibration_8a35f0
   title: Feedback | Improving Your Think
-  permalink: /feedback/
+  permalink: /feedback-8a35f0/
   short_title: Feedback
   heading_title: How Feedback Makes Judgement Sharper
 - basename: improving_your_think_da4710_familiarity_trap_82f724
@@ -318,7 +318,7 @@ sibling_links:
   heading_title: When to Slow Down Your Thinking
 - basename: improving_your_think_da4710_lateral_reading_afeebc
   title: Lateral Reading | Improving Your Think
-  permalink: /lateral-reading/
+  permalink: /lateral-reading-afeebc/
   short_title: Lateral Reading
   heading_title: How to Check a Claim Online
 - basename: improving_your_think_da4710_metacognition_assump_b47334
@@ -404,7 +404,7 @@ child_links:
   heading_title: How Framing Changes What Evidence Means
 - basename: improving_your_think_da4710_question_design_1265c2_better_outcome_measu_1d9ea7
   title: Outcomes | Better Questions
-  permalink: /outcomes/
+  permalink: /outcomes-1d9ea7/
   short_title: Outcomes
   heading_title: Are You Measuring the Wrong Success?
 - basename: improving_your_think_da4710_question_design_1265c2_pico_everyday_questi_e383d5
@@ -425,7 +425,7 @@ child_links:
 up_link:
   basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 prev_link:
   basename: improving_your_think_da4710_live_alternatives_e775b1
@@ -471,7 +471,7 @@ A strong everyday question usually passes three tests before the search begins.
 
 **First, it names the comparison.** A question such as “Should I take this job?” is hard to answer because “take it” is being compared with an undefined alternative. The real comparison might be staying in the current role, negotiating a different package, taking a rival offer, freelancing for six months, or waiting for a better fit. Evidence only becomes meaningful once the alternatives are visible. In clinical and evidence-review settings, this is one reason the [PICO]({{ 'pico/' | relative_url }}) framework asks users to identify not only the population and intervention, but also the comparator and outcome. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cochranelibrary.com/about-pico" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochranelibrary.com">[Cochrane Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochranelibrary.com</span><span class="citation-popover-snippet">Cochrane LibraryCochrane Library About PICOThe PICO model is widely used and taught in evidence-based health care as a strategy for defin...</span></span></span>
 
-**Second, it names the outcome.** “Better” is too slippery unless the desired result is explicit. Better may mean cheaper, safer, faster, less stressful, more durable, easier to reverse or fairer to affected people. The outcome should be concrete enough that the answer can be challenged. “Will this study routine improve my learning?” is weaker than “Will this routine improve my delayed recall on weekly [practice tests]({{ 'practice-tests/' | relative_url }}) without increasing total study time?” Research guidance on PICO and related formats treats [outcomes]({{ 'outcomes/' | relative_url }}) as essential because they define what success means before evidence is gathered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5875219/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAppearance of Population, Intervention, Comparison</span><span class="citation-popover-snippet">PMCAppearance of Population, Intervention, Comparison</span></span></span>
+**Second, it names the outcome.** “Better” is too slippery unless the desired result is explicit. Better may mean cheaper, safer, faster, less stressful, more durable, easier to reverse or fairer to affected people. The outcome should be concrete enough that the answer can be challenged. “Will this study routine improve my learning?” is weaker than “Will this routine improve my delayed recall on weekly [practice tests]({{ 'practice-tests/' | relative_url }}) without increasing total study time?” Research guidance on PICO and related formats treats [outcomes]({{ 'outcomes-1d9ea7/' | relative_url }}) as essential because they define what success means before evidence is gathered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5875219/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAppearance of Population, Intervention, Comparison</span><span class="citation-popover-snippet">PMCAppearance of Population, Intervention, Comparison</span></span></span>
 
 **Third, it names the timeframe.** Many answers change depending on whether the horizon is one week, one quarter, one year or ten years. “Will cutting prices help?” may be true this month and false over a year if it trains customers to wait for discounts. Some evidence-based practice guides extend PICO into PICOT, adding time so the expected effect is judged over a specified period rather than left floating. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.futurelearn.com/info/courses/mastering-evidence-based-practice-foundational-strategies/0/steps/436922" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: futurelearn.com">[FutureLearn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">futurelearn.com</span><span class="citation-popover-snippet">Open source on futurelearn.com.</span></span></span>
 

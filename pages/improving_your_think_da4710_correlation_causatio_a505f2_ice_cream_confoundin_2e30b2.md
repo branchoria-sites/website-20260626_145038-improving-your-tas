@@ -205,7 +205,7 @@ ui_strings:
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-25 06:11:14'
 parent_title: Does the Evidence Show a Cause?
-parent_permalink: /causation/
+parent_permalink: /causation-a505f2/
 parent_nav_short_title: Causation
 parent_heading_title: Does the Evidence Show a Cause?
 ancestor_links:
@@ -215,7 +215,7 @@ ancestor_links:
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_correlation_causatio_a505f2
   title: Causation | Improving Your Thinking And Analytical Skills
-  permalink: /causation/
+  permalink: /causation-a505f2/
   short_title: Causation
   heading_title: Does the Evidence Show a Cause?
 breadcrumb_links:
@@ -225,7 +225,7 @@ breadcrumb_links:
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_correlation_causatio_a505f2
   title: Causation | Improving Your Thinking And Analytical Skills
-  permalink: /causation/
+  permalink: /causation-a505f2/
   short_title: Causation
   heading_title: Does the Evidence Show a Cause?
 sibling_links:
@@ -257,7 +257,7 @@ sibling_links:
 up_link:
   basename: improving_your_think_da4710_correlation_causatio_a505f2
   title: Causation | Improving Your Thinking And Analytical Skills
-  permalink: /causation/
+  permalink: /causation-a505f2/
   short_title: Causation
   heading_title: Does the Evidence Show a Cause?
 prev_link:
@@ -280,7 +280,7 @@ image: /assets/images/improving_your_think_da4710_correlation_causatio_a505f2_ic
 
 ## Introduction
 
-The relationship between ice cream sales and drowning deaths is one of the best-known examples of why correlation alone cannot establish [causation]({{ 'causation/' | relative_url }}). The two variables often rise and fall together, yet there is no credible mechanism by which buying or eating ice cream causes people to drown. Instead, both are influenced by a shared background factor: warm weather. Higher temperatures encourage people to buy more ice cream while also increasing swimming, boating and other water activities, which raise the opportunity for drowning incidents.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://otexts.com/fpp3/causality.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otexts.com">[OTexts: Online, open-access textbooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otexts.com</span><span class="citation-popover-title">They are both caused by a third variable (temperature).Read more</span><span class="citation-popover-snippet">Online, open-access textbooks7.8 Correlation, causation and forecastingSo the two variables (ice-cream sales and drownings) are c...</span></span></span>
+The relationship between ice cream sales and drowning deaths is one of the best-known examples of why correlation alone cannot establish [causation]({{ 'causation-a505f2/' | relative_url }}). The two variables often rise and fall together, yet there is no credible mechanism by which buying or eating ice cream causes people to drown. Instead, both are influenced by a shared background factor: warm weather. Higher temperatures encourage people to buy more ice cream while also increasing swimming, boating and other water activities, which raise the opportunity for drowning incidents.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://otexts.com/fpp3/causality.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otexts.com">[OTexts: Online, open-access textbooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otexts.com</span><span class="citation-popover-title">They are both caused by a third variable (temperature).Read more</span><span class="citation-popover-snippet">Online, open-access textbooks7.8 Correlation, causation and forecastingSo the two variables (ice-cream sales and drownings) are c...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_correlation_causatio_a505f2_ice_cream_confoundin_2e30b2-Illustration-1-dark.svg" | relative_url }}" alt="Hidden Causes illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_correlation_causatio_a505f2_ice_cream_confoundin_2e30b2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_correlation_causatio_a505f2_ice_cream_confoundin_2e30b2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">

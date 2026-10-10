@@ -233,17 +233,17 @@ ui_strings:
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-26 03:04:40'
 parent_title: Sharper Thinking
-parent_permalink: /improving-your-think/
+parent_permalink: /improving-your-thinking-and-analytical/
 parent_nav_short_title: Sharper Thinking
 ancestor_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 breadcrumb_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 sibling_links:
 - basename: improving_your_think_da4710_live_alternatives_e775b1
@@ -283,7 +283,7 @@ sibling_links:
   heading_title: A Safer Way to Make Big Decisions
 - basename: improving_your_think_da4710_domain_knowledge_96a03e
   title: Domain Knowledge | Improving Your Think
-  permalink: /domain-knowledge/
+  permalink: /domain-knowledge-96a03e/
   short_title: Domain Knowledge
   heading_title: Why Smart Thinking Needs Real Knowledge
 - basename: improving_your_think_da4710_evidence_standards_a40c69
@@ -303,7 +303,7 @@ sibling_links:
   heading_title: Can You Explain It Without Notes?
 - basename: improving_your_think_da4710_feedback_calibration_8a35f0
   title: Feedback | Improving Your Think
-  permalink: /feedback/
+  permalink: /feedback-8a35f0/
   short_title: Feedback
   heading_title: How Feedback Makes Judgement Sharper
 - basename: improving_your_think_da4710_familiarity_trap_82f724
@@ -323,7 +323,7 @@ sibling_links:
   heading_title: When to Slow Down Your Thinking
 - basename: improving_your_think_da4710_lateral_reading_afeebc
   title: Lateral Reading | Improving Your Think
-  permalink: /lateral-reading/
+  permalink: /lateral-reading-afeebc/
   short_title: Lateral Reading
   heading_title: How to Check a Claim Online
 - basename: improving_your_think_da4710_metacognition_assump_b47334
@@ -419,13 +419,13 @@ child_links:
   heading_title: Listen First Without Surrendering Your Standards
 - basename: improving_your_think_da4710_open_minded_thinking_b0c2ad_strongest_opposing_a_102f34
   title: Steelmanning | Open Mind
-  permalink: /steelmanning/
+  permalink: /steelmanning-102f34/
   short_title: Steelmanning
   heading_title: Can Your View Survive the Strongest Objection?
 up_link:
   basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 prev_link:
   basename: improving_your_think_da4710_myside_bias_de0ec5
@@ -538,7 +538,7 @@ A simple disagreement routine can help:
 
 **Second, state what would change your mind.** This prevents you from moving the [goalposts]({{ 'goalposts/' | relative_url }}) after uncomfortable evidence appears.
 
-**Third, identify the [strongest opposing]({{ 'steelmanning/' | relative_url }}) argument.** Do not choose the easiest opponent. Choose the version that a thoughtful critic would actually defend.
+**Third, identify the [strongest opposing]({{ 'steelmanning-102f34/' | relative_url }}) argument.** Do not choose the easiest opponent. Choose the version that a thoughtful critic would actually defend.
 
 **Fourth, separate source trust from claim quality.** A disliked person can make a valid point; a trusted person can overstate a case.
 

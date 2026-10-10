@@ -22,7 +22,7 @@ show_ads: true
 description: Writing what you remember after a delay exposes gaps that polished notes often conceal.
 hero_summary: Writing what you remember after a delay exposes gaps that polished notes often conceal.
 layout: default
-permalink: /brain-dumps/
+permalink: /brain-dumps-1afd95/
 sidebar_expanded_urls:
 - /improving-your-think/
 - /practice-tests/
@@ -211,7 +211,7 @@ parent_heading_title: Why Testing Yourself Beats Rereading
 ancestor_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_practice_testing_35a599
   title: Practice Tests | Improving Your Think
@@ -221,7 +221,7 @@ ancestor_links:
 breadcrumb_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_practice_testing_35a599
   title: Practice Tests | Improving Your Think
@@ -246,7 +246,7 @@ sibling_links:
   heading_title: How to Build a Self Test That Actually Works
 - basename: improving_your_think_da4710_practice_testing_35a599_transfer_questions_ad96de
   title: Transfer | Practice Tests
-  permalink: /transfer/
+  permalink: /transfer-ad96de/
   short_title: Transfer
   heading_title: Can You Use the Idea Somewhere New?
 - basename: improving_your_think_da4710_practice_testing_35a599_work_retrieval_routi_45888a
