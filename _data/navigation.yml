@@ -27,7 +27,7 @@ sidebar_generated:
       url: /work-rehearsal/
   - title: Alternatives
     title_full: What Else Could Explain This? | Improving Your Think
-    url: /alternatives/
+    url: /alternatives-ee4fa0/
     children:
     - title: A Sudden Fall In Sales
       title_full: Is Demand Down or Data Broken? | Improving Your Think Da 4710 Alternative Explanat
@@ -75,16 +75,16 @@ sidebar_generated:
     children:
     - title: Brier Scores
       title_full: A Simple Scorecard for Forecasting Skill | Improving Your Think Da 4710 Confidence Calibrati
-      url: /brier-scores/
+      url: /brier-scores-4eff62/
     - title: Good Judgment
       title_full: What Superforecasting Teaches Everyday Thinkers | Improving Your Think Da 4710 Confidence Calibrati
-      url: /good-judgment/
+      url: /good-judgment-ea91a6/
     - title: Miss Reviews
       title_full: When a Wrong Forecast Was Still Reasonable | Improving Your Think Da 4710 Confidence Calibrati
       url: /miss-reviews/
     - title: Probability Words
       title_full: Why Probably Is Not Precise Enough | Improving Your Think Da 4710 Confidence Calibrati
-      url: /probability-words/
+      url: /probability-words-bcc6f4/
     - title: Scorable Questions
       title_full: Can Your Forecast Actually Be Scored? | Improving Your Think Da 4710 Confidence Calibrati
       url: /scorable-questions/
@@ -93,7 +93,7 @@ sidebar_generated:
       url: /what-to-predict/
   - title: Causation
     title_full: Does the Evidence Show a Cause? | Improving Your Think
-    url: /causation/
+    url: /causation-a505f2/
     children:
     - title: App Scores
       title_full: Does the App Raise Scores, or Track Motivation? | Improving Your Think Da 4710 Correlation Causatio
@@ -125,7 +125,7 @@ sidebar_generated:
       url: /disconfirming-evidence/
     - title: Premortems
       title_full: Can a Premortem Reveal When You Should Reconsider? | Improving Your Think Da 4710 Change My Mind
-      url: /premortems/
+      url: /premortems-6c6f43/
     - title: Review Triggers
       title_full: How Review Triggers Make Changing Course Easier | Improving Your Think Da 4710 Change My Mind
       url: /review-triggers/
@@ -244,7 +244,7 @@ sidebar_generated:
       url: /faded-prompts/
     - title: Prediction Logs
       title_full: Why prediction logs make thinking measurable | Improving Your Think Da 4710 Deliberate Practice
-      url: /prediction-logs/
+      url: /prediction-logs-8d2137/
   - title: Feedback
     title_full: How Do You Learn From Wrong Calls? | Improving Your Think
     url: /feedback/
@@ -279,7 +279,7 @@ sidebar_generated:
       url: /bat-and-ball/
     - title: False Fluency
       title_full: Why Easy Answers Can Feel More True | Improving Your Think Da 4710 First Answer Traps
-      url: /false-fluency/
+      url: /false-fluency-d29b93/
     - title: Familiarity
       title_full: When Knowing the Answer Becomes the Trap | Improving Your Think Da 4710 First Answer Traps
       url: /familiarity/
@@ -348,7 +348,7 @@ sidebar_generated:
       url: /false-familiarity/
     - title: Feedback Loops
       title_full: When Should You Trust Expert Intuition? | Improving Your Think Da 4710 Intuition Second Pas
-      url: /feedback-loops/
+      url: /feedback-loops-94296d/
     - title: Fluent Answers
       title_full: Why Easy Answers Can Be Wrong | Improving Your Think Da 4710 Intuition Second Pas
       url: /fluent-answers/
@@ -379,7 +379,7 @@ sidebar_generated:
       url: /total-pay/
   - title: Metacognition
     title_full: How Do You Check Your Own Thinking? | Improving Your Think
-    url: /metacognition/
+    url: /metacognition-74edbc/
     children:
     - title: After Review
       title_full: What Did This Reveal About Your Thinking? | Improving Your Think Da 4710 Metacognition
@@ -389,7 +389,7 @@ sidebar_generated:
       url: /before-checks/
     - title: Confidence
       title_full: When Confidence Gets Ahead of Evidence | Improving Your Think Da 4710 Metacognition
-      url: /confidence/
+      url: /confidence-ef0c00/
     - title: Drift Checks
       title_full: Are You Progressing, or Just Continuing? | Improving Your Think Da 4710 Metacognition
       url: /drift-checks/

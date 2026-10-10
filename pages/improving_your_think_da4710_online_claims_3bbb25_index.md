@@ -4,7 +4,7 @@ title_full: Online Claims Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /improving-your-think-da4710-online/
+permalink: /improving-your-think-da4710-online-claims/
 description: Focused pages that expand on Online Claims.
 date: '2026'
 layout: default
@@ -21,6 +21,6 @@ The following pages expand on the main **[Online Claims]({{ '/online-claims/' | 
 - [Claim Size]({{ '/claim-size/' | relative_url }})
 - [Corrections]({{ '/corrections/' | relative_url }})
 - [Headline Claims]({{ '/headline-claims/' | relative_url }})
-- [Lateral Reading]({{ '/lateral-reading/' | relative_url }})
+- [Lateral Reading]({{ '/lateral-reading-afeebc/' | relative_url }})
 - [Trace Claims]({{ '/trace-claims/' | relative_url }})
 - [Visual Checks]({{ '/visual-checks/' | relative_url }})

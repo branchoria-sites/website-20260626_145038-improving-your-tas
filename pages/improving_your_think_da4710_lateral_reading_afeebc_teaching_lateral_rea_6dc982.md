@@ -205,27 +205,27 @@ ui_strings:
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-26 03:53:04'
 parent_title: How to Check a Claim Online
-parent_permalink: /lateral-reading/
+parent_permalink: /lateral-reading-afeebc/
 parent_nav_short_title: Lateral Reading
 parent_heading_title: How to Check a Claim Online
 ancestor_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_lateral_reading_afeebc
   title: Lateral Reading | Improving Your Think
-  permalink: /lateral-reading/
+  permalink: /lateral-reading-afeebc/
   short_title: Lateral Reading
   heading_title: How to Check a Claim Online
 breadcrumb_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_lateral_reading_afeebc
   title: Lateral Reading | Improving Your Think
-  permalink: /lateral-reading/
+  permalink: /lateral-reading-afeebc/
   short_title: Lateral Reading
   heading_title: How to Check a Claim Online
 sibling_links:
@@ -257,7 +257,7 @@ sibling_links:
 up_link:
   basename: improving_your_think_da4710_lateral_reading_afeebc
   title: Lateral Reading | Improving Your Think
-  permalink: /lateral-reading/
+  permalink: /lateral-reading-afeebc/
   short_title: Lateral Reading
   heading_title: How to Check a Claim Online
 prev_link:
@@ -280,7 +280,7 @@ image: /assets/images/improving_your_think_da4710_lateral_reading_afeebc_teachin
 
 ## Introduction
 
-Students can learn to read laterally online, but they rarely acquire the habit simply by being told to “think critically”. Research from schools, colleges and teacher-development programmes shows that learners improve most when [lateral reading]({{ 'lateral-reading/' | relative_url }}) is taught as a concrete sequence of actions: leave the unfamiliar page, investigate the source elsewhere, compare [independent evidence]({{ 'evidence-routes/' | relative_url }}), and then return to judge the original claim. Rather than relying on intuition or scepticism alone, students learn a repeatable process that mirrors the practices of professional fact-checkers. Classroom studies suggest that even relatively short instructional programmes can produce measurable gains, although mastery requires repeated practice across subjects rather than a single lesson.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ovid.com/journals/jedup/fulltext/10.1037/edu0000740~lateral-reading-on-the-open-internet-a-district-wide-field" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ovid.com">[Ovid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ovid.com</span><span class="citation-popover-title">edu0000740~lateral reading on the open internet a district wide field</span><span class="citation-popover-snippet">Lateral Reading on the Open Internetby S Wineburg · 2022 · Cited by 261 — Students practiced the heuristic of lateral reading: leavin...</span></span></span>
+Students can learn to read laterally online, but they rarely acquire the habit simply by being told to “think critically”. Research from schools, colleges and teacher-development programmes shows that learners improve most when [lateral reading]({{ 'lateral-reading-afeebc/' | relative_url }}) is taught as a concrete sequence of actions: leave the unfamiliar page, investigate the source elsewhere, compare [independent evidence]({{ 'evidence-routes/' | relative_url }}), and then return to judge the original claim. Rather than relying on intuition or scepticism alone, students learn a repeatable process that mirrors the practices of professional fact-checkers. Classroom studies suggest that even relatively short instructional programmes can produce measurable gains, although mastery requires repeated practice across subjects rather than a single lesson.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ovid.com/journals/jedup/fulltext/10.1037/edu0000740~lateral-reading-on-the-open-internet-a-district-wide-field" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ovid.com">[Ovid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ovid.com</span><span class="citation-popover-title">edu0000740~lateral reading on the open internet a district wide field</span><span class="citation-popover-snippet">Lateral Reading on the Open Internetby S Wineburg · 2022 · Cited by 261 — Students practiced the heuristic of lateral reading: leavin...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_lateral_reading_afeebc_teaching_lateral_rea_6dc982-Illustration-1-dark.svg" | relative_url }}" alt="Teaching It illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_lateral_reading_afeebc_teaching_lateral_rea_6dc982-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_lateral_reading_afeebc_teaching_lateral_rea_6dc982-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">

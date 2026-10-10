@@ -211,7 +211,7 @@ parent_heading_title: How to Notice Your Own Thinking
 ancestor_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_metacognition_assump_b47334
   title: Metacognition | Improving Your Think
@@ -221,7 +221,7 @@ ancestor_links:
 breadcrumb_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_metacognition_assump_b47334
   title: Metacognition | Improving Your Think
@@ -251,7 +251,7 @@ sibling_links:
   heading_title: What Must Be True First?
 - basename: improving_your_think_da4710_metacognition_assump_b47334_consider_opposite_bi_a65a23
   title: Opposite Test | Metacognition
-  permalink: /opposite-test/
+  permalink: /opposite-test-a65a23/
   short_title: Opposite Test
   heading_title: What If Your First Read Is Wrong?
 up_link:
@@ -263,7 +263,7 @@ up_link:
 prev_link:
   basename: improving_your_think_da4710_metacognition_assump_b47334_consider_opposite_bi_a65a23
   title: Opposite Test | Metacognition
-  permalink: /opposite-test/
+  permalink: /opposite-test-a65a23/
   short_title: Opposite Test
   heading_title: What If Your First Read Is Wrong?
 header:

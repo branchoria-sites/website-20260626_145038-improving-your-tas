@@ -22,7 +22,7 @@ show_ads: true
 description: Clear outcomes prevent satisfaction scores, anecdotes, and easy metrics from standing in for the result that matters.
 hero_summary: Clear outcomes prevent satisfaction scores, anecdotes, and easy metrics from standing in for the result that matters.
 layout: default
-permalink: /outcomes/
+permalink: /outcomes-1d9ea7/
 sidebar_expanded_urls:
 - /improving-your-think/
 - /better-questions/
@@ -211,7 +211,7 @@ parent_heading_title: Ask Better Questions Before Seeking Answers
 ancestor_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_question_design_1265c2
   title: Better Questions | Improving Your Think
@@ -221,7 +221,7 @@ ancestor_links:
 breadcrumb_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_question_design_1265c2
   title: Better Questions | Improving Your Think

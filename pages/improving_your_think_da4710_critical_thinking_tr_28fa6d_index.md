@@ -19,7 +19,7 @@ parent_permalink: /critical-skills/
 The following pages expand on the main **[Critical Skills]({{ '/critical-skills/' | relative_url }})** page and cover its key branches in.
 
 - [Confidence]({{ '/confidence-799272/' | relative_url }})
-- [Causation]({{ '/causation/' | relative_url }})
+- [Causation]({{ '/causation-a505f2/' | relative_url }})
 - [Learning To Evaluate Evidence]({{ '/learning-to-evaluate-evidence/' | relative_url }})
 - [Explicit Teaching]({{ '/explicit-teaching/' | relative_url }})
 - [Metacognition]({{ '/metacognition-69d7fe/' | relative_url }})

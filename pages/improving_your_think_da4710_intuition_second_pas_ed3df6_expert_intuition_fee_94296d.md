@@ -22,7 +22,7 @@ show_ads: true
 description: Gut feelings become more trustworthy when repeated practice is paired with fast, clear correction from the real world.
 hero_summary: Gut feelings become more trustworthy when repeated practice is paired with fast, clear correction from the real world.
 layout: default
-permalink: /feedback-loops/
+permalink: /feedback-loops-94296d/
 sidebar_expanded_urls:
 - /improving-your-thinking-and-analytical/
 - /intuition/

@@ -205,7 +205,7 @@ ui_strings:
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-25 06:12:41'
 parent_title: Does the Evidence Show a Cause?
-parent_permalink: /causation/
+parent_permalink: /causation-a505f2/
 parent_nav_short_title: Causation
 parent_heading_title: Does the Evidence Show a Cause?
 ancestor_links:
@@ -215,7 +215,7 @@ ancestor_links:
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_correlation_causatio_a505f2
   title: Causation | Improving Your Thinking And Analytical Skills
-  permalink: /causation/
+  permalink: /causation-a505f2/
   short_title: Causation
   heading_title: Does the Evidence Show a Cause?
 breadcrumb_links:
@@ -225,7 +225,7 @@ breadcrumb_links:
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_correlation_causatio_a505f2
   title: Causation | Improving Your Thinking And Analytical Skills
-  permalink: /causation/
+  permalink: /causation-a505f2/
   short_title: Causation
   heading_title: Does the Evidence Show a Cause?
 sibling_links:
@@ -257,7 +257,7 @@ sibling_links:
 up_link:
   basename: improving_your_think_da4710_correlation_causatio_a505f2
   title: Causation | Improving Your Thinking And Analytical Skills
-  permalink: /causation/
+  permalink: /causation-a505f2/
   short_title: Causation
   heading_title: Does the Evidence Show a Cause?
 next_link:
@@ -274,7 +274,7 @@ image: /assets/images/improving_your_think_da4710_correlation_causatio_a505f2_re
 
 ## Introduction
 
-Students who use revision apps often achieve higher exam scores than students who do not. At first glance, this seems to show that the app improves learning. However, this is a classic example of why analytical thinking distinguishes correlation from [causation]({{ 'causation/' | relative_url }}). The students who voluntarily download, configure and consistently use revision tools may already differ from other students in important ways. They may be more motivated, more organised, more interested in high achievement, or have stronger study habits before they ever open the app. Unless those differences are accounted for, higher scores among app users cannot automatically be credited to the software itself. Research on educational technology repeatedly highlights this challenge, while also showing that some app features—such as spaced repetition and [retrieval practice]({{ 'retrieval/' | relative_url }})—can genuinely improve learning when tested under stronger research designs. Journal of Learning Analytics+2bera-journals.onlinelibrary.wiley.com<span class="citation-link-wrap"><a class="citation-inline-link" href="https://learning-analytics.info/index.php/JLA/article/view/7577" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learning-analytics.info">[learning-analytics.info]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learning-analytics.info</span><span class="citation-popover-snippet">Assessment &amp; Evaluation in Higher Education...Read more...</span></span></span>
+Students who use revision apps often achieve higher exam scores than students who do not. At first glance, this seems to show that the app improves learning. However, this is a classic example of why analytical thinking distinguishes correlation from [causation]({{ 'causation-a505f2/' | relative_url }}). The students who voluntarily download, configure and consistently use revision tools may already differ from other students in important ways. They may be more motivated, more organised, more interested in high achievement, or have stronger study habits before they ever open the app. Unless those differences are accounted for, higher scores among app users cannot automatically be credited to the software itself. Research on educational technology repeatedly highlights this challenge, while also showing that some app features—such as spaced repetition and [retrieval practice]({{ 'retrieval/' | relative_url }})—can genuinely improve learning when tested under stronger research designs. Journal of Learning Analytics+2bera-journals.onlinelibrary.wiley.com<span class="citation-link-wrap"><a class="citation-inline-link" href="https://learning-analytics.info/index.php/JLA/article/view/7577" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learning-analytics.info">[learning-analytics.info]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learning-analytics.info</span><span class="citation-popover-snippet">Assessment &amp; Evaluation in Higher Education...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_correlation_causatio_a505f2_revision_app_motivat_cacded-Illustration-1-dark.svg" | relative_url }}" alt="App Scores illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_correlation_causatio_a505f2_revision_app_motivat_cacded-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_correlation_causatio_a505f2_revision_app_motivat_cacded-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">

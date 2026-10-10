@@ -22,7 +22,7 @@ show_ads: true
 description: A good result can hide a weak process, while a bad result can unfairly punish a sound decision made under uncertainty.
 hero_summary: A good result can hide a weak process, while a bad result can unfairly punish a sound decision made under uncertainty.
 layout: default
-permalink: /outcome-bias/
+permalink: /outcome-bias-3bef10/
 sidebar_expanded_urls:
 - /improving-your-think/
 - /decision-journal/
@@ -211,7 +211,7 @@ parent_heading_title: Keep Score on Your Own Judgement
 ancestor_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_decision_journals_44d9d9
   title: Decision Journal | Improving Your Think
@@ -221,7 +221,7 @@ ancestor_links:
 breadcrumb_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_decision_journals_44d9d9
   title: Decision Journal | Improving Your Think
@@ -241,7 +241,7 @@ sibling_links:
   heading_title: Why outcomes make old choices look obvious
 - basename: improving_your_think_da4710_decision_journals_44d9d9_prediction_probabili_0b0809
   title: Probabilities | Decision Journal
-  permalink: /probabilities/
+  permalink: /probabilities-0b0809/
   short_title: Probabilities
   heading_title: How sure were you, really?
 - basename: improving_your_think_da4710_decision_journals_44d9d9_promotion_decision_c_9e2b71
@@ -269,7 +269,7 @@ prev_link:
 next_link:
   basename: improving_your_think_da4710_decision_journals_44d9d9_prediction_probabili_0b0809
   title: Probabilities | Decision Journal
-  permalink: /probabilities/
+  permalink: /probabilities-0b0809/
   short_title: Probabilities
   heading_title: How sure were you, really?
 header:

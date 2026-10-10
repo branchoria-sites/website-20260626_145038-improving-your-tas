@@ -233,17 +233,17 @@ ui_strings:
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-26 06:33:38'
 parent_title: Sharper Thinking
-parent_permalink: /improving-your-think/
+parent_permalink: /improving-your-thinking-and-analytical/
 parent_nav_short_title: Sharper Thinking
 ancestor_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 breadcrumb_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 sibling_links:
 - basename: improving_your_think_da4710_live_alternatives_e775b1
@@ -283,7 +283,7 @@ sibling_links:
   heading_title: A Safer Way to Make Big Decisions
 - basename: improving_your_think_da4710_domain_knowledge_96a03e
   title: Domain Knowledge | Improving Your Think
-  permalink: /domain-knowledge/
+  permalink: /domain-knowledge-96a03e/
   short_title: Domain Knowledge
   heading_title: Why Smart Thinking Needs Real Knowledge
 - basename: improving_your_think_da4710_evidence_standards_a40c69
@@ -298,7 +298,7 @@ sibling_links:
   heading_title: When Should You Trust Your Gut?
 - basename: improving_your_think_da4710_feedback_calibration_8a35f0
   title: Feedback | Improving Your Think
-  permalink: /feedback/
+  permalink: /feedback-8a35f0/
   short_title: Feedback
   heading_title: How Feedback Makes Judgement Sharper
 - basename: improving_your_think_da4710_familiarity_trap_82f724
@@ -318,7 +318,7 @@ sibling_links:
   heading_title: When to Slow Down Your Thinking
 - basename: improving_your_think_da4710_lateral_reading_afeebc
   title: Lateral Reading | Improving Your Think
-  permalink: /lateral-reading/
+  permalink: /lateral-reading-afeebc/
   short_title: Lateral Reading
   heading_title: How to Check a Claim Online
 - basename: improving_your_think_da4710_metacognition_assump_b47334
@@ -414,7 +414,7 @@ child_links:
   heading_title: How to Check What Your Explanation Missed
 - basename: improving_your_think_da4710_no_notes_explanation_891faf_retrieval_practice_n_ff145b
   title: Retrieval | Explain It
-  permalink: /retrieval/
+  permalink: /retrieval-f145b/
   short_title: Retrieval
   heading_title: Why Pulling Ideas From Memory Works
 - basename: improving_your_think_da4710_no_notes_explanation_891faf_self_explanation_exa_584b5c
@@ -425,7 +425,7 @@ child_links:
 up_link:
   basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 prev_link:
   basename: improving_your_think_da4710_expert_intuition_73d438
@@ -436,7 +436,7 @@ prev_link:
 next_link:
   basename: improving_your_think_da4710_feedback_calibration_8a35f0
   title: Feedback | Improving Your Think
-  permalink: /feedback/
+  permalink: /feedback-8a35f0/
   short_title: Feedback
   heading_title: How Feedback Makes Judgement Sharper
 header:
@@ -451,7 +451,7 @@ Explaining a concept without notes is a practical test of understanding: it show
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_no_notes_explanation_891faf-overview.webp" | relative_url }}" alt="Overview image for Explain It" loading="eager" decoding="sync" fetchpriority="high">
-The method is simple: pick one idea, close your materials, explain it aloud or in writing as if to a bright beginner, then compare your explanation with a trusted source. The value is not performance polish. It is diagnosis. Research on [retrieval practice]({{ 'retrieval/' | relative_url }}), self-explanation and metacognition all points in the same direction: trying to bring knowledge to mind, and then checking it, strengthens learning and exposes false confidence more effectively than passive review. psychology.ucsd.edu+2pubmed.ncbi.nlm.nih.gov <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psychology.ucsd.edu/undergraduate-program/undergraduate-resources/academic-writing-resources/effective-studying/retrieval-practice.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychology.ucsd.edu">[psychology.ucsd.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychology.ucsd.edu</span><span class="citation-popover-snippet">Retrieval PracticeRetrieval practice involves recalling to-be-remembered information from memory. Retrieval practice – by itself and espe...</span></span></span>
+The method is simple: pick one idea, close your materials, explain it aloud or in writing as if to a bright beginner, then compare your explanation with a trusted source. The value is not performance polish. It is diagnosis. Research on [retrieval practice]({{ 'retrieval-f145b/' | relative_url }}), self-explanation and metacognition all points in the same direction: trying to bring knowledge to mind, and then checking it, strengthens learning and exposes false confidence more effectively than passive review. psychology.ucsd.edu+2pubmed.ncbi.nlm.nih.gov <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psychology.ucsd.edu/undergraduate-program/undergraduate-resources/academic-writing-resources/effective-studying/retrieval-practice.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychology.ucsd.edu">[psychology.ucsd.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychology.ucsd.edu</span><span class="citation-popover-snippet">Retrieval PracticeRetrieval practice involves recalling to-be-remembered information from memory. Retrieval practice – by itself and espe...</span></span></span>
 
 ## Why explanation exposes gaps
 

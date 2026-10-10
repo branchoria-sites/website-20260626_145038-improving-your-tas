@@ -210,7 +210,7 @@ parent_heading_title: Practice Thinking on Real Problems
 ancestor_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_real_problem_practic_466932
   title: Real Practice | Improving Your Think
@@ -220,7 +220,7 @@ ancestor_links:
 breadcrumb_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_real_problem_practic_466932
   title: Real Practice | Improving Your Think
@@ -250,7 +250,7 @@ sibling_links:
   heading_title: Write predictions before the outcome arrives
 - basename: improving_your_think_da4710_real_problem_practic_466932_transfer_gap_3c6a00
   title: Transfer Gap | Real Practice
-  permalink: /transfer-gap/
+  permalink: /transfer-gap-3c6a00/
   short_title: Transfer Gap
   heading_title: Why tidy exercises do not always transfer
 up_link:
@@ -268,7 +268,7 @@ prev_link:
 next_link:
   basename: improving_your_think_da4710_real_problem_practic_466932_transfer_gap_3c6a00
   title: Transfer Gap | Real Practice
-  permalink: /transfer-gap/
+  permalink: /transfer-gap-3c6a00/
   short_title: Transfer Gap
   heading_title: Why tidy exercises do not always transfer
 date: '2026-06-26 12:26:26 '

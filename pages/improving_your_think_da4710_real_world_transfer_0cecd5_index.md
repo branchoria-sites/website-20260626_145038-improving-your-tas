@@ -20,7 +20,7 @@ The following pages expand on the main **[Transfer]({{ '/transfer/' | relative_u
 
 - [Transfer Gap]({{ '/transfer-gap/' | relative_url }})
 - [Debiasing]({{ '/debiasing/' | relative_url }})
-- [Domain Knowledge]({{ '/domain-knowledge/' | relative_url }})
+- [Domain Knowledge]({{ '/domain-knowledge-96a03e/' | relative_url }})
 - [Near vs Far]({{ '/near-vs-far/' | relative_url }})
 - [Checklists]({{ '/checklists/' | relative_url }})
 - [Outcomes]({{ '/outcomes/' | relative_url }})

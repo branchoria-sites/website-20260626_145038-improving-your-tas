@@ -211,7 +211,7 @@ parent_heading_title: Is the Question Already Trapping You?
 ancestor_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_framing_effects_b0667d
   title: Framing | Improving Your Think
@@ -221,7 +221,7 @@ ancestor_links:
 breadcrumb_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_framing_effects_b0667d
   title: Framing | Improving Your Think
@@ -251,7 +251,7 @@ sibling_links:
   heading_title: The question optimistic teams forget to ask
 - basename: improving_your_think_da4710_framing_effects_b0667d_sunk_cost_commitment_31e4c5
   title: Sunk Costs | Framing
-  permalink: /sunk-costs/
+  permalink: /sunk-costs-31e4c5/
   short_title: Sunk Costs
   heading_title: Would you start this project today?
 up_link:

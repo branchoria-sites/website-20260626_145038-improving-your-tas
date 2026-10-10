@@ -211,7 +211,7 @@ parent_heading_title: Trustworthy Source or Friendly Source?
 ancestor_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_source_quality_af91d8
   title: Source Quality | Improving Your Think
@@ -221,7 +221,7 @@ ancestor_links:
 breadcrumb_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_source_quality_af91d8
   title: Source Quality | Improving Your Think

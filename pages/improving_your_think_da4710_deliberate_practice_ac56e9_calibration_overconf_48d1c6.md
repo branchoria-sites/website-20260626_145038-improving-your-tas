@@ -251,7 +251,7 @@ sibling_links:
   heading_title: When should reasoning prompts disappear?
 - basename: improving_your_think_da4710_deliberate_practice_ac56e9_prediction_logs_scor_8d2137
   title: Prediction Logs | Deliberate Practice
-  permalink: /prediction-logs/
+  permalink: /prediction-logs-8d2137/
   short_title: Prediction Logs
   heading_title: Why prediction logs make thinking measurable
 up_link:

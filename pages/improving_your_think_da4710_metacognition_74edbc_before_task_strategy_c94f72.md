@@ -205,7 +205,7 @@ ui_strings:
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-25 00:06:16'
 parent_title: How Do You Check Your Own Thinking?
-parent_permalink: /metacognition/
+parent_permalink: /metacognition-74edbc/
 parent_nav_short_title: Metacognition
 parent_heading_title: How Do You Check Your Own Thinking?
 ancestor_links:
@@ -215,7 +215,7 @@ ancestor_links:
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_metacognition_74edbc
   title: Metacognition | Improving Your Thinking And Analytical Skills
-  permalink: /metacognition/
+  permalink: /metacognition-74edbc/
   short_title: Metacognition
   heading_title: How Do You Check Your Own Thinking?
 breadcrumb_links:
@@ -225,7 +225,7 @@ breadcrumb_links:
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_metacognition_74edbc
   title: Metacognition | Improving Your Thinking And Analytical Skills
-  permalink: /metacognition/
+  permalink: /metacognition-74edbc/
   short_title: Metacognition
   heading_title: How Do You Check Your Own Thinking?
 sibling_links:
@@ -236,7 +236,7 @@ sibling_links:
   heading_title: What Did This Reveal About Your Thinking?
 - basename: improving_your_think_da4710_metacognition_74edbc_confidence_evidence_ef0c00
   title: Confidence | Metacognition
-  permalink: /confidence/
+  permalink: /confidence-ef0c00/
   short_title: Confidence
   heading_title: When Confidence Gets Ahead of Evidence
 - basename: improving_your_think_da4710_metacognition_74edbc_during_task_strategy_28fd59
@@ -257,7 +257,7 @@ sibling_links:
 up_link:
   basename: improving_your_think_da4710_metacognition_74edbc
   title: Metacognition | Improving Your Thinking And Analytical Skills
-  permalink: /metacognition/
+  permalink: /metacognition-74edbc/
   short_title: Metacognition
   heading_title: How Do You Check Your Own Thinking?
 prev_link:
@@ -269,7 +269,7 @@ prev_link:
 next_link:
   basename: improving_your_think_da4710_metacognition_74edbc_confidence_evidence_ef0c00
   title: Confidence | Metacognition
-  permalink: /confidence/
+  permalink: /confidence-ef0c00/
   short_title: Confidence
   heading_title: When Confidence Gets Ahead of Evidence
 header:
@@ -280,7 +280,7 @@ image: /assets/images/improving_your_think_da4710_metacognition_74edbc_before_ta
 
 ## Introduction
 
-Many reasoning failures begin before any evidence is gathered or analysis starts. The task is vague, the success criteria are unclear, and the chosen method does not match the problem. [Metacognition]({{ 'metacognition/' | relative_url }}) is often described as monitoring and regulating your thinking while you work, but one of its highest-leverage uses happens before the work begins: asking questions that help you choose the right strategy. Research on metacognition consistently identifies planning as a core component of effective thinking, alongside monitoring and evaluation. People who deliberately analyse the task, consider available strategies, and clarify goals before acting tend to learn and solve problems more effectively.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tll.mit.edu/teaching-resources/how-people-learn/metacognition/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mit.edu">[tll.mit.edu+2EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mit.edu</span><span class="citation-popover-title">Metacognition</span><span class="citation-popover-snippet">Teaching + Learning Lab - MITMetacognition is the process by which learners use knowledge of the task at hand, knowledge of learning stra...</span></span></span>
+Many reasoning failures begin before any evidence is gathered or analysis starts. The task is vague, the success criteria are unclear, and the chosen method does not match the problem. [Metacognition]({{ 'metacognition-74edbc/' | relative_url }}) is often described as monitoring and regulating your thinking while you work, but one of its highest-leverage uses happens before the work begins: asking questions that help you choose the right strategy. Research on metacognition consistently identifies planning as a core component of effective thinking, alongside monitoring and evaluation. People who deliberately analyse the task, consider available strategies, and clarify goals before acting tend to learn and solve problems more effectively.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tll.mit.edu/teaching-resources/how-people-learn/metacognition/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mit.edu">[tll.mit.edu+2EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mit.edu</span><span class="citation-popover-title">Metacognition</span><span class="citation-popover-snippet">Teaching + Learning Lab - MITMetacognition is the process by which learners use knowledge of the task at hand, knowledge of learning stra...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_metacognition_74edbc_before_task_strategy_c94f72-Illustration-1-dark.svg" | relative_url }}" alt="Before Checks illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_metacognition_74edbc_before_task_strategy_c94f72-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_metacognition_74edbc_before_task_strategy_c94f72-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">

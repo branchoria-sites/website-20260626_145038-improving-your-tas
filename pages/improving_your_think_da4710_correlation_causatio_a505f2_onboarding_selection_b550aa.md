@@ -205,7 +205,7 @@ ui_strings:
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-25 06:12:01'
 parent_title: Does the Evidence Show a Cause?
-parent_permalink: /causation/
+parent_permalink: /causation-a505f2/
 parent_nav_short_title: Causation
 parent_heading_title: Does the Evidence Show a Cause?
 ancestor_links:
@@ -215,7 +215,7 @@ ancestor_links:
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_correlation_causatio_a505f2
   title: Causation | Improving Your Thinking And Analytical Skills
-  permalink: /causation/
+  permalink: /causation-a505f2/
   short_title: Causation
   heading_title: Does the Evidence Show a Cause?
 breadcrumb_links:
@@ -225,7 +225,7 @@ breadcrumb_links:
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_correlation_causatio_a505f2
   title: Causation | Improving Your Thinking And Analytical Skills
-  permalink: /causation/
+  permalink: /causation-a505f2/
   short_title: Causation
   heading_title: Does the Evidence Show a Cause?
 sibling_links:
@@ -257,7 +257,7 @@ sibling_links:
 up_link:
   basename: improving_your_think_da4710_correlation_causatio_a505f2
   title: Causation | Improving Your Thinking And Analytical Skills
-  permalink: /causation/
+  permalink: /causation-a505f2/
   short_title: Causation
   heading_title: Does the Evidence Show a Cause?
 prev_link:
@@ -284,7 +284,7 @@ Customers who attend onboarding sessions often spend more money than those who d
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_correlation_causatio_a505f2_onboarding_selection_b550aa-Illustration-1-dark.svg" | relative_url }}" alt="Onboarding Bias illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_correlation_causatio_a505f2_onboarding_selection_b550aa-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_correlation_causatio_a505f2_onboarding_selection_b550aa-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Recognising this distinction is an important analytical skill. Rather than asking whether onboarding attendees spend more, the better question is: **Would those same customers have spent more even if they had never attended onboarding?** Until that question is addressed, a correlation should not be treated as evidence of [causation]({{ 'causation/' | relative_url }}). Research on causal inference consistently identifies self-selection as a major threat to drawing reliable conclusions from observational business data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/325209736_Making_Stronger_Causal_Inferences_Accounting_for_Selection_Bias_in_Associations_Between_High_Performance_Work_Systems_Leadership_and_Employee_and_Customer_Satisfaction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Making Stronger Causal Inferences</span><span class="citation-popover-snippet">ResearchGate(PDF) Making Stronger Causal InferencesMay 17, 2018 — We develop competing hypotheses about the relationship between high per...</span><span class="citation-popover-meta">Published: May 17, 2018</span></span></span>
+Recognising this distinction is an important analytical skill. Rather than asking whether onboarding attendees spend more, the better question is: **Would those same customers have spent more even if they had never attended onboarding?** Until that question is addressed, a correlation should not be treated as evidence of [causation]({{ 'causation-a505f2/' | relative_url }}). Research on causal inference consistently identifies self-selection as a major threat to drawing reliable conclusions from observational business data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/325209736_Making_Stronger_Causal_Inferences_Accounting_for_Selection_Bias_in_Associations_Between_High_Performance_Work_Systems_Leadership_and_Employee_and_Customer_Satisfaction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Making Stronger Causal Inferences</span><span class="citation-popover-snippet">ResearchGate(PDF) Making Stronger Causal InferencesMay 17, 2018 — We develop competing hypotheses about the relationship between high per...</span><span class="citation-popover-meta">Published: May 17, 2018</span></span></span>
 
 ## Why voluntary users are not a fair comparison
 

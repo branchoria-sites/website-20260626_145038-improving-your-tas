@@ -51,7 +51,7 @@ show_ads: true
 description: Metacognition helps people monitor understanding, choose strategies, and notice when confidence outruns evidence.
 hero_summary: Metacognition helps people monitor understanding, choose strategies, and notice when confidence outruns evidence.
 layout: default
-permalink: /metacognition/
+permalink: /metacognition-74edbc/
 sidebar_expanded_urls:
 - /improving-your-thinking-and-analytical/
 nav_short_title: Metacognition
@@ -254,7 +254,7 @@ sibling_links:
   heading_title: Why Rereading Is Not Enough
 - basename: improving_your_think_da4710_alternative_explanat_ee4fa0
   title: Alternatives | Improving Your Thinking And Analytical Skills
-  permalink: /alternatives/
+  permalink: /alternatives-ee4fa0/
   short_title: Alternatives
   heading_title: What Else Could Explain This?
 - basename: improving_your_think_da4710_argument_mapping_8e4963
@@ -269,7 +269,7 @@ sibling_links:
   heading_title: Is Your Confidence Matched to Evidence?
 - basename: improving_your_think_da4710_correlation_causatio_a505f2
   title: Causation | Improving Your Thinking And Analytical Skills
-  permalink: /causation/
+  permalink: /causation-a505f2/
   short_title: Causation
   heading_title: Does the Evidence Show a Cause?
 - basename: improving_your_think_da4710_change_my_mind_f0f53e
@@ -405,7 +405,7 @@ child_links:
   heading_title: The Questions to Ask Before You Begin
 - basename: improving_your_think_da4710_metacognition_74edbc_confidence_evidence_ef0c00
   title: Confidence | Metacognition
-  permalink: /confidence/
+  permalink: /confidence-ef0c00/
   short_title: Confidence
   heading_title: When Confidence Gets Ahead of Evidence
 - basename: improving_your_think_da4710_metacognition_74edbc_during_task_strategy_28fd59

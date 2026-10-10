@@ -205,7 +205,7 @@ ui_strings:
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-25 06:13:40'
 parent_title: Does the Evidence Show a Cause?
-parent_permalink: /causation/
+parent_permalink: /causation-a505f2/
 parent_nav_short_title: Causation
 parent_heading_title: Does the Evidence Show a Cause?
 ancestor_links:
@@ -215,7 +215,7 @@ ancestor_links:
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_correlation_causatio_a505f2
   title: Causation | Improving Your Thinking And Analytical Skills
-  permalink: /causation/
+  permalink: /causation-a505f2/
   short_title: Causation
   heading_title: Does the Evidence Show a Cause?
 breadcrumb_links:
@@ -225,7 +225,7 @@ breadcrumb_links:
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_correlation_causatio_a505f2
   title: Causation | Improving Your Thinking And Analytical Skills
-  permalink: /causation/
+  permalink: /causation-a505f2/
   short_title: Causation
   heading_title: Does the Evidence Show a Cause?
 sibling_links:
@@ -257,7 +257,7 @@ sibling_links:
 up_link:
   basename: improving_your_think_da4710_correlation_causatio_a505f2
   title: Causation | Improving Your Thinking And Analytical Skills
-  permalink: /causation/
+  permalink: /causation-a505f2/
   short_title: Causation
   heading_title: Does the Evidence Show a Cause?
 prev_link:
@@ -274,7 +274,7 @@ image: /assets/images/improving_your_think_da4710_correlation_causatio_a505f2_sl
 
 ## Introduction
 
-Headlines often claim that “sleeping less increases your risk of dying”, but the mechanism test asks a more demanding question: **if short sleep truly causes earlier death, what biological pathways should connect the two, and are those pathways a better explanation than the alternatives?** Observational studies consistently find that people reporting very short sleep, and often very long sleep, have higher mortality rates. However, an association is not enough to justify advice. Illness can reduce or extend sleep, chronic [stress]({{ 'stress/' | relative_url }}) can disrupt it, shift work can alter both sleep and health, and self-reported sleep is often imprecise. The strongest conclusion is therefore more nuanced than many headlines suggest: inadequate sleep is biologically plausible as a contributor to disease, but mortality associations must be interpreted alongside competing explanations and evidence from studies designed to test [causation]({{ 'causation/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2864873/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Sleep Duration and All-Cause Mortality: A Systematic Review...by FP Cappuccio · 2010 · Cited by 2672 — Both short and long duration o...</span></span></span>
+Headlines often claim that “sleeping less increases your risk of dying”, but the mechanism test asks a more demanding question: **if short sleep truly causes earlier death, what biological pathways should connect the two, and are those pathways a better explanation than the alternatives?** Observational studies consistently find that people reporting very short sleep, and often very long sleep, have higher mortality rates. However, an association is not enough to justify advice. Illness can reduce or extend sleep, chronic [stress]({{ 'stress/' | relative_url }}) can disrupt it, shift work can alter both sleep and health, and self-reported sleep is often imprecise. The strongest conclusion is therefore more nuanced than many headlines suggest: inadequate sleep is biologically plausible as a contributor to disease, but mortality associations must be interpreted alongside competing explanations and evidence from studies designed to test [causation]({{ 'causation-a505f2/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2864873/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Sleep Duration and All-Cause Mortality: A Systematic Review...by FP Cappuccio · 2010 · Cited by 2672 — Both short and long duration o...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_correlation_causatio_a505f2_sleep_mortality_mech_c2c0dc-Illustration-1-dark.svg" | relative_url }}" alt="Sleep Claims illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_correlation_causatio_a505f2_sleep_mortality_mech_c2c0dc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_correlation_causatio_a505f2_sleep_mortality_mech_c2c0dc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">

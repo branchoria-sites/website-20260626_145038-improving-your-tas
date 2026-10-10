@@ -211,7 +211,7 @@ parent_heading_title: Why Testing Yourself Beats Rereading
 ancestor_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_practice_testing_35a599
   title: Practice Tests | Improving Your Think
@@ -221,7 +221,7 @@ ancestor_links:
 breadcrumb_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_practice_testing_35a599
   title: Practice Tests | Improving Your Think
@@ -231,7 +231,7 @@ breadcrumb_links:
 sibling_links:
 - basename: improving_your_think_da4710_practice_testing_35a599_reading_brain_dumps_1afd95
   title: Brain Dumps | Practice Tests
-  permalink: /brain-dumps/
+  permalink: /brain-dumps-1afd95/
   short_title: Brain Dumps
   heading_title: The Five Minute Test After Reading
 - basename: improving_your_think_da4710_practice_testing_35a599_mistakes_feedback_277a1a
@@ -246,7 +246,7 @@ sibling_links:
   heading_title: How to Build a Self Test That Actually Works
 - basename: improving_your_think_da4710_practice_testing_35a599_transfer_questions_ad96de
   title: Transfer | Practice Tests
-  permalink: /transfer/
+  permalink: /transfer-ad96de/
   short_title: Transfer
   heading_title: Can You Use the Idea Somewhere New?
 - basename: improving_your_think_da4710_practice_testing_35a599_work_retrieval_routi_45888a

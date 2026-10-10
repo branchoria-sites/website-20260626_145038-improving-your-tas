@@ -205,27 +205,27 @@ ui_strings:
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-26 00:30:39'
 parent_title: How Feedback Makes Judgement Sharper
-parent_permalink: /feedback/
+parent_permalink: /feedback-8a35f0/
 parent_nav_short_title: Feedback
 parent_heading_title: How Feedback Makes Judgement Sharper
 ancestor_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_feedback_calibration_8a35f0
   title: Feedback | Improving Your Think
-  permalink: /feedback/
+  permalink: /feedback-8a35f0/
   short_title: Feedback
   heading_title: How Feedback Makes Judgement Sharper
 breadcrumb_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_feedback_calibration_8a35f0
   title: Feedback | Improving Your Think
-  permalink: /feedback/
+  permalink: /feedback-8a35f0/
   short_title: Feedback
   heading_title: How Feedback Makes Judgement Sharper
 sibling_links:
@@ -257,7 +257,7 @@ sibling_links:
 up_link:
   basename: improving_your_think_da4710_feedback_calibration_8a35f0
   title: Feedback | Improving Your Think
-  permalink: /feedback/
+  permalink: /feedback-8a35f0/
   short_title: Feedback
   heading_title: How Feedback Makes Judgement Sharper
 prev_link:

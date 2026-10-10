@@ -22,7 +22,7 @@ show_ads: true
 description: The WHO surgical checklist shows how simple routines can reduce omissions and silence in expert work without replacing expertise.
 hero_summary: The WHO surgical checklist shows how simple routines can reduce omissions and silence in expert work without replacing expertise.
 layout: default
-permalink: /checklists/
+permalink: /checklists-3f76cd/
 sidebar_expanded_urls:
 - /improving-your-think/
 - /decision-routines/
@@ -211,7 +211,7 @@ parent_heading_title: A Safer Way to Make Big Decisions
 ancestor_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_high_stakes_decision_b09c8f
   title: Decision Routines | Improving Your Think
@@ -221,7 +221,7 @@ ancestor_links:
 breadcrumb_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_high_stakes_decision_b09c8f
   title: Decision Routines | Improving Your Think
@@ -236,7 +236,7 @@ sibling_links:
   heading_title: What else is genuinely on the table?
 - basename: improving_your_think_da4710_high_stakes_decision_b09c8f_reference_class_fore_cd7842
   title: Base Rates | Decision Routines
-  permalink: /base-rates/
+  permalink: /base-rates-cd7842/
   short_title: Base Rates
   heading_title: What happened when others tried this?
 - basename: improving_your_think_da4710_high_stakes_decision_b09c8f_emergency_decision_r_3237e1
@@ -263,7 +263,7 @@ up_link:
 prev_link:
   basename: improving_your_think_da4710_high_stakes_decision_b09c8f_reference_class_fore_cd7842
   title: Base Rates | Decision Routines
-  permalink: /base-rates/
+  permalink: /base-rates-cd7842/
   short_title: Base Rates
   heading_title: What happened when others tried this?
 next_link:

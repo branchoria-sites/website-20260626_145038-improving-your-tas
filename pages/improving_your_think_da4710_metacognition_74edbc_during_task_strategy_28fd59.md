@@ -205,7 +205,7 @@ ui_strings:
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-25 00:06:16'
 parent_title: How Do You Check Your Own Thinking?
-parent_permalink: /metacognition/
+parent_permalink: /metacognition-74edbc/
 parent_nav_short_title: Metacognition
 parent_heading_title: How Do You Check Your Own Thinking?
 ancestor_links:
@@ -215,7 +215,7 @@ ancestor_links:
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_metacognition_74edbc
   title: Metacognition | Can You Train Better Judgment?
-  permalink: /metacognition/
+  permalink: /metacognition-74edbc/
   short_title: Metacognition
   heading_title: How Do You Check Your Own Thinking?
 breadcrumb_links:
@@ -225,7 +225,7 @@ breadcrumb_links:
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_metacognition_74edbc
   title: Metacognition | Can You Train Better Judgment?
-  permalink: /metacognition/
+  permalink: /metacognition-74edbc/
   short_title: Metacognition
   heading_title: How Do You Check Your Own Thinking?
 sibling_links:
@@ -241,7 +241,7 @@ sibling_links:
   heading_title: The Questions to Ask Before You Begin
 - basename: improving_your_think_da4710_metacognition_74edbc_confidence_evidence_ef0c00
   title: Confidence | Metacognition
-  permalink: /confidence/
+  permalink: /confidence-ef0c00/
   short_title: Confidence
   heading_title: When Confidence Gets Ahead of Evidence
 - basename: improving_your_think_da4710_metacognition_74edbc_reading_understandin_8995de
@@ -257,13 +257,13 @@ sibling_links:
 up_link:
   basename: improving_your_think_da4710_metacognition_74edbc
   title: Metacognition | Can You Train Better Judgment?
-  permalink: /metacognition/
+  permalink: /metacognition-74edbc/
   short_title: Metacognition
   heading_title: How Do You Check Your Own Thinking?
 prev_link:
   basename: improving_your_think_da4710_metacognition_74edbc_confidence_evidence_ef0c00
   title: Confidence | Metacognition
-  permalink: /confidence/
+  permalink: /confidence-ef0c00/
   short_title: Confidence
   heading_title: When Confidence Gets Ahead of Evidence
 next_link:
@@ -280,7 +280,7 @@ image: /assets/images/improving_your_think_da4710_metacognition_74edbc_during_ta
 
 ## Introduction
 
-A common reason people fail on complex tasks is not that they lack ability, but that they continue using a strategy that has quietly stopped fitting the problem. During-task checks for strategy drift are short, deliberate moments of metacognitive monitoring that ask whether the current approach is still producing meaningful progress. Rather than waiting until the end of a task to discover that hours were spent unproductively, these checks create a [feedback loop]({{ 'feedback-loop/' | relative_url }}): monitor what is happening, compare it with the goal, and adjust if necessary. Research on [metacognition]({{ 'metacognition/' | relative_url }}) consistently shows that effective learners and problem-solvers monitor their progress and use those observations to regulate their behaviour rather than simply working harder with the same method.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sanlab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/RBjork_Dunlosky_Kornell_2012.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sanlab.psych.ucla.edu">[Sanlab+2NSW Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sanlab.psych.ucla.edu</span><span class="citation-popover-title">Sanlab Self‐regulated Learning: Beliefs, Techniques, and Illusions</span><span class="citation-popover-snippet">Self‐regulated Learning: Beliefs, Techniques, and IllusionsJanuary 3, 2013 — by N Kornell · Cited by 1 — As Nelson and Narens (1990...</span><span class="citation-popover-meta">Published: January 3, 2013</span></span></span>
+A common reason people fail on complex tasks is not that they lack ability, but that they continue using a strategy that has quietly stopped fitting the problem. During-task checks for strategy drift are short, deliberate moments of metacognitive monitoring that ask whether the current approach is still producing meaningful progress. Rather than waiting until the end of a task to discover that hours were spent unproductively, these checks create a [feedback loop]({{ 'feedback-loop/' | relative_url }}): monitor what is happening, compare it with the goal, and adjust if necessary. Research on [metacognition]({{ 'metacognition-74edbc/' | relative_url }}) consistently shows that effective learners and problem-solvers monitor their progress and use those observations to regulate their behaviour rather than simply working harder with the same method.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sanlab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/RBjork_Dunlosky_Kornell_2012.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sanlab.psych.ucla.edu">[Sanlab+2NSW Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sanlab.psych.ucla.edu</span><span class="citation-popover-title">Sanlab Self‐regulated Learning: Beliefs, Techniques, and Illusions</span><span class="citation-popover-snippet">Self‐regulated Learning: Beliefs, Techniques, and IllusionsJanuary 3, 2013 — by N Kornell · Cited by 1 — As Nelson and Narens (1990...</span><span class="citation-popover-meta">Published: January 3, 2013</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_metacognition_74edbc_during_task_strategy_28fd59-Illustration-1-dark.svg" | relative_url }}" alt="Drift Checks illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_metacognition_74edbc_during_task_strategy_28fd59-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_metacognition_74edbc_during_task_strategy_28fd59-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">

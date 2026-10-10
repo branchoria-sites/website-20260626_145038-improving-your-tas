@@ -22,7 +22,7 @@ show_ads: true
 description: The money and effort already spent can make stopping feel like failure, even when starting again today would be hard to justify.
 hero_summary: The money and effort already spent can make stopping feel like failure, even when starting again today would be hard to justify.
 layout: default
-permalink: /sunk-costs/
+permalink: /sunk-costs-31e4c5/
 sidebar_expanded_urls:
 - /improving-your-think/
 - /framing/
@@ -211,7 +211,7 @@ parent_heading_title: Is the Question Already Trapping You?
 ancestor_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_framing_effects_b0667d
   title: Framing | Improving Your Think
@@ -221,7 +221,7 @@ ancestor_links:
 breadcrumb_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_framing_effects_b0667d
   title: Framing | Improving Your Think

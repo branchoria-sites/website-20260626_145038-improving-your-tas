@@ -211,7 +211,7 @@ parent_heading_title: What Open Minded Thinking Actually Requires
 ancestor_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_open_minded_thinking_b0c2ad
   title: Open Mind | Improving Your Think
@@ -221,7 +221,7 @@ ancestor_links:
 breadcrumb_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_open_minded_thinking_b0c2ad
   title: Open Mind | Improving Your Think
@@ -251,7 +251,7 @@ sibling_links:
   heading_title: Listen First Without Surrendering Your Standards
 - basename: improving_your_think_da4710_open_minded_thinking_b0c2ad_strongest_opposing_a_102f34
   title: Steelmanning | Open Mind
-  permalink: /steelmanning/
+  permalink: /steelmanning-102f34/
   short_title: Steelmanning
   heading_title: Can Your View Survive the Strongest Objection?
 up_link:

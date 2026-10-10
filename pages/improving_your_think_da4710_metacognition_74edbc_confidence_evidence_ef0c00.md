@@ -22,7 +22,7 @@ show_ads: true
 description: Confidence becomes more useful when it is checked against the quality of the evidence behind it.
 hero_summary: Confidence becomes more useful when it is checked against the quality of the evidence behind it.
 layout: default
-permalink: /confidence/
+permalink: /confidence-ef0c00/
 sidebar_expanded_urls:
 - /improving-your-thinking-and-analytical/
 - /metacognition/
@@ -205,7 +205,7 @@ ui_strings:
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-25 00:06:13'
 parent_title: How Do You Check Your Own Thinking?
-parent_permalink: /metacognition/
+parent_permalink: /metacognition-74edbc/
 parent_nav_short_title: Metacognition
 parent_heading_title: How Do You Check Your Own Thinking?
 ancestor_links:
@@ -215,7 +215,7 @@ ancestor_links:
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_metacognition_74edbc
   title: Metacognition | Improving Your Thinking And Analytical Skills
-  permalink: /metacognition/
+  permalink: /metacognition-74edbc/
   short_title: Metacognition
   heading_title: How Do You Check Your Own Thinking?
 breadcrumb_links:
@@ -225,7 +225,7 @@ breadcrumb_links:
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_metacognition_74edbc
   title: Metacognition | Improving Your Thinking And Analytical Skills
-  permalink: /metacognition/
+  permalink: /metacognition-74edbc/
   short_title: Metacognition
   heading_title: How Do You Check Your Own Thinking?
 sibling_links:
@@ -257,7 +257,7 @@ sibling_links:
 up_link:
   basename: improving_your_think_da4710_metacognition_74edbc
   title: Metacognition | Improving Your Thinking And Analytical Skills
-  permalink: /metacognition/
+  permalink: /metacognition-74edbc/
   short_title: Metacognition
   heading_title: How Do You Check Your Own Thinking?
 prev_link:
@@ -280,7 +280,7 @@ image: /assets/images/improving_your_think_da4710_metacognition_74edbc_confidenc
 
 ## Introduction
 
-Confidence is useful only when it tracks reality. In [metacognition]({{ 'metacognition/' | relative_url }}), one of the most important skills is learning to match how certain you feel to the strength of the evidence you actually possess. When confidence rises faster than evidence, judgement becomes vulnerable to error. When confidence is lower than the evidence [warrants]({{ 'warrants/' | relative_url }}), good opportunities can be missed. The goal is not to become less confident, but to become better calibrated.
+Confidence is useful only when it tracks reality. In [metacognition]({{ 'metacognition-74edbc/' | relative_url }}), one of the most important skills is learning to match how certain you feel to the strength of the evidence you actually possess. When confidence rises faster than evidence, judgement becomes vulnerable to error. When confidence is lower than the evidence [warrants]({{ 'warrants/' | relative_url }}), good opportunities can be missed. The goal is not to become less confident, but to become better calibrated.
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_metacognition_74edbc_confidence_evidence_ef0c00-Illustration-1-dark.svg" | relative_url }}" alt="Confidence illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_metacognition_74edbc_confidence_evidence_ef0c00-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_metacognition_74edbc_confidence_evidence_ef0c00-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">

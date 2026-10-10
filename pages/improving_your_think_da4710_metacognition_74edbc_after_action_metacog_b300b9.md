@@ -205,7 +205,7 @@ ui_strings:
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-25 00:06:16'
 parent_title: How Do You Check Your Own Thinking?
-parent_permalink: /metacognition/
+parent_permalink: /metacognition-74edbc/
 parent_nav_short_title: Metacognition
 parent_heading_title: How Do You Check Your Own Thinking?
 ancestor_links:
@@ -215,7 +215,7 @@ ancestor_links:
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_metacognition_74edbc
   title: Metacognition | Can You Train Better Judgment?
-  permalink: /metacognition/
+  permalink: /metacognition-74edbc/
   short_title: Metacognition
   heading_title: How Do You Check Your Own Thinking?
 breadcrumb_links:
@@ -225,7 +225,7 @@ breadcrumb_links:
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_metacognition_74edbc
   title: Metacognition | Can You Train Better Judgment?
-  permalink: /metacognition/
+  permalink: /metacognition-74edbc/
   short_title: Metacognition
   heading_title: How Do You Check Your Own Thinking?
 sibling_links:
@@ -236,7 +236,7 @@ sibling_links:
   heading_title: The Questions to Ask Before You Begin
 - basename: improving_your_think_da4710_metacognition_74edbc_confidence_evidence_ef0c00
   title: Confidence | Metacognition
-  permalink: /confidence/
+  permalink: /confidence-ef0c00/
   short_title: Confidence
   heading_title: When Confidence Gets Ahead of Evidence
 - basename: improving_your_think_da4710_metacognition_74edbc_during_task_strategy_28fd59
@@ -257,7 +257,7 @@ sibling_links:
 up_link:
   basename: improving_your_think_da4710_metacognition_74edbc
   title: Metacognition | Can You Train Better Judgment?
-  permalink: /metacognition/
+  permalink: /metacognition-74edbc/
   short_title: Metacognition
   heading_title: How Do You Check Your Own Thinking?
 next_link:
@@ -426,7 +426,7 @@ A useful review therefore ends with a narrow but powerful question:
 
 > **Given what this result revealed about my judgement, what single thinking habit should I deliberately change before I face a similar decision again?**
 
-That question keeps the focus where [metacognition]({{ 'metacognition/' | relative_url }}) is most effective—not on whether the last outcome was good or bad, but on whether the next piece of thinking will be better.
+That question keeps the focus where [metacognition]({{ 'metacognition-74edbc/' | relative_url }}) is most effective—not on whether the last outcome was good or bad, but on whether the next piece of thinking will be better.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

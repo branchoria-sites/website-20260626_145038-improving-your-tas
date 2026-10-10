@@ -22,7 +22,7 @@ show_ads: true
 description: Putting probabilities beside predictions makes confidence testable and helps expose repeated overconfidence or vagueness.
 hero_summary: Putting probabilities beside predictions makes confidence testable and helps expose repeated overconfidence or vagueness.
 layout: default
-permalink: /probabilities/
+permalink: /probabilities-0b0809/
 sidebar_expanded_urls:
 - /improving-your-think/
 - /decision-journal/
@@ -211,7 +211,7 @@ parent_heading_title: Keep Score on Your Own Judgement
 ancestor_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_decision_journals_44d9d9
   title: Decision Journal | Improving Your Think
@@ -221,7 +221,7 @@ ancestor_links:
 breadcrumb_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_decision_journals_44d9d9
   title: Decision Journal | Improving Your Think
@@ -241,7 +241,7 @@ sibling_links:
   heading_title: Why outcomes make old choices look obvious
 - basename: improving_your_think_da4710_decision_journals_44d9d9_outcome_bias_decisio_3bef10
   title: Outcome Bias | Decision Journal
-  permalink: /outcome-bias/
+  permalink: /outcome-bias-3bef10/
   short_title: Outcome Bias
   heading_title: Was it a bad choice or bad luck?
 - basename: improving_your_think_da4710_decision_journals_44d9d9_promotion_decision_c_9e2b71
@@ -263,7 +263,7 @@ up_link:
 prev_link:
   basename: improving_your_think_da4710_decision_journals_44d9d9_outcome_bias_decisio_3bef10
   title: Outcome Bias | Decision Journal
-  permalink: /outcome-bias/
+  permalink: /outcome-bias-3bef10/
   short_title: Outcome Bias
   heading_title: Was it a bad choice or bad luck?
 next_link:

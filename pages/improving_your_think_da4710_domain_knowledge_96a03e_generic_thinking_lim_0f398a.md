@@ -205,27 +205,27 @@ ui_strings:
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-26 11:43:41'
 parent_title: Why Smart Thinking Needs Real Knowledge
-parent_permalink: /domain-knowledge/
+parent_permalink: /domain-knowledge-96a03e/
 parent_nav_short_title: Domain Knowledge
 parent_heading_title: Why Smart Thinking Needs Real Knowledge
 ancestor_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_domain_knowledge_96a03e
   title: Domain Knowledge | Improving Your Think
-  permalink: /domain-knowledge/
+  permalink: /domain-knowledge-96a03e/
   short_title: Domain Knowledge
   heading_title: Why Smart Thinking Needs Real Knowledge
 breadcrumb_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_domain_knowledge_96a03e
   title: Domain Knowledge | Improving Your Think
-  permalink: /domain-knowledge/
+  permalink: /domain-knowledge-96a03e/
   short_title: Domain Knowledge
   heading_title: Why Smart Thinking Needs Real Knowledge
 sibling_links:
@@ -257,7 +257,7 @@ sibling_links:
 up_link:
   basename: improving_your_think_da4710_domain_knowledge_96a03e
   title: Domain Knowledge | Improving Your Think
-  permalink: /domain-knowledge/
+  permalink: /domain-knowledge-96a03e/
   short_title: Domain Knowledge
   heading_title: Why Smart Thinking Needs Real Knowledge
 prev_link:
@@ -284,7 +284,7 @@ General [critical thinking]({{ 'critical-skills/' | relative_url }}) skills—su
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_domain_knowledge_96a03e_generic_thinking_lim_0f398a-Illustration-1-dark.svg" | relative_url }}" alt="Generic Limits illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_domain_knowledge_96a03e_generic_thinking_lim_0f398a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_domain_knowledge_96a03e_generic_thinking_lim_0f398a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This is one of the most common failures in analytical thinking. People often learn generic reasoning frameworks before they know enough about the topic they are evaluating. The problem is not that critical thinking is useless. Rather, it is that good reasoning depends on [domain knowledge]({{ 'domain-knowledge/' | relative_url }}) to interpret evidence correctly, distinguish meaningful signals from noise and recognise when familiar reasoning patterns do not apply. Research on expertise and learning consistently shows that deep understanding arises from the interaction of reasoning skills with organised subject knowledge rather than from generic thinking techniques alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/258162628_Domain-Specific_Knowledge_and_Why_Teaching_Generic_Skills_Does_Not_Work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Domain-Specific Knowledge and Why Teaching Generic...June 1, 2013 — An emphasis on domain-general knowledge may be misplaced...</span><span class="citation-popover-meta">Published: June 1, 2013</span></span></span>
+This is one of the most common failures in analytical thinking. People often learn generic reasoning frameworks before they know enough about the topic they are evaluating. The problem is not that critical thinking is useless. Rather, it is that good reasoning depends on [domain knowledge]({{ 'domain-knowledge-96a03e/' | relative_url }}) to interpret evidence correctly, distinguish meaningful signals from noise and recognise when familiar reasoning patterns do not apply. Research on expertise and learning consistently shows that deep understanding arises from the interaction of reasoning skills with organised subject knowledge rather than from generic thinking techniques alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/258162628_Domain-Specific_Knowledge_and_Why_Teaching_Generic_Skills_Does_Not_Work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Domain-Specific Knowledge and Why Teaching Generic...June 1, 2013 — An emphasis on domain-general knowledge may be misplaced...</span><span class="citation-popover-meta">Published: June 1, 2013</span></span></span>
 
 ## Why reasoning rules do not transfer automatically
 

@@ -211,7 +211,7 @@ parent_heading_title: Ask Better Questions Before Seeking Answers
 ancestor_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_question_design_1265c2
   title: Better Questions | Improving Your Think
@@ -221,7 +221,7 @@ ancestor_links:
 breadcrumb_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_question_design_1265c2
   title: Better Questions | Improving Your Think
@@ -236,7 +236,7 @@ sibling_links:
   heading_title: How Framing Changes What Evidence Means
 - basename: improving_your_think_da4710_question_design_1265c2_better_outcome_measu_1d9ea7
   title: Outcomes | Better Questions
-  permalink: /outcomes/
+  permalink: /outcomes-1d9ea7/
   short_title: Outcomes
   heading_title: Are You Measuring the Wrong Success?
 - basename: improving_your_think_da4710_question_design_1265c2_pico_everyday_questi_e383d5

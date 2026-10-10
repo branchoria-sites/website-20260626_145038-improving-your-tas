@@ -254,7 +254,7 @@ sibling_links:
   heading_title: Why Rereading Is Not Enough
 - basename: improving_your_think_da4710_alternative_explanat_ee4fa0
   title: Alternatives | Improving Your Thinking And Analytical Skills
-  permalink: /alternatives/
+  permalink: /alternatives-ee4fa0/
   short_title: Alternatives
   heading_title: What Else Could Explain This?
 - basename: improving_your_think_da4710_argument_mapping_8e4963
@@ -264,7 +264,7 @@ sibling_links:
   heading_title: Can Mapping an Argument Improve It?
 - basename: improving_your_think_da4710_correlation_causatio_a505f2
   title: Causation | Improving Your Thinking And Analytical Skills
-  permalink: /causation/
+  permalink: /causation-a505f2/
   short_title: Causation
   heading_title: Does the Evidence Show a Cause?
 - basename: improving_your_think_da4710_change_my_mind_f0f53e
@@ -329,7 +329,7 @@ sibling_links:
   heading_title: How Do You Compare Job Offers Clearly?
 - basename: improving_your_think_da4710_metacognition_74edbc
   title: Metacognition | Improving Your Thinking And Analytical Skills
-  permalink: /metacognition/
+  permalink: /metacognition-74edbc/
   short_title: Metacognition
   heading_title: How Do You Check Your Own Thinking?
 - basename: improving_your_think_da4710_thinking_mistakes_7c70ba
@@ -395,12 +395,12 @@ sibling_links:
 child_links:
 - basename: improving_your_think_da4710_confidence_calibrati_3ec11e_brier_scores_persona_4eff62
   title: Brier Scores | Calibration
-  permalink: /brier-scores/
+  permalink: /brier-scores-4eff62/
   short_title: Brier Scores
   heading_title: A Simple Scorecard for Forecasting Skill
 - basename: improving_your_think_da4710_confidence_calibrati_3ec11e_good_judgment_lesson_ea91a6
   title: Good Judgment | Calibration
-  permalink: /good-judgment/
+  permalink: /good-judgment-ea91a6/
   short_title: Good Judgment
   heading_title: What Superforecasting Teaches Everyday Thinkers
 - basename: improving_your_think_da4710_confidence_calibrati_3ec11e_missed_prediction_re_740db4
@@ -410,7 +410,7 @@ child_links:
   heading_title: When a Wrong Forecast Was Still Reasonable
 - basename: improving_your_think_da4710_confidence_calibrati_3ec11e_probabilities_not_wo_bcc6f4
   title: Probability Words | Calibration
-  permalink: /probability-words/
+  permalink: /probability-words-bcc6f4/
   short_title: Probability Words
   heading_title: Why Probably Is Not Precise Enough
 - basename: improving_your_think_da4710_confidence_calibrati_3ec11e_scorable_forecast_qu_0298c2
@@ -437,7 +437,7 @@ prev_link:
 next_link:
   basename: improving_your_think_da4710_correlation_causatio_a505f2
   title: Causation | Improving Your Thinking And Analytical Skills
-  permalink: /causation/
+  permalink: /causation-a505f2/
   short_title: Causation
   heading_title: Does the Evidence Show a Cause?
 header:
@@ -452,7 +452,7 @@ Confidence calibration is the [practice]({{ 'practice/' | relative_url }}) of ch
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_confidence_calibrati_3ec11e-overview.webp" | relative_url }}" alt="Overview image for Calibration" loading="eager" decoding="sync" fetchpriority="high">
-This matters because memory is a poor scorekeeper. People often remember the broad direction of their past views, but not the exact confidence they felt, the alternatives they dismissed, or the conditions under which they said they would change their mind. Calibration does not require you to become cautious about everything. The aim is sharper confidence: low when the evidence is thin, higher when the evidence is strong, and revisable when new information arrives. Forecasting research, especially the [Good Judgment]({{ 'good-judgment/' | relative_url }}) Project, suggests that probabilistic prediction, [feedback]({{ 'feedback/' | relative_url }}), practice and clear scoring can improve judgement in real-world questions, not just in classroom puzzles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://goodjudgment.com/wp-content/uploads/2018/12/jdm16511.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goodjudgment.com">[Good Judgment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goodjudgment.com</span><span class="citation-popover-title">Good Judgment The impact of training and practice on judgmental accuracy</span><span class="citation-popover-snippet">Good JudgmentThe impact of training and practice on judgmental accuracy...September 30, 2016 — by W Chang · 2016 · Cited by 153 — Althou...</span><span class="citation-popover-meta">Published: September 30, 2016</span></span></span>
+This matters because memory is a poor scorekeeper. People often remember the broad direction of their past views, but not the exact confidence they felt, the alternatives they dismissed, or the conditions under which they said they would change their mind. Calibration does not require you to become cautious about everything. The aim is sharper confidence: low when the evidence is thin, higher when the evidence is strong, and revisable when new information arrives. Forecasting research, especially the [Good Judgment]({{ 'good-judgment-ea91a6/' | relative_url }}) Project, suggests that probabilistic prediction, [feedback]({{ 'feedback/' | relative_url }}), practice and clear scoring can improve judgement in real-world questions, not just in classroom puzzles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://goodjudgment.com/wp-content/uploads/2018/12/jdm16511.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goodjudgment.com">[Good Judgment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goodjudgment.com</span><span class="citation-popover-title">Good Judgment The impact of training and practice on judgmental accuracy</span><span class="citation-popover-snippet">Good JudgmentThe impact of training and practice on judgmental accuracy...September 30, 2016 — by W Chang · 2016 · Cited by 153 — Althou...</span><span class="citation-popover-meta">Published: September 30, 2016</span></span></span>
 
 ## Why calibration matters
 
@@ -547,7 +547,7 @@ For example:
 
 Confidence bandNumber of predictionsNumber that happenedWhat to check50–60%2012Close to expected; look for vague hedging70–80%2010Possible overconfidence90–100%106Serious overconfidence unless sample is unusual
 
-The Brier score adds a stricter numerical penalty: confident wrong predictions hurt more than cautious wrong predictions. That is exactly why it is useful. Saying “95%” should carry more accountability than saying “60%”. At the same time, researchers note that [Brier scores]({{ 'brier-scores/' | relative_url }}) can be decomposed into different properties, including calibration and resolution. Resolution matters because a person who always says 50% may be well protected from embarrassment but is not adding much decision value.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/8172E04F2DBC601DA5D953D4685CA346/S1930297500007099a.pdf/weighted_brier_score_decompositions_for_topically_heterogenous_forecasting_tournaments.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment Weighted Brier score decompositions for topically</span><span class="citation-popover-snippet">University Press &amp; Assessment Weighted Brier score decompositions for topically</span></span></span>
+The Brier score adds a stricter numerical penalty: confident wrong predictions hurt more than cautious wrong predictions. That is exactly why it is useful. Saying “95%” should carry more accountability than saying “60%”. At the same time, researchers note that [Brier scores]({{ 'brier-scores-4eff62/' | relative_url }}) can be decomposed into different properties, including calibration and resolution. Resolution matters because a person who always says 50% may be well protected from embarrassment but is not adding much decision value.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/8172E04F2DBC601DA5D953D4685CA346/S1930297500007099a.pdf/weighted_brier_score_decompositions_for_topically_heterogenous_forecasting_tournaments.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment Weighted Brier score decompositions for topically</span><span class="citation-popover-snippet">University Press &amp; Assessment Weighted Brier score decompositions for topically</span></span></span>
 
 For everyday use, the scoring rule can be modest:
 

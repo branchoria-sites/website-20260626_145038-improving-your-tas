@@ -211,7 +211,7 @@ parent_heading_title: Can You Explain It Without Notes?
 ancestor_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_no_notes_explanation_891faf
   title: Explain It | Improving Your Think
@@ -221,7 +221,7 @@ ancestor_links:
 breadcrumb_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_no_notes_explanation_891faf
   title: Explain It | Improving Your Think
@@ -251,7 +251,7 @@ sibling_links:
   heading_title: How to Check What Your Explanation Missed
 - basename: improving_your_think_da4710_no_notes_explanation_891faf_retrieval_practice_n_ff145b
   title: Retrieval | Explain It
-  permalink: /retrieval/
+  permalink: /retrieval-f145b/
   short_title: Retrieval
   heading_title: Why Pulling Ideas From Memory Works
 up_link:
@@ -263,7 +263,7 @@ up_link:
 prev_link:
   basename: improving_your_think_da4710_no_notes_explanation_891faf_retrieval_practice_n_ff145b
   title: Retrieval | Explain It
-  permalink: /retrieval/
+  permalink: /retrieval-f145b/
   short_title: Retrieval
   heading_title: Why Pulling Ideas From Memory Works
 header:

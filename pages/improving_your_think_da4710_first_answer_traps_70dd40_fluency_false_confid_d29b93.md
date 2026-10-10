@@ -22,7 +22,7 @@ show_ads: true
 description: Answers that come easily can feel more trustworthy than they deserve, especially when surface fit hides a failed constraint.
 hero_summary: Answers that come easily can feel more trustworthy than they deserve, especially when surface fit hides a failed constraint.
 layout: default
-permalink: /false-fluency/
+permalink: /false-fluency-d29b93/
 sidebar_expanded_urls:
 - /improving-your-thinking-and-analytical/
 - /first-answers/

@@ -51,7 +51,7 @@ show_ads: true
 description: A strong explanation is not just plausible; it has survived comparison with serious alternatives.
 hero_summary: A strong explanation is not just plausible; it has survived comparison with serious alternatives.
 layout: default
-permalink: /alternatives/
+permalink: /alternatives-ee4fa0/
 sidebar_expanded_urls:
 - /improving-your-thinking-and-analytical/
 nav_short_title: Alternatives
@@ -264,7 +264,7 @@ sibling_links:
   heading_title: Is Your Confidence Matched to Evidence?
 - basename: improving_your_think_da4710_correlation_causatio_a505f2
   title: Causation | Can You Train Better Judgment?
-  permalink: /causation/
+  permalink: /causation-a505f2/
   short_title: Causation
   heading_title: Does the Evidence Show a Cause?
 - basename: improving_your_think_da4710_change_my_mind_f0f53e
@@ -329,7 +329,7 @@ sibling_links:
   heading_title: How Do You Compare Job Offers Clearly?
 - basename: improving_your_think_da4710_metacognition_74edbc
   title: Metacognition | Can You Train Better Judgment?
-  permalink: /metacognition/
+  permalink: /metacognition-74edbc/
   short_title: Metacognition
   heading_title: How Do You Check Your Own Thinking?
 - basename: improving_your_think_da4710_thinking_mistakes_7c70ba

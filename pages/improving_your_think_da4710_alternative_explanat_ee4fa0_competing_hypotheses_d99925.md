@@ -205,7 +205,7 @@ ui_strings:
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-25 06:17:05'
 parent_title: What Else Could Explain This?
-parent_permalink: /alternatives/
+parent_permalink: /alternatives-ee4fa0/
 parent_nav_short_title: Alternatives
 parent_heading_title: What Else Could Explain This?
 ancestor_links:
@@ -215,7 +215,7 @@ ancestor_links:
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_alternative_explanat_ee4fa0
   title: Alternatives | Can You Train Better Judgment?
-  permalink: /alternatives/
+  permalink: /alternatives-ee4fa0/
   short_title: Alternatives
   heading_title: What Else Could Explain This?
 breadcrumb_links:
@@ -225,7 +225,7 @@ breadcrumb_links:
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_alternative_explanat_ee4fa0
   title: Alternatives | Can You Train Better Judgment?
-  permalink: /alternatives/
+  permalink: /alternatives-ee4fa0/
   short_title: Alternatives
   heading_title: What Else Could Explain This?
 sibling_links:
@@ -257,7 +257,7 @@ sibling_links:
 up_link:
   basename: improving_your_think_da4710_alternative_explanat_ee4fa0
   title: Alternatives | Can You Train Better Judgment?
-  permalink: /alternatives/
+  permalink: /alternatives-ee4fa0/
   short_title: Alternatives
   heading_title: What Else Could Explain This?
 prev_link:

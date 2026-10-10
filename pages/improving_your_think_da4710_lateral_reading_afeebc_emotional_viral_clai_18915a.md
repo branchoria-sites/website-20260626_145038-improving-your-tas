@@ -205,27 +205,27 @@ ui_strings:
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-26 03:52:50'
 parent_title: How to Check a Claim Online
-parent_permalink: /lateral-reading/
+parent_permalink: /lateral-reading-afeebc/
 parent_nav_short_title: Lateral Reading
 parent_heading_title: How to Check a Claim Online
 ancestor_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_lateral_reading_afeebc
   title: Lateral Reading | Improving Your Think
-  permalink: /lateral-reading/
+  permalink: /lateral-reading-afeebc/
   short_title: Lateral Reading
   heading_title: How to Check a Claim Online
 breadcrumb_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_lateral_reading_afeebc
   title: Lateral Reading | Improving Your Think
-  permalink: /lateral-reading/
+  permalink: /lateral-reading-afeebc/
   short_title: Lateral Reading
   heading_title: How to Check a Claim Online
 sibling_links:
@@ -257,7 +257,7 @@ sibling_links:
 up_link:
   basename: improving_your_think_da4710_lateral_reading_afeebc
   title: Lateral Reading | Improving Your Think
-  permalink: /lateral-reading/
+  permalink: /lateral-reading-afeebc/
   short_title: Lateral Reading
   heading_title: How to Check a Claim Online
 prev_link:
@@ -280,7 +280,7 @@ image: /assets/images/improving_your_think_da4710_lateral_reading_afeebc_emotion
 
 ## Introduction
 
-Emotional viral posts are designed to provoke fast reactions before careful thinking has a chance to catch up. Whether a claim triggers outrage, fear, delight, pride or a strong sense that it confirms what you already believe, that emotional response is often a signal to pause rather than to share. [Lateral reading]({{ 'lateral-reading/' | relative_url }}) helps by shifting attention away from the post itself and towards [independent evidence]({{ 'evidence-routes/' | relative_url }}). Instead of arguing with the content inside the original page or social media thread, you leave it, search for the original source, and see whether credible organisations can independently support the claim. Research on professional fact-checkers consistently shows that this habit of checking across sources is more reliable than trying to judge credibility from a post's appearance alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ed.stanford.edu/news/it-doesn-t-take-long-learn-how-spot-misinformation-online-stanford-study-finds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ed.stanford.edu">[Stanford Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ed.stanford.edu</span><span class="citation-popover-title">it doesn t take long learn how spot misinformation online stanford study finds</span><span class="citation-popover-snippet">Stanford EducationIt doesn&#x27;t take long to learn how to spot misinformation online...19 Apr 2022 — There may be new hope for helping youn...</span></span></span>
+Emotional viral posts are designed to provoke fast reactions before careful thinking has a chance to catch up. Whether a claim triggers outrage, fear, delight, pride or a strong sense that it confirms what you already believe, that emotional response is often a signal to pause rather than to share. [Lateral reading]({{ 'lateral-reading-afeebc/' | relative_url }}) helps by shifting attention away from the post itself and towards [independent evidence]({{ 'evidence-routes/' | relative_url }}). Instead of arguing with the content inside the original page or social media thread, you leave it, search for the original source, and see whether credible organisations can independently support the claim. Research on professional fact-checkers consistently shows that this habit of checking across sources is more reliable than trying to judge credibility from a post's appearance alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ed.stanford.edu/news/it-doesn-t-take-long-learn-how-spot-misinformation-online-stanford-study-finds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ed.stanford.edu">[Stanford Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ed.stanford.edu</span><span class="citation-popover-title">it doesn t take long learn how spot misinformation online stanford study finds</span><span class="citation-popover-snippet">Stanford EducationIt doesn&#x27;t take long to learn how to spot misinformation online...19 Apr 2022 — There may be new hope for helping youn...</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_lateral_reading_afeebc_emotional_viral_clai_18915a-Illustration-1-dark.svg" | relative_url }}" alt="Viral Claims illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_lateral_reading_afeebc_emotional_viral_clai_18915a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_lateral_reading_afeebc_emotional_viral_clai_18915a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">

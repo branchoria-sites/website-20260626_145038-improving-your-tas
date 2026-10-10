@@ -205,27 +205,27 @@ ui_strings:
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-26 03:51:05'
 parent_title: How to Check a Claim Online
-parent_permalink: /lateral-reading/
+parent_permalink: /lateral-reading-afeebc/
 parent_nav_short_title: Lateral Reading
 parent_heading_title: How to Check a Claim Online
 ancestor_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_lateral_reading_afeebc
   title: Lateral Reading | Improving Your Think
-  permalink: /lateral-reading/
+  permalink: /lateral-reading-afeebc/
   short_title: Lateral Reading
   heading_title: How to Check a Claim Online
 breadcrumb_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 - basename: improving_your_think_da4710_lateral_reading_afeebc
   title: Lateral Reading | Improving Your Think
-  permalink: /lateral-reading/
+  permalink: /lateral-reading-afeebc/
   short_title: Lateral Reading
   heading_title: How to Check a Claim Online
 sibling_links:
@@ -257,7 +257,7 @@ sibling_links:
 up_link:
   basename: improving_your_think_da4710_lateral_reading_afeebc
   title: Lateral Reading | Improving Your Think
-  permalink: /lateral-reading/
+  permalink: /lateral-reading-afeebc/
   short_title: Lateral Reading
   heading_title: How to Check a Claim Online
 prev_link:
@@ -274,7 +274,7 @@ image: /assets/images/improving_your_think_da4710_lateral_reading_afeebc_who_is_
 
 ## Introduction
 
-When you land on an unfamiliar website, one of the fastest ways to judge its credibility is not to read more of what it says, but to find out who is behind it. A polished design, impressive logo or authoritative tone tells you very little about whether the organisation is knowledgeable, independent or trustworthy. Instead, spend a few minutes identifying the people, organisation, funding and incentives that sit behind the site before investing attention in its claims. This is a core part of [lateral reading]({{ 'lateral-reading/' | relative_url }}): leaving the page to investigate the source itself rather than accepting its self-description. Research on professional fact-checkers consistently shows that this approach is more effective than evaluating a website only by its appearance or internal content.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scienceofboosting.org/project/lateral-reading/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scienceofboosting.org">[Boosting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scienceofboosting.org</span><span class="citation-popover-title">Boosting Lateral Reading</span><span class="citation-popover-snippet">BoostingLateral Reading - BoostingMay 4, 2023 — 4 May 2023 — Lateral reading is a simple heuristic for online fact-checking: Open multipl...</span><span class="citation-popover-meta">Published: May 4, 2023</span></span></span>
+When you land on an unfamiliar website, one of the fastest ways to judge its credibility is not to read more of what it says, but to find out who is behind it. A polished design, impressive logo or authoritative tone tells you very little about whether the organisation is knowledgeable, independent or trustworthy. Instead, spend a few minutes identifying the people, organisation, funding and incentives that sit behind the site before investing attention in its claims. This is a core part of [lateral reading]({{ 'lateral-reading-afeebc/' | relative_url }}): leaving the page to investigate the source itself rather than accepting its self-description. Research on professional fact-checkers consistently shows that this approach is more effective than evaluating a website only by its appearance or internal content.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scienceofboosting.org/project/lateral-reading/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scienceofboosting.org">[Boosting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scienceofboosting.org</span><span class="citation-popover-title">Boosting Lateral Reading</span><span class="citation-popover-snippet">BoostingLateral Reading - BoostingMay 4, 2023 — 4 May 2023 — Lateral reading is a simple heuristic for online fact-checking: Open multipl...</span><span class="citation-popover-meta">Published: May 4, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/improving_your_think_da4710_lateral_reading_afeebc_who_is_behind_site_cf152b-Illustration-1-dark.svg" | relative_url }}" alt="Who Is Behind illustration 1" data-theme-src-dark="{{ "/assets/images/improving_your_think_da4710_lateral_reading_afeebc_who_is_behind_site_cf152b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/improving_your_think_da4710_lateral_reading_afeebc_who_is_behind_site_cf152b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">

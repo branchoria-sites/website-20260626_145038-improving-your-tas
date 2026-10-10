@@ -51,7 +51,7 @@ show_ads: true
 description: Feedback helps you learn whether you were right for the reasons you thought, not merely lucky.
 hero_summary: Feedback helps you learn whether you were right for the reasons you thought, not merely lucky.
 layout: default
-permalink: /feedback/
+permalink: /feedback-8a35f0/
 sidebar_expanded_urls:
 - /improving-your-think/
 nav_short_title: Feedback
@@ -233,17 +233,17 @@ ui_strings:
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-26 00:30:36'
 parent_title: Sharper Thinking
-parent_permalink: /improving-your-think/
+parent_permalink: /improving-your-thinking-and-analytical/
 parent_nav_short_title: Sharper Thinking
 ancestor_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 breadcrumb_links:
 - basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 sibling_links:
 - basename: improving_your_think_da4710_live_alternatives_e775b1
@@ -283,7 +283,7 @@ sibling_links:
   heading_title: A Safer Way to Make Big Decisions
 - basename: improving_your_think_da4710_domain_knowledge_96a03e
   title: Domain Knowledge | Improving Your Think
-  permalink: /domain-knowledge/
+  permalink: /domain-knowledge-96a03e/
   short_title: Domain Knowledge
   heading_title: Why Smart Thinking Needs Real Knowledge
 - basename: improving_your_think_da4710_evidence_standards_a40c69
@@ -318,7 +318,7 @@ sibling_links:
   heading_title: When to Slow Down Your Thinking
 - basename: improving_your_think_da4710_lateral_reading_afeebc
   title: Lateral Reading | Improving Your Think
-  permalink: /lateral-reading/
+  permalink: /lateral-reading-afeebc/
   short_title: Lateral Reading
   heading_title: How to Check a Claim Online
 - basename: improving_your_think_da4710_metacognition_assump_b47334
@@ -425,7 +425,7 @@ child_links:
 up_link:
   basename: improving_your_think_da4710
   title: Sharper Thinking
-  permalink: /improving-your-think/
+  permalink: /improving-your-thinking-and-analytical/
   short_title: Sharper Thinking
 prev_link:
   basename: improving_your_think_da4710_no_notes_explanation_891faf

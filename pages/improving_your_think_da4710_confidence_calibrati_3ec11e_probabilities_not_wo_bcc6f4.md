@@ -22,7 +22,7 @@ show_ads: true
 description: Numbers make confidence testable in a way that words like likely, doubtful, or probably cannot.
 hero_summary: Numbers make confidence testable in a way that words like likely, doubtful, or probably cannot.
 layout: default
-permalink: /probability-words/
+permalink: /probability-words-bcc6f4/
 sidebar_expanded_urls:
 - /improving-your-thinking-and-analytical/
 - /calibration/
@@ -231,12 +231,12 @@ breadcrumb_links:
 sibling_links:
 - basename: improving_your_think_da4710_confidence_calibrati_3ec11e_brier_scores_persona_4eff62
   title: Brier Scores | Calibration
-  permalink: /brier-scores/
+  permalink: /brier-scores-4eff62/
   short_title: Brier Scores
   heading_title: A Simple Scorecard for Forecasting Skill
 - basename: improving_your_think_da4710_confidence_calibrati_3ec11e_good_judgment_lesson_ea91a6
   title: Good Judgment | Calibration
-  permalink: /good-judgment/
+  permalink: /good-judgment-ea91a6/
   short_title: Good Judgment
   heading_title: What Superforecasting Teaches Everyday Thinkers
 - basename: improving_your_think_da4710_confidence_calibrati_3ec11e_missed_prediction_re_740db4
