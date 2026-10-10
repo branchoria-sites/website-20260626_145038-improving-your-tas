@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-19 01:06:22'
 level: 3
 basename: improving_your_think_da4710_decision_journals_44d9d9_decision_journal_tem_c492f8
 parent_basename: improving_your_think_da4710_decision_journals_44d9d9

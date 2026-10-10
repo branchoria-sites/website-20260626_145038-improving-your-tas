@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:46:11'
 level: 3
 basename: improving_your_think_da4710_decision_stakes_7c2e2a_analysis_paralysis_l_6cea77
 parent_basename: improving_your_think_da4710_decision_stakes_7c2e2a

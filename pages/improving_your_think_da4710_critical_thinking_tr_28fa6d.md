@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:45:59'
 level: 2
 basename: improving_your_think_da4710_critical_thinking_tr_28fa6d
 parent_basename: improving_your_think_da4710

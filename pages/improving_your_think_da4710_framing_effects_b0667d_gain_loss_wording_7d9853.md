@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-19 01:06:22'
 level: 3
 basename: improving_your_think_da4710_framing_effects_b0667d_gain_loss_wording_7d9853
 parent_basename: improving_your_think_da4710_framing_effects_b0667d

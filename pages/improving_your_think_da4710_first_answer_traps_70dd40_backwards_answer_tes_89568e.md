@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:46:11'
 level: 3
 basename: improving_your_think_da4710_first_answer_traps_70dd40_backwards_answer_tes_89568e
 parent_basename: improving_your_think_da4710_first_answer_traps_70dd40

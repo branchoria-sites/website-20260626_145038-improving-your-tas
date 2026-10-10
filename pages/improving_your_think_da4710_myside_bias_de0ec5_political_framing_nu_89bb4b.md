@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:45:59'
 level: 3
 basename: improving_your_think_da4710_myside_bias_de0ec5_political_framing_nu_89bb4b
 parent_basename: improving_your_think_da4710_myside_bias_de0ec5

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:46:11'
 level: 3
 basename: improving_your_think_da4710_confirmation_bias_dee5c3_job_regret_question_f0d2d2
 parent_basename: improving_your_think_da4710_confirmation_bias_dee5c3

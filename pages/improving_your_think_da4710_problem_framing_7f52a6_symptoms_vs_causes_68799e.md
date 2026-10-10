@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:46:11'
 level: 3
 basename: improving_your_think_da4710_problem_framing_7f52a6_symptoms_vs_causes_68799e
 parent_basename: improving_your_think_da4710_problem_framing_7f52a6

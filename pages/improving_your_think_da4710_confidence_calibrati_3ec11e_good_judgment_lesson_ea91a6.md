@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 14:25:05'
 level: 3
 basename: improving_your_think_da4710_confidence_calibrati_3ec11e_good_judgment_lesson_ea91a6
 parent_basename: improving_your_think_da4710_confidence_calibrati_3ec11e
