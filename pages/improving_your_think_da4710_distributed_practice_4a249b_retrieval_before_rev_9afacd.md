@@ -295,7 +295,7 @@ Rereading mainly supports recognition. When the page is in front of you, familia
 
 Starting with retrieval changes the mental task completely. Instead of recognising information that is already visible, the learner must reconstruct it. That reconstruction strengthens the routes needed to access knowledge later in real situations, where answers are rarely presented alongside the question.
 
-Classic experiments by Henry L. Roediger III and Jeffrey D. Karpicke demonstrated this contrast. Learners who repeatedly retrieved studied material often remembered substantially more after a delay than learners who spent the same time repeatedly studying it, despite feeling less confident during practice. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Roediger-Karpicke-2006_PPS.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychnet.wustl.edu">[PsychNet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychnet.wustl.edu</span><span class="citation-popover-title">Roediger Karpicke 2006 PPS</span><span class="citation-popover-snippet">The Power of Testing Memoryby HL Roediger III · Cited by 3273 — Expanding retrieval practice is thought to be an optimal schedule...</span></span></span>
+Classic experiments by Henry L. Roediger III and Jeffrey D. Karpicke demonstrated this contrast. Learners who repeatedly retrieved studied material often remembered substantially more after a delay than learners who spent the same time repeatedly studying it, despite feeling less confident during practice. <span class="citation-link-wrap">[PsychNet]<span class="citation-popover" role="note"><span class="citation-popover-source">psychnet.wustl.edu</span><span class="citation-popover-title">Roediger Karpicke 2006 PPS</span><span class="citation-popover-snippet">The Power of Testing Memoryby HL Roediger III · Cited by 3273 — Expanding retrieval practice is thought to be an optimal schedule...</span></span></span>
 
 ## Why review should start with recall
 
@@ -807,7 +807,7 @@ By treating every spaced review as an opportunity to retrieve first and review s
 5. <a id="endnote-5"></a>
    Source: psychnet.wustl.edu  
    Title: Roediger Karpicke 2006 PPS  
-   Link: <a href="https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Roediger-Karpicke-2006_PPS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Roediger-Karpicke-2006_PPS.pdf</a>  
+   Link: https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Roediger-Karpicke-2006_PPS.pdf  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Power of Testing Memoryby HL Roediger III · Cited by 3273 — Expanding retrieval practice is thought to be an optimal schedule...</p></details>
 
 6. <a id="endnote-6"></a>

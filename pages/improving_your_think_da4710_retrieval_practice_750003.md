@@ -1116,7 +1116,7 @@ Retrieval practice therefore earns its place in improving analytical skills beca
 27.<a id="endnote-27"></a>
    Source: psychnet.wustl.edu  
    Title: Roediger Karpicke 2006 PPS  
-   Link:<a href="https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Roediger-Karpicke-2006_PPS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Roediger-Karpicke-2006_PPS.pdf</a>  
+   Link:https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Roediger-Karpicke-2006_PPS.pdf  
 
 28.<a id="endnote-28"></a>
    Source: growthengineering.co.uk  

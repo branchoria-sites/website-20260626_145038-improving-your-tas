@@ -1009,7 +1009,7 @@ That rule is modest enough to use with books, courses, professional training, po
 6. <a id="endnote-6"></a>
    Source: psychnet.wustl.edu  
    Title: Roediger Karpicke 2006 PPS  
-   Link: <a href="https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Roediger-Karpicke-2006_PPS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Roediger-Karpicke-2006_PPS.pdf</a>  
+   Link: https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Roediger-Karpicke-2006_PPS.pdf  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(2006). Test enhanced learning: Taking memory tests improves long-term retention. Psychological. Science, 17, 249–255...</p></details>
 
 7. <a id="endnote-7"></a>

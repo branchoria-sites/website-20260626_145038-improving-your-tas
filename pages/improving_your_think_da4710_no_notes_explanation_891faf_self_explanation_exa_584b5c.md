@@ -863,7 +863,7 @@ These brief prompts naturally transform explanation from recollection into analy
 4. <a id="endnote-4"></a>
    Source: psychnet.wustl.edu  
    Title: Roediger Karpicke 2006 PPS  
-   Link: <a href="https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Roediger-Karpicke-2006_PPS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Roediger-Karpicke-2006_PPS.pdf</a>  
+   Link: https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Roediger-Karpicke-2006_PPS.pdf  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Power of Testing Memoryby HL Roediger III · Cited by 3306 — In this article, we review research from both experimental and educationa...</p></details>
 
 5. <a id="endnote-5"></a>
