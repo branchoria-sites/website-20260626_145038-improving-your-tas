@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-19 01:06:22'
 level: 3
 basename: improving_your_think_da4710_project_failure_syst_695c51_optimistic_cost_esti_49a0aa
 parent_basename: improving_your_think_da4710_project_failure_syst_695c51

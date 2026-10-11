@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-19 01:06:22'
 level: 3
 basename: improving_your_think_da4710_job_offer_tradeoffs_769c53_total_compensation_v_d1f34b
 parent_basename: improving_your_think_da4710_job_offer_tradeoffs_769c53

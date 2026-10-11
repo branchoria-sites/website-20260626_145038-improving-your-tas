@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 14:25:05'
 level: 3
 basename: improving_your_think_da4710_first_answer_traps_70dd40_fluency_false_confid_d29b93
 parent_basename: improving_your_think_da4710_first_answer_traps_70dd40

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:45:59'
 level: 3
 basename: improving_your_think_da4710_tradeoff_thinking_70bcb4_choice_overload_trad_c5900b
 parent_basename: improving_your_think_da4710_tradeoff_thinking_70bcb4

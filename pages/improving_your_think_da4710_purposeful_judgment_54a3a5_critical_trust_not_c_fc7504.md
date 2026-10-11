@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:46:11'
 level: 3
 basename: improving_your_think_da4710_purposeful_judgment_54a3a5_critical_trust_not_c_fc7504
 parent_basename: improving_your_think_da4710_purposeful_judgment_54a3a5

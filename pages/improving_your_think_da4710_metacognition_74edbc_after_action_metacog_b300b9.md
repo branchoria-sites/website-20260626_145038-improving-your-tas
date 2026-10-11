@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:46:11'
 level: 3
 basename: improving_your_think_da4710_metacognition_74edbc_after_action_metacog_b300b9
 parent_basename: improving_your_think_da4710_metacognition_74edbc

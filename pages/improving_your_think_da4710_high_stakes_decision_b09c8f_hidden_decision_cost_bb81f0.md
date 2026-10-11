@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-19 01:06:22'
 level: 3
 basename: improving_your_think_da4710_high_stakes_decision_b09c8f_hidden_decision_cost_bb81f0
 parent_basename: improving_your_think_da4710_high_stakes_decision_b09c8f

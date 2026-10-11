@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:45:59'
 level: 3
 basename: improving_your_think_da4710_tradeoff_thinking_70bcb4_decision_fatigue_cho_2f4f5d
 parent_basename: improving_your_think_da4710_tradeoff_thinking_70bcb4
