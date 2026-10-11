@@ -795,7 +795,6 @@ For someone trying to improve analytical thinking, that combination is the centr
 1.<a id="endnote-1"></a>
    Source: psychnet.wustl.edu  
    Title: Roediger Karpicke 2006 PPS  
-   Link:https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Roediger-Karpicke-2006_PPS.pdf  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>The Power of Testing Memoryby HL Roediger III · Cited by 3306 — In this article, we review research from both experimental and educationa...</p></details>
 
 2.<a id="endnote-2"></a>

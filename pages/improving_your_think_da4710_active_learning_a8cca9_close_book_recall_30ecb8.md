@@ -800,7 +800,6 @@ Whether analysing evidence, solving a technical problem or explaining an argumen
 1.<a id="endnote-1"></a>
    Source: psychnet.wustl.edu  
    Title: Roediger Karpicke 2006 PPS  
-   Link:https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Roediger-Karpicke-2006_PPS.pdf  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>The Power of Testing Memoryby HL Roediger III · Cited by 3302 — The experiment involves three phases— study, retrieval practice, and fina...</p></details>
 
 2.<a id="endnote-2"></a>

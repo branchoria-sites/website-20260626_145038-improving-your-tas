@@ -832,7 +832,6 @@ Over time, these small retrieval moments help shift important concepts from bein
 1. <a id="endnote-1"></a>
    Source: psychnet.wustl.edu  
    Title: Roediger Karpicke 2006 PPS  
-   Link: https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Roediger-Karpicke-2006_PPS.pdf  
 
 2. <a id="endnote-2"></a>
    Source: files.eric.ed.gov  
