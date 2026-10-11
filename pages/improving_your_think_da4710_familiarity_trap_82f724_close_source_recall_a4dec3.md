@@ -793,7 +793,7 @@ Over time, these repeated reality checks improve not only memory but also judgem
 
 4. <a id="endnote-4"></a>
    Source: psychnet.wustl.edu  
-   Link: <a href="https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Roediger-Karpicke-2006_PPS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Roediger-Karpicke-2006_PPS.pdf</a>  
+   Link: https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Roediger-Karpicke-2006_PPS.pdf  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Power of Testing Memoryby HL Roediger III · Cited by 3306 — As noted, we (Karpicke &amp; Roediger, 2006b) also measured performan...</p></details>
 
 5. <a id="endnote-5"></a>
