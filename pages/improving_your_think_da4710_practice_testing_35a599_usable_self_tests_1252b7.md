@@ -849,7 +849,6 @@ A single concept tested this way develops a richer mental representation than te
 4.<a id="endnote-4"></a>
    Source: psychnet.wustl.edu  
    Title: Roediger Karpicke 2006 PPS  
-   Link:https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Roediger-Karpicke-2006_PPS.pdf  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>The Power of Testing Memoryby HL Roediger III · Cited by 3306 — The experiment involves three phases— study, retrieval practice...</p></details>
 
 5.<a id="endnote-5"></a>

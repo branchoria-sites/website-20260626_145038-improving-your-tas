@@ -807,7 +807,6 @@ By treating every spaced review as an opportunity to retrieve first and review s
 5. <a id="endnote-5"></a>
    Source: psychnet.wustl.edu  
    Title: Roediger Karpicke 2006 PPS  
-   Link: https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Roediger-Karpicke-2006_PPS.pdf  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Power of Testing Memoryby HL Roediger III · Cited by 3273 — Expanding retrieval practice is thought to be an optimal schedule...</p></details>
 
 6. <a id="endnote-6"></a>

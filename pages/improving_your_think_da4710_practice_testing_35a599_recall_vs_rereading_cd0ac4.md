@@ -798,7 +798,6 @@ That distinction explains why rereading feels smoother while recall feels harder
 4. <a id="endnote-4"></a>
    Source: psychnet.wustl.edu  
    Title: Roediger Karpicke 2006 PPS  
-   Link: https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Roediger-Karpicke-2006_PPS.pdf  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Power of Testing Memoryby HL Roediger III · Cited by 3306 — Agarwal, P.K., Karpicke, J.D., Kang, S.H.K., Roediger, H.L., III, &amp;...</p></details>
 
 5. <a id="endnote-5"></a>
