@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /improving-your-think/
 - /fluency-trap/
 nav_short_title: Transfer Tests
-title: Can the Idea Survive a New Example?
+title: "Can the Idea Survive a New Example? (When Familiarity Feels Like Understanding)"
 title_full: Can the Idea Survive a New Example?
 display_title_short: Transfer Tests
 display_title: Transfer Tests

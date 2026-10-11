@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /improving-your-thinking-and-analytical/
 - /active-learning/
 nav_short_title: Recall
-title: Can You Explain It Without Looking?
+title: "Can You Explain It Without Looking? (Why Rereading Is Not Enough)"
 title_full: Can You Explain It Without Looking?
 display_title_short: Recall
 display_title: Recall

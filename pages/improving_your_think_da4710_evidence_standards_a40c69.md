@@ -56,7 +56,7 @@ permalink: /evidence-tests/
 sidebar_expanded_urls:
 - /improving-your-think/
 nav_short_title: Evidence Tests
-title: What Evidence Would Change Your Mind?
+title: "What Evidence Would Change Your Mind? (evidence tests)"
 title_full: What Evidence Would Change Your Mind?
 display_title_short: Evidence Tests
 display_title: Evidence Tests

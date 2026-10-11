@@ -56,7 +56,7 @@ permalink: /change-mind/
 sidebar_expanded_urls:
 - /improving-your-thinking-and-analytical/
 nav_short_title: Change Mind
-title: What Evidence Would Change Your Mind?
+title: "What Evidence Would Change Your Mind? (change mind)"
 title_full: What Evidence Would Change Your Mind?
 display_title_short: Change Mind
 display_title: Change Mind

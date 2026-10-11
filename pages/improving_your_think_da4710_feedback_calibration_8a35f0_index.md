@@ -1,12 +1,12 @@
 ---
 last_modified_at: '2026-07-19 01:06:22'
-title: Feedback Sub-Topic Index
+title: "Feedback Sub-Topic Index (/improving-your-think-da4710-feedback/)"
 title_full: Feedback Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /improving-your-think-da4710-feedback/
-description: Focused pages that expand on Feedback.
+description: "Focused pages that expand on Feedback (/improving-your-think-da4710-feedback/)."
 date: '2026'
 layout: default
 parent_basename: improving_your_think_da4710_feedback_calibration_8a35f0
