@@ -1,12 +1,12 @@
 ---
 last_modified_at: '2026-07-19 01:06:22'
-title: Alternatives Sub-Topic Index
+title: "Alternatives Sub-Topic Index (improving your think live)"
 title_full: Alternatives Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /improving-your-think-da4710-live/
-description: Focused pages that expand on Alternatives.
+description: "Focused pages that expand on Alternatives (improving your think live)."
 date: '2026'
 layout: default
 parent_basename: improving_your_think_da4710_live_alternatives_e775b1

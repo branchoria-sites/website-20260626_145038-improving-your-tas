@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /improving-your-thinking-and-analytical/
 - /active-learning/
 nav_short_title: Transfer
-title: Can the Idea Survive a New Example?
+title: "Can the Idea Survive a New Example? (Why Rereading Is Not Enough)"
 title_full: Can the Idea Survive a New Example?
 display_title_short: Transfer
 display_title: Transfer

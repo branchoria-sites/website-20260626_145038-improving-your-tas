@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /improving-your-thinking-and-analytical/
 - /retrieval/
 nav_short_title: Closed Book
-title: Can You Explain It Without Looking?
+title: "Can You Explain It Without Looking? (Testing Yourself Can Make You A Better Thinker When The “test”)"
 title_full: Can You Explain It Without Looking?
 display_title_short: Closed Book
 display_title: Closed Book

@@ -1,12 +1,12 @@
 ---
 last_modified_at: '2026-07-19 01:06:22'
-title: Metacognition Sub-Topic Index
+title: "Metacognition Sub-Topic Index (b47334)"
 title_full: Metacognition Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /improving-your-think-da4710-metacognition-b47334/
-description: Focused pages that expand on Metacognition.
+description: "Focused pages that expand on Metacognition (b47334)."
 date: '2026'
 layout: default
 parent_basename: improving_your_think_da4710_metacognition_assump_b47334
